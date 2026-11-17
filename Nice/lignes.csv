@@ -1,0 +1,104 @@
+id,numero,nom,description,type,couleur,couleur_texte,boucle
+05,05,Rimiez Saint-George/Rimiez Les Sources - Deloye/Dubouchage,,normale,3065AF,FFFFFF,0
+06,06,Magnan - La Madeleine,,normale,2FA948,FFFFFF,0
+07,07,Port Lympia - Ariane / Général Saramito,,normale,741D5B,FFFFFF,0
+08,8+,Saint-Sylvestre - Palais des Expositions,,normale,FEC703,000000,0
+09,09,Grand Arénas - Le Gué/Shopping promenade - Halte Routière de l'Ara,,normale,EF7D00,FFFFFF,0
+10,10,Croix de Berra - Magnan,,normale,31A948,FFFFFF,0
+11,11,Square Daudet - Vallon des Fleurs - Bella Vista,,normale,9C3F8F,FFFFFF,0
+12,12+,Centre Commercial CAP3000 - Hôpital Pasteur,,normale,DE1381,FFFFFF,0
+14,14,Vauban - Les Chênes Verts,,normale,F6A42F,FFFFFF,0
+15,15,Port de Saint-Jean - Lycée Masséna,,normale,15B1AF,FFFFFF,0
+16,16,Chénier - Col de Bast - Collège Matisse,,normale,35BEEB,FFFFFF,0
+17,17,STAPS / Arboras - Ferber,,normale,418ABF,FFFFFF,0
+18,18,Saint Sylvestre - Riquier,,normale,9778B3,FFFFFF,0
+19,19,Defly/Klein - Vauban - Saint-André-de-la-Roche / Tourette-Levens / Levens,,normale,9C3F8F,FFFFFF,0
+20,20,Giono / Les Pugets - Grand Arénas,,normale,F6A320,FFFFFF,0
+21,21,Le Gué/Shopping Promenade - Grand Arénas,,normale,0CB1B0,FFFFFF,0
+22,22,Carros Pagnol - Le Peyron - CADAM / Centre Administratif,,normale,3D8AC1,FFFFFF,0
+30,30,Vauban (par boulevard Mont-Boron) - Vauban (par boulevard Carnot),,normale,3D8AC1,FFFFFF,1
+31,31,Pont du Génie - Madeleine Supérieur - La Madeleine - Hameaux de la Costière,,normale,52AE32,FFFFFF,0
+32,32,Caucade / Place Sainte-Marguerite - Ferber,,normale,F6A320,FFFFFF,0
+33,33,Mont Boron - Collège Matisse,,normale,52AE32,FFFFFF,0
+34,34,Le Centenaire - Géronima - Vallon Barla - Collège de l'Archet,,normale,9D3E90,FFFFFF,0
+35,35,Cernuschi - Vauban,,normale,B57F2D,FFFFFF,0
+36,36,Las Planas / Sappia - Rimiez Saint-George,,normale,52AE32,FFFFFF,0
+37,37,Résidence Universitaire Montebello - Riquier,,normale,35BEEB,FFFFFF,0
+38,38,Trésorerie - Résidence des Baumettes,,normale,F6A320,FFFFFF,0
+39,39,Complexe Sportif de la Lauvette - Pont Michel,,normale,9D3E90,FFFFFF,0
+40,40,Cimiez / Hôpital - Pasteur / Gassin,,normale,418ABF,FFFFFF,0
+41,41,Collège A. Malraux/Vallon des Vaux - Parc des Sports,,normale,418ABF,FFFFFF,0
+42,42,Collège Pagnol - Le Riou,,normale,936037,FFFFFF,0
+43,43,Collège de l'Archet - St-Isidore/Ginestière - Tennis de Crémat - Lingostière Gare,,normale,5B7BBC,FFFFFF,0
+44,44,Square Bourdet par Le Château,,normale,FFFFFF,000000,1
+47,47,Pôle d'Echanges Pierre Servella - Halte Routière de l'Ara,,normale,35BEEB,FFFFFF,0
+49,49,La Gaude Stade - Le Peyron - Gare de Cagnes-sur-Mer,,normale,D16AA4,FFFFFF,0
+50,50,CADAM / Centre Administratif - Ferber,,normale,95C11F,FFFFFF,0
+51,51,Ferber (par l'avenue de Fabron puis la Corniche Fleurie) - Ferber (par la Corniche Fleurie puis l’avenue de Fabron),,normale,008D3F,FFFFFF,1
+52,52,Maison Médicale/La Manda - Centre Commercial  Saint-Isidore,,normale,B57F2D,FFFFFF,0
+54,54,Saint-Jeannet - Centre Commercial CAP3000 - Grand Arénas,,normale,F5A32F,FFFFFF,0
+55,55,La Pompe - Ecole Manon des Sources - Centre Commercial CAP 3000,,normale,D069A3,FFFFFF,0
+57,57,Las Planas / Sappia - Riquier,,normale,428ABF,FFFFFF,0
+58,58,Pont des Pugets - Square Bourdet (par Collège A. Malraux),,normale,008D3F,FFFFFF,0
+59,59,Plan du Var - CADAM / Centre Administratif,,normale,5BC5F2,FFFFFF,0
+60,60,Croix de Berra - Magnan,,normale,F6A421,FFFFFF,0
+61,61,Magnan - Ferber,https://ftp.lignesdazur.com/ligne_60.pdf,normale,9677B4,000000,0
+62,62,Magnan - Fort Casal Colomars - Aspremont Village,,normale,35BEEB,FFFFFF,0
+63,63,Cernuschi - Borriglione (par Saint-Pancrace),,normale,D069A3,FFFFFF,0
+64,64,Saint-Pancrace - Urfé,,normale,35BEEB,FFFFFF,0
+66,66,Saint-Sylvestre - Saint-Pancrace,,normale,B77F26,FFFFFF,0
+67,67,Langevin - La Fontonne / Le Broc,,normale,52AE32,FFFFFF,0
+68,68,17ème Ter - Rue 18bis (par Colomars La Manda) - Médiathèque,,normale,3C8AC3,FFFFFF,0
+69,69,Langevin - Pagnol - Lei Feirrièro - Centre Commercial Lingostière,,normale,F5D706,000000,0
+70,70,Urfé - CPAM Entrée,,normale,B77F26,FFFFFF,0
+71,71,Corniche Bellevue - Gare Thiers,,normale,418ABF,FFFFFF,0
+72,72,Righi - PN / Halte Gambetta,,normale,3AAA35,FFFFFF,0
+73,73,Centre Commercial CAP 3000 - Médiathèque (par Pont des Pugets ou Chemin de la Digue),,normale,5BC5F2,FFFFFF,0
+75,75,Hameaux de la Costière - Gare Thiers,,normale,27A737,FFFFFF,0
+75D,75D,Magnan (par Madeleine) - Magnan (par St-Pierre-de-Féric),,normale,BCD5F0,000000,1
+76,76,Aspremont village/Saint Blaise Village/ Castagniers Village - Place Fontaine du Temple,,normale,9D3E90,FFFFFF,0
+77,77,Lou Camp - Langevin,,normale,51B15F,FFFFFF,0
+80,80,Riquier - Vauban - Le Gentilhomme - Rochambeau,,normale,00B1EB,FFFFFF,0
+81,81,Ariane / Général Saramito - Pont de Peille/La Condamine,,normale,F7D800,1D1D1B,0
+82,82,Plateau de la Justice - Vauban,,normale,825637,FFFFFF,0
+83,83,Plateau de la Justice - Baie des Fourmis,,normale,52AE32,FFFFFF,0
+84,84,Baie des Fourmis - Riquier,,normale,15B1AF,FFFFFF,0
+85,85,Cité du Soleil - Bertagnia - Chênes Verts Delahaye,,normale,009640,FFFFFF,0
+86,86,La Plana Matisse - Collège de la Bourgade,,normale,35BEEB,FFFFFF,0
+88,88,La Piscine - Marojade - Place Jules Musso - Vauban,,normale,D16AA4,FFFFFF,0
+89,89,Les Chênes Verts - La Colle / Le Château,,normale,3D8AC1,FFFFFF,0
+90,90,La Bolline - Les Arboras / Université,,normale,81563A,FFFFFF,0
+91,91,Auron - Les Arboras / Université,,normale,81563A,FFFFFF,0
+92,92,Isola 2000 - Les Arboras / Université,,normale,81563A,FFFFFF,0
+93,93,Belvédère Place Pavy - Lantosque,,normale,825637,FFFFFF,0
+97,97,Tzarewitch / Gambetta,,normale,D06985,000000,1
+98,98,Gustavin / Parc Vigier par Quai - Gustavin / Parc Vigier par Port Lympia,,normale,D069A3,000000,1
+99,99,Jean Medecin - Jean Médecin,,normale,D069A4,000000,1
+742,742,Collège Jean Franco - Vauban,,normale,0067B2,FFFFFF,0
+743,743,Lycée de la Montagne - Vauban,,normale,27A737,FFFFFF,0
+744,744,Collège Jean Salines - Vauban,,normale,0067B2,FFFFFF,0
+745,745,Vauban - St Martin Vésubie,,normale,009640,FFFFFF,0
+AUR3,AUR3,Auron - St Dalmas,,normale,4FB054,FFFFFF,0
+C,C,Carros Pagnol - L'Emigra - Le Peyron - Lycée Mélinée & Missak Manouchian - Grinda,,normale,5B7BBC,FFFFFF,0
+C32,C32,Saint-Sauveur-sur-Tinée - Les Buisses,,normale,A86434,000000,0
+C34,C34,Saint Etienne de Tinée - Saint-Dalmas,,normale,A86434,000000,0
+C36,C36,Pont de Clans - Bairols,,normale,A86434,FFFFFF,0
+C40,C40,Lingostière - La Tour sur Tinée,,normale,944127,FFFFFF,0
+C42,C42,Pont de clans - Clans,,normale,944127,FFFFFF,0
+C43,C43,Lingostière - Utelle,,normale,944127,FFFFFF,0
+C44,C44,Roquebilière - Utelle,,normale,944127,000000,0
+C45,C45,Roquebilière - Rimplas,,normale,944127,FFFFFF,0
+CE,CE,CADAM EST  centre administratif - Chênes Verts,,normale,265AA6,FFFFFF,0
+CN,CN,Comte de Falicon - CADAM Centre Administratif / Les Arboras,,normale,0000E1,FFFFFF,0
+Exp2,Exp2,Pôle d’Echanges Pierre Servella - Pont Michel (par Rue 18bis),,normale,98C035,FFFFFF,0
+Exp3,Exp3,Halte Routière de l’Ara - Masséna,,normale,98C035,FFFFFF,0
+Exp4,Exp4,17ème  Ter - CADAM/Centre Administratif - Grand Arénas,,normale,98C132,FFFFFF,0
+FOOT,FOOT,Centre Commercial / Saint-Isidore - Plan du Var,,normale,36BEE9,FFFFFF,0
+K,K,Saint Blaise Village - Castagniers Les Moulins,,normale,008D3F,FFFFFF,0
+LIso,LIso,Isola 2000 - Isola Village,,normale,52AE32,FFFFFF,0
+NAur,NAur,Navette interne Auron,,normale,52AE32,FFFFFF,1
+NIso,NIso,Navette interne Isola2000  / Rond Point,,normale,52AE32,FFFFFF,1
+NVN1,NVN1,Camping - Le Taude (par Halte Routière de l'Ara),,normale,D16AA4,FFFFFF,0
+NVN2,NVN2,Square Maliver - Square Maliver (par Ecole Freinet),,normale,B77F26,FFFFFF,1
+NVN3,NVN3,Square Maliver,,normale,9D3E90,FFFFFF,1
+V,V,Lycée Mélinée & Missak Manouchian - Vittone,,normale,164194,FFFFFF,0

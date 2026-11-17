@@ -1,0 +1,4407 @@
+ligne,sens,destination,part,longueur_m,position,arret
+05,0,Rimiez les Sources,51,5801,1,place_096822
+05,0,Rimiez les Sources,51,5801,2,place_097207
+05,0,Rimiez les Sources,51,5801,3,place_096619
+05,0,Rimiez les Sources,51,5801,4,place_100055
+05,0,Rimiez les Sources,51,5801,5,place_096818
+05,0,Rimiez les Sources,51,5801,6,place_096715
+05,0,Rimiez les Sources,51,5801,7,place_096826
+05,0,Rimiez les Sources,51,5801,8,place_097391
+05,0,Rimiez les Sources,51,5801,9,place_097246
+05,0,Rimiez les Sources,51,5801,10,place_097393
+05,0,Rimiez les Sources,51,5801,11,place_097087
+05,0,Rimiez les Sources,51,5801,12,place_096858
+05,0,Rimiez les Sources,51,5801,13,place_097349
+05,0,Rimiez les Sources,51,5801,14,place_VICTO
+05,0,Rimiez les Sources,51,5801,15,place_096635
+05,0,Rimiez les Sources,51,5801,16,place_096654
+05,0,Rimiez les Sources,51,5801,17,place_096788
+05,0,Rimiez les Sources,51,5801,18,place_096649
+05,0,Rimiez les Sources,51,5801,19,place_097441
+05,0,Rimiez les Sources,51,5801,20,place_RECTO
+05,0,Rimiez les Sources,51,5801,21,place_096803
+05,0,Rimiez les Sources,51,5801,22,place_097382
+05,0,Rimiez les Sources,51,5801,23,place_097017
+05,0,Rimiez les Sources,51,5801,24,place_096969
+05,0,Rimiez les Sources,51,5801,25,place_097091
+05,0,Rimiez les Sources,51,5801,26,place_097145
+05,0,Rimiez les Sources,51,5801,27,place_097381
+05,1,Deloye / Dubouchage,52,5038,1,place_097381
+05,1,Deloye / Dubouchage,52,5038,2,place_097145
+05,1,Deloye / Dubouchage,52,5038,3,place_097309
+05,1,Deloye / Dubouchage,52,5038,4,place_097091
+05,1,Deloye / Dubouchage,52,5038,5,place_096969
+05,1,Deloye / Dubouchage,52,5038,6,place_097017
+05,1,Deloye / Dubouchage,52,5038,7,place_097382
+05,1,Deloye / Dubouchage,52,5038,8,place_096803
+05,1,Deloye / Dubouchage,52,5038,9,place_RECTO
+05,1,Deloye / Dubouchage,52,5038,10,place_097441
+05,1,Deloye / Dubouchage,52,5038,11,place_096649
+05,1,Deloye / Dubouchage,52,5038,12,place_096788
+05,1,Deloye / Dubouchage,52,5038,13,place_096654
+05,1,Deloye / Dubouchage,52,5038,14,place_097344
+05,1,Deloye / Dubouchage,52,5038,15,place_096635
+05,1,Deloye / Dubouchage,52,5038,16,place_VICTO
+05,1,Deloye / Dubouchage,52,5038,17,place_097349
+05,1,Deloye / Dubouchage,52,5038,18,place_096858
+05,1,Deloye / Dubouchage,52,5038,19,place_097087
+05,1,Deloye / Dubouchage,52,5038,20,place_097393
+05,1,Deloye / Dubouchage,52,5038,21,place_097246
+05,1,Deloye / Dubouchage,52,5038,22,place_097391
+05,1,Deloye / Dubouchage,52,5038,23,place_096826
+05,1,Deloye / Dubouchage,52,5038,24,place_DUBOU
+05,1,Deloye / Dubouchage,52,5038,25,place_096822
+06,0,Magnan,100,2192,1,place_097001
+06,0,Magnan,100,2192,2,place_096684
+06,0,Magnan,100,2192,3,place_096698
+06,0,Magnan,100,2192,4,place_097113
+06,0,Magnan,100,2192,5,place_097461
+06,0,Magnan,100,2192,6,place_096685
+06,0,Magnan,100,2192,7,place_097242
+06,0,Magnan,100,2192,8,place_096740
+06,0,Magnan,100,2192,9,place_096628
+06,0,Magnan,100,2192,10,place_CARLM
+06,0,Magnan,100,2192,11,place_097192
+06,1,La Madeleine,100,2192,1,place_097192
+06,1,La Madeleine,100,2192,2,place_CARLM
+06,1,La Madeleine,100,2192,3,place_096628
+06,1,La Madeleine,100,2192,4,place_096740
+06,1,La Madeleine,100,2192,5,place_097242
+06,1,La Madeleine,100,2192,6,place_096685
+06,1,La Madeleine,100,2192,7,place_097461
+06,1,La Madeleine,100,2192,8,place_097113
+06,1,La Madeleine,100,2192,9,place_096698
+06,1,La Madeleine,100,2192,10,place_096684
+06,1,La Madeleine,100,2192,11,place_097001
+07,0,Port Lympia,98,6693,1,place_096636
+07,0,Port Lympia,98,6693,2,place_096852
+07,0,Port Lympia,98,6693,3,place_097315
+07,0,Port Lympia,98,6693,4,place_097211
+07,0,Port Lympia,98,6693,5,place_096759
+07,0,Port Lympia,98,6693,6,place_097416
+07,0,Port Lympia,98,6693,7,place_097179
+07,0,Port Lympia,98,6693,8,place_097024
+07,0,Port Lympia,98,6693,9,place_097434
+07,0,Port Lympia,98,6693,10,place_097424
+07,0,Port Lympia,98,6693,11,place_096966
+07,0,Port Lympia,98,6693,12,place_097186
+07,0,Port Lympia,98,6693,13,place_096786
+07,0,Port Lympia,98,6693,14,place_100428
+07,0,Port Lympia,98,6693,15,place_100011
+07,0,Port Lympia,98,6693,16,place_096971
+07,0,Port Lympia,98,6693,17,place_097465
+07,0,Port Lympia,98,6693,18,place_099488
+07,0,Port Lympia,98,6693,19,place_096918
+07,0,Port Lympia,98,6693,20,place_099395
+07,0,Port Lympia,98,6693,21,place_097383
+07,0,Port Lympia,98,6693,22,place_096819
+07,0,Port Lympia,98,6693,23,place_BARLA
+07,0,Port Lympia,98,6693,24,place_PORLYM
+07,1,Ariane / Général Saramito,97,7251,1,place_PORLYM
+07,1,Ariane / Général Saramito,97,7251,2,place_097212
+07,1,Ariane / Général Saramito,97,7251,3,place_BARLAR
+07,1,Ariane / Général Saramito,97,7251,4,place_DELFIR
+07,1,Ariane / Général Saramito,97,7251,5,place_097383
+07,1,Ariane / Général Saramito,97,7251,6,place_099395
+07,1,Ariane / Général Saramito,97,7251,7,place_096918
+07,1,Ariane / Général Saramito,97,7251,8,place_099488
+07,1,Ariane / Général Saramito,97,7251,9,place_096641
+07,1,Ariane / Général Saramito,97,7251,10,place_ROQUE
+07,1,Ariane / Général Saramito,97,7251,11,q:2766
+07,1,Ariane / Général Saramito,97,7251,12,place_100011
+07,1,Ariane / Général Saramito,97,7251,13,place_LYAUTE
+07,1,Ariane / Général Saramito,97,7251,14,place_100428
+07,1,Ariane / Général Saramito,97,7251,15,place_097196
+07,1,Ariane / Général Saramito,97,7251,16,place_097532
+07,1,Ariane / Général Saramito,97,7251,17,place_097186
+07,1,Ariane / Général Saramito,97,7251,18,place_096966
+07,1,Ariane / Général Saramito,97,7251,19,place_097424
+07,1,Ariane / Général Saramito,97,7251,20,place_097434
+07,1,Ariane / Général Saramito,97,7251,21,place_GARIG
+07,1,Ariane / Général Saramito,97,7251,22,place_097024
+07,1,Ariane / Général Saramito,97,7251,23,place_097179
+07,1,Ariane / Général Saramito,97,7251,24,place_097416
+07,1,Ariane / Général Saramito,97,7251,25,place_097328
+07,1,Ariane / Général Saramito,97,7251,26,place_097059
+07,1,Ariane / Général Saramito,97,7251,27,place_097126
+07,1,Ariane / Général Saramito,97,7251,28,place_097168
+07,1,Ariane / Général Saramito,97,7251,29,place_096636
+08,0,SAINT-SYLVESTRE,100,6206,1,place_PEXPO
+08,0,SAINT-SYLVESTRE,100,6206,2,place_097534
+08,0,SAINT-SYLVESTRE,100,6206,3,place_097326
+08,0,SAINT-SYLVESTRE,100,6206,4,place_097183
+08,0,SAINT-SYLVESTRE,100,6206,5,place_MASSE
+08,0,SAINT-SYLVESTRE,100,6206,6,place_096617
+08,0,SAINT-SYLVESTRE,100,6206,7,place_097209
+08,0,SAINT-SYLVESTRE,100,6206,8,place_096897
+08,0,SAINT-SYLVESTRE,100,6206,9,place_101310
+08,0,SAINT-SYLVESTRE,100,6206,10,place_096624
+08,0,SAINT-SYLVESTRE,100,6206,11,place_097476
+08,0,SAINT-SYLVESTRE,100,6206,12,place_PARCG
+08,0,SAINT-SYLVESTRE,100,6206,13,place_097510
+08,0,SAINT-SYLVESTRE,100,6206,14,place_097322
+08,0,SAINT-SYLVESTRE,100,6206,15,place_GRPIN
+08,0,SAINT-SYLVESTRE,100,6206,16,place_CYRNO
+08,0,SAINT-SYLVESTRE,100,6206,17,place_096827
+08,0,SAINT-SYLVESTRE,100,6206,18,place_FANNY
+08,0,SAINT-SYLVESTRE,100,6206,19,place_096914
+08,1,PALAIS DES EXPOSITIONS,100,6377,1,place_097429
+08,1,PALAIS DES EXPOSITIONS,100,6377,2,place_FANYC
+08,1,PALAIS DES EXPOSITIONS,100,6377,3,place_096827
+08,1,PALAIS DES EXPOSITIONS,100,6377,4,place_CYRNO
+08,1,PALAIS DES EXPOSITIONS,100,6377,5,place_GRPIN
+08,1,PALAIS DES EXPOSITIONS,100,6377,6,place_097322
+08,1,PALAIS DES EXPOSITIONS,100,6377,7,place_097510
+08,1,PALAIS DES EXPOSITIONS,100,6377,8,place_PARCG
+08,1,PALAIS DES EXPOSITIONS,100,6377,9,place_097476
+08,1,PALAIS DES EXPOSITIONS,100,6377,10,place_096624
+08,1,PALAIS DES EXPOSITIONS,100,6377,11,place_101310
+08,1,PALAIS DES EXPOSITIONS,100,6377,12,place_096897
+08,1,PALAIS DES EXPOSITIONS,100,6377,13,place_096793
+08,1,PALAIS DES EXPOSITIONS,100,6377,14,place_096616
+08,1,PALAIS DES EXPOSITIONS,100,6377,15,place_097268
+08,1,PALAIS DES EXPOSITIONS,100,6377,16,place_101383
+08,1,PALAIS DES EXPOSITIONS,100,6377,17,place_096612
+08,1,PALAIS DES EXPOSITIONS,100,6377,18,place_PEXPO
+09,0,Grand Arénas,55,15277,1,place_098250
+09,0,Grand Arénas,55,15277,2,place_098265
+09,0,Grand Arénas,55,15277,3,place_099702
+09,0,Grand Arénas,55,15277,4,place_098247
+09,0,Grand Arénas,55,15277,5,place_VNLCY
+09,0,Grand Arénas,55,15277,6,place_098243
+09,0,Grand Arénas,55,15277,7,place_098279
+09,0,Grand Arénas,55,15277,8,place_095864
+09,0,Grand Arénas,55,15277,9,place_099519
+09,0,Grand Arénas,55,15277,10,place_POLRI
+09,0,Grand Arénas,55,15277,11,place_098804
+09,0,Grand Arénas,55,15277,12,place_GRARIM
+09,0,Grand Arénas,55,15277,13,place_099814
+09,0,Grand Arénas,55,15277,14,place_095803
+09,0,Grand Arénas,55,15277,15,place_095777
+09,0,Grand Arénas,55,15277,16,place_095862
+09,0,Grand Arénas,55,15277,17,place_095932
+09,0,Grand Arénas,55,15277,18,place_099927
+09,0,Grand Arénas,55,15277,19,place_095832
+09,0,Grand Arénas,55,15277,20,place_095887
+09,0,Grand Arénas,55,15277,21,place_099922
+09,0,Grand Arénas,55,15277,22,place_095883
+09,0,Grand Arénas,55,15277,23,place_099808
+09,0,Grand Arénas,55,15277,24,place_095886
+09,0,Grand Arénas,55,15277,25,place_097888
+09,0,Grand Arénas,55,15277,26,place_097886
+09,0,Grand Arénas,55,15277,27,place_LAETO
+09,0,Grand Arénas,55,15277,28,place_097898
+09,0,Grand Arénas,55,15277,29,place_GRAREN
+09,1,Halte Routière de L'Ara,56,15244,1,place_GRAREN
+09,1,Halte Routière de L'Ara,56,15244,2,place_LAPSL6
+09,1,Halte Routière de L'Ara,56,15244,3,place_097837
+09,1,Halte Routière de L'Ara,56,15244,4,place_097847
+09,1,Halte Routière de L'Ara,56,15244,5,place_095886
+09,1,Halte Routière de L'Ara,56,15244,6,place_099808
+09,1,Halte Routière de L'Ara,56,15244,7,place_095883
+09,1,Halte Routière de L'Ara,56,15244,8,place_099922
+09,1,Halte Routière de L'Ara,56,15244,9,place_095887
+09,1,Halte Routière de L'Ara,56,15244,10,place_095832
+09,1,Halte Routière de L'Ara,56,15244,11,place_099927
+09,1,Halte Routière de L'Ara,56,15244,12,place_095932
+09,1,Halte Routière de L'Ara,56,15244,13,place_095768
+09,1,Halte Routière de L'Ara,56,15244,14,place_095933
+09,1,Halte Routière de L'Ara,56,15244,15,place_CAGARE
+09,1,Halte Routière de L'Ara,56,15244,16,place_095803
+09,1,Halte Routière de L'Ara,56,15244,17,place_099814
+09,1,Halte Routière de L'Ara,56,15244,18,place_GRARIM
+09,1,Halte Routière de L'Ara,56,15244,19,place_098804
+09,1,Halte Routière de L'Ara,56,15244,20,place_POLRI
+09,1,Halte Routière de L'Ara,56,15244,21,place_099519
+09,1,Halte Routière de L'Ara,56,15244,22,place_098279
+09,1,Halte Routière de L'Ara,56,15244,23,place_098243
+09,1,Halte Routière de L'Ara,56,15244,24,place_VNLCY
+09,1,Halte Routière de L'Ara,56,15244,25,place_VNEHG
+09,1,Halte Routière de L'Ara,56,15244,26,place_099702
+09,1,Halte Routière de L'Ara,56,15244,27,place_098265
+09,1,Halte Routière de L'Ara,56,15244,28,place_098250
+10,0,,89,4075,1,place_097192
+10,0,,89,4075,2,place_CARLON
+10,0,,89,4075,3,place_096970
+10,0,,89,4075,4,place_097409
+10,0,,89,4075,5,place_096874
+10,0,,89,4075,6,place_096946
+10,0,,89,4075,7,place_097374
+10,0,,89,4075,8,place_097282
+10,0,,89,4075,9,place_096781
+10,0,,89,4075,10,place_096609
+10,0,,89,4075,11,place_096752
+10,0,,89,4075,12,place_ARCHE
+10,0,,89,4075,13,place_096983
+10,0,,89,4075,14,place_096677
+10,0,,89,4075,15,place_099805
+10,0,,89,4075,16,place_097357
+10,0,,89,4075,17,place_096990
+10,0,,89,4075,18,place_096662
+10,0,,89,4075,19,place_097405
+10,0,,89,4075,20,place_096810
+10,1,,89,4075,1,place_096810
+10,1,,89,4075,2,place_097405
+10,1,,89,4075,3,place_096662
+10,1,,89,4075,4,place_096990
+10,1,,89,4075,5,place_097357
+10,1,,89,4075,6,place_099805
+10,1,,89,4075,7,place_096677
+10,1,,89,4075,8,place_096983
+10,1,,89,4075,9,place_ARCHE
+10,1,,89,4075,10,place_096752
+10,1,,89,4075,11,place_096609
+10,1,,89,4075,12,place_096781
+10,1,,89,4075,13,place_097282
+10,1,,89,4075,14,place_097374
+10,1,,89,4075,15,place_096946
+10,1,,89,4075,16,place_096874
+10,1,,89,4075,17,place_097409
+10,1,,89,4075,18,place_096970
+10,1,,89,4075,19,place_CARLON
+10,1,,89,4075,20,place_097192
+11,0,Square Daudet,52,6839,1,place_096675
+11,0,Square Daudet,52,6839,2,place_097503
+11,0,Square Daudet,52,6839,3,place_097100
+11,0,Square Daudet,52,6839,4,place_096995
+11,0,Square Daudet,52,6839,5,place_096769
+11,0,Square Daudet,52,6839,6,place_097128
+11,0,Square Daudet,52,6839,7,place_100250
+11,0,Square Daudet,52,6839,8,place_096741
+11,0,Square Daudet,52,6839,9,place_097455
+11,0,Square Daudet,52,6839,10,place_097420
+11,0,Square Daudet,52,6839,11,place_097352
+11,0,Square Daudet,52,6839,12,place_097504
+11,0,Square Daudet,52,6839,13,place_096861
+11,0,Square Daudet,52,6839,14,place_097162
+11,0,Square Daudet,52,6839,15,place_096965
+11,0,Square Daudet,52,6839,16,place_HALGA0
+11,0,Square Daudet,52,6839,17,place_097510
+11,0,Square Daudet,52,6839,18,place_PARCG
+11,0,Square Daudet,52,6839,19,place_097476
+11,0,Square Daudet,52,6839,20,place_096624
+11,0,Square Daudet,52,6839,21,place_101310
+11,0,Square Daudet,52,6839,22,place_ECOBA
+11,0,Square Daudet,52,6839,23,place_096647
+11,0,Square Daudet,52,6839,24,place_096646
+11,0,Square Daudet,52,6839,25,place_096748
+11,0,Square Daudet,52,6839,26,place_TZARE
+11,0,Square Daudet,52,6839,27,place_100459
+11,0,Square Daudet,52,6839,28,place_097449
+11,1,Vallon des Fleurs,50,6251,1,place_097449
+11,1,Vallon des Fleurs,50,6251,2,place_100459
+11,1,Vallon des Fleurs,50,6251,3,place_TZARE
+11,1,Vallon des Fleurs,50,6251,4,place_096748
+11,1,Vallon des Fleurs,50,6251,5,place_096646
+11,1,Vallon des Fleurs,50,6251,6,place_096647
+11,1,Vallon des Fleurs,50,6251,7,place_096894
+11,1,Vallon des Fleurs,50,6251,8,place_096624
+11,1,Vallon des Fleurs,50,6251,9,place_097476
+11,1,Vallon des Fleurs,50,6251,10,place_PARCG
+11,1,Vallon des Fleurs,50,6251,11,place_097510
+11,1,Vallon des Fleurs,50,6251,12,place_HALGA1
+11,1,Vallon des Fleurs,50,6251,13,place_097162
+11,1,Vallon des Fleurs,50,6251,14,place_096861
+11,1,Vallon des Fleurs,50,6251,15,place_097504
+11,1,Vallon des Fleurs,50,6251,16,place_097352
+11,1,Vallon des Fleurs,50,6251,17,place_097420
+11,1,Vallon des Fleurs,50,6251,18,place_101317
+11,1,Vallon des Fleurs,50,6251,19,place_096648
+11,1,Vallon des Fleurs,50,6251,20,place_097128
+11,1,Vallon des Fleurs,50,6251,21,place_096769
+11,1,Vallon des Fleurs,50,6251,22,place_096995
+11,1,Vallon des Fleurs,50,6251,23,place_097100
+11,1,Vallon des Fleurs,50,6251,24,place_097503
+12,0,C. Commercial CAP 3000,100,11162,1,place_096943
+12,0,C. Commercial CAP 3000,100,11162,2,place_100428
+12,0,C. Commercial CAP 3000,100,11162,3,place_LYAUTE
+12,0,C. Commercial CAP 3000,100,11162,4,place_096881
+12,0,C. Commercial CAP 3000,100,11162,5,place_097293
+12,0,C. Commercial CAP 3000,100,11162,6,place_096909
+12,0,C. Commercial CAP 3000,100,11162,7,place_096917
+12,0,C. Commercial CAP 3000,100,11162,8,place_097534
+12,0,C. Commercial CAP 3000,100,11162,9,place_097326
+12,0,C. Commercial CAP 3000,100,11162,10,place_097183
+12,0,C. Commercial CAP 3000,100,11162,11,place_MASSE
+12,0,C. Commercial CAP 3000,100,11162,12,place_096617
+12,0,C. Commercial CAP 3000,100,11162,13,place_097209
+12,0,C. Commercial CAP 3000,100,11162,14,place_096897
+12,0,C. Commercial CAP 3000,100,11162,15,place_096925
+12,0,C. Commercial CAP 3000,100,11162,16,place_098500
+12,0,C. Commercial CAP 3000,100,11162,17,place_097193
+12,0,C. Commercial CAP 3000,100,11162,18,place_097084
+12,0,C. Commercial CAP 3000,100,11162,19,place_096873
+12,0,C. Commercial CAP 3000,100,11162,20,place_097432
+12,0,C. Commercial CAP 3000,100,11162,21,place_098501
+12,0,C. Commercial CAP 3000,100,11162,22,place_096724
+12,0,C. Commercial CAP 3000,100,11162,23,place_FERBP
+12,0,C. Commercial CAP 3000,100,11162,24,place_100436
+12,0,C. Commercial CAP 3000,100,11162,25,place_097022
+12,0,C. Commercial CAP 3000,100,11162,26,place_101377
+12,0,C. Commercial CAP 3000,100,11162,27,place_099793
+12,0,C. Commercial CAP 3000,100,11162,28,place_LACENC
+12,1,HOPITAL PASTEUR,100,11525,1,place_LACENC
+12,1,HOPITAL PASTEUR,100,11525,2,place_099793
+12,1,HOPITAL PASTEUR,100,11525,3,place_101377
+12,1,HOPITAL PASTEUR,100,11525,4,place_097022
+12,1,HOPITAL PASTEUR,100,11525,5,place_FERBP
+12,1,HOPITAL PASTEUR,100,11525,6,place_096724
+12,1,HOPITAL PASTEUR,100,11525,7,place_098501
+12,1,HOPITAL PASTEUR,100,11525,8,place_097432
+12,1,HOPITAL PASTEUR,100,11525,9,place_096873
+12,1,HOPITAL PASTEUR,100,11525,10,place_097084
+12,1,HOPITAL PASTEUR,100,11525,11,place_097193
+12,1,HOPITAL PASTEUR,100,11525,12,place_096925
+12,1,HOPITAL PASTEUR,100,11525,13,place_096897
+12,1,HOPITAL PASTEUR,100,11525,14,place_096793
+12,1,HOPITAL PASTEUR,100,11525,15,place_096616
+12,1,HOPITAL PASTEUR,100,11525,16,place_097268
+12,1,HOPITAL PASTEUR,100,11525,17,place_101383
+12,1,HOPITAL PASTEUR,100,11525,18,place_096612
+12,1,HOPITAL PASTEUR,100,11525,19,place_097272
+12,1,HOPITAL PASTEUR,100,11525,20,place_097464
+12,1,HOPITAL PASTEUR,100,11525,21,place_100011
+12,1,HOPITAL PASTEUR,100,11525,22,place_096837
+12,1,HOPITAL PASTEUR,100,11525,23,place_097479
+12,1,HOPITAL PASTEUR,100,11525,24,place_098629
+12,1,HOPITAL PASTEUR,100,11525,25,place_PAST
+12,1,HOPITAL PASTEUR,100,11525,26,place_096943
+14,0,Vauban,99,6634,1,place_096243
+14,0,Vauban,99,6634,2,place_PONTA3
+14,0,Vauban,99,6634,3,place_LEGLI4
+14,0,Vauban,99,6634,4,place_098121
+14,0,Vauban,99,6634,5,place_100029
+14,0,Vauban,99,6634,6,place_098117
+14,0,Vauban,99,6634,7,place_L'OLI
+14,0,Vauban,99,6634,8,place_098145
+14,0,Vauban,99,6634,9,place_098146
+14,0,Vauban,99,6634,10,place_096691
+14,0,Vauban,99,6634,11,place_096979
+14,0,Vauban,99,6634,12,place_097036
+14,0,Vauban,99,6634,13,place_097280
+14,0,Vauban,99,6634,14,place_097112
+14,0,Vauban,99,6634,15,place_097331
+14,0,Vauban,99,6634,16,place_096768
+14,0,Vauban,99,6634,17,place_101376
+14,0,Vauban,99,6634,18,place_096971
+14,0,Vauban,99,6634,19,place_097465
+14,0,Vauban,99,6634,20,place_099488
+14,0,Vauban,99,6634,21,place_097507
+14,1,Les Chênes Verts,99,7131,1,place_097507
+14,1,Les Chênes Verts,99,7131,2,place_099488
+14,1,Les Chênes Verts,99,7131,3,place_096641
+14,1,Les Chênes Verts,99,7131,4,place_ROQUE
+14,1,Les Chênes Verts,99,7131,5,q:2766
+14,1,Les Chênes Verts,99,7131,6,place_100011
+14,1,Les Chênes Verts,99,7131,7,place_101376
+14,1,Les Chênes Verts,99,7131,8,place_096768
+14,1,Les Chênes Verts,99,7131,9,place_097331
+14,1,Les Chênes Verts,99,7131,10,place_097112
+14,1,Les Chênes Verts,99,7131,11,place_097280
+14,1,Les Chênes Verts,99,7131,12,place_097036
+14,1,Les Chênes Verts,99,7131,13,place_096979
+14,1,Les Chênes Verts,99,7131,14,place_096691
+14,1,Les Chênes Verts,99,7131,15,place_098146
+14,1,Les Chênes Verts,99,7131,16,place_098145
+14,1,Les Chênes Verts,99,7131,17,place_L'OLI
+14,1,Les Chênes Verts,99,7131,18,place_098117
+14,1,Les Chênes Verts,99,7131,19,place_100029
+14,1,Les Chênes Verts,99,7131,20,place_098149
+14,1,Les Chênes Verts,99,7131,21,place_TRC11
+14,1,Les Chênes Verts,99,7131,22,place_098144
+14,1,Les Chênes Verts,99,7131,23,place_096243
+15,0,Port de Saint-Jean,100,10846,1,place_LYCEET
+15,0,Port de Saint-Jean,100,10846,2,place_096818
+15,0,Port de Saint-Jean,100,10846,3,place_BOYER
+15,0,Port de Saint-Jean,100,10846,4,place_096670
+15,0,Port de Saint-Jean,100,10846,5,place_096664
+15,0,Port de Saint-Jean,100,10846,6,place_PORLYM
+15,0,Port de Saint-Jean,100,10846,7,place_096719
+15,0,Port de Saint-Jean,100,10846,8,place_096929
+15,0,Port de Saint-Jean,100,10846,9,place_100010
+15,0,Port de Saint-Jean,100,10846,10,place_097402
+15,0,Port de Saint-Jean,100,10846,11,place_097072
+15,0,Port de Saint-Jean,100,10846,12,place_097109
+15,0,Port de Saint-Jean,100,10846,13,place_097191
+15,0,Port de Saint-Jean,100,10846,14,place_096940
+15,0,Port de Saint-Jean,100,10846,15,place_096669
+15,0,Port de Saint-Jean,100,10846,16,place_100007
+15,0,Port de Saint-Jean,100,10846,17,place_098345
+15,0,Port de Saint-Jean,100,10846,18,place_098397
+15,0,Port de Saint-Jean,100,10846,19,place_098383
+15,0,Port de Saint-Jean,100,10846,20,place_098353
+15,0,Port de Saint-Jean,100,10846,21,place_098375
+15,0,Port de Saint-Jean,100,10846,22,place_098379
+15,0,Port de Saint-Jean,100,10846,23,place_098399
+15,0,Port de Saint-Jean,100,10846,24,place_098339
+15,0,Port de Saint-Jean,100,10846,25,place_100043
+15,0,Port de Saint-Jean,100,10846,26,place_095686
+15,0,Port de Saint-Jean,100,10846,27,place_095691
+15,0,Port de Saint-Jean,100,10846,28,place_095689
+15,0,Port de Saint-Jean,100,10846,29,place_095690
+15,0,Port de Saint-Jean,100,10846,30,place_095697
+15,0,Port de Saint-Jean,100,10846,31,place_097773
+15,0,Port de Saint-Jean,100,10846,32,place_097762
+15,0,Port de Saint-Jean,100,10846,33,place_097771
+15,0,Port de Saint-Jean,100,10846,34,place_097764
+15,0,Port de Saint-Jean,100,10846,35,place_097775
+15,0,Port de Saint-Jean,100,10846,36,place_097759
+15,0,Port de Saint-Jean,100,10846,37,place_097774
+15,1,LYCEE MASSENA,100,9941,1,place_097774
+15,1,LYCEE MASSENA,100,9941,2,place_097770
+15,1,LYCEE MASSENA,100,9941,3,place_097764
+15,1,LYCEE MASSENA,100,9941,4,place_097771
+15,1,LYCEE MASSENA,100,9941,5,place_097762
+15,1,LYCEE MASSENA,100,9941,6,place_097773
+15,1,LYCEE MASSENA,100,9941,7,place_095686
+15,1,LYCEE MASSENA,100,9941,8,place_095691
+15,1,LYCEE MASSENA,100,9941,9,place_095689
+15,1,LYCEE MASSENA,100,9941,10,place_095690
+15,1,LYCEE MASSENA,100,9941,11,place_095697
+15,1,LYCEE MASSENA,100,9941,12,place_098339
+15,1,LYCEE MASSENA,100,9941,13,place_098399
+15,1,LYCEE MASSENA,100,9941,14,place_098375
+15,1,LYCEE MASSENA,100,9941,15,place_098353
+15,1,LYCEE MASSENA,100,9941,16,place_098383
+15,1,LYCEE MASSENA,100,9941,17,place_098397
+15,1,LYCEE MASSENA,100,9941,18,place_100007
+15,1,LYCEE MASSENA,100,9941,19,place_096669
+15,1,LYCEE MASSENA,100,9941,20,place_096940
+15,1,LYCEE MASSENA,100,9941,21,place_097191
+15,1,LYCEE MASSENA,100,9941,22,place_097109
+15,1,LYCEE MASSENA,100,9941,23,place_097072
+15,1,LYCEE MASSENA,100,9941,24,place_097402
+15,1,LYCEE MASSENA,100,9941,25,place_100010
+15,1,LYCEE MASSENA,100,9941,26,place_096929
+15,1,LYCEE MASSENA,100,9941,27,place_096719
+15,1,LYCEE MASSENA,100,9941,28,place_PORLYM
+15,1,LYCEE MASSENA,100,9941,29,place_096907
+15,1,LYCEE MASSENA,100,9941,30,place_LYCEET
+16,0,Col de Bast,67,5513,1,place_099398
+16,0,Col de Bast,67,5513,2,place_VICTO
+16,0,Col de Bast,67,5513,3,place_096635
+16,0,Col de Bast,67,5513,4,place_096654
+16,0,Col de Bast,67,5513,5,place_096788
+16,0,Col de Bast,67,5513,6,place_096794
+16,0,Col de Bast,67,5513,7,place_097289
+16,0,Col de Bast,67,5513,8,place_097521
+16,0,Col de Bast,67,5513,9,place_097098
+16,0,Col de Bast,67,5513,10,place_097123
+16,0,Col de Bast,67,5513,11,place_097496
+16,0,Col de Bast,67,5513,12,place_097504
+16,0,Col de Bast,67,5513,13,place_097352
+16,0,Col de Bast,67,5513,14,place_097420
+16,0,Col de Bast,67,5513,15,place_097453
+16,0,Col de Bast,67,5513,16,place_096919
+16,0,Col de Bast,67,5513,17,place_096790
+16,0,Col de Bast,67,5513,18,place_097229
+16,0,Col de Bast,67,5513,19,place_097429
+16,0,Col de Bast,67,5513,20,place_096981
+16,0,Col de Bast,67,5513,21,place_096831
+16,0,Col de Bast,67,5513,22,place_097302
+16,0,Col de Bast,67,5513,23,place_096776
+16,1,College Matisse,70,4826,1,place_096776
+16,1,College Matisse,70,4826,2,place_097302
+16,1,College Matisse,70,4826,3,place_096831
+16,1,College Matisse,70,4826,4,place_096981
+16,1,College Matisse,70,4826,5,place_097429
+16,1,College Matisse,70,4826,6,place_097229
+16,1,College Matisse,70,4826,7,place_096790
+16,1,College Matisse,70,4826,8,place_096919
+16,1,College Matisse,70,4826,9,place_CHENIE
+16,1,College Matisse,70,4826,10,place_097453
+16,1,College Matisse,70,4826,11,place_097420
+16,1,College Matisse,70,4826,12,place_101379
+16,1,College Matisse,70,4826,13,place_096839
+16,1,College Matisse,70,4826,14,place_097496
+16,1,College Matisse,70,4826,15,place_097123
+16,1,College Matisse,70,4826,16,place_097098
+16,1,College Matisse,70,4826,17,place_097289
+16,1,College Matisse,70,4826,18,place_096794
+16,1,College Matisse,70,4826,19,place_096788
+16,1,College Matisse,70,4826,20,place_099398
+17,0,STAPS / Arboras,100,6472,1,place_090328
+17,0,STAPS / Arboras,100,6472,2,place_CARRA2
+17,0,STAPS / Arboras,100,6472,3,place_097009
+17,0,STAPS / Arboras,100,6472,4,place_096913
+17,0,STAPS / Arboras,100,6472,5,place_CLAIRH
+17,0,STAPS / Arboras,100,6472,6,place_096796
+17,0,STAPS / Arboras,100,6472,7,place_096771
+17,0,STAPS / Arboras,100,6472,8,place_096633
+17,0,STAPS / Arboras,100,6472,9,place_097194
+17,0,STAPS / Arboras,100,6472,10,place_096668
+17,0,STAPS / Arboras,100,6472,11,place_097114
+17,0,STAPS / Arboras,100,6472,12,place_099404
+17,0,STAPS / Arboras,100,6472,13,place_097269
+17,0,STAPS / Arboras,100,6472,14,place_097531
+17,0,STAPS / Arboras,100,6472,15,place_097155
+17,0,STAPS / Arboras,100,6472,16,place_096625
+17,0,STAPS / Arboras,100,6472,17,place_099399
+17,0,STAPS / Arboras,100,6472,18,place_MERID
+17,0,STAPS / Arboras,100,6472,19,place_097132
+17,0,STAPS / Arboras,100,6472,20,place_096976
+17,0,STAPS / Arboras,100,6472,21,place_096958
+17,0,STAPS / Arboras,100,6472,22,place_096922
+17,0,STAPS / Arboras,100,6472,23,place_ARBORA
+17,0,STAPS / Arboras,100,6472,24,place_STAPS
+17,1,Ferber,100,6986,1,place_STAPS
+17,1,Ferber,100,6986,2,place_ARBORA
+17,1,Ferber,100,6986,3,place_096922
+17,1,Ferber,100,6986,4,place_096958
+17,1,Ferber,100,6986,5,place_096976
+17,1,Ferber,100,6986,6,place_097132
+17,1,Ferber,100,6986,7,place_MERID
+17,1,Ferber,100,6986,8,place_099399
+17,1,Ferber,100,6986,9,place_096625
+17,1,Ferber,100,6986,10,place_097155
+17,1,Ferber,100,6986,11,place_097531
+17,1,Ferber,100,6986,12,place_097269
+17,1,Ferber,100,6986,13,place_099404
+17,1,Ferber,100,6986,14,place_097114
+17,1,Ferber,100,6986,15,place_096668
+17,1,Ferber,100,6986,16,place_097194
+17,1,Ferber,100,6986,17,place_096633
+17,1,Ferber,100,6986,18,place_096796
+17,1,Ferber,100,6986,19,place_096771
+17,1,Ferber,100,6986,20,place_096913
+17,1,Ferber,100,6986,21,place_097009
+17,1,Ferber,100,6986,22,place_WCARR
+17,1,Ferber,100,6986,23,place_096725
+17,1,Ferber,100,6986,24,place_096999
+17,1,Ferber,100,6986,25,place_097433
+17,1,Ferber,100,6986,26,place_096838
+17,1,Ferber,100,6986,27,place_090328
+18,0,Saint-Sylvestre,100,8409,1,place_097383
+18,0,Saint-Sylvestre,100,8409,2,place_099395
+18,0,Saint-Sylvestre,100,8409,3,place_096918
+18,0,Saint-Sylvestre,100,8409,4,place_099488
+18,0,Saint-Sylvestre,100,8409,5,place_096641
+18,0,Saint-Sylvestre,100,8409,6,place_PSEMA
+18,0,Saint-Sylvestre,100,8409,7,place_MTGROS
+18,0,Saint-Sylvestre,100,8409,8,place_097178
+18,0,Saint-Sylvestre,100,8409,9,place_097101
+18,0,Saint-Sylvestre,100,8409,10,place_096868
+18,0,Saint-Sylvestre,100,8409,11,place_097331
+18,0,Saint-Sylvestre,100,8409,12,place_096626
+18,0,Saint-Sylvestre,100,8409,13,place_096786
+18,0,Saint-Sylvestre,100,8409,14,place_PAST
+18,0,Saint-Sylvestre,100,8409,15,place_098629
+18,0,Saint-Sylvestre,100,8409,16,place_097479
+18,0,Saint-Sylvestre,100,8409,17,place_096837
+18,0,Saint-Sylvestre,100,8409,18,place_096881
+18,0,Saint-Sylvestre,100,8409,19,place_096687
+18,0,Saint-Sylvestre,100,8409,20,place_097154
+18,0,Saint-Sylvestre,100,8409,21,place_097435
+18,0,Saint-Sylvestre,100,8409,22,place_TOCIM
+18,0,Saint-Sylvestre,100,8409,23,place_096859
+18,0,Saint-Sylvestre,100,8409,24,place_096635
+18,0,Saint-Sylvestre,100,8409,25,place_096654
+18,0,Saint-Sylvestre,100,8409,26,place_096788
+18,0,Saint-Sylvestre,100,8409,27,place_096794
+18,0,Saint-Sylvestre,100,8409,28,place_097119
+18,0,Saint-Sylvestre,100,8409,29,place_CHAMP
+18,0,Saint-Sylvestre,100,8409,30,place_097144
+18,0,Saint-Sylvestre,100,8409,31,place_097016
+18,0,Saint-Sylvestre,100,8409,32,place_100250
+18,0,Saint-Sylvestre,100,8409,33,place_096760
+18,0,Saint-Sylvestre,100,8409,34,place_096919
+18,0,Saint-Sylvestre,100,8409,35,place_096790
+18,0,Saint-Sylvestre,100,8409,36,place_097229
+18,0,Saint-Sylvestre,100,8409,37,place_097429
+18,1,Riquier,99,8497,1,place_097429
+18,1,Riquier,99,8497,2,place_097229
+18,1,Riquier,99,8497,3,place_096790
+18,1,Riquier,99,8497,4,place_096919
+18,1,Riquier,99,8497,5,place_CHENIE
+18,1,Riquier,99,8497,6,place_096910
+18,1,Riquier,99,8497,7,place_100250
+18,1,Riquier,99,8497,8,place_097016
+18,1,Riquier,99,8497,9,place_097144
+18,1,Riquier,99,8497,10,place_CHAMP
+18,1,Riquier,99,8497,11,place_097119
+18,1,Riquier,99,8497,12,place_096794
+18,1,Riquier,99,8497,13,place_096788
+18,1,Riquier,99,8497,14,place_096654
+18,1,Riquier,99,8497,15,place_097344
+18,1,Riquier,99,8497,16,place_096635
+18,1,Riquier,99,8497,17,place_096859
+18,1,Riquier,99,8497,18,place_TOCIM
+18,1,Riquier,99,8497,19,place_097435
+18,1,Riquier,99,8497,20,place_097154
+18,1,Riquier,99,8497,21,place_096687
+18,1,Riquier,99,8497,22,place_096881
+18,1,Riquier,99,8497,23,place_096837
+18,1,Riquier,99,8497,24,place_097479
+18,1,Riquier,99,8497,25,place_098629
+18,1,Riquier,99,8497,26,place_PAST
+18,1,Riquier,99,8497,27,place_097331
+18,1,Riquier,99,8497,28,place_096868
+18,1,Riquier,99,8497,29,place_097178
+18,1,Riquier,99,8497,30,place_MTGROS
+18,1,Riquier,99,8497,31,place_PSEMA
+18,1,Riquier,99,8497,32,place_096641
+18,1,Riquier,99,8497,33,place_099488
+18,1,Riquier,99,8497,34,place_096918
+18,1,Riquier,99,8497,35,place_099395
+18,1,Riquier,99,8497,36,place_097383
+19,0,,55,19741,1,place_097507
+19,0,,55,19741,2,place_097272
+19,0,,55,19741,3,place_097464
+19,0,,55,19741,4,place_100011
+19,0,,55,19741,5,place_LYAUTE
+19,0,,55,19741,6,place_100428
+19,0,,55,19741,7,place_097196
+19,0,,55,19741,8,place_097532
+19,0,,55,19741,9,place_097186
+19,0,,55,19741,10,place_096966
+19,0,,55,19741,11,place_097424
+19,0,,55,19741,12,place_097434
+19,0,,55,19741,13,place_097704
+19,0,,55,19741,14,place_097327
+19,0,,55,19741,15,place_097715
+19,0,,55,19741,16,place_097727
+19,0,,55,19741,17,place_097721
+19,0,,55,19741,18,place_097707
+19,0,,55,19741,19,place_097730
+19,0,,55,19741,20,place_097729
+19,0,,55,19741,21,place_097706
+19,0,,55,19741,22,place_098047
+19,0,,55,19741,23,place_098051
+19,0,,55,19741,24,place_098061
+19,0,,55,19741,25,place_098057
+19,0,,55,19741,26,place_100056
+19,0,,55,19741,27,place_098054
+19,0,,55,19741,28,place_098067
+19,0,,55,19741,29,place_098049
+19,0,,55,19741,30,place_098070
+19,0,,55,19741,31,place_TLGEO
+19,0,,55,19741,32,place_098037
+19,0,,55,19741,33,place_098059
+19,0,,55,19741,34,place_098045
+19,0,,55,19741,35,place_098052
+19,0,,55,19741,36,place_096479
+19,0,,55,19741,37,place_098071
+19,0,,55,19741,38,place_096495
+19,0,,55,19741,39,place_LVLSU
+19,0,,55,19741,40,place_096474
+19,0,,55,19741,41,place_096493
+19,0,,55,19741,42,place_096475
+19,0,,55,19741,43,place_096480
+19,0,,55,19741,44,place_096499
+19,0,,55,19741,45,place_096477
+19,0,,55,19741,46,place_096484
+19,0,,55,19741,47,place_096492
+19,0,,55,19741,48,place_096498
+19,0,,55,19741,49,place_096468
+19,0,,55,19741,50,place_096485
+19,0,,55,19741,51,place_096459
+19,0,,55,19741,52,place_096462
+19,0,,55,19741,53,place_LVFEL
+19,0,,55,19741,54,place_096481
+19,0,,55,19741,55,place_099534
+19,1,,47,19355,1,place_099534
+19,1,,47,19355,2,place_096481
+19,1,,47,19355,3,place_096464
+19,1,,47,19355,4,place_096470
+19,1,,47,19355,5,place_096462
+19,1,,47,19355,6,place_096459
+19,1,,47,19355,7,place_096485
+19,1,,47,19355,8,place_096468
+19,1,,47,19355,9,place_096498
+19,1,,47,19355,10,place_096492
+19,1,,47,19355,11,place_096484
+19,1,,47,19355,12,place_096477
+19,1,,47,19355,13,place_096499
+19,1,,47,19355,14,place_096480
+19,1,,47,19355,15,place_096475
+19,1,,47,19355,16,place_096493
+19,1,,47,19355,17,place_096474
+19,1,,47,19355,18,place_LVLSU
+19,1,,47,19355,19,place_096495
+19,1,,47,19355,20,place_098071
+19,1,,47,19355,21,place_096479
+19,1,,47,19355,22,place_098052
+19,1,,47,19355,23,place_098045
+19,1,,47,19355,24,place_098059
+19,1,,47,19355,25,place_098037
+19,1,,47,19355,26,place_TLGEO
+19,1,,47,19355,27,place_098070
+19,1,,47,19355,28,place_098049
+19,1,,47,19355,29,place_098067
+19,1,,47,19355,30,place_098054
+19,1,,47,19355,31,place_100056
+19,1,,47,19355,32,place_098057
+19,1,,47,19355,33,place_098061
+19,1,,47,19355,34,place_098051
+19,1,,47,19355,35,place_098047
+19,1,,47,19355,36,place_097706
+19,1,,47,19355,37,place_097729
+19,1,,47,19355,38,place_097707
+19,1,,47,19355,39,place_097721
+19,1,,47,19355,40,place_097727
+19,1,,47,19355,41,place_097715
+19,1,,47,19355,42,place_097327
+19,1,,47,19355,43,place_097704
+19,1,,47,19355,44,place_097434
+19,1,,47,19355,45,place_097424
+19,1,,47,19355,46,place_096966
+19,1,,47,19355,47,place_097186
+19,1,,47,19355,48,place_096786
+19,1,,47,19355,49,place_100428
+19,1,,47,19355,50,place_100011
+19,1,,47,19355,51,place_096971
+19,1,,47,19355,52,place_097465
+19,1,,47,19355,53,place_099488
+19,1,,47,19355,54,place_097507
+20,0,Giono / Les Pugets,84,5704,1,place_GRAREN
+20,0,Giono / Les Pugets,84,5704,2,place_LAPSL6
+20,0,Giono / Les Pugets,84,5704,3,place_LACENC
+20,0,Giono / Les Pugets,84,5704,4,place_097827
+20,0,Giono / Les Pugets,84,5704,5,place_097898
+20,0,Giono / Les Pugets,84,5704,6,place_097878
+20,0,Giono / Les Pugets,84,5704,7,place_097841
+20,0,Giono / Les Pugets,84,5704,8,place_097871
+20,0,Giono / Les Pugets,84,5704,9,place_097905
+20,0,Giono / Les Pugets,84,5704,10,place_GENLE
+20,0,Giono / Les Pugets,84,5704,11,place_097895
+20,0,Giono / Les Pugets,84,5704,12,place_097873
+20,0,Giono / Les Pugets,84,5704,13,place_SLROD
+20,0,Giono / Les Pugets,84,5704,14,place_097808
+20,0,Giono / Les Pugets,84,5704,15,place_LADAU
+20,0,Giono / Les Pugets,84,5704,16,place_099791
+20,0,Giono / Les Pugets,84,5704,17,place_097829
+20,1,Grand Arénas,86,5742,1,place_097829
+20,1,Grand Arénas,86,5742,2,place_097858
+20,1,Grand Arénas,86,5742,3,place_LASMA
+20,1,Grand Arénas,86,5742,4,place_097883
+20,1,Grand Arénas,86,5742,5,place_SLROD
+20,1,Grand Arénas,86,5742,6,place_097873
+20,1,Grand Arénas,86,5742,7,place_097895
+20,1,Grand Arénas,86,5742,8,place_GENLE
+20,1,Grand Arénas,86,5742,9,place_097905
+20,1,Grand Arénas,86,5742,10,place_097871
+20,1,Grand Arénas,86,5742,11,place_097841
+20,1,Grand Arénas,86,5742,12,place_097878
+20,1,Grand Arénas,86,5742,13,place_097898
+20,1,Grand Arénas,86,5742,14,place_LACENC
+20,1,Grand Arénas,86,5742,15,place_097827
+20,1,Grand Arénas,86,5742,16,place_097898
+20,1,Grand Arénas,86,5742,17,place_GRAREN
+21,0,Le Gué / Shopping Promenade,100,10326,1,place_GRAREN
+21,0,Le Gué / Shopping Promenade,100,10326,2,place_LAPSL6
+21,0,Le Gué / Shopping Promenade,100,10326,3,place_097898
+21,0,Le Gué / Shopping Promenade,100,10326,4,place_097878
+21,0,Le Gué / Shopping Promenade,100,10326,5,place_097841
+21,0,Le Gué / Shopping Promenade,100,10326,6,place_097871
+21,0,Le Gué / Shopping Promenade,100,10326,7,place_097905
+21,0,Le Gué / Shopping Promenade,100,10326,8,place_099786
+21,0,Le Gué / Shopping Promenade,100,10326,9,place_LACSE
+21,0,Le Gué / Shopping Promenade,100,10326,10,place_097861
+21,0,Le Gué / Shopping Promenade,100,10326,11,place_099783
+21,0,Le Gué / Shopping Promenade,100,10326,12,place_099779
+21,0,Le Gué / Shopping Promenade,100,10326,13,place_CADAU
+21,0,Le Gué / Shopping Promenade,100,10326,14,place_099811
+21,0,Le Gué / Shopping Promenade,100,10326,15,place_095938
+21,0,Le Gué / Shopping Promenade,100,10326,16,place_095899
+21,0,Le Gué / Shopping Promenade,100,10326,17,place_095786
+21,0,Le Gué / Shopping Promenade,100,10326,18,place_099927
+21,0,Le Gué / Shopping Promenade,100,10326,19,place_095797
+21,0,Le Gué / Shopping Promenade,100,10326,20,place_095898
+21,0,Le Gué / Shopping Promenade,100,10326,21,place_095888
+21,0,Le Gué / Shopping Promenade,100,10326,22,place_095932
+21,0,Le Gué / Shopping Promenade,100,10326,23,place_095889
+21,0,Le Gué / Shopping Promenade,100,10326,24,place_095871
+21,0,Le Gué / Shopping Promenade,100,10326,25,place_HLMCO
+21,0,Le Gué / Shopping Promenade,100,10326,26,place_100304
+21,0,Le Gué / Shopping Promenade,100,10326,27,place_099810
+21,0,Le Gué / Shopping Promenade,100,10326,28,q:4285
+21,0,Le Gué / Shopping Promenade,100,10326,29,q:4284
+21,0,Le Gué / Shopping Promenade,100,10326,30,place_099519
+21,1,Grand Arénas,100,10953,1,place_099519
+21,1,Grand Arénas,100,10953,2,place_095906
+21,1,Grand Arénas,100,10953,3,place_095911
+21,1,Grand Arénas,100,10953,4,place_095840
+21,1,Grand Arénas,100,10953,5,place_099810
+21,1,Grand Arénas,100,10953,6,q:4289
+21,1,Grand Arénas,100,10953,7,place_HLMCO
+21,1,Grand Arénas,100,10953,8,place_095871
+21,1,Grand Arénas,100,10953,9,place_095889
+21,1,Grand Arénas,100,10953,10,place_095777
+21,1,Grand Arénas,100,10953,11,place_095862
+21,1,Grand Arénas,100,10953,12,place_095932
+21,1,Grand Arénas,100,10953,13,place_095888
+21,1,Grand Arénas,100,10953,14,place_095898
+21,1,Grand Arénas,100,10953,15,place_095797
+21,1,Grand Arénas,100,10953,16,place_099927
+21,1,Grand Arénas,100,10953,17,place_095786
+21,1,Grand Arénas,100,10953,18,place_095899
+21,1,Grand Arénas,100,10953,19,place_095938
+21,1,Grand Arénas,100,10953,20,place_099811
+21,1,Grand Arénas,100,10953,21,place_CADAU
+21,1,Grand Arénas,100,10953,22,place_099779
+21,1,Grand Arénas,100,10953,23,place_099783
+21,1,Grand Arénas,100,10953,24,place_LACSE
+21,1,Grand Arénas,100,10953,25,place_099786
+21,1,Grand Arénas,100,10953,26,place_097905
+21,1,Grand Arénas,100,10953,27,place_097871
+21,1,Grand Arénas,100,10953,28,place_097841
+21,1,Grand Arénas,100,10953,29,place_097878
+21,1,Grand Arénas,100,10953,30,place_097898
+21,1,Grand Arénas,100,10953,31,place_GRAREN
+22,0,,98,12270,1,place_WCADA
+22,0,,98,12270,2,place_090709
+22,0,,98,12270,3,place_090817
+22,0,,98,12270,4,place_ARBOUN
+22,0,,98,12270,5,place_097090
+22,0,,98,12270,6,place_CRPPS
+22,0,,98,12270,7,place_096327
+22,0,,98,12270,8,place_096089
+22,0,,98,12270,9,place_096135
+22,0,,98,12270,10,place_MEDHI
+22,0,,98,12270,11,place_096090
+22,0,,98,12270,12,place_096084
+22,0,,98,12270,13,place_100366
+22,1,,98,12279,1,place_100366
+22,1,,98,12279,2,place_096084
+22,1,,98,12279,3,place_096090
+22,1,,98,12279,4,place_MEDHI
+22,1,,98,12279,5,place_096135
+22,1,,98,12279,6,place_096094
+22,1,,98,12279,7,place_096089
+22,1,,98,12279,8,place_096327
+22,1,,98,12279,9,place_CRPPS
+22,1,,98,12279,10,place_097090
+22,1,,98,12279,11,place_ARBOUN
+22,1,,98,12279,12,place_090817
+22,1,,98,12279,13,place_090709
+22,1,,98,12279,14,place_WCADA
+30,0,VAUBAN par BD DU MONT BORON,100,6645,1,place_097507
+30,0,VAUBAN par BD DU MONT BORON,100,6645,2,place_097383
+30,0,VAUBAN par BD DU MONT BORON,100,6645,3,place_097436
+30,0,VAUBAN par BD DU MONT BORON,100,6645,4,place_097278
+30,0,VAUBAN par BD DU MONT BORON,100,6645,5,place_097124
+30,0,VAUBAN par BD DU MONT BORON,100,6645,6,place_097136
+30,0,VAUBAN par BD DU MONT BORON,100,6645,7,place_096653
+30,0,VAUBAN par BD DU MONT BORON,100,6645,8,place_100426
+30,0,VAUBAN par BD DU MONT BORON,100,6645,9,place_097244
+30,0,VAUBAN par BD DU MONT BORON,100,6645,10,place_096775
+30,0,VAUBAN par BD DU MONT BORON,100,6645,11,place_096678
+30,0,VAUBAN par BD DU MONT BORON,100,6645,12,place_096652
+30,0,VAUBAN par BD DU MONT BORON,100,6645,13,place_099558
+30,0,VAUBAN par BD DU MONT BORON,100,6645,14,place_097191
+30,0,VAUBAN par BD DU MONT BORON,100,6645,15,place_097109
+30,0,VAUBAN par BD DU MONT BORON,100,6645,16,place_097072
+30,0,VAUBAN par BD DU MONT BORON,100,6645,17,place_097402
+30,0,VAUBAN par BD DU MONT BORON,100,6645,18,place_100010
+30,0,VAUBAN par BD DU MONT BORON,100,6645,19,place_096929
+30,0,VAUBAN par BD DU MONT BORON,100,6645,20,place_096719
+30,0,VAUBAN par BD DU MONT BORON,100,6645,21,place_PORLYM
+30,0,VAUBAN par BD DU MONT BORON,100,6645,22,place_PLARS
+30,0,VAUBAN par BD DU MONT BORON,100,6645,23,place_NCBAR
+30,0,VAUBAN par BD DU MONT BORON,100,6645,24,place_PSOLA
+30,0,VAUBAN par BD DU MONT BORON,100,6645,25,place_097507
+30,1,Vauban,100,6659,1,place_097507
+30,1,Vauban,100,6659,2,place_096819
+30,1,Vauban,100,6659,3,place_BARLA
+30,1,Vauban,100,6659,4,place_PORLYM
+30,1,Vauban,100,6659,5,place_096719
+30,1,Vauban,100,6659,6,place_096929
+30,1,Vauban,100,6659,7,place_100010
+30,1,Vauban,100,6659,8,place_097402
+30,1,Vauban,100,6659,9,place_097072
+30,1,Vauban,100,6659,10,place_097109
+30,1,Vauban,100,6659,11,place_097191
+30,1,Vauban,100,6659,12,place_099558
+30,1,Vauban,100,6659,13,place_096652
+30,1,Vauban,100,6659,14,place_096678
+30,1,Vauban,100,6659,15,place_096775
+30,1,Vauban,100,6659,16,place_097244
+30,1,Vauban,100,6659,17,place_100426
+30,1,Vauban,100,6659,18,place_096653
+30,1,Vauban,100,6659,19,place_097136
+30,1,Vauban,100,6659,20,place_097124
+30,1,Vauban,100,6659,21,place_097278
+30,1,Vauban,100,6659,22,place_097436
+30,1,Vauban,100,6659,23,place_097383
+30,1,Vauban,100,6659,24,place_097507
+31,0,,86,4283,1,place_096933
+31,0,,86,4283,2,place_097048
+31,0,,86,4283,3,place_097156
+31,0,,86,4283,4,place_096980
+31,0,,86,4283,5,place_096847
+31,0,,86,4283,6,place_096988
+31,0,,86,4283,7,place_096989
+31,0,,86,4283,8,place_097523
+31,0,,86,4283,9,place_096984
+31,0,,86,4283,10,place_097099
+31,0,,86,4283,11,place_099868
+31,0,,86,4283,12,place_097001
+31,0,,86,4283,13,place_097243
+31,0,,86,4283,14,place_096767
+31,0,,86,4283,15,place_097339
+31,0,,86,4283,16,place_096700
+31,0,,86,4283,17,place_096996
+31,0,,86,4283,18,place_097517
+31,0,,86,4283,19,place_097215
+31,0,,86,4283,20,place_097400
+31,0,,86,4283,21,place_097188
+31,1,,88,4283,1,place_097188
+31,1,,88,4283,2,place_097400
+31,1,,88,4283,3,place_097215
+31,1,,88,4283,4,place_097517
+31,1,,88,4283,5,place_096996
+31,1,,88,4283,6,place_096700
+31,1,,88,4283,7,place_097339
+31,1,,88,4283,8,place_096767
+31,1,,88,4283,9,place_097243
+31,1,,88,4283,10,place_097001
+31,1,,88,4283,11,place_099868
+31,1,,88,4283,12,place_097099
+31,1,,88,4283,13,place_096984
+31,1,,88,4283,14,place_097523
+31,1,,88,4283,15,place_096989
+31,1,,88,4283,16,place_096988
+31,1,,88,4283,17,place_096847
+31,1,,88,4283,18,place_096980
+31,1,,88,4283,19,place_097156
+31,1,,88,4283,20,place_097048
+31,1,,88,4283,21,place_096933
+32,0,Caucade / Place Sainte-Marguerite,100,2139,1,place_090328
+32,0,Caucade / Place Sainte-Marguerite,100,2139,2,place_096723
+32,0,Caucade / Place Sainte-Marguerite,100,2139,3,place_096999
+32,0,Caucade / Place Sainte-Marguerite,100,2139,4,place_097433
+32,0,Caucade / Place Sainte-Marguerite,100,2139,5,place_096878
+32,0,Caucade / Place Sainte-Marguerite,100,2139,6,place_096631
+32,0,Caucade / Place Sainte-Marguerite,100,2139,7,place_096734
+32,0,Caucade / Place Sainte-Marguerite,100,2139,8,place_097139
+32,0,Caucade / Place Sainte-Marguerite,100,2139,9,place_097337
+32,0,Caucade / Place Sainte-Marguerite,100,2139,10,place_097133
+32,0,Caucade / Place Sainte-Marguerite,100,2139,11,place_096735
+32,1,Ferber,100,2047,1,place_096735
+32,1,Ferber,100,2047,2,place_097133
+32,1,Ferber,100,2047,3,place_097337
+32,1,Ferber,100,2047,4,place_097139
+32,1,Ferber,100,2047,5,place_096734
+32,1,Ferber,100,2047,6,place_096631
+32,1,Ferber,100,2047,7,place_096878
+32,1,Ferber,100,2047,8,place_096857
+32,1,Ferber,100,2047,9,place_097433
+32,1,Ferber,100,2047,10,place_096838
+32,1,Ferber,100,2047,11,place_090328
+33,0,Mont Boron,91,6976,1,place_099398
+33,0,Mont Boron,91,6976,2,place_VICTO
+33,0,Mont Boron,91,6976,3,place_096635
+33,0,Mont Boron,91,6976,4,place_096859
+33,0,Mont Boron,91,6976,5,place_TOCIM
+33,0,Mont Boron,91,6976,6,place_097435
+33,0,Mont Boron,91,6976,7,place_PARAT
+33,0,Mont Boron,91,6976,8,place_097366
+33,0,Mont Boron,91,6976,9,place_096836
+33,0,Mont Boron,91,6976,10,place_096671
+33,0,Mont Boron,91,6976,11,place_097214
+33,0,Mont Boron,91,6976,12,place_NCPDC
+33,0,Mont Boron,91,6976,13,place_096862
+33,0,Mont Boron,91,6976,14,place_097534
+33,0,Mont Boron,91,6976,15,place_BOYER
+33,0,Mont Boron,91,6976,16,place_096670
+33,0,Mont Boron,91,6976,17,place_097469
+33,0,Mont Boron,91,6976,18,place_096816
+33,0,Mont Boron,91,6976,19,place_097345
+33,0,Mont Boron,91,6976,20,place_097493
+33,0,Mont Boron,91,6976,21,place_097244
+33,0,Mont Boron,91,6976,22,place_096885
+33,0,Mont Boron,91,6976,23,place_097158
+33,0,Mont Boron,91,6976,24,place_096777
+33,0,Mont Boron,91,6976,25,place_FORES
+33,0,Mont Boron,91,6976,26,place_097035
+33,0,Mont Boron,91,6976,27,place_097311
+33,0,Mont Boron,91,6976,28,place_096753
+33,0,Mont Boron,91,6976,29,place_096667
+33,0,Mont Boron,91,6976,30,place_097235
+33,1,College Matisse,92,7674,1,place_097235
+33,1,College Matisse,92,7674,2,place_096667
+33,1,College Matisse,92,7674,3,place_096753
+33,1,College Matisse,92,7674,4,place_097311
+33,1,College Matisse,92,7674,5,place_097035
+33,1,College Matisse,92,7674,6,place_FORES
+33,1,College Matisse,92,7674,7,place_096777
+33,1,College Matisse,92,7674,8,place_DFORES
+33,1,College Matisse,92,7674,9,place_097158
+33,1,College Matisse,92,7674,10,place_096885
+33,1,College Matisse,92,7674,11,place_097244
+33,1,College Matisse,92,7674,12,place_097493
+33,1,College Matisse,92,7674,13,place_097345
+33,1,College Matisse,92,7674,14,place_096816
+33,1,College Matisse,92,7674,15,place_097469
+33,1,College Matisse,92,7674,16,place_096664
+33,1,College Matisse,92,7674,17,place_PORLYM
+33,1,College Matisse,92,7674,18,place_096907
+33,1,College Matisse,92,7674,19,place_097326
+33,1,College Matisse,92,7674,20,place_097534
+33,1,College Matisse,92,7674,21,place_NCPDC
+33,1,College Matisse,92,7674,22,place_097214
+33,1,College Matisse,92,7674,23,place_096671
+33,1,College Matisse,92,7674,24,place_096836
+33,1,College Matisse,92,7674,25,place_097366
+33,1,College Matisse,92,7674,26,place_PARAT
+33,1,College Matisse,92,7674,27,place_097435
+33,1,College Matisse,92,7674,28,place_TOCIM
+33,1,College Matisse,92,7674,29,place_096859
+33,1,College Matisse,92,7674,30,place_096635
+33,1,College Matisse,92,7674,31,place_096654
+33,1,College Matisse,92,7674,32,place_096788
+33,1,College Matisse,92,7674,33,place_099398
+34,0,,28,4280,1,place_096781
+34,0,,28,4280,2,place_097282
+34,0,,28,4280,3,place_097374
+34,0,,28,4280,4,place_096946
+34,0,,28,4280,5,place_096694
+34,0,,28,4280,6,place_096864
+34,0,,28,4280,7,place_097321
+34,0,,28,4280,8,place_096872
+34,0,,28,4280,9,place_STHELE
+34,0,,28,4280,10,place_097501
+34,0,,28,4280,11,place_096815
+34,0,,28,4280,12,place_096829
+34,0,,28,4280,13,place_097495
+34,0,,28,4280,14,place_097498
+34,0,,28,4280,15,place_097488
+34,0,,28,4280,16,place_096610
+34,0,,28,4280,17,place_096747
+34,0,,28,4280,18,q:180
+34,0,,28,4280,19,place_097180
+34,0,,28,4280,20,place_096880
+34,0,,28,4280,21,place_096912
+34,1,,28,4012,1,place_096912
+34,1,,28,4012,2,place_096880
+34,1,,28,4012,3,place_097180
+34,1,,28,4012,4,place_097488
+34,1,,28,4012,5,q:2996
+34,1,,28,4012,6,place_096610
+34,1,,28,4012,7,place_096747
+34,1,,28,4012,8,place_097498
+34,1,,28,4012,9,place_097495
+34,1,,28,4012,10,place_096829
+34,1,,28,4012,11,place_096815
+34,1,,28,4012,12,place_097501
+34,1,,28,4012,13,place_STHELE
+34,1,,28,4012,14,place_096872
+34,1,,28,4012,15,place_097321
+34,1,,28,4012,16,place_096864
+34,1,,28,4012,17,place_096694
+34,1,,28,4012,18,place_096946
+34,1,,28,4012,19,place_097374
+34,1,,28,4012,20,place_097282
+34,1,,28,4012,21,place_096781
+35,0,Cernuschi,92,15009,1,place_097507
+35,0,Cernuschi,92,15009,2,place_097272
+35,0,Cernuschi,92,15009,3,place_097534
+35,0,Cernuschi,92,15009,4,place_096917
+35,0,Cernuschi,92,15009,5,place_099476
+35,0,Cernuschi,92,15009,6,place_099407
+35,0,Cernuschi,92,15009,7,place_096881
+35,0,Cernuschi,92,15009,8,place_096837
+35,0,Cernuschi,92,15009,9,place_097479
+35,0,Cernuschi,92,15009,10,place_098629
+35,0,Cernuschi,92,15009,11,place_097026
+35,0,Cernuschi,92,15009,12,place_096891
+35,0,Cernuschi,92,15009,13,place_096785
+35,0,Cernuschi,92,15009,14,place_097232
+35,0,Cernuschi,92,15009,15,place_097344
+35,0,Cernuschi,92,15009,16,place_096654
+35,0,Cernuschi,92,15009,17,place_096788
+35,0,Cernuschi,92,15009,18,place_096649
+35,0,Cernuschi,92,15009,19,place_097441
+35,0,Cernuschi,92,15009,20,place_RECTO
+35,0,Cernuschi,92,15009,21,place_096803
+35,0,Cernuschi,92,15009,22,place_097382
+35,0,Cernuschi,92,15009,23,place_097017
+35,0,Cernuschi,92,15009,24,place_096969
+35,0,Cernuschi,92,15009,25,place_097091
+35,0,Cernuschi,92,15009,26,place_097309
+35,0,Cernuschi,92,15009,27,place_097460
+35,0,Cernuschi,92,15009,28,place_096680
+35,0,Cernuschi,92,15009,29,place_096972
+35,0,Cernuschi,92,15009,30,place_097320
+35,0,Cernuschi,92,15009,31,place_097171
+35,0,Cernuschi,92,15009,32,place_096853
+35,0,Cernuschi,92,15009,33,place_097161
+35,0,Cernuschi,92,15009,34,place_096299
+35,0,Cernuschi,92,15009,35,place_096295
+35,0,Cernuschi,92,15009,36,place_096307
+35,0,Cernuschi,92,15009,37,place_096296
+35,0,Cernuschi,92,15009,38,place_096298
+35,0,Cernuschi,92,15009,39,place_096303
+35,0,Cernuschi,92,15009,40,place_096298
+35,0,Cernuschi,92,15009,41,place_096296
+35,0,Cernuschi,92,15009,42,place_096307
+35,0,Cernuschi,92,15009,43,place_096295
+35,0,Cernuschi,92,15009,44,place_096299
+35,0,Cernuschi,92,15009,45,place_096289
+35,0,Cernuschi,92,15009,46,place_097008
+35,0,Cernuschi,92,15009,47,place_097500
+35,0,Cernuschi,92,15009,48,place_096892
+35,0,Cernuschi,92,15009,49,place_096967
+35,0,Cernuschi,92,15009,50,place_096991
+35,0,Cernuschi,92,15009,51,place_096728
+35,0,Cernuschi,92,15009,52,place_096638
+35,0,Cernuschi,92,15009,53,place_096877
+35,0,Cernuschi,92,15009,54,place_096932
+35,0,Cernuschi,92,15009,55,place_096883
+35,0,Cernuschi,92,15009,56,place_097445
+35,0,Cernuschi,92,15009,57,place_097438
+35,0,Cernuschi,92,15009,58,place_097074
+35,0,Cernuschi,92,15009,59,place_096739
+35,1,Vauban,92,14957,1,place_096739
+35,1,Vauban,92,14957,2,place_097074
+35,1,Vauban,92,14957,3,place_097438
+35,1,Vauban,92,14957,4,place_SEREA9
+35,1,Vauban,92,14957,5,place_097462
+35,1,Vauban,92,14957,6,place_096883
+35,1,Vauban,92,14957,7,place_096932
+35,1,Vauban,92,14957,8,place_096877
+35,1,Vauban,92,14957,9,place_096638
+35,1,Vauban,92,14957,10,place_096728
+35,1,Vauban,92,14957,11,place_096991
+35,1,Vauban,92,14957,12,place_096967
+35,1,Vauban,92,14957,13,place_096892
+35,1,Vauban,92,14957,14,place_097500
+35,1,Vauban,92,14957,15,place_097008
+35,1,Vauban,92,14957,16,place_096289
+35,1,Vauban,92,14957,17,place_096299
+35,1,Vauban,92,14957,18,place_096295
+35,1,Vauban,92,14957,19,place_096307
+35,1,Vauban,92,14957,20,place_096296
+35,1,Vauban,92,14957,21,place_096298
+35,1,Vauban,92,14957,22,place_096303
+35,1,Vauban,92,14957,23,place_096298
+35,1,Vauban,92,14957,24,place_096296
+35,1,Vauban,92,14957,25,place_096307
+35,1,Vauban,92,14957,26,place_096295
+35,1,Vauban,92,14957,27,place_096299
+35,1,Vauban,92,14957,28,place_096289
+35,1,Vauban,92,14957,29,place_097161
+35,1,Vauban,92,14957,30,place_096853
+35,1,Vauban,92,14957,31,place_097171
+35,1,Vauban,92,14957,32,place_097320
+35,1,Vauban,92,14957,33,place_096972
+35,1,Vauban,92,14957,34,place_096680
+35,1,Vauban,92,14957,35,place_097460
+35,1,Vauban,92,14957,36,place_097309
+35,1,Vauban,92,14957,37,place_097091
+35,1,Vauban,92,14957,38,place_096969
+35,1,Vauban,92,14957,39,place_097017
+35,1,Vauban,92,14957,40,place_097382
+35,1,Vauban,92,14957,41,place_096803
+35,1,Vauban,92,14957,42,place_RECTO
+35,1,Vauban,92,14957,43,place_097441
+35,1,Vauban,92,14957,44,place_096649
+35,1,Vauban,92,14957,45,place_096788
+35,1,Vauban,92,14957,46,place_096654
+35,1,Vauban,92,14957,47,place_097344
+35,1,Vauban,92,14957,48,place_097232
+35,1,Vauban,92,14957,49,place_096785
+35,1,Vauban,92,14957,50,place_096891
+35,1,Vauban,92,14957,51,place_097026
+35,1,Vauban,92,14957,52,place_098629
+35,1,Vauban,92,14957,53,place_097479
+35,1,Vauban,92,14957,54,place_096837
+35,1,Vauban,92,14957,55,place_096881
+35,1,Vauban,92,14957,56,place_099407
+35,1,Vauban,92,14957,57,place_099476
+35,1,Vauban,92,14957,58,place_096909
+35,1,Vauban,92,14957,59,place_096917
+35,1,Vauban,92,14957,60,place_097272
+35,1,Vauban,92,14957,61,place_097507
+36,0,Las Planas / Sappia,100,4396,1,place_097382
+36,0,Las Planas / Sappia,100,4396,2,place_096803
+36,0,Las Planas / Sappia,100,4396,3,place_RECTO
+36,0,Las Planas / Sappia,100,4396,4,place_096968
+36,0,Las Planas / Sappia,100,4396,5,place_097442
+36,0,Las Planas / Sappia,100,4396,6,place_097367
+36,0,Las Planas / Sappia,100,4396,7,place_097002
+36,0,Las Planas / Sappia,100,4396,8,place_097105
+36,0,Las Planas / Sappia,100,4396,9,place_CHAMP
+36,0,Las Planas / Sappia,100,4396,10,place_097144
+36,0,Las Planas / Sappia,100,4396,11,place_097016
+36,0,Las Planas / Sappia,100,4396,12,place_097128
+36,0,Las Planas / Sappia,100,4396,13,place_097530
+36,0,Las Planas / Sappia,100,4396,14,place_097395
+36,0,Las Planas / Sappia,100,4396,15,place_096936
+36,0,Las Planas / Sappia,100,4396,16,place_097236
+36,0,Las Planas / Sappia,100,4396,17,place_096801
+36,0,Las Planas / Sappia,100,4396,18,place_096919
+36,0,Las Planas / Sappia,100,4396,19,place_096790
+36,0,Las Planas / Sappia,100,4396,20,place_097229
+36,0,Las Planas / Sappia,100,4396,21,place_097021
+36,0,Las Planas / Sappia,100,4396,22,place_096798
+36,0,Las Planas / Sappia,100,4396,23,place_097045
+36,0,Las Planas / Sappia,100,4396,24,place_097102
+36,0,Las Planas / Sappia,100,4396,25,place_097117
+36,0,Las Planas / Sappia,100,4396,26,place_097034
+36,1,Rimiez St Georges,100,4524,1,place_097034
+36,1,Rimiez St Georges,100,4524,2,place_097117
+36,1,Rimiez St Georges,100,4524,3,place_097102
+36,1,Rimiez St Georges,100,4524,4,place_097045
+36,1,Rimiez St Georges,100,4524,5,place_096798
+36,1,Rimiez St Georges,100,4524,6,place_097021
+36,1,Rimiez St Georges,100,4524,7,place_097229
+36,1,Rimiez St Georges,100,4524,8,place_096790
+36,1,Rimiez St Georges,100,4524,9,place_096919
+36,1,Rimiez St Georges,100,4524,10,place_097395
+36,1,Rimiez St Georges,100,4524,11,place_096936
+36,1,Rimiez St Georges,100,4524,12,place_097236
+36,1,Rimiez St Georges,100,4524,13,place_096801
+36,1,Rimiez St Georges,100,4524,14,place_097530
+36,1,Rimiez St Georges,100,4524,15,place_096938
+36,1,Rimiez St Georges,100,4524,16,place_097016
+36,1,Rimiez St Georges,100,4524,17,place_097144
+36,1,Rimiez St Georges,100,4524,18,place_CHAMP
+36,1,Rimiez St Georges,100,4524,19,place_097105
+36,1,Rimiez St Georges,100,4524,20,place_097002
+36,1,Rimiez St Georges,100,4524,21,place_097367
+36,1,Rimiez St Georges,100,4524,22,place_097442
+36,1,Rimiez St Georges,100,4524,23,place_096968
+36,1,Rimiez St Georges,100,4524,24,place_RECTO
+36,1,Rimiez St Georges,100,4524,25,place_096803
+36,1,Rimiez St Georges,100,4524,26,place_097382
+37,0,Res Universitaire Montebello,100,4702,1,place_097383
+37,0,Res Universitaire Montebello,100,4702,2,place_PSOLA
+37,0,Res Universitaire Montebello,100,4702,3,place_097272
+37,0,Res Universitaire Montebello,100,4702,4,place_097534
+37,0,Res Universitaire Montebello,100,4702,5,place_NCPDC
+37,0,Res Universitaire Montebello,100,4702,6,place_097214
+37,0,Res Universitaire Montebello,100,4702,7,place_097106
+37,0,Res Universitaire Montebello,100,4702,8,place_097240
+37,0,Res Universitaire Montebello,100,4702,9,place_097306
+37,0,Res Universitaire Montebello,100,4702,10,place_096978
+37,0,Res Universitaire Montebello,100,4702,11,place_096773
+37,0,Res Universitaire Montebello,100,4702,12,place_097078
+37,0,Res Universitaire Montebello,100,4702,13,place_096911
+37,0,Res Universitaire Montebello,100,4702,14,place_096650
+37,0,Res Universitaire Montebello,100,4702,15,place_097274
+37,0,Res Universitaire Montebello,100,4702,16,place_097373
+37,0,Res Universitaire Montebello,100,4702,17,place_097417
+37,0,Res Universitaire Montebello,100,4702,18,place_096861
+37,0,Res Universitaire Montebello,100,4702,19,place_097504
+37,0,Res Universitaire Montebello,100,4702,20,place_097505
+37,0,Res Universitaire Montebello,100,4702,21,place_097452
+37,0,Res Universitaire Montebello,100,4702,22,place_097375
+37,1,Riquier,100,4863,1,place_097375
+37,1,Riquier,100,4863,2,place_097452
+37,1,Riquier,100,4863,3,place_097505
+37,1,Riquier,100,4863,4,place_097504
+37,1,Riquier,100,4863,5,place_096861
+37,1,Riquier,100,4863,6,place_097231
+37,1,Riquier,100,4863,7,place_097417
+37,1,Riquier,100,4863,8,place_097373
+37,1,Riquier,100,4863,9,place_097274
+37,1,Riquier,100,4863,10,place_096650
+37,1,Riquier,100,4863,11,place_096911
+37,1,Riquier,100,4863,12,place_097078
+37,1,Riquier,100,4863,13,place_096773
+37,1,Riquier,100,4863,14,place_096978
+37,1,Riquier,100,4863,15,place_097263
+37,1,Riquier,100,4863,16,place_097240
+37,1,Riquier,100,4863,17,place_097106
+37,1,Riquier,100,4863,18,place_097214
+37,1,Riquier,100,4863,19,place_NCPDC
+37,1,Riquier,100,4863,20,place_096862
+37,1,Riquier,100,4863,21,place_096917
+37,1,Riquier,100,4863,22,place_097368
+37,1,Riquier,100,4863,23,place_097451
+37,1,Riquier,100,4863,24,place_097383
+38,0,Tresorerie,100,3096,1,place_097372
+38,0,Tresorerie,100,3096,2,place_099775
+38,0,Tresorerie,100,3096,3,place_097138
+38,0,Tresorerie,100,3096,4,place_097295
+38,0,Tresorerie,100,3096,5,place_096890
+38,0,Tresorerie,100,3096,6,place_096927
+38,0,Tresorerie,100,3096,7,place_097508
+38,0,Tresorerie,100,3096,8,place_CONGJ
+38,0,Tresorerie,100,3096,9,place_097172
+38,0,Tresorerie,100,3096,10,place_096951
+38,0,Tresorerie,100,3096,11,place_097207
+38,0,Tresorerie,100,3096,12,place_096619
+38,0,Tresorerie,100,3096,13,place_096733
+38,0,Tresorerie,100,3096,14,place_101383
+38,0,Tresorerie,100,3096,15,place_TRESO
+38,1,Residence des Baumettes,100,3292,1,place_TRESO
+38,1,Residence des Baumettes,100,3292,2,q:2977
+38,1,Residence des Baumettes,100,3292,3,place_VHUGO1
+38,1,Residence des Baumettes,100,3292,4,place_096623
+38,1,Residence des Baumettes,100,3292,5,place_097245
+38,1,Residence des Baumettes,100,3292,6,place_097446
+38,1,Residence des Baumettes,100,3292,7,place_097396
+38,1,Residence des Baumettes,100,3292,8,place_096624
+38,1,Residence des Baumettes,100,3292,9,place_096646
+38,1,Residence des Baumettes,100,3292,10,place_096647
+38,1,Residence des Baumettes,100,3292,11,place_096924
+38,1,Residence des Baumettes,100,3292,12,place_096746
+38,1,Residence des Baumettes,100,3292,13,place_097247
+38,1,Residence des Baumettes,100,3292,14,place_097092
+38,1,Residence des Baumettes,100,3292,15,place_097190
+38,1,Residence des Baumettes,100,3292,16,place_097372
+39,0,Complexe Sportif de la Lauvette,100,4344,1,place_097331
+39,0,Complexe Sportif de la Lauvette,100,4344,2,place_096691
+39,0,Complexe Sportif de la Lauvette,100,4344,3,place_096750
+39,0,Complexe Sportif de la Lauvette,100,4344,4,place_097456
+39,0,Complexe Sportif de la Lauvette,100,4344,5,place_096789
+39,1,Pont Michel,100,4625,1,place_096789
+39,1,Pont Michel,100,4625,2,place_097456
+39,1,Pont Michel,100,4625,3,place_096750
+39,1,Pont Michel,100,4625,4,place_096979
+39,1,Pont Michel,100,4625,5,place_097331
+40,0,Collège Matisse,100,1361,1,place_PAST
+40,0,Collège Matisse,100,1361,2,place_096786
+40,0,Collège Matisse,100,1361,3,place_PAST
+40,0,Collège Matisse,100,1361,4,place_097026
+40,0,Collège Matisse,100,1361,5,place_096849
+40,0,Collège Matisse,100,1361,6,place_096788
+40,0,Collège Matisse,100,1361,7,place_CIMIH2
+40,1,Pasteur / Gassin,100,1648,1,place_CIMIH2
+40,1,Pasteur / Gassin,100,1648,2,place_VICTO
+40,1,Pasteur / Gassin,100,1648,3,place_096635
+40,1,Pasteur / Gassin,100,1648,4,place_096654
+40,1,Pasteur / Gassin,100,1648,5,place_096788
+40,1,Pasteur / Gassin,100,1648,6,place_096849
+40,1,Pasteur / Gassin,100,1648,7,place_PAST
+41,0,Collège A. Malraux,47,5237,1,place_095908
+41,0,Collège A. Malraux,47,5237,2,place_095888
+41,0,Collège A. Malraux,47,5237,3,place_095932
+41,0,Collège A. Malraux,47,5237,4,place_095768
+41,0,Collège A. Malraux,47,5237,5,place_095777
+41,0,Collège A. Malraux,47,5237,6,place_095875
+41,0,Collège A. Malraux,47,5237,7,place_099763
+41,0,Collège A. Malraux,47,5237,8,place_100360
+41,0,Collège A. Malraux,47,5237,9,place_MAISO
+41,0,Collège A. Malraux,47,5237,10,place_099922
+41,0,Collège A. Malraux,47,5237,11,place_095883
+41,0,Collège A. Malraux,47,5237,12,place_099808
+41,0,Collège A. Malraux,47,5237,13,place_095827
+41,0,Collège A. Malraux,47,5237,14,place_095930
+41,0,Collège A. Malraux,47,5237,15,place_095912
+41,0,Collège A. Malraux,47,5237,16,place_095890
+41,0,Collège A. Malraux,47,5237,17,place_099741
+41,0,Collège A. Malraux,47,5237,18,place_095795
+41,1,Parc des Sports,52,5977,1,place_095795
+41,1,Parc des Sports,52,5977,2,place_099741
+41,1,Parc des Sports,52,5977,3,place_095890
+41,1,Parc des Sports,52,5977,4,place_095912
+41,1,Parc des Sports,52,5977,5,place_095930
+41,1,Parc des Sports,52,5977,6,place_095827
+41,1,Parc des Sports,52,5977,7,place_099808
+41,1,Parc des Sports,52,5977,8,place_095883
+41,1,Parc des Sports,52,5977,9,place_099922
+41,1,Parc des Sports,52,5977,10,place_099983
+41,1,Parc des Sports,52,5977,11,place_095830
+41,1,Parc des Sports,52,5977,12,place_095836
+41,1,Parc des Sports,52,5977,13,place_095815
+41,1,Parc des Sports,52,5977,14,place_095860
+41,1,Parc des Sports,52,5977,15,place_095833
+41,1,Parc des Sports,52,5977,16,place_099763
+41,1,Parc des Sports,52,5977,17,place_095875
+41,1,Parc des Sports,52,5977,18,place_095862
+41,1,Parc des Sports,52,5977,19,place_095932
+41,1,Parc des Sports,52,5977,20,place_095908
+42,0,Collège Pagnol,100,9908,1,place_095859
+42,0,Collège Pagnol,100,9908,2,place_095800
+42,0,Collège Pagnol,100,9908,3,place_095925
+42,0,Collège Pagnol,100,9908,4,place_CAGARE
+42,0,Collège Pagnol,100,9908,5,place_095777
+42,0,Collège Pagnol,100,9908,6,place_095862
+42,0,Collège Pagnol,100,9908,7,place_095932
+42,0,Collège Pagnol,100,9908,8,place_095888
+42,0,Collège Pagnol,100,9908,9,place_095898
+42,0,Collège Pagnol,100,9908,10,place_095797
+42,0,Collège Pagnol,100,9908,11,place_095846
+42,0,Collège Pagnol,100,9908,12,place_095791
+42,0,Collège Pagnol,100,9908,13,place_095865
+42,0,Collège Pagnol,100,9908,14,place_099741
+42,0,Collège Pagnol,100,9908,15,place_095890
+42,0,Collège Pagnol,100,9908,16,place_095912
+42,0,Collège Pagnol,100,9908,17,place_095930
+42,0,Collège Pagnol,100,9908,18,place_095827
+42,0,Collège Pagnol,100,9908,19,place_097903
+42,0,Collège Pagnol,100,9908,20,place_100429
+42,0,Collège Pagnol,100,9908,21,place_097794
+42,0,Collège Pagnol,100,9908,22,place_097866
+42,0,Collège Pagnol,100,9908,23,place_097875
+42,0,Collège Pagnol,100,9908,24,place_097898
+42,0,Collège Pagnol,100,9908,25,place_097878
+42,0,Collège Pagnol,100,9908,26,place_097841
+42,0,Collège Pagnol,100,9908,27,place_097871
+42,0,Collège Pagnol,100,9908,28,place_097905
+42,0,Collège Pagnol,100,9908,29,place_097819
+42,0,Collège Pagnol,100,9908,30,place_097885
+42,0,Collège Pagnol,100,9908,31,place_097897
+42,0,Collège Pagnol,100,9908,32,place_097809
+42,1,Le Riou,100,9626,1,place_097809
+42,1,Le Riou,100,9626,2,place_097897
+42,1,Le Riou,100,9626,3,place_097885
+42,1,Le Riou,100,9626,4,place_097876
+42,1,Le Riou,100,9626,5,place_097905
+42,1,Le Riou,100,9626,6,place_097871
+42,1,Le Riou,100,9626,7,place_097841
+42,1,Le Riou,100,9626,8,place_097878
+42,1,Le Riou,100,9626,9,place_097898
+42,1,Le Riou,100,9626,10,place_097875
+42,1,Le Riou,100,9626,11,place_097866
+42,1,Le Riou,100,9626,12,place_097794
+42,1,Le Riou,100,9626,13,place_097851
+42,1,Le Riou,100,9626,14,place_097903
+42,1,Le Riou,100,9626,15,place_095886
+42,1,Le Riou,100,9626,16,place_095827
+42,1,Le Riou,100,9626,17,place_095930
+42,1,Le Riou,100,9626,18,place_095912
+42,1,Le Riou,100,9626,19,place_095890
+42,1,Le Riou,100,9626,20,place_099741
+42,1,Le Riou,100,9626,21,place_095865
+42,1,Le Riou,100,9626,22,place_095791
+42,1,Le Riou,100,9626,23,place_095846
+42,1,Le Riou,100,9626,24,place_095797
+42,1,Le Riou,100,9626,25,place_095898
+42,1,Le Riou,100,9626,26,place_095888
+42,1,Le Riou,100,9626,27,place_095932
+42,1,Le Riou,100,9626,28,place_095768
+42,1,Le Riou,100,9626,29,place_095933
+42,1,Le Riou,100,9626,30,place_CAGARE
+42,1,Le Riou,100,9626,31,place_095925
+42,1,Le Riou,100,9626,32,place_095800
+42,1,Le Riou,100,9626,33,place_095859
+43,0,,30,6475,1,place_097166
+43,0,,30,6475,2,place_097080
+43,0,,30,6475,3,place_099823
+43,0,,30,6475,4,place_099825
+43,0,,30,6475,5,place_097058
+43,0,,30,6475,6,place_096732
+43,0,,30,6475,7,place_NCVAG
+43,0,,30,6475,8,place_097115
+43,0,,30,6475,9,place_099824
+43,0,,30,6475,10,place_096704
+43,0,,30,6475,11,place_096810
+43,0,,30,6475,12,place_097405
+43,0,,30,6475,13,place_096662
+43,0,,30,6475,14,place_096990
+43,0,,30,6475,15,place_097357
+43,0,,30,6475,16,place_099805
+43,0,,30,6475,17,place_096677
+43,0,,30,6475,18,place_096983
+43,0,,30,6475,19,place_ARCHE
+43,0,,30,6475,20,place_096752
+43,0,,30,6475,21,place_096609
+43,0,,30,6475,22,place_096781
+43,1,,39,7054,1,place_096781
+43,1,,39,7054,2,place_096609
+43,1,,39,7054,3,place_096752
+43,1,,39,7054,4,place_ARCHE
+43,1,,39,7054,5,place_096983
+43,1,,39,7054,6,place_096677
+43,1,,39,7054,7,place_099805
+43,1,,39,7054,8,place_097357
+43,1,,39,7054,9,place_096990
+43,1,,39,7054,10,place_096662
+43,1,,39,7054,11,place_097405
+43,1,,39,7054,12,place_097085
+43,1,,39,7054,13,place_099824
+43,1,,39,7054,14,place_097115
+43,1,,39,7054,15,place_NCVAG8
+43,1,,39,7054,16,place_096732
+43,1,,39,7054,17,place_097058
+43,1,,39,7054,18,place_099800
+43,1,,39,7054,19,place_099798
+43,1,,39,7054,20,place_099819
+43,1,,39,7054,21,place_099798
+43,1,,39,7054,22,place_099823
+43,1,,39,7054,23,place_097080
+43,1,,39,7054,24,place_097166
+44,0,Square Bourdet par le Château,100,2004,1,place_095932
+44,0,Square Bourdet par le Château,100,2004,2,place_CAPER7
+44,0,Square Bourdet par le Château,100,2004,3,place_099738
+44,0,Square Bourdet par le Château,100,2004,4,place_095881
+44,0,Square Bourdet par le Château,100,2004,5,place_095926
+44,0,Square Bourdet par le Château,100,2004,6,place_095903
+44,0,Square Bourdet par le Château,100,2004,7,place_095788
+44,0,Square Bourdet par le Château,100,2004,8,place_CACHT
+44,0,Square Bourdet par le Château,100,2004,9,place_CAMHC
+44,0,Square Bourdet par le Château,100,2004,10,place_095931
+44,0,Square Bourdet par le Château,100,2004,11,place_095826
+44,0,Square Bourdet par le Château,100,2004,12,place_095889
+44,0,Square Bourdet par le Château,100,2004,13,place_095928
+44,0,Square Bourdet par le Château,100,2004,14,place_095932
+47,0,Pôle d'échanges Pierre Servella,97,16176,1,place_098250
+47,0,Pôle d'échanges Pierre Servella,97,16176,2,place_VNPRL3
+47,0,Pôle d'échanges Pierre Servella,97,16176,3,place_098238
+47,0,Pôle d'échanges Pierre Servella,97,16176,4,place_100795
+47,0,Pôle d'échanges Pierre Servella,97,16176,5,place_100141
+47,0,Pôle d'échanges Pierre Servella,97,16176,6,place_VNADR2
+47,0,Pôle d'échanges Pierre Servella,97,16176,7,place_VNABY2
+47,0,Pôle d'échanges Pierre Servella,97,16176,8,place_VNCOU2
+47,0,Pôle d'échanges Pierre Servella,97,16176,9,place_VNFNT2
+47,0,Pôle d'échanges Pierre Servella,97,16176,10,place_POCAG5
+47,0,Pôle d'échanges Pierre Servella,97,16176,11,place_SJLAF2
+47,0,Pôle d'échanges Pierre Servella,97,16176,12,place_097786
+47,0,Pôle d'échanges Pierre Servella,97,16176,13,place_097787
+47,0,Pôle d'échanges Pierre Servella,97,16176,14,place_097783
+47,0,Pôle d'échanges Pierre Servella,97,16176,15,place_097776
+47,0,Pôle d'échanges Pierre Servella,97,16176,16,place_097781
+47,0,Pôle d'échanges Pierre Servella,97,16176,17,place_097793
+47,0,Pôle d'échanges Pierre Servella,97,16176,18,place_097781
+47,0,Pôle d'échanges Pierre Servella,97,16176,19,place_099052
+47,0,Pôle d'échanges Pierre Servella,97,16176,20,place_096328
+47,0,Pôle d'échanges Pierre Servella,97,16176,21,place_099033
+47,0,Pôle d'échanges Pierre Servella,97,16176,22,place_099032
+47,0,Pôle d'échanges Pierre Servella,97,16176,23,place_099694
+47,0,Pôle d'échanges Pierre Servella,97,16176,24,place_096323
+47,0,Pôle d'échanges Pierre Servella,97,16176,25,place_SLSRL
+47,0,Pôle d'échanges Pierre Servella,97,16176,26,place_096326
+47,0,Pôle d'échanges Pierre Servella,97,16176,27,place_097780
+47,0,Pôle d'échanges Pierre Servella,97,16176,28,place_096310
+47,0,Pôle d'échanges Pierre Servella,97,16176,29,place_100240
+47,0,Pôle d'échanges Pierre Servella,97,16176,30,place_096317
+47,0,Pôle d'échanges Pierre Servella,97,16176,31,place_096095
+47,0,Pôle d'échanges Pierre Servella,97,16176,32,place_MEDHI
+47,0,Pôle d'échanges Pierre Servella,97,16176,33,place_096135
+47,0,Pôle d'échanges Pierre Servella,97,16176,34,place_096094
+47,0,Pôle d'échanges Pierre Servella,97,16176,35,place_096089
+47,0,Pôle d'échanges Pierre Servella,97,16176,36,place_096327
+47,0,Pôle d'échanges Pierre Servella,97,16176,37,place_CRPPS
+47,1,Halte Routière de l'Ara,100,16606,1,place_CRPPS
+47,1,Halte Routière de l'Ara,100,16606,2,place_096327
+47,1,Halte Routière de l'Ara,100,16606,3,place_096089
+47,1,Halte Routière de l'Ara,100,16606,4,place_096135
+47,1,Halte Routière de l'Ara,100,16606,5,place_MEDHI
+47,1,Halte Routière de l'Ara,100,16606,6,place_096101
+47,1,Halte Routière de l'Ara,100,16606,7,place_096095
+47,1,Halte Routière de l'Ara,100,16606,8,place_096317
+47,1,Halte Routière de l'Ara,100,16606,9,place_100240
+47,1,Halte Routière de l'Ara,100,16606,10,place_096310
+47,1,Halte Routière de l'Ara,100,16606,11,place_097780
+47,1,Halte Routière de l'Ara,100,16606,12,place_096326
+47,1,Halte Routière de l'Ara,100,16606,13,place_SLSRL
+47,1,Halte Routière de l'Ara,100,16606,14,place_096323
+47,1,Halte Routière de l'Ara,100,16606,15,place_099694
+47,1,Halte Routière de l'Ara,100,16606,16,place_099032
+47,1,Halte Routière de l'Ara,100,16606,17,place_099033
+47,1,Halte Routière de l'Ara,100,16606,18,q:21659
+47,1,Halte Routière de l'Ara,100,16606,19,place_SJPEY1
+47,1,Halte Routière de l'Ara,100,16606,20,place_SJCAB0
+47,1,Halte Routière de l'Ara,100,16606,21,place_097793
+47,1,Halte Routière de l'Ara,100,16606,22,place_097781
+47,1,Halte Routière de l'Ara,100,16606,23,place_097776
+47,1,Halte Routière de l'Ara,100,16606,24,place_097783
+47,1,Halte Routière de l'Ara,100,16606,25,place_097787
+47,1,Halte Routière de l'Ara,100,16606,26,place_097786
+47,1,Halte Routière de l'Ara,100,16606,27,place_SJLAF1
+47,1,Halte Routière de l'Ara,100,16606,28,place_POCAG7
+47,1,Halte Routière de l'Ara,100,16606,29,place_VNFNT1
+47,1,Halte Routière de l'Ara,100,16606,30,place_VNCOU1
+47,1,Halte Routière de l'Ara,100,16606,31,place_VNABY1
+47,1,Halte Routière de l'Ara,100,16606,32,place_VNFBA6
+47,1,Halte Routière de l'Ara,100,16606,33,place_VNADR1
+47,1,Halte Routière de l'Ara,100,16606,34,place_100141
+47,1,Halte Routière de l'Ara,100,16606,35,place_100795
+47,1,Halte Routière de l'Ara,100,16606,36,place_098238
+47,1,Halte Routière de l'Ara,100,16606,37,place_VNSMA1
+47,1,Halte Routière de l'Ara,100,16606,38,place_VNFNZ2
+47,1,Halte Routière de l'Ara,100,16606,39,place_098305
+47,1,Halte Routière de l'Ara,100,16606,40,place_098250
+49,0,Le Peyron,50,11828,1,place_CAGARE
+49,0,Le Peyron,50,11828,2,place_095777
+49,0,Le Peyron,50,11828,3,place_095862
+49,0,Le Peyron,50,11828,4,place_095932
+49,0,Le Peyron,50,11828,5,place_095888
+49,0,Le Peyron,50,11828,6,place_095898
+49,0,Le Peyron,50,11828,7,place_095797
+49,0,Le Peyron,50,11828,8,place_095846
+49,0,Le Peyron,50,11828,9,place_095902
+49,0,Le Peyron,50,11828,10,place_095868
+49,0,Le Peyron,50,11828,11,place_095855
+49,0,Le Peyron,50,11828,12,place_095820
+49,0,Le Peyron,50,11828,13,place_095897
+49,0,Le Peyron,50,11828,14,place_095817
+49,0,Le Peyron,50,11828,15,place_095818
+49,0,Le Peyron,50,11828,16,place_095913
+49,0,Le Peyron,50,11828,17,place_CA4CH1
+49,0,Le Peyron,50,11828,18,place_096345
+49,0,Le Peyron,50,11828,19,place_096342
+49,0,Le Peyron,50,11828,20,place_099724
+49,0,Le Peyron,50,11828,21,place_096336
+49,0,Le Peyron,50,11828,22,place_100894
+49,0,Le Peyron,50,11828,23,place_096335
+49,0,Le Peyron,50,11828,24,place_096350
+49,0,Le Peyron,50,11828,25,place_096344
+49,0,Le Peyron,50,11828,26,place_096338
+49,0,Le Peyron,50,11828,27,place_097786
+49,0,Le Peyron,50,11828,28,place_097788
+49,1,Gare Cagnes-sur-Mer,60,11787,1,place_097788
+49,1,Gare Cagnes-sur-Mer,60,11787,2,place_097786
+49,1,Gare Cagnes-sur-Mer,60,11787,3,place_096338
+49,1,Gare Cagnes-sur-Mer,60,11787,4,place_096344
+49,1,Gare Cagnes-sur-Mer,60,11787,5,place_096350
+49,1,Gare Cagnes-sur-Mer,60,11787,6,place_096335
+49,1,Gare Cagnes-sur-Mer,60,11787,7,place_100894
+49,1,Gare Cagnes-sur-Mer,60,11787,8,place_096336
+49,1,Gare Cagnes-sur-Mer,60,11787,9,place_099724
+49,1,Gare Cagnes-sur-Mer,60,11787,10,place_096342
+49,1,Gare Cagnes-sur-Mer,60,11787,11,place_096345
+49,1,Gare Cagnes-sur-Mer,60,11787,12,place_CA4CH1
+49,1,Gare Cagnes-sur-Mer,60,11787,13,place_095913
+49,1,Gare Cagnes-sur-Mer,60,11787,14,place_095818
+49,1,Gare Cagnes-sur-Mer,60,11787,15,place_095817
+49,1,Gare Cagnes-sur-Mer,60,11787,16,place_095897
+49,1,Gare Cagnes-sur-Mer,60,11787,17,place_095820
+49,1,Gare Cagnes-sur-Mer,60,11787,18,place_095855
+49,1,Gare Cagnes-sur-Mer,60,11787,19,place_095868
+49,1,Gare Cagnes-sur-Mer,60,11787,20,place_095902
+49,1,Gare Cagnes-sur-Mer,60,11787,21,place_095846
+49,1,Gare Cagnes-sur-Mer,60,11787,22,place_095797
+49,1,Gare Cagnes-sur-Mer,60,11787,23,place_095898
+49,1,Gare Cagnes-sur-Mer,60,11787,24,place_095888
+49,1,Gare Cagnes-sur-Mer,60,11787,25,place_095932
+49,1,Gare Cagnes-sur-Mer,60,11787,26,place_095768
+49,1,Gare Cagnes-sur-Mer,60,11787,27,place_095933
+49,1,Gare Cagnes-sur-Mer,60,11787,28,place_CAGARE
+50,0,,100,5137,1,place_090328
+50,0,,100,5137,2,place_CARRA2
+50,0,,100,5137,3,place_097009
+50,0,,100,5137,4,place_096913
+50,0,,100,5137,5,place_096771
+50,0,,100,5137,6,place_NCMTR4
+50,0,,100,5137,7,place_096630
+50,0,,100,5137,8,place_097143
+50,0,,100,5137,9,place_097489
+50,0,,100,5137,10,place_097237
+50,0,,100,5137,11,place_097140
+50,0,,100,5137,12,place_097060
+50,0,,100,5137,13,place_097369
+50,0,,100,5137,14,place_096846
+50,0,,100,5137,15,place_NCCPT9
+50,0,,100,5137,16,place_097483
+50,0,,100,5137,17,place_MERID
+50,0,,100,5137,18,place_099399
+50,0,,100,5137,19,place_WCADA
+50,1,,100,6639,1,place_WCADA
+50,1,,100,6639,2,place_099399
+50,1,,100,6639,3,place_MERID
+50,1,,100,6639,4,place_TROBE6
+50,1,,100,6639,5,place_NCCPT8
+50,1,,100,6639,6,place_096846
+50,1,,100,6639,7,place_097369
+50,1,,100,6639,8,place_097060
+50,1,,100,6639,9,place_097237
+50,1,,100,6639,10,place_097046
+50,1,,100,6639,11,place_NCISA5
+50,1,,100,6639,12,place_096630
+50,1,,100,6639,13,place_097143
+50,1,,100,6639,14,place_097489
+50,1,,100,6639,15,place_NCMTR5
+50,1,,100,6639,16,place_096913
+50,1,,100,6639,17,place_097009
+50,1,,100,6639,18,place_WCARR
+50,1,,100,6639,19,place_096725
+50,1,,100,6639,20,place_096999
+50,1,,100,6639,21,place_097433
+50,1,,100,6639,22,place_096838
+50,1,,100,6639,23,place_090328
+51,0,,66,6882,1,place_090328
+51,0,,66,6882,2,place_CARRA2
+51,0,,66,6882,3,place_097009
+51,0,,66,6882,4,place_096913
+51,0,,66,6882,5,place_CLAIRH
+51,0,,66,6882,6,place_096795
+51,0,,66,6882,7,place_097447
+51,0,,66,6882,8,place_096956
+51,0,,66,6882,9,place_097131
+51,0,,66,6882,10,place_097237
+51,0,,66,6882,11,place_097252
+51,0,,66,6882,12,place_096709
+51,0,,66,6882,13,place_096632
+51,0,,66,6882,14,place_096955
+51,0,,66,6882,15,place_097369
+51,0,,66,6882,16,place_096846
+51,0,,66,6882,17,place_096954
+51,0,,66,6882,18,place_097225
+51,0,,66,6882,19,place_096659
+51,0,,66,6882,20,place_097346
+51,0,,66,6882,21,place_097365
+51,0,,66,6882,22,place_097351
+51,0,,66,6882,23,place_096631
+51,0,,66,6882,24,place_096878
+51,0,,66,6882,25,place_096857
+51,0,,66,6882,26,place_097433
+51,0,,66,6882,27,place_096838
+51,0,,66,6882,28,place_090328
+51,1,Ferber par Corniche Fleurie,53,7514,1,place_090328
+51,1,Ferber par Corniche Fleurie,53,7514,2,place_096723
+51,1,Ferber par Corniche Fleurie,53,7514,3,place_096999
+51,1,Ferber par Corniche Fleurie,53,7514,4,place_097433
+51,1,Ferber par Corniche Fleurie,53,7514,5,place_096878
+51,1,Ferber par Corniche Fleurie,53,7514,6,place_096631
+51,1,Ferber par Corniche Fleurie,53,7514,7,place_097351
+51,1,Ferber par Corniche Fleurie,53,7514,8,place_097365
+51,1,Ferber par Corniche Fleurie,53,7514,9,place_097346
+51,1,Ferber par Corniche Fleurie,53,7514,10,place_096659
+51,1,Ferber par Corniche Fleurie,53,7514,11,place_097225
+51,1,Ferber par Corniche Fleurie,53,7514,12,place_096954
+51,1,Ferber par Corniche Fleurie,53,7514,13,place_096846
+51,1,Ferber par Corniche Fleurie,53,7514,14,place_097369
+51,1,Ferber par Corniche Fleurie,53,7514,15,place_096955
+51,1,Ferber par Corniche Fleurie,53,7514,16,place_096632
+51,1,Ferber par Corniche Fleurie,53,7514,17,place_096709
+51,1,Ferber par Corniche Fleurie,53,7514,18,place_097252
+51,1,Ferber par Corniche Fleurie,53,7514,19,place_097237
+51,1,Ferber par Corniche Fleurie,53,7514,20,place_097131
+51,1,Ferber par Corniche Fleurie,53,7514,21,place_096956
+51,1,Ferber par Corniche Fleurie,53,7514,22,place_097447
+51,1,Ferber par Corniche Fleurie,53,7514,23,place_096795
+51,1,Ferber par Corniche Fleurie,53,7514,24,place_096796
+51,1,Ferber par Corniche Fleurie,53,7514,25,place_096771
+51,1,Ferber par Corniche Fleurie,53,7514,26,place_096913
+51,1,Ferber par Corniche Fleurie,53,7514,27,place_097009
+51,1,Ferber par Corniche Fleurie,53,7514,28,place_WCARR
+51,1,Ferber par Corniche Fleurie,53,7514,29,place_096725
+51,1,Ferber par Corniche Fleurie,53,7514,30,place_096999
+51,1,Ferber par Corniche Fleurie,53,7514,31,place_097433
+51,1,Ferber par Corniche Fleurie,53,7514,32,place_096838
+51,1,Ferber par Corniche Fleurie,53,7514,33,place_090328
+52,0,,100,13792,1,place_CCSISI
+52,0,,100,13792,2,place_097511
+52,0,,100,13792,3,place_WSTIS1
+52,0,,100,13792,4,place_099798
+52,0,,100,13792,5,place_099825
+52,0,,100,13792,6,place_NCHCR9
+52,0,,100,13792,7,place_099823
+52,0,,100,13792,8,place_097514
+52,0,,100,13792,9,place_097076
+52,0,,100,13792,10,place_097466
+52,0,,100,13792,11,place_097023
+52,0,,100,13792,12,place_096744
+52,0,,100,13792,13,place_097050
+52,0,,100,13792,14,place_097013
+52,0,,100,13792,15,place_097485
+52,0,,100,13792,16,place_GRPC
+52,0,,100,13792,17,place_096692
+52,0,,100,13792,18,place_096657
+52,0,,100,13792,19,place_096751
+52,0,,100,13792,20,place_097053
+52,0,,100,13792,21,place_097427
+52,0,,100,13792,22,place_097340
+52,0,,100,13792,23,place_096756
+52,0,,100,13792,24,place_096210
+52,0,,100,13792,25,place_096202
+52,0,,100,13792,26,place_096194
+52,0,,100,13792,27,place_096212
+52,0,,100,13792,28,place_100170
+52,0,,100,13792,29,place_COPLE3
+52,0,,100,13792,30,place_097116
+52,0,,100,13792,31,place_GOLFAN
+52,0,,100,13792,32,place_CAPHAM
+52,0,,100,13792,33,place_CAPAC
+52,0,,100,13792,34,place_097202
+52,0,,100,13792,35,place_MAIM4
+52,1,,100,14260,1,place_MAIM4
+52,1,,100,14260,2,place_096196
+52,1,,100,14260,3,place_097202
+52,1,,100,14260,4,place_CAPAC
+52,1,,100,14260,5,place_CAPHAM
+52,1,,100,14260,6,place_CAPPAN
+52,1,,100,14260,7,place_GOLFAN
+52,1,,100,14260,8,place_097116
+52,1,,100,14260,9,place_100170
+52,1,,100,14260,10,place_096212
+52,1,,100,14260,11,place_096194
+52,1,,100,14260,12,place_096202
+52,1,,100,14260,13,place_096210
+52,1,,100,14260,14,place_096756
+52,1,,100,14260,15,place_097340
+52,1,,100,14260,16,place_097427
+52,1,,100,14260,17,place_097053
+52,1,,100,14260,18,place_096751
+52,1,,100,14260,19,place_096657
+52,1,,100,14260,20,place_096692
+52,1,,100,14260,21,place_097478
+52,1,,100,14260,22,place_GRPC4
+52,1,,100,14260,23,place_097485
+52,1,,100,14260,24,place_097013
+52,1,,100,14260,25,place_NCCDB
+52,1,,100,14260,26,place_096744
+52,1,,100,14260,27,place_097023
+52,1,,100,14260,28,place_097466
+52,1,,100,14260,29,place_097076
+52,1,,100,14260,30,place_097514
+52,1,,100,14260,31,place_099823
+52,1,,100,14260,32,place_NCHCR0
+52,1,,100,14260,33,place_099800
+52,1,,100,14260,34,place_099798
+52,1,,100,14260,35,place_WSTIS1
+52,1,,100,14260,36,place_097511
+52,1,,100,14260,37,place_AJARD9
+52,1,,100,14260,38,place_097411
+52,1,,100,14260,39,place_CCSISI
+54,0,Saint Jeannet,63,14682,1,place_GRAREN
+54,0,Saint Jeannet,63,14682,2,place_LAPSL6
+54,0,Saint Jeannet,63,14682,3,q:5252
+54,0,Saint Jeannet,63,14682,4,q:5253
+54,0,Saint Jeannet,63,14682,5,q:5254
+54,0,Saint Jeannet,63,14682,6,q:5255
+54,0,Saint Jeannet,63,14682,7,place_099786
+54,0,Saint Jeannet,63,14682,8,place_LACSE
+54,0,Saint Jeannet,63,14682,9,place_097861
+54,0,Saint Jeannet,63,14682,10,place_099783
+54,0,Saint Jeannet,63,14682,11,place_097811
+54,0,Saint Jeannet,63,14682,12,place_099785
+54,0,Saint Jeannet,63,14682,13,place_097849
+54,0,Saint Jeannet,63,14682,14,place_097812
+54,0,Saint Jeannet,63,14682,15,place_097857
+54,0,Saint Jeannet,63,14682,16,place_097864
+54,0,Saint Jeannet,63,14682,17,place_097825
+54,0,Saint Jeannet,63,14682,18,place_097868
+54,0,Saint Jeannet,63,14682,19,place_097824
+54,0,Saint Jeannet,63,14682,20,place_097869
+54,0,Saint Jeannet,63,14682,21,place_LACHT
+54,0,Saint Jeannet,63,14682,22,place_097822
+54,0,Saint Jeannet,63,14682,23,place_097902
+54,0,Saint Jeannet,63,14682,24,place_097846
+54,0,Saint Jeannet,63,14682,25,place_097843
+54,0,Saint Jeannet,63,14682,26,place_097839
+54,0,Saint Jeannet,63,14682,27,place_097862
+54,0,Saint Jeannet,63,14682,28,place_097893
+54,0,Saint Jeannet,63,14682,29,place_LAEPG
+54,0,Saint Jeannet,63,14682,30,place_096329
+54,0,Saint Jeannet,63,14682,31,place_096347
+54,0,Saint Jeannet,63,14682,32,place_096334
+54,0,Saint Jeannet,63,14682,33,place_096333
+54,0,Saint Jeannet,63,14682,34,place_096348
+54,0,Saint Jeannet,63,14682,35,place_096344
+54,0,Saint Jeannet,63,14682,36,place_096338
+54,0,Saint Jeannet,63,14682,37,place_097786
+54,0,Saint Jeannet,63,14682,38,place_097787
+54,0,Saint Jeannet,63,14682,39,place_097783
+54,0,Saint Jeannet,63,14682,40,place_097776
+54,0,Saint Jeannet,63,14682,41,place_097781
+54,0,Saint Jeannet,63,14682,42,place_097793
+54,1,Grand Arénas,62,14886,1,place_097793
+54,1,Grand Arénas,62,14886,2,place_097781
+54,1,Grand Arénas,62,14886,3,place_097776
+54,1,Grand Arénas,62,14886,4,place_097783
+54,1,Grand Arénas,62,14886,5,place_097787
+54,1,Grand Arénas,62,14886,6,place_097786
+54,1,Grand Arénas,62,14886,7,place_096338
+54,1,Grand Arénas,62,14886,8,place_096344
+54,1,Grand Arénas,62,14886,9,place_096348
+54,1,Grand Arénas,62,14886,10,place_096333
+54,1,Grand Arénas,62,14886,11,place_096334
+54,1,Grand Arénas,62,14886,12,place_096347
+54,1,Grand Arénas,62,14886,13,place_096329
+54,1,Grand Arénas,62,14886,14,place_LAEPG
+54,1,Grand Arénas,62,14886,15,place_097893
+54,1,Grand Arénas,62,14886,16,place_097862
+54,1,Grand Arénas,62,14886,17,place_097839
+54,1,Grand Arénas,62,14886,18,place_097843
+54,1,Grand Arénas,62,14886,19,place_097846
+54,1,Grand Arénas,62,14886,20,place_097902
+54,1,Grand Arénas,62,14886,21,place_097822
+54,1,Grand Arénas,62,14886,22,place_LACHT
+54,1,Grand Arénas,62,14886,23,place_097869
+54,1,Grand Arénas,62,14886,24,place_097824
+54,1,Grand Arénas,62,14886,25,place_095894
+54,1,Grand Arénas,62,14886,26,place_097864
+54,1,Grand Arénas,62,14886,27,place_097857
+54,1,Grand Arénas,62,14886,28,place_097812
+54,1,Grand Arénas,62,14886,29,place_097849
+54,1,Grand Arénas,62,14886,30,place_099785
+54,1,Grand Arénas,62,14886,31,place_097811
+54,1,Grand Arénas,62,14886,32,place_099783
+54,1,Grand Arénas,62,14886,33,place_LACSE
+54,1,Grand Arénas,62,14886,34,place_099786
+54,1,Grand Arénas,62,14886,35,place_097905
+54,1,Grand Arénas,62,14886,36,place_097871
+54,1,Grand Arénas,62,14886,37,place_097841
+54,1,Grand Arénas,62,14886,38,place_097878
+54,1,Grand Arénas,62,14886,39,place_097898
+54,1,Grand Arénas,62,14886,40,place_GRAREN
+55,0,La Pompe,100,12785,1,place_LACENC
+55,0,La Pompe,100,12785,2,place_097827
+55,0,La Pompe,100,12785,3,place_097898
+55,0,La Pompe,100,12785,4,place_097878
+55,0,La Pompe,100,12785,5,place_097841
+55,0,La Pompe,100,12785,6,place_097871
+55,0,La Pompe,100,12785,7,place_097905
+55,0,La Pompe,100,12785,8,place_GENLE
+55,0,La Pompe,100,12785,9,place_097895
+55,0,La Pompe,100,12785,10,place_097873
+55,0,La Pompe,100,12785,11,place_SLROD
+55,0,La Pompe,100,12785,12,place_097883
+55,0,La Pompe,100,12785,13,place_LASMA
+55,0,La Pompe,100,12785,14,place_097858
+55,0,La Pompe,100,12785,15,place_097826
+55,0,La Pompe,100,12785,16,place_097798
+55,0,La Pompe,100,12785,17,place_097814
+55,0,La Pompe,100,12785,18,place_097872
+55,0,La Pompe,100,12785,19,place_097815
+55,0,La Pompe,100,12785,20,place_097816
+55,0,La Pompe,100,12785,21,place_097831
+55,0,La Pompe,100,12785,22,place_097817
+55,0,La Pompe,100,12785,23,place_097838
+55,0,La Pompe,100,12785,24,place_097893
+55,0,La Pompe,100,12785,25,place_LAEPG
+55,0,La Pompe,100,12785,26,place_096329
+55,0,La Pompe,100,12785,27,place_096347
+55,0,La Pompe,100,12785,28,place_096334
+55,0,La Pompe,100,12785,29,place_096333
+55,0,La Pompe,100,12785,30,place_096348
+55,0,La Pompe,100,12785,31,place_096344
+55,0,La Pompe,100,12785,32,place_096350
+55,0,La Pompe,100,12785,33,place_096335
+55,0,La Pompe,100,12785,34,place_100894
+55,0,La Pompe,100,12785,35,place_096336
+55,1,Centre Commercial Cap 3000,100,12009,1,place_GDEMS
+55,1,Centre Commercial Cap 3000,100,12009,2,place_100894
+55,1,Centre Commercial Cap 3000,100,12009,3,place_096335
+55,1,Centre Commercial Cap 3000,100,12009,4,place_096350
+55,1,Centre Commercial Cap 3000,100,12009,5,place_096344
+55,1,Centre Commercial Cap 3000,100,12009,6,place_096348
+55,1,Centre Commercial Cap 3000,100,12009,7,place_096333
+55,1,Centre Commercial Cap 3000,100,12009,8,place_096347
+55,1,Centre Commercial Cap 3000,100,12009,9,place_096329
+55,1,Centre Commercial Cap 3000,100,12009,10,place_LAEPG
+55,1,Centre Commercial Cap 3000,100,12009,11,place_097893
+55,1,Centre Commercial Cap 3000,100,12009,12,place_097838
+55,1,Centre Commercial Cap 3000,100,12009,13,place_097817
+55,1,Centre Commercial Cap 3000,100,12009,14,place_097831
+55,1,Centre Commercial Cap 3000,100,12009,15,place_097816
+55,1,Centre Commercial Cap 3000,100,12009,16,place_097815
+55,1,Centre Commercial Cap 3000,100,12009,17,place_097872
+55,1,Centre Commercial Cap 3000,100,12009,18,place_097814
+55,1,Centre Commercial Cap 3000,100,12009,19,place_097798
+55,1,Centre Commercial Cap 3000,100,12009,20,place_097826
+55,1,Centre Commercial Cap 3000,100,12009,21,place_097858
+55,1,Centre Commercial Cap 3000,100,12009,22,place_LASMA
+55,1,Centre Commercial Cap 3000,100,12009,23,place_097883
+55,1,Centre Commercial Cap 3000,100,12009,24,place_SLROD
+55,1,Centre Commercial Cap 3000,100,12009,25,place_097873
+55,1,Centre Commercial Cap 3000,100,12009,26,place_097895
+55,1,Centre Commercial Cap 3000,100,12009,27,place_GENLE
+55,1,Centre Commercial Cap 3000,100,12009,28,place_097905
+55,1,Centre Commercial Cap 3000,100,12009,29,place_097871
+55,1,Centre Commercial Cap 3000,100,12009,30,place_097841
+55,1,Centre Commercial Cap 3000,100,12009,31,place_097878
+55,1,Centre Commercial Cap 3000,100,12009,32,place_097898
+55,1,Centre Commercial Cap 3000,100,12009,33,place_LACENC
+57,0,LAS PLANAS / SAPPIA,100,8699,1,place_097383
+57,0,LAS PLANAS / SAPPIA,100,8699,2,place_096819
+57,0,LAS PLANAS / SAPPIA,100,8699,3,place_BARLA
+57,0,LAS PLANAS / SAPPIA,100,8699,4,place_PORLYM
+57,0,LAS PLANAS / SAPPIA,100,8699,5,place_096907
+57,0,LAS PLANAS / SAPPIA,100,8699,6,place_097183
+57,0,LAS PLANAS / SAPPIA,100,8699,7,place_096618
+57,0,LAS PLANAS / SAPPIA,100,8699,8,place_096620
+57,0,LAS PLANAS / SAPPIA,100,8699,9,place_PASTOR
+57,0,LAS PLANAS / SAPPIA,100,8699,10,place_SASSE
+57,0,LAS PLANAS / SAPPIA,100,8699,11,place_097480
+57,0,LAS PLANAS / SAPPIA,100,8699,12,place_RAURF
+57,0,LAS PLANAS / SAPPIA,100,8699,13,place_097364
+57,0,LAS PLANAS / SAPPIA,100,8699,14,place_099722
+57,0,LAS PLANAS / SAPPIA,100,8699,15,place_100106
+57,0,LAS PLANAS / SAPPIA,100,8699,16,place_POSTE
+57,0,LAS PLANAS / SAPPIA,100,8699,17,place_097476
+57,0,LAS PLANAS / SAPPIA,100,8699,18,place_PARCG
+57,0,LAS PLANAS / SAPPIA,100,8699,19,place_097510
+57,0,LAS PLANAS / SAPPIA,100,8699,20,place_097322
+57,0,LAS PLANAS / SAPPIA,100,8699,21,place_GRPIN
+57,0,LAS PLANAS / SAPPIA,100,8699,22,place_CYRNO
+57,0,LAS PLANAS / SAPPIA,100,8699,23,place_CAGNO
+57,0,LAS PLANAS / SAPPIA,100,8699,24,place_096827
+57,0,LAS PLANAS / SAPPIA,100,8699,25,place_FANNY
+57,0,LAS PLANAS / SAPPIA,100,8699,26,place_096914
+57,0,LAS PLANAS / SAPPIA,100,8699,27,place_097229
+57,0,LAS PLANAS / SAPPIA,100,8699,28,place_096790
+57,0,LAS PLANAS / SAPPIA,100,8699,29,place_099872
+57,0,LAS PLANAS / SAPPIA,100,8699,30,place_097074
+57,0,LAS PLANAS / SAPPIA,100,8699,31,place_096952
+57,0,LAS PLANAS / SAPPIA,100,8699,32,place_096939
+57,0,LAS PLANAS / SAPPIA,100,8699,33,place_099408
+57,0,LAS PLANAS / SAPPIA,100,8699,34,place_097111
+57,0,LAS PLANAS / SAPPIA,100,8699,35,place_097034
+57,1,Riquier,100,8532,1,place_097034
+57,1,Riquier,100,8532,2,place_097111
+57,1,Riquier,100,8532,3,place_099408
+57,1,Riquier,100,8532,4,place_096939
+57,1,Riquier,100,8532,5,place_096952
+57,1,Riquier,100,8532,6,place_097074
+57,1,Riquier,100,8532,7,place_096848
+57,1,Riquier,100,8532,8,place_099872
+57,1,Riquier,100,8532,9,place_096790
+57,1,Riquier,100,8532,10,place_097229
+57,1,Riquier,100,8532,11,place_097429
+57,1,Riquier,100,8532,12,place_FANYC
+57,1,Riquier,100,8532,13,place_096827
+57,1,Riquier,100,8532,14,place_CAGNO
+57,1,Riquier,100,8532,15,place_CYRNO
+57,1,Riquier,100,8532,16,place_GRPIN
+57,1,Riquier,100,8532,17,place_097322
+57,1,Riquier,100,8532,18,place_097510
+57,1,Riquier,100,8532,19,place_PARCG
+57,1,Riquier,100,8532,20,place_097476
+57,1,Riquier,100,8532,21,place_GSNCFT
+57,1,Riquier,100,8532,22,place_100106
+57,1,Riquier,100,8532,23,place_GSNCFM
+57,1,Riquier,100,8532,24,place_NDAME
+57,1,Riquier,100,8532,25,place_097512
+57,1,Riquier,100,8532,26,place_096822
+57,1,Riquier,100,8532,27,place_097207
+57,1,Riquier,100,8532,28,place_096619
+57,1,Riquier,100,8532,29,place_100055
+57,1,Riquier,100,8532,30,place_096818
+57,1,Riquier,100,8532,31,place_BOYER
+57,1,Riquier,100,8532,32,place_096670
+57,1,Riquier,100,8532,33,place_BARLAR
+57,1,Riquier,100,8532,34,place_DELFIR
+57,1,Riquier,100,8532,35,place_097383
+58,0,Square Bourdet,100,7486,1,place_097883
+58,0,Square Bourdet,100,7486,2,place_SLROD
+58,0,Square Bourdet,100,7486,3,place_097873
+58,0,Square Bourdet,100,7486,4,place_097895
+58,0,Square Bourdet,100,7486,5,place_GENLE
+58,0,Square Bourdet,100,7486,6,place_097905
+58,0,Square Bourdet,100,7486,7,place_099786
+58,0,Square Bourdet,100,7486,8,place_LACSE
+58,0,Square Bourdet,100,7486,9,place_097861
+58,0,Square Bourdet,100,7486,10,place_099783
+58,0,Square Bourdet,100,7486,11,place_099779
+58,0,Square Bourdet,100,7486,12,place_097856
+58,0,Square Bourdet,100,7486,13,place_097894
+58,0,Square Bourdet,100,7486,14,place_097801
+58,0,Square Bourdet,100,7486,15,place_097915
+58,0,Square Bourdet,100,7486,16,place_097881
+58,0,Square Bourdet,100,7486,17,place_097830
+58,0,Square Bourdet,100,7486,18,place_099794
+58,0,Square Bourdet,100,7486,19,place_097832
+58,0,Square Bourdet,100,7486,20,place_097884
+58,0,Square Bourdet,100,7486,21,place_VAFL
+58,0,Square Bourdet,100,7486,22,place_099741
+58,0,Square Bourdet,100,7486,23,place_095890
+58,0,Square Bourdet,100,7486,24,place_095912
+58,0,Square Bourdet,100,7486,25,place_095873
+58,0,Square Bourdet,100,7486,26,place_095943
+58,0,Square Bourdet,100,7486,27,place_095932
+58,1,,100,7355,1,place_095932
+58,1,,100,7355,2,place_099927
+58,1,,100,7355,3,place_CABRE8
+58,1,,100,7355,4,place_CAZIE6
+58,1,,100,7355,5,place_CAMIM7
+58,1,,100,7355,6,place_095912
+58,1,,100,7355,7,place_095890
+58,1,,100,7355,8,place_099741
+58,1,,100,7355,9,place_097884
+58,1,,100,7355,10,place_097832
+58,1,,100,7355,11,place_099794
+58,1,,100,7355,12,place_097830
+58,1,,100,7355,13,q:5127
+58,1,,100,7355,14,place_097915
+58,1,,100,7355,15,place_097801
+58,1,,100,7355,16,place_097894
+58,1,,100,7355,17,place_097856
+58,1,,100,7355,18,place_099783
+58,1,,100,7355,19,place_LACSE
+58,1,,100,7355,20,place_099786
+58,1,,100,7355,21,place_097905
+58,1,,100,7355,22,place_GENLE
+58,1,,100,7355,23,place_097895
+58,1,,100,7355,24,place_097873
+58,1,,100,7355,25,place_097890
+58,1,,100,7355,26,place_097877
+58,1,,100,7355,27,place_097883
+59,0,,92,22609,1,place_WCADA
+59,0,,92,22609,2,place_090709
+59,0,,92,22609,3,place_090817
+59,0,,92,22609,4,place_ARBORA
+59,0,,92,22609,5,place_097090
+59,0,,92,22609,6,place_WSTIS1
+59,0,,92,22609,7,place_097511
+59,0,,92,22609,8,place_CCSISI
+59,0,,92,22609,9,place_097410
+59,0,,92,22609,10,place_097166
+59,0,,92,22609,11,place_096738
+59,0,,92,22609,12,place_097202
+59,0,,92,22609,13,place_096196
+59,0,,92,22609,14,place_089586
+59,0,,92,22609,15,place_SMSBL1
+59,0,,92,22609,16,place_100193
+59,0,,92,22609,17,place_101320
+59,0,,92,22609,18,place_097990
+59,0,,92,22609,19,place_097684
+59,0,,92,22609,20,place_099544
+59,0,,92,22609,21,place_100187
+59,0,,92,22609,22,place_101105
+59,0,,92,22609,23,place_095476
+59,1,,92,22813,1,place_095476
+59,1,,92,22813,2,q:7014
+59,1,,92,22813,3,place_100187
+59,1,,92,22813,4,place_100496
+59,1,,92,22813,5,place_099544
+59,1,,92,22813,6,place_097990
+59,1,,92,22813,7,place_101320
+59,1,,92,22813,8,place_SMSBL1
+59,1,,92,22813,9,place_089586
+59,1,,92,22813,10,place_096196
+59,1,,92,22813,11,place_097202
+59,1,,92,22813,12,place_096738
+59,1,,92,22813,13,place_CCSISI
+59,1,,92,22813,14,place_097511
+59,1,,92,22813,15,place_WSTIS1
+59,1,,92,22813,16,place_097090
+59,1,,92,22813,17,place_ARBORA
+59,1,,92,22813,18,place_090817
+59,1,,92,22813,19,place_090709
+59,1,,92,22813,20,place_WCADA
+60,0,Croix de Berra,100,5923,1,place_097192
+60,0,Croix de Berra,100,5923,2,place_CARLON
+60,0,Croix de Berra,100,5923,3,place_097360
+60,0,Croix de Berra,100,5923,4,place_096702
+60,0,Croix de Berra,100,5923,5,place_096713
+60,0,Croix de Berra,100,5923,6,place_097370
+60,0,Croix de Berra,100,5923,7,place_097011
+60,0,Croix de Berra,100,5923,8,place_097213
+60,0,Croix de Berra,100,5923,9,place_097122
+60,0,Croix de Berra,100,5923,10,place_096639
+60,0,Croix de Berra,100,5923,11,place_097261
+60,0,Croix de Berra,100,5923,12,place_096998
+60,0,Croix de Berra,100,5923,13,place_100180
+60,0,Croix de Berra,100,5923,14,place_097135
+60,0,Croix de Berra,100,5923,15,place_097157
+60,0,Croix de Berra,100,5923,16,place_097004
+60,0,Croix de Berra,100,5923,17,place_097361
+60,0,Croix de Berra,100,5923,18,place_097019
+60,0,Croix de Berra,100,5923,19,place_096992
+60,0,Croix de Berra,100,5923,20,place_ANTEN7
+60,0,Croix de Berra,100,5923,21,place_096712
+60,0,Croix de Berra,100,5923,22,place_096843
+60,0,Croix de Berra,100,5923,23,place_097020
+60,0,Croix de Berra,100,5923,24,place_097405
+60,0,Croix de Berra,100,5923,25,place_096810
+60,1,Magnan,100,5922,1,place_096810
+60,1,Magnan,100,5922,2,place_097405
+60,1,Magnan,100,5922,3,place_097020
+60,1,Magnan,100,5922,4,place_096843
+60,1,Magnan,100,5922,5,place_096712
+60,1,Magnan,100,5922,6,place_ANTEN6
+60,1,Magnan,100,5922,7,place_096992
+60,1,Magnan,100,5922,8,place_097019
+60,1,Magnan,100,5922,9,place_097361
+60,1,Magnan,100,5922,10,place_097004
+60,1,Magnan,100,5922,11,place_097157
+60,1,Magnan,100,5922,12,place_097135
+60,1,Magnan,100,5922,13,place_100180
+60,1,Magnan,100,5922,14,place_096998
+60,1,Magnan,100,5922,15,place_097261
+60,1,Magnan,100,5922,16,place_096639
+60,1,Magnan,100,5922,17,place_097122
+60,1,Magnan,100,5922,18,place_097213
+60,1,Magnan,100,5922,19,place_097011
+60,1,Magnan,100,5922,20,place_097370
+60,1,Magnan,100,5922,21,place_096713
+60,1,Magnan,100,5922,22,place_096702
+60,1,Magnan,100,5922,23,place_097360
+60,1,Magnan,100,5922,24,place_CARLON
+60,1,Magnan,100,5922,25,place_097192
+61,0,Magnan,99,11133,1,place_090328
+61,0,Magnan,99,11133,2,place_096723
+61,0,Magnan,99,11133,3,place_096999
+61,0,Magnan,99,11133,4,place_AGRIC2
+61,0,Magnan,99,11133,5,place_096802
+61,0,Magnan,99,11133,6,place_097448
+61,0,Magnan,99,11133,7,place_097173
+61,0,Magnan,99,11133,8,place_096633
+61,0,Magnan,99,11133,9,place_096882
+61,0,Magnan,99,11133,10,place_096800
+61,0,Magnan,99,11133,11,place_096656
+61,0,Magnan,99,11133,12,place_097314
+61,0,Magnan,99,11133,13,place_096841
+61,0,Magnan,99,11133,14,place_097094
+61,0,Magnan,99,11133,15,place_096851
+61,0,Magnan,99,11133,16,place_097237
+61,0,Magnan,99,11133,17,place_097310
+61,0,Magnan,99,11133,18,place_AZUPA7
+61,0,Magnan,99,11133,19,place_096708
+61,0,Magnan,99,11133,20,place_096763
+61,0,Magnan,99,11133,21,place_097474
+61,0,Magnan,99,11133,22,place_097270
+61,0,Magnan,99,11133,23,place_096926
+61,0,Magnan,99,11133,24,place_096704
+61,0,Magnan,99,11133,25,place_096810
+61,0,Magnan,99,11133,26,place_097405
+61,0,Magnan,99,11133,27,place_097020
+61,0,Magnan,99,11133,28,place_096843
+61,0,Magnan,99,11133,29,place_096712
+61,0,Magnan,99,11133,30,place_097005
+61,0,Magnan,99,11133,31,place_096886
+61,0,Magnan,99,11133,32,place_097494
+61,0,Magnan,99,11133,33,place_097051
+61,0,Magnan,99,11133,34,place_097492
+61,0,Magnan,99,11133,35,place_096779
+61,0,Magnan,99,11133,36,place_097392
+61,0,Magnan,99,11133,37,place_100176
+61,0,Magnan,99,11133,38,place_096970
+61,0,Magnan,99,11133,39,place_CARLON
+61,0,Magnan,99,11133,40,place_097192
+61,1,Ferber,98,11308,1,place_097192
+61,1,Ferber,98,11308,2,place_CARLON
+61,1,Ferber,98,11308,3,place_096970
+61,1,Ferber,98,11308,4,place_100176
+61,1,Ferber,98,11308,5,place_097392
+61,1,Ferber,98,11308,6,place_096779
+61,1,Ferber,98,11308,7,place_097492
+61,1,Ferber,98,11308,8,place_097051
+61,1,Ferber,98,11308,9,place_097494
+61,1,Ferber,98,11308,10,place_096886
+61,1,Ferber,98,11308,11,place_097005
+61,1,Ferber,98,11308,12,place_096712
+61,1,Ferber,98,11308,13,place_096843
+61,1,Ferber,98,11308,14,place_097020
+61,1,Ferber,98,11308,15,place_097405
+61,1,Ferber,98,11308,16,place_097085
+61,1,Ferber,98,11308,17,place_096704
+61,1,Ferber,98,11308,18,place_096926
+61,1,Ferber,98,11308,19,place_097270
+61,1,Ferber,98,11308,20,place_097474
+61,1,Ferber,98,11308,21,place_096763
+61,1,Ferber,98,11308,22,place_CALSP9
+61,1,Ferber,98,11308,23,place_096655
+61,1,Ferber,98,11308,24,place_097310
+61,1,Ferber,98,11308,25,place_097237
+61,1,Ferber,98,11308,26,place_096851
+61,1,Ferber,98,11308,27,place_097094
+61,1,Ferber,98,11308,28,place_096841
+61,1,Ferber,98,11308,29,place_097314
+61,1,Ferber,98,11308,30,place_096656
+61,1,Ferber,98,11308,31,place_096800
+61,1,Ferber,98,11308,32,place_096882
+61,1,Ferber,98,11308,33,place_096633
+61,1,Ferber,98,11308,34,place_097173
+61,1,Ferber,98,11308,35,place_097448
+61,1,Ferber,98,11308,36,place_096802
+61,1,Ferber,98,11308,37,place_097249
+61,1,Ferber,98,11308,38,place_097433
+61,1,Ferber,98,11308,39,place_096838
+61,1,Ferber,98,11308,40,place_090328
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,1,place_097192
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,2,place_CARLON
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,3,place_096970
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,4,place_100176
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,5,place_097392
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,6,place_096779
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,7,place_097492
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,8,place_097051
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,9,place_097494
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,10,place_096886
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,11,place_097005
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,12,place_096712
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,13,place_097012
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,14,place_100183
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,15,place_097054
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,16,place_096692
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,17,place_096657
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,18,place_096751
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,19,place_097053
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,20,place_097427
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,21,place_097340
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,22,place_096756
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,23,place_096210
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,24,place_096202
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,25,place_096194
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,26,place_096212
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,27,place_100170
+62,0,Fort Casal Colomars /VIA RTE CANTA GALET,76,9564,28,place_096203
+62,1,Magnan,71,9564,1,place_096203
+62,1,Magnan,71,9564,2,place_100170
+62,1,Magnan,71,9564,3,place_096212
+62,1,Magnan,71,9564,4,place_096194
+62,1,Magnan,71,9564,5,place_096202
+62,1,Magnan,71,9564,6,place_096210
+62,1,Magnan,71,9564,7,place_096756
+62,1,Magnan,71,9564,8,place_097340
+62,1,Magnan,71,9564,9,place_097427
+62,1,Magnan,71,9564,10,place_097053
+62,1,Magnan,71,9564,11,place_096751
+62,1,Magnan,71,9564,12,place_096657
+62,1,Magnan,71,9564,13,place_096692
+62,1,Magnan,71,9564,14,place_097478
+62,1,Magnan,71,9564,15,place_097054
+62,1,Magnan,71,9564,16,place_100183
+62,1,Magnan,71,9564,17,place_097012
+62,1,Magnan,71,9564,18,place_096712
+62,1,Magnan,71,9564,19,place_097005
+62,1,Magnan,71,9564,20,place_096886
+62,1,Magnan,71,9564,21,place_097494
+62,1,Magnan,71,9564,22,place_097051
+62,1,Magnan,71,9564,23,place_097492
+62,1,Magnan,71,9564,24,place_096779
+62,1,Magnan,71,9564,25,place_097392
+62,1,Magnan,71,9564,26,place_100176
+62,1,Magnan,71,9564,27,place_096970
+62,1,Magnan,71,9564,28,place_CARLON
+62,1,Magnan,71,9564,29,place_097192
+63,0,Cernuschi,99,11568,1,place_096693
+63,0,Cernuschi,99,11568,2,place_096965
+63,0,Cernuschi,99,11568,3,place_HALGA0
+63,0,Cernuschi,99,11568,4,place_097322
+63,0,Cernuschi,99,11568,5,place_097064
+63,0,Cernuschi,99,11568,6,place_097227
+63,0,Cernuschi,99,11568,7,place_097319
+63,0,Cernuschi,99,11568,8,place_PESIN1
+63,0,Cernuschi,99,11568,9,place_097380
+63,0,Cernuschi,99,11568,10,place_096850
+63,0,Cernuschi,99,11568,11,place_097418
+63,0,Cernuschi,99,11568,12,place_096674
+63,0,Cernuschi,99,11568,13,place_097055
+63,0,Cernuschi,99,11568,14,place_097160
+63,0,Cernuschi,99,11568,15,place_096823
+63,0,Cernuschi,99,11568,16,place_097425
+63,0,Cernuschi,99,11568,17,place_097303
+63,0,Cernuschi,99,11568,18,place_097472
+63,0,Cernuschi,99,11568,19,place_096964
+63,0,Cernuschi,99,11568,20,place_097150
+63,0,Cernuschi,99,11568,21,place_097169
+63,0,Cernuschi,99,11568,22,place_097118
+63,0,Cernuschi,99,11568,23,place_096797
+63,0,Cernuschi,99,11568,24,place_096764
+63,0,Cernuschi,99,11568,25,place_100178
+63,0,Cernuschi,99,11568,26,place_096780
+63,0,Cernuschi,99,11568,27,place_097141
+63,0,Cernuschi,99,11568,28,place_097052
+63,0,Cernuschi,99,11568,29,place_097421
+63,0,Cernuschi,99,11568,30,place_097499
+63,0,Cernuschi,99,11568,31,place_096784
+63,0,Cernuschi,99,11568,32,place_097397
+63,0,Cernuschi,99,11568,33,place_097093
+63,0,Cernuschi,99,11568,34,place_097014
+63,0,Cernuschi,99,11568,35,place_097275
+63,0,Cernuschi,99,11568,36,place_096879
+63,0,Cernuschi,99,11568,37,place_097044
+63,0,Cernuschi,99,11568,38,place_096967
+63,0,Cernuschi,99,11568,39,place_096991
+63,0,Cernuschi,99,11568,40,place_096728
+63,0,Cernuschi,99,11568,41,place_096638
+63,0,Cernuschi,99,11568,42,place_096877
+63,0,Cernuschi,99,11568,43,place_096932
+63,0,Cernuschi,99,11568,44,place_096883
+63,0,Cernuschi,99,11568,45,place_097445
+63,0,Cernuschi,99,11568,46,place_097438
+63,0,Cernuschi,99,11568,47,place_097074
+63,0,Cernuschi,99,11568,48,place_096739
+63,1,Borriglione,100,11468,1,place_096739
+63,1,Borriglione,100,11468,2,place_097074
+63,1,Borriglione,100,11468,3,place_097438
+63,1,Borriglione,100,11468,4,place_SEREA9
+63,1,Borriglione,100,11468,5,place_097462
+63,1,Borriglione,100,11468,6,place_096883
+63,1,Borriglione,100,11468,7,place_096932
+63,1,Borriglione,100,11468,8,place_096877
+63,1,Borriglione,100,11468,9,place_096638
+63,1,Borriglione,100,11468,10,place_096728
+63,1,Borriglione,100,11468,11,place_096991
+63,1,Borriglione,100,11468,12,place_096967
+63,1,Borriglione,100,11468,13,place_097044
+63,1,Borriglione,100,11468,14,place_096879
+63,1,Borriglione,100,11468,15,place_097275
+63,1,Borriglione,100,11468,16,place_097093
+63,1,Borriglione,100,11468,17,place_097397
+63,1,Borriglione,100,11468,18,place_096784
+63,1,Borriglione,100,11468,19,place_097499
+63,1,Borriglione,100,11468,20,place_097421
+63,1,Borriglione,100,11468,21,place_097052
+63,1,Borriglione,100,11468,22,place_097141
+63,1,Borriglione,100,11468,23,place_096780
+63,1,Borriglione,100,11468,24,place_100178
+63,1,Borriglione,100,11468,25,place_096764
+63,1,Borriglione,100,11468,26,place_096797
+63,1,Borriglione,100,11468,27,place_097118
+63,1,Borriglione,100,11468,28,place_097169
+63,1,Borriglione,100,11468,29,place_097150
+63,1,Borriglione,100,11468,30,place_096964
+63,1,Borriglione,100,11468,31,place_097472
+63,1,Borriglione,100,11468,32,place_097303
+63,1,Borriglione,100,11468,33,place_097425
+63,1,Borriglione,100,11468,34,place_096823
+63,1,Borriglione,100,11468,35,place_097160
+63,1,Borriglione,100,11468,36,place_097055
+63,1,Borriglione,100,11468,37,place_096674
+63,1,Borriglione,100,11468,38,place_097418
+63,1,Borriglione,100,11468,39,place_096850
+63,1,Borriglione,100,11468,40,place_097380
+63,1,Borriglione,100,11468,41,place_097319
+63,1,Borriglione,100,11468,42,place_097227
+63,1,Borriglione,100,11468,43,place_097064
+63,1,Borriglione,100,11468,44,place_097255
+63,1,Borriglione,100,11468,45,place_HALGA1
+63,1,Borriglione,100,11468,46,place_097218
+63,1,Borriglione,100,11468,47,place_096693
+64,0,Saint-Pancrace,100,8613,1,place_NCURF
+64,0,Saint-Pancrace,100,8613,2,place_097364
+64,0,Saint-Pancrace,100,8613,3,place_099722
+64,0,Saint-Pancrace,100,8613,4,place_100106
+64,0,Saint-Pancrace,100,8613,5,place_POSTE
+64,0,Saint-Pancrace,100,8613,6,place_097476
+64,0,Saint-Pancrace,100,8613,7,place_TZAGB
+64,0,Saint-Pancrace,100,8613,8,place_LESCL
+64,0,Saint-Pancrace,100,8613,9,place_TZARE
+64,0,Saint-Pancrace,100,8613,10,place_096748
+64,0,Saint-Pancrace,100,8613,11,place_096770
+64,0,Saint-Pancrace,100,8613,12,place_096672
+64,0,Saint-Pancrace,100,8613,13,place_096949
+64,0,Saint-Pancrace,100,8613,14,place_096870
+64,0,Saint-Pancrace,100,8613,15,place_096863
+64,0,Saint-Pancrace,100,8613,16,place_PARAD
+64,0,Saint-Pancrace,100,8613,17,place_096658
+64,0,Saint-Pancrace,100,8613,18,place_097176
+64,0,Saint-Pancrace,100,8613,19,place_PIODO
+64,0,Saint-Pancrace,100,8613,20,place_097063
+64,0,Saint-Pancrace,100,8613,21,place_097228
+64,0,Saint-Pancrace,100,8613,22,place_LEMAS
+64,0,Saint-Pancrace,100,8613,23,place_097057
+64,0,Saint-Pancrace,100,8613,24,place_097130
+64,0,Saint-Pancrace,100,8613,25,place_097210
+64,0,Saint-Pancrace,100,8613,26,place_096866
+64,0,Saint-Pancrace,100,8613,27,place_097423
+64,0,Saint-Pancrace,100,8613,28,place_CHAUT
+64,0,Saint-Pancrace,100,8613,29,place_BOUL
+64,0,Saint-Pancrace,100,8613,30,place_097305
+64,0,Saint-Pancrace,100,8613,31,place_COSTI
+64,0,Saint-Pancrace,100,8613,32,place_097066
+64,0,Saint-Pancrace,100,8613,33,place_100182
+64,0,Saint-Pancrace,100,8613,34,place_HAMEP
+64,0,Saint-Pancrace,100,8613,35,place_097110
+64,0,Saint-Pancrace,100,8613,36,place_097103
+64,0,Saint-Pancrace,100,8613,37,place_097141
+64,0,Saint-Pancrace,100,8613,38,place_097052
+64,0,Saint-Pancrace,100,8613,39,place_097421
+64,1,URFE,100,8669,1,place_097421
+64,1,URFE,100,8669,2,place_097052
+64,1,URFE,100,8669,3,place_097141
+64,1,URFE,100,8669,4,place_097103
+64,1,URFE,100,8669,5,place_097110
+64,1,URFE,100,8669,6,place_HAMEP
+64,1,URFE,100,8669,7,place_100182
+64,1,URFE,100,8669,8,place_097066
+64,1,URFE,100,8669,9,place_COSTI
+64,1,URFE,100,8669,10,place_097305
+64,1,URFE,100,8669,11,place_BOUL
+64,1,URFE,100,8669,12,place_CHAUT
+64,1,URFE,100,8669,13,place_097423
+64,1,URFE,100,8669,14,place_096866
+64,1,URFE,100,8669,15,place_097210
+64,1,URFE,100,8669,16,place_097137
+64,1,URFE,100,8669,17,place_097130
+64,1,URFE,100,8669,18,place_LEMAS
+64,1,URFE,100,8669,19,place_097228
+64,1,URFE,100,8669,20,place_097063
+64,1,URFE,100,8669,21,place_PIODO
+64,1,URFE,100,8669,22,place_097176
+64,1,URFE,100,8669,23,place_096658
+64,1,URFE,100,8669,24,place_PARAD
+64,1,URFE,100,8669,25,place_096863
+64,1,URFE,100,8669,26,place_096870
+64,1,URFE,100,8669,27,place_097470
+64,1,URFE,100,8669,28,place_096949
+64,1,URFE,100,8669,29,place_096672
+64,1,URFE,100,8669,30,place_096770
+64,1,URFE,100,8669,31,place_096748
+64,1,URFE,100,8669,32,place_TZARE
+64,1,URFE,100,8669,33,place_LESCL
+64,1,URFE,100,8669,34,place_TZAGB
+64,1,URFE,100,8669,35,place_097476
+64,1,URFE,100,8669,36,place_GSNCFT
+64,1,URFE,100,8669,37,place_100106
+64,1,URFE,100,8669,38,place_GSNCFM
+64,1,URFE,100,8669,39,place_NCURF
+66,0,Saint-Sylvestre,100,2368,1,place_097421
+66,0,Saint-Sylvestre,100,2368,2,place_097052
+66,0,Saint-Sylvestre,100,2368,3,place_NCCEP9
+66,0,Saint-Sylvestre,100,2368,4,place_NCPAR
+66,0,Saint-Sylvestre,100,2368,5,place_NCTER
+66,0,Saint-Sylvestre,100,2368,6,place_097429
+66,1,Saint-Pancrace,100,2314,1,place_097021
+66,1,Saint-Pancrace,100,2314,2,place_NCBOU1
+66,1,Saint-Pancrace,100,2314,3,place_NCCEP0
+66,1,Saint-Pancrace,100,2314,4,place_NCCLM8
+66,1,Saint-Pancrace,100,2314,5,place_097052
+66,1,Saint-Pancrace,100,2314,6,place_097421
+67,0,,100,8147,1,place_BROC
+67,0,,100,8147,2,place_096136
+67,0,,100,8147,3,place_096079
+67,0,,100,8147,4,place_098810
+67,0,,100,8147,5,place_098816
+67,0,,100,8147,6,place_096096
+67,0,,100,8147,7,place_CRREP
+67,0,,100,8147,8,place_096088
+67,0,,100,8147,9,place_096097
+67,0,,100,8147,10,place_096102
+67,0,,100,8147,11,place_096091
+67,0,,100,8147,12,place_CRPPS
+67,0,,100,8147,13,place_096327
+67,0,,100,8147,14,place_096089
+67,1,,100,8147,1,place_096089
+67,1,,100,8147,2,place_096327
+67,1,,100,8147,3,place_CRPPS
+67,1,,100,8147,4,place_096091
+67,1,,100,8147,5,place_096102
+67,1,,100,8147,6,place_096097
+67,1,,100,8147,7,place_096088
+67,1,,100,8147,8,place_CRREP
+67,1,,100,8147,9,place_096096
+67,1,,100,8147,10,place_098816
+67,1,,100,8147,11,place_098810
+67,1,,100,8147,12,place_096079
+67,1,,100,8147,13,place_096136
+67,1,,100,8147,14,place_BROC
+68,0,,100,9659,1,place_MEDHI
+68,0,,100,9659,2,place_096135
+68,0,,100,9659,3,place_096094
+68,0,,100,9659,4,place_096089
+68,0,,100,9659,5,place_096327
+68,0,,100,9659,6,place_096103
+68,0,,100,9659,7,place_096196
+68,0,,100,9659,8,place_097202
+68,0,,100,9659,9,place_096196
+68,0,,100,9659,10,place_CRPPS
+68,0,,100,9659,11,place_CRROS7
+68,0,,100,9659,12,place_096123
+68,0,,100,9659,13,place_096124
+68,0,,100,9659,14,place_096126
+68,0,,100,9659,15,place_096127
+68,0,,100,9659,16,place_096129
+68,0,,100,9659,17,place_096130
+68,0,,100,9659,18,place_096133
+68,0,,100,9659,19,place_096106
+68,0,,100,9659,20,place_096108
+68,0,,100,9659,21,place_096110
+68,0,,100,9659,22,place_096111
+68,0,,100,9659,23,place_096113
+68,0,,100,9659,24,place_096116
+68,0,,100,9659,25,place_096118
+68,0,,100,9659,26,place_096119
+68,0,,100,9659,27,place_096120
+68,0,,100,9659,28,place_099861
+68,1,,100,10238,1,place_096122
+68,1,,100,10238,2,place_100163
+68,1,,100,10238,3,place_100192
+68,1,,100,10238,4,place_095763
+68,1,,100,10238,5,place_095764
+68,1,,100,10238,6,place_096117
+68,1,,100,10238,7,place_096114
+68,1,,100,10238,8,place_096115
+68,1,,100,10238,9,place_100166
+68,1,,100,10238,10,place_096109
+68,1,,100,10238,11,place_096107
+68,1,,100,10238,12,place_096134
+68,1,,100,10238,13,place_100168
+68,1,,100,10238,14,place_096131
+68,1,,100,10238,15,place_096128
+68,1,,100,10238,16,place_096125
+68,1,,100,10238,17,place_096105
+68,1,,100,10238,18,place_CRPPS
+68,1,,100,10238,19,place_096196
+68,1,,100,10238,20,place_097202
+68,1,,100,10238,21,place_096196
+68,1,,100,10238,22,place_096327
+68,1,,100,10238,23,place_096089
+68,1,,100,10238,24,place_096135
+68,1,,100,10238,25,place_MEDHI
+69,0,,47,11436,1,place_096738
+69,0,,47,11436,2,place_097202
+69,0,,47,11436,3,place_096196
+69,0,,47,11436,4,place_CRPPS
+69,0,,47,11436,5,place_096327
+69,0,,47,11436,6,place_096089
+69,0,,47,11436,7,place_096135
+69,0,,47,11436,8,place_MEDHI
+69,0,,47,11436,9,place_096090
+69,0,,47,11436,10,place_096084
+69,0,,47,11436,11,place_100366
+69,0,,47,11436,12,place_096084
+69,0,,47,11436,13,place_096090
+69,0,,47,11436,14,place_MEDHI
+69,0,,47,11436,15,place_096135
+69,0,,47,11436,16,place_096094
+69,0,,47,11436,17,place_096089
+69,0,,47,11436,18,place_096327
+69,0,,47,11436,19,place_096091
+69,0,,47,11436,20,place_096102
+69,0,,47,11436,21,place_096097
+69,0,,47,11436,22,place_096088
+69,0,,47,11436,23,place_CRREP
+69,0,,47,11436,24,place_096087
+69,0,,47,11436,25,place_096093
+69,0,,47,11436,26,place_096100
+69,0,,47,11436,27,place_096092
+69,1,,46,3695,1,place_096092
+69,1,,46,3695,2,place_096100
+69,1,,46,3695,3,place_096093
+69,1,,46,3695,4,place_096087
+69,1,,46,3695,5,place_CRREP
+69,1,,46,3695,6,place_096088
+69,1,,46,3695,7,place_096097
+69,1,,46,3695,8,place_096102
+69,1,,46,3695,9,place_096091
+69,1,,46,3695,10,place_CRPPS
+69,1,,46,3695,11,place_096327
+69,1,,46,3695,12,place_096089
+70,0,URFE,100,4311,1,place_ECPAM
+70,0,URFE,100,4311,2,place_VALPE8
+70,0,URFE,100,4311,3,place_PESIN9
+70,0,URFE,100,4311,4,place_097319
+70,0,URFE,100,4311,5,place_097227
+70,0,URFE,100,4311,6,place_097064
+70,0,URFE,100,4311,7,place_097449
+70,0,URFE,100,4311,8,place_100459
+70,0,URFE,100,4311,9,place_TZARE
+70,0,URFE,100,4311,10,place_096748
+70,0,URFE,100,4311,11,place_097138
+70,0,URFE,100,4311,12,place_097295
+70,0,URFE,100,4311,13,place_096890
+70,0,URFE,100,4311,14,place_097476
+70,0,URFE,100,4311,15,place_GSNCFT
+70,0,URFE,100,4311,16,place_100106
+70,0,URFE,100,4311,17,place_GSNCFM
+70,0,URFE,100,4311,18,place_NCURF
+70,1,CPAM ENTREE,100,4016,1,place_NCURF
+70,1,CPAM ENTREE,100,4016,2,place_097364
+70,1,CPAM ENTREE,100,4016,3,place_099722
+70,1,CPAM ENTREE,100,4016,4,place_100106
+70,1,CPAM ENTREE,100,4016,5,place_POSTE
+70,1,CPAM ENTREE,100,4016,6,place_097476
+70,1,CPAM ENTREE,100,4016,7,place_096869
+70,1,CPAM ENTREE,100,4016,8,place_096748
+70,1,CPAM ENTREE,100,4016,9,place_TZARE
+70,1,CPAM ENTREE,100,4016,10,place_100459
+70,1,CPAM ENTREE,100,4016,11,place_097449
+70,1,CPAM ENTREE,100,4016,12,place_097064
+70,1,CPAM ENTREE,100,4016,13,place_097227
+70,1,CPAM ENTREE,100,4016,14,place_097319
+70,1,CPAM ENTREE,100,4016,15,place_PESIN1
+70,1,CPAM ENTREE,100,4016,16,place_097301
+70,1,CPAM ENTREE,100,4016,17,place_VALPE
+70,1,CPAM ENTREE,100,4016,18,place_ECPAM
+71,0,Corniche Bellevue,100,2687,1,place_100106
+71,0,Corniche Bellevue,100,2687,2,place_POSTE
+71,0,Corniche Bellevue,100,2687,3,place_097476
+71,0,Corniche Bellevue,100,2687,4,place_096869
+71,0,Corniche Bellevue,100,2687,5,place_096748
+71,0,Corniche Bellevue,100,2687,6,place_TZARE
+71,0,Corniche Bellevue,100,2687,7,place_097287
+71,0,Corniche Bellevue,100,2687,8,place_097068
+71,0,Corniche Bellevue,100,2687,9,place_097200
+71,0,Corniche Bellevue,100,2687,10,place_097348
+71,0,Corniche Bellevue,100,2687,11,place_097524
+71,0,Corniche Bellevue,100,2687,12,place_096865
+71,0,Corniche Bellevue,100,2687,13,place_096953
+71,0,Corniche Bellevue,100,2687,14,place_096689
+71,0,Corniche Bellevue,100,2687,15,place_097176
+71,0,Corniche Bellevue,100,2687,16,place_096957
+71,0,Corniche Bellevue,100,2687,17,place_097471
+71,0,Corniche Bellevue,100,2687,18,place_097516
+71,0,Corniche Bellevue,100,2687,19,place_096799
+71,1,Gare Thiers,100,2405,1,place_096799
+71,1,Gare Thiers,100,2405,2,place_097516
+71,1,Gare Thiers,100,2405,3,place_097471
+71,1,Gare Thiers,100,2405,4,place_096957
+71,1,Gare Thiers,100,2405,5,place_097176
+71,1,Gare Thiers,100,2405,6,place_096689
+71,1,Gare Thiers,100,2405,7,place_096953
+71,1,Gare Thiers,100,2405,8,place_096865
+71,1,Gare Thiers,100,2405,9,place_097524
+71,1,Gare Thiers,100,2405,10,place_097348
+71,1,Gare Thiers,100,2405,11,place_097200
+71,1,Gare Thiers,100,2405,12,place_097068
+71,1,Gare Thiers,100,2405,13,place_LESCL
+71,1,Gare Thiers,100,2405,14,place_TZAGB
+71,1,Gare Thiers,100,2405,15,place_097476
+71,1,Gare Thiers,100,2405,16,place_GSNCFT
+71,1,Gare Thiers,100,2405,17,place_100106
+72,0,Righi,100,1087,1,place_097322
+72,0,Righi,100,1087,2,place_096805
+72,0,Righi,100,1087,3,place_097049
+72,0,Righi,100,1087,4,place_097226
+72,0,Righi,100,1087,5,place_097251
+72,0,Righi,100,1087,6,place_096697
+72,0,Righi,100,1087,7,place_097033
+72,0,Righi,100,1087,8,place_097081
+72,0,Righi,100,1087,9,place_097250
+72,0,Righi,100,1087,10,place_097380
+72,1,PN / Halte Gambetta,100,2180,1,place_097380
+72,1,PN / Halte Gambetta,100,2180,2,place_096850
+72,1,PN / Halte Gambetta,100,2180,3,place_097519
+72,1,PN / Halte Gambetta,100,2180,4,place_097061
+72,1,PN / Halte Gambetta,100,2180,5,place_096643
+72,1,PN / Halte Gambetta,100,2180,6,place_096676
+72,1,PN / Halte Gambetta,100,2180,7,place_096701
+72,1,PN / Halte Gambetta,100,2180,8,place_NCVDC0
+72,1,PN / Halte Gambetta,100,2180,9,place_CYRNO
+72,1,PN / Halte Gambetta,100,2180,10,place_096812
+72,1,PN / Halte Gambetta,100,2180,11,place_097222
+72,1,PN / Halte Gambetta,100,2180,12,place_097220
+72,1,PN / Halte Gambetta,100,2180,13,place_096965
+72,1,PN / Halte Gambetta,100,2180,14,place_HALGA0
+72,1,PN / Halte Gambetta,100,2180,15,place_097322
+73,0,Centre Commercial Cap 3000,100,14407,1,place_MEDHI
+73,0,Centre Commercial Cap 3000,100,14407,2,place_096135
+73,0,Centre Commercial Cap 3000,100,14407,3,place_096094
+73,0,Centre Commercial Cap 3000,100,14407,4,place_096089
+73,0,Centre Commercial Cap 3000,100,14407,5,place_096327
+73,0,Centre Commercial Cap 3000,100,14407,6,place_CRPPS
+73,0,Centre Commercial Cap 3000,100,14407,7,place_096313
+73,0,Centre Commercial Cap 3000,100,14407,8,place_096320
+73,0,Centre Commercial Cap 3000,100,14407,9,place_096319
+73,0,Centre Commercial Cap 3000,100,14407,10,place_096324
+73,0,Centre Commercial Cap 3000,100,14407,11,place_096314
+73,0,Centre Commercial Cap 3000,100,14407,12,place_100188
+73,0,Centre Commercial Cap 3000,100,14407,13,place_097779
+73,0,Centre Commercial Cap 3000,100,14407,14,place_100173
+73,0,Centre Commercial Cap 3000,100,14407,15,place_096341
+73,0,Centre Commercial Cap 3000,100,14407,16,place_096346
+73,0,Centre Commercial Cap 3000,100,14407,17,place_096331
+73,0,Centre Commercial Cap 3000,100,14407,18,place_097901
+73,0,Centre Commercial Cap 3000,100,14407,19,place_097913
+73,0,Centre Commercial Cap 3000,100,14407,20,place_097853
+73,0,Centre Commercial Cap 3000,100,14407,21,place_097842
+73,0,Centre Commercial Cap 3000,100,14407,22,place_097795
+73,0,Centre Commercial Cap 3000,100,14407,23,place_097797
+73,0,Centre Commercial Cap 3000,100,14407,24,place_099781
+73,0,Centre Commercial Cap 3000,100,14407,25,place_ROLAP
+73,0,Centre Commercial Cap 3000,100,14407,26,place_LASID
+73,0,Centre Commercial Cap 3000,100,14407,27,place_LADAU
+73,0,Centre Commercial Cap 3000,100,14407,28,place_097883
+73,0,Centre Commercial Cap 3000,100,14407,29,place_097809
+73,0,Centre Commercial Cap 3000,100,14407,30,place_097897
+73,0,Centre Commercial Cap 3000,100,14407,31,place_097885
+73,0,Centre Commercial Cap 3000,100,14407,32,place_097876
+73,0,Centre Commercial Cap 3000,100,14407,33,place_097905
+73,0,Centre Commercial Cap 3000,100,14407,34,place_097871
+73,0,Centre Commercial Cap 3000,100,14407,35,place_097841
+73,0,Centre Commercial Cap 3000,100,14407,36,place_097878
+73,0,Centre Commercial Cap 3000,100,14407,37,place_097898
+73,0,Centre Commercial Cap 3000,100,14407,38,place_LACENC
+73,1,Médiathèque,100,14893,1,place_LACENC
+73,1,Médiathèque,100,14893,2,place_097827
+73,1,Médiathèque,100,14893,3,place_097898
+73,1,Médiathèque,100,14893,4,place_097878
+73,1,Médiathèque,100,14893,5,place_097841
+73,1,Médiathèque,100,14893,6,place_097871
+73,1,Médiathèque,100,14893,7,place_097905
+73,1,Médiathèque,100,14893,8,place_097819
+73,1,Médiathèque,100,14893,9,place_097885
+73,1,Médiathèque,100,14893,10,place_097897
+73,1,Médiathèque,100,14893,11,place_097809
+73,1,Médiathèque,100,14893,12,place_097883
+73,1,Médiathèque,100,14893,13,place_LADAU1
+73,1,Médiathèque,100,14893,14,place_LASID
+73,1,Médiathèque,100,14893,15,place_ROLAP
+73,1,Médiathèque,100,14893,16,place_099781
+73,1,Médiathèque,100,14893,17,place_097797
+73,1,Médiathèque,100,14893,18,place_097795
+73,1,Médiathèque,100,14893,19,place_097842
+73,1,Médiathèque,100,14893,20,place_097853
+73,1,Médiathèque,100,14893,21,place_097913
+73,1,Médiathèque,100,14893,22,place_097901
+73,1,Médiathèque,100,14893,23,place_096331
+73,1,Médiathèque,100,14893,24,place_096346
+73,1,Médiathèque,100,14893,25,place_100173
+73,1,Médiathèque,100,14893,26,place_097779
+73,1,Médiathèque,100,14893,27,place_100188
+73,1,Médiathèque,100,14893,28,place_096314
+73,1,Médiathèque,100,14893,29,place_096324
+73,1,Médiathèque,100,14893,30,place_096319
+73,1,Médiathèque,100,14893,31,place_096320
+73,1,Médiathèque,100,14893,32,place_096313
+73,1,Médiathèque,100,14893,33,place_098467
+73,1,Médiathèque,100,14893,34,place_CRPPS
+73,1,Médiathèque,100,14893,35,place_096327
+73,1,Médiathèque,100,14893,36,place_096089
+73,1,Médiathèque,100,14893,37,place_096135
+73,1,Médiathèque,100,14893,38,place_MEDHI
+75,0,Hameaux de la Costière,100,7032,1,place_100106
+75,0,Hameaux de la Costière,100,7032,2,place_POSTE
+75,0,Hameaux de la Costière,100,7032,3,place_097476
+75,0,Hameaux de la Costière,100,7032,4,place_TZAGB
+75,0,Hameaux de la Costière,100,7032,5,place_LESCL
+75,0,Hameaux de la Costière,100,7032,6,place_TZARE
+75,0,Hameaux de la Costière,100,7032,7,place_096748
+75,0,Hameaux de la Costière,100,7032,8,place_096770
+75,0,Hameaux de la Costière,100,7032,9,place_096672
+75,0,Hameaux de la Costière,100,7032,10,place_096949
+75,0,Hameaux de la Costière,100,7032,11,place_096870
+75,0,Hameaux de la Costière,100,7032,12,place_096863
+75,0,Hameaux de la Costière,100,7032,13,place_096985
+75,0,Hameaux de la Costière,100,7032,14,place_097088
+75,0,Hameaux de la Costière,100,7032,15,place_096986
+75,0,Hameaux de la Costière,100,7032,16,place_096982
+75,0,Hameaux de la Costière,100,7032,17,place_096935
+75,0,Hameaux de la Costière,100,7032,18,place_SABAT
+75,0,Hameaux de la Costière,100,7032,19,place_097358
+75,0,Hameaux de la Costière,100,7032,20,place_097187
+75,0,Hameaux de la Costière,100,7032,21,place_096666
+75,0,Hameaux de la Costière,100,7032,22,place_096856
+75,0,Hameaux de la Costière,100,7032,23,place_097423
+75,0,Hameaux de la Costière,100,7032,24,place_CHAUT
+75,0,Hameaux de la Costière,100,7032,25,place_BOUL
+75,0,Hameaux de la Costière,100,7032,26,place_097305
+75,0,Hameaux de la Costière,100,7032,27,place_096743
+75,0,Hameaux de la Costière,100,7032,28,place_097371
+75,0,Hameaux de la Costière,100,7032,29,place_099537
+75,0,Hameaux de la Costière,100,7032,30,place_096933
+75,1,Gare Thiers,92,7044,1,place_096933
+75,1,Gare Thiers,92,7044,2,place_099537
+75,1,Gare Thiers,92,7044,3,place_097371
+75,1,Gare Thiers,92,7044,4,place_096743
+75,1,Gare Thiers,92,7044,5,place_COSTI
+75,1,Gare Thiers,92,7044,6,place_097305
+75,1,Gare Thiers,92,7044,7,place_BOUL
+75,1,Gare Thiers,92,7044,8,place_CHAUT
+75,1,Gare Thiers,92,7044,9,place_097423
+75,1,Gare Thiers,92,7044,10,place_096856
+75,1,Gare Thiers,92,7044,11,place_096666
+75,1,Gare Thiers,92,7044,12,place_097187
+75,1,Gare Thiers,92,7044,13,place_097358
+75,1,Gare Thiers,92,7044,14,place_SABAT
+75,1,Gare Thiers,92,7044,15,place_096935
+75,1,Gare Thiers,92,7044,16,place_096982
+75,1,Gare Thiers,92,7044,17,place_096986
+75,1,Gare Thiers,92,7044,18,place_097088
+75,1,Gare Thiers,92,7044,19,place_096985
+75,1,Gare Thiers,92,7044,20,place_096863
+75,1,Gare Thiers,92,7044,21,place_096870
+75,1,Gare Thiers,92,7044,22,place_097470
+75,1,Gare Thiers,92,7044,23,place_096949
+75,1,Gare Thiers,92,7044,24,place_096672
+75,1,Gare Thiers,92,7044,25,place_096770
+75,1,Gare Thiers,92,7044,26,place_096748
+75,1,Gare Thiers,92,7044,27,place_TZARE
+75,1,Gare Thiers,92,7044,28,place_LESCL
+75,1,Gare Thiers,92,7044,29,place_TZAGB
+75,1,Gare Thiers,92,7044,30,place_097476
+75,1,Gare Thiers,92,7044,31,place_GSNCFT
+75,1,Gare Thiers,92,7044,32,place_100106
+75D,0,,67,10415,1,place_097192
+75D,0,,67,10415,2,place_096924
+75D,0,,67,10415,3,place_096647
+75D,0,,67,10415,4,place_096646
+75D,0,,67,10415,5,place_096770
+75D,0,,67,10415,6,place_096672
+75D,0,,67,10415,7,place_096949
+75D,0,,67,10415,8,place_096870
+75D,0,,67,10415,9,place_096863
+75D,0,,67,10415,10,place_PARAD
+75D,0,,67,10415,11,place_096658
+75D,0,,67,10415,12,place_097176
+75D,0,,67,10415,13,place_PIODO
+75D,0,,67,10415,14,place_097063
+75D,0,,67,10415,15,place_097228
+75D,0,,67,10415,16,place_097057
+75D,0,,67,10415,17,place_097130
+75D,0,,67,10415,18,place_097210
+75D,0,,67,10415,19,place_096866
+75D,0,,67,10415,20,place_097423
+75D,0,,67,10415,21,place_096856
+75D,0,,67,10415,22,place_096666
+75D,0,,67,10415,23,place_097187
+75D,0,,67,10415,24,place_097358
+75D,0,,67,10415,25,place_SABAT
+75D,0,,67,10415,26,place_096935
+75D,0,,67,10415,27,place_096982
+75D,0,,67,10415,28,place_096986
+75D,0,,67,10415,29,place_096627
+75D,0,,67,10415,30,place_096711
+75D,0,,67,10415,31,place_NCVIG1
+75D,0,,67,10415,32,place_101386
+75D,0,,67,10415,33,place_NVSTA1
+75D,0,,67,10415,34,place_096994
+75D,0,,67,10415,35,place_096684
+75D,0,,67,10415,36,place_096698
+75D,0,,67,10415,37,place_097113
+75D,0,,67,10415,38,place_097461
+75D,0,,67,10415,39,place_096685
+75D,0,,67,10415,40,place_097242
+75D,0,,67,10415,41,place_096740
+75D,0,,67,10415,42,place_096628
+75D,0,,67,10415,43,place_CARLM
+75D,0,,67,10415,44,place_097192
+75D,1,,100,10559,1,place_097192
+75D,1,,100,10559,2,place_CARLM
+75D,1,,100,10559,3,place_096628
+75D,1,,100,10559,4,place_096740
+75D,1,,100,10559,5,place_097242
+75D,1,,100,10559,6,place_096685
+75D,1,,100,10559,7,place_097461
+75D,1,,100,10559,8,place_097113
+75D,1,,100,10559,9,place_096698
+75D,1,,100,10559,10,place_096684
+75D,1,,100,10559,11,place_099868
+75D,1,,100,10559,12,place_096994
+75D,1,,100,10559,13,place_NVSTA2
+75D,1,,100,10559,14,place_101386
+75D,1,,100,10559,15,place_NCVIG2
+75D,1,,100,10559,16,place_096711
+75D,1,,100,10559,17,place_096627
+75D,1,,100,10559,18,place_096986
+75D,1,,100,10559,19,place_096982
+75D,1,,100,10559,20,place_096935
+75D,1,,100,10559,21,place_SABAT
+75D,1,,100,10559,22,place_097358
+75D,1,,100,10559,23,place_096666
+75D,1,,100,10559,24,place_096856
+75D,1,,100,10559,25,place_097423
+75D,1,,100,10559,26,place_096866
+75D,1,,100,10559,27,place_097210
+75D,1,,100,10559,28,place_097137
+75D,1,,100,10559,29,place_097130
+75D,1,,100,10559,30,place_LEMAS
+75D,1,,100,10559,31,place_097228
+75D,1,,100,10559,32,place_097063
+75D,1,,100,10559,33,place_PIODO
+75D,1,,100,10559,34,place_097176
+75D,1,,100,10559,35,place_096658
+75D,1,,100,10559,36,place_PARAD
+75D,1,,100,10559,37,place_096863
+75D,1,,100,10559,38,place_096870
+75D,1,,100,10559,39,place_097470
+75D,1,,100,10559,40,place_096949
+75D,1,,100,10559,41,place_096672
+75D,1,,100,10559,42,place_096770
+75D,1,,100,10559,43,place_096646
+75D,1,,100,10559,44,place_096647
+75D,1,,100,10559,45,place_096924
+75D,1,,100,10559,46,place_097192
+76,0,Castagniers Village,38,12120,1,place_097316
+76,0,Castagniers Village,38,12120,2,place_096790
+76,0,Castagniers Village,38,12120,3,place_099872
+76,0,Castagniers Village,38,12120,4,place_097074
+76,0,Castagniers Village,38,12120,5,place_097438
+76,0,Castagniers Village,38,12120,6,place_SEREA9
+76,0,Castagniers Village,38,12120,7,place_097462
+76,0,Castagniers Village,38,12120,8,place_096883
+76,0,Castagniers Village,38,12120,9,place_096932
+76,0,Castagniers Village,38,12120,10,place_096877
+76,0,Castagniers Village,38,12120,11,place_096638
+76,0,Castagniers Village,38,12120,12,place_096728
+76,0,Castagniers Village,38,12120,13,place_096991
+76,0,Castagniers Village,38,12120,14,place_096967
+76,0,Castagniers Village,38,12120,15,place_097044
+76,0,Castagniers Village,38,12120,16,place_096879
+76,0,Castagniers Village,38,12120,17,place_097275
+76,0,Castagniers Village,38,12120,18,place_097093
+76,0,Castagniers Village,38,12120,19,place_095652
+76,0,Castagniers Village,38,12120,20,place_095654
+76,0,Castagniers Village,38,12120,21,place_095661
+76,0,Castagniers Village,38,12120,22,place_095653
+76,0,Castagniers Village,38,12120,23,place_095655
+76,0,Castagniers Village,38,12120,24,place_095647
+76,0,Castagniers Village,38,12120,25,place_095657
+76,0,Castagniers Village,38,12120,26,place_095658
+76,0,Castagniers Village,38,12120,27,place_095659
+76,0,Castagniers Village,38,12120,28,place_095645
+76,0,Castagniers Village,38,12120,29,place_ASFON7
+76,0,Castagniers Village,38,12120,30,place_096146
+76,0,Castagniers Village,38,12120,31,place_096147
+76,0,Castagniers Village,38,12120,32,place_CSPK1
+76,0,Castagniers Village,38,12120,33,place_096152
+76,0,Castagniers Village,38,12120,34,place_096140
+76,1,Place Fontaine du Temple,32,11529,1,place_096140
+76,1,Place Fontaine du Temple,32,11529,2,place_096152
+76,1,Place Fontaine du Temple,32,11529,3,place_096147
+76,1,Place Fontaine du Temple,32,11529,4,place_096146
+76,1,Place Fontaine du Temple,32,11529,5,place_ASFON6
+76,1,Place Fontaine du Temple,32,11529,6,place_095645
+76,1,Place Fontaine du Temple,32,11529,7,place_095658
+76,1,Place Fontaine du Temple,32,11529,8,place_095657
+76,1,Place Fontaine du Temple,32,11529,9,place_095647
+76,1,Place Fontaine du Temple,32,11529,10,place_095648
+76,1,Place Fontaine du Temple,32,11529,11,place_095653
+76,1,Place Fontaine du Temple,32,11529,12,place_095662
+76,1,Place Fontaine du Temple,32,11529,13,place_095654
+76,1,Place Fontaine du Temple,32,11529,14,place_095652
+76,1,Place Fontaine du Temple,32,11529,15,place_097093
+76,1,Place Fontaine du Temple,32,11529,16,place_097014
+76,1,Place Fontaine du Temple,32,11529,17,place_097275
+76,1,Place Fontaine du Temple,32,11529,18,place_096879
+76,1,Place Fontaine du Temple,32,11529,19,place_097044
+76,1,Place Fontaine du Temple,32,11529,20,place_096967
+76,1,Place Fontaine du Temple,32,11529,21,place_096991
+76,1,Place Fontaine du Temple,32,11529,22,place_096728
+76,1,Place Fontaine du Temple,32,11529,23,place_096638
+76,1,Place Fontaine du Temple,32,11529,24,place_096877
+76,1,Place Fontaine du Temple,32,11529,25,place_096932
+76,1,Place Fontaine du Temple,32,11529,26,place_096883
+76,1,Place Fontaine du Temple,32,11529,27,place_097445
+76,1,Place Fontaine du Temple,32,11529,28,place_097438
+76,1,Place Fontaine du Temple,32,11529,29,place_097074
+76,1,Place Fontaine du Temple,32,11529,30,place_096848
+76,1,Place Fontaine du Temple,32,11529,31,place_099872
+76,1,Place Fontaine du Temple,32,11529,32,place_096790
+76,1,Place Fontaine du Temple,32,11529,33,place_097276
+76,1,Place Fontaine du Temple,32,11529,34,place_097316
+77,0,Carros Village,100,9401,1,place_096089
+77,0,Carros Village,100,9401,2,place_096135
+77,0,Carros Village,100,9401,3,place_MEDHI
+77,0,Carros Village,100,9401,4,place_096090
+77,0,Carros Village,100,9401,5,place_096084
+77,0,Carros Village,100,9401,6,place_100366
+77,0,Carros Village,100,9401,7,place_100364
+77,0,Carros Village,100,9401,8,place_100365
+77,0,Carros Village,100,9401,9,place_098820
+77,0,Carros Village,100,9401,10,place_098810
+77,0,Carros Village,100,9401,11,place_096099
+77,0,Carros Village,100,9401,12,place_CRCCD
+77,0,Carros Village,100,9401,13,place_096080
+77,0,Carros Village,100,9401,14,place_100165
+77,0,Carros Village,100,9401,15,place_098817
+77,0,Carros Village,100,9401,16,place_098824
+77,0,Carros Village,100,9401,17,place_098814
+77,0,Carros Village,100,9401,18,place_098823
+77,0,Carros Village,100,9401,19,place_098818
+77,0,Carros Village,100,9401,20,place_CRCLA4
+77,0,Carros Village,100,9401,21,place_098825
+77,0,Carros Village,100,9401,22,place_096079
+77,1,,67,9155,1,place_096099
+77,1,,67,9155,2,place_CRCCD
+77,1,,67,9155,3,place_096080
+77,1,,67,9155,4,place_100165
+77,1,,67,9155,5,place_098817
+77,1,,67,9155,6,place_098824
+77,1,,67,9155,7,place_098814
+77,1,,67,9155,8,place_098823
+77,1,,67,9155,9,place_098818
+77,1,,67,9155,10,place_CRCLA4
+77,1,,67,9155,11,place_098825
+77,1,,67,9155,12,place_096079
+77,1,,67,9155,13,place_098810
+77,1,,67,9155,14,place_098820
+77,1,,67,9155,15,place_100365
+77,1,,67,9155,16,place_100364
+77,1,,67,9155,17,place_100366
+77,1,,67,9155,18,place_096084
+77,1,,67,9155,19,place_096090
+77,1,,67,9155,20,place_MEDHI
+77,1,,67,9155,21,place_096135
+77,1,,67,9155,22,place_096094
+77,1,,67,9155,23,place_096089
+80,0,Vauban,32,3795,1,place_098369
+80,0,Vauban,32,3795,2,place_098393
+80,0,Vauban,32,3795,3,place_098351
+80,0,Vauban,32,3795,4,place_098389
+80,0,Vauban,32,3795,5,place_098364
+80,0,Vauban,32,3795,6,place_098384
+80,0,Vauban,32,3795,7,place_098359
+80,0,Vauban,32,3795,8,place_098340
+80,0,Vauban,32,3795,9,place_098349
+80,0,Vauban,32,3795,10,place_098380
+80,0,Vauban,32,3795,11,place_098400
+80,0,Vauban,32,3795,12,place_098401
+80,0,Vauban,32,3795,13,place_098346
+80,0,Vauban,32,3795,14,place_096777
+80,0,Vauban,32,3795,15,place_096653
+80,0,Vauban,32,3795,16,place_097525
+80,0,Vauban,32,3795,17,place_096834
+80,0,Vauban,32,3795,18,place_096731
+80,0,Vauban,32,3795,19,place_097142
+80,0,Vauban,32,3795,20,place_097281
+80,0,Vauban,32,3795,21,place_096918
+80,0,Vauban,32,3795,22,place_097507
+80,1,Le Gentilhomme,30,3907,1,place_097383
+80,1,Le Gentilhomme,30,3907,2,place_099395
+80,1,Le Gentilhomme,30,3907,3,place_096918
+80,1,Le Gentilhomme,30,3907,4,place_097281
+80,1,Le Gentilhomme,30,3907,5,place_096828
+80,1,Le Gentilhomme,30,3907,6,place_097142
+80,1,Le Gentilhomme,30,3907,7,place_096731
+80,1,Le Gentilhomme,30,3907,8,place_096834
+80,1,Le Gentilhomme,30,3907,9,place_097525
+80,1,Le Gentilhomme,30,3907,10,place_096653
+80,1,Le Gentilhomme,30,3907,11,place_096777
+80,1,Le Gentilhomme,30,3907,12,place_098346
+80,1,Le Gentilhomme,30,3907,13,place_098401
+80,1,Le Gentilhomme,30,3907,14,place_098400
+80,1,Le Gentilhomme,30,3907,15,place_VMMAI2
+80,1,Le Gentilhomme,30,3907,16,place_VMBAR2
+80,1,Le Gentilhomme,30,3907,17,place_100123
+80,1,Le Gentilhomme,30,3907,18,place_098385
+80,1,Le Gentilhomme,30,3907,19,place_098364
+80,1,Le Gentilhomme,30,3907,20,place_098389
+80,1,Le Gentilhomme,30,3907,21,place_VMHOT1
+80,1,Le Gentilhomme,30,3907,22,place_098393
+80,1,Le Gentilhomme,30,3907,23,place_098369
+81,0,Ariane / Général Saramito,51,6009,1,place_PPEIL
+81,0,Ariane / Général Saramito,51,6009,2,place_DRPDB
+81,0,Ariane / Général Saramito,51,6009,3,place_VERNE9
+81,0,Ariane / Général Saramito,51,6009,4,place_PCHFE3
+81,0,Ariane / Général Saramito,51,6009,5,place_PCANT4
+81,0,Ariane / Général Saramito,51,6009,6,place_CARLI5
+81,0,Ariane / Général Saramito,51,6009,7,place_PCAUV6
+81,0,Ariane / Général Saramito,51,6009,8,place_DRSJF
+81,0,Ariane / Général Saramito,51,6009,9,place_VALLO7
+81,0,Ariane / Général Saramito,51,6009,10,place_096243
+81,0,Ariane / Général Saramito,51,6009,11,place_PONTA3
+81,0,Ariane / Général Saramito,51,6009,12,place_LEGLI4
+81,0,Ariane / Général Saramito,51,6009,13,place_098121
+81,0,Ariane / Général Saramito,51,6009,14,place_100029
+81,0,Ariane / Général Saramito,51,6009,15,place_098117
+81,0,Ariane / Général Saramito,51,6009,16,place_L'OLI
+81,0,Ariane / Général Saramito,51,6009,17,place_098145
+81,0,Ariane / Général Saramito,51,6009,18,place_097328
+81,0,Ariane / Général Saramito,51,6009,19,place_097059
+81,0,Ariane / Général Saramito,51,6009,20,place_097126
+81,0,Ariane / Général Saramito,51,6009,21,place_097168
+81,0,Ariane / Général Saramito,51,6009,22,place_096636
+81,1,La Condamine,54,6829,1,place_096636
+81,1,La Condamine,54,6829,2,place_096852
+81,1,La Condamine,54,6829,3,place_097315
+81,1,La Condamine,54,6829,4,place_097211
+81,1,La Condamine,54,6829,5,place_096759
+81,1,La Condamine,54,6829,6,place_097416
+81,1,La Condamine,54,6829,7,place_L'OLI
+81,1,La Condamine,54,6829,8,place_098117
+81,1,La Condamine,54,6829,9,place_100029
+81,1,La Condamine,54,6829,10,place_098149
+81,1,La Condamine,54,6829,11,place_TRC11
+81,1,La Condamine,54,6829,12,place_098144
+81,1,La Condamine,54,6829,13,place_096243
+81,1,La Condamine,54,6829,14,place_VALLO5
+81,1,La Condamine,54,6829,15,place_DRSJF
+81,1,La Condamine,54,6829,16,place_DRPLC9
+81,1,La Condamine,54,6829,17,place_CARLI6
+81,1,La Condamine,54,6829,18,place_PCANT7
+81,1,La Condamine,54,6829,19,place_PCHFE8
+81,1,La Condamine,54,6829,20,place_VERNE
+81,1,La Condamine,54,6829,21,place_DRPBL1
+81,1,La Condamine,54,6829,22,place_PPEIL
+81,1,La Condamine,54,6829,23,place_CONDA
+82,0,,100,10685,1,place_097507
+82,0,,100,10685,2,place_097272
+82,0,,100,10685,3,place_097534
+82,0,,100,10685,4,place_096670
+82,0,,100,10685,5,place_097469
+82,0,,100,10685,6,place_096816
+82,0,,100,10685,7,place_097345
+82,0,,100,10685,8,place_097493
+82,0,,100,10685,9,place_097244
+82,0,,100,10685,10,place_096885
+82,0,,100,10685,11,place_097158
+82,0,,100,10685,12,place_096777
+82,0,,100,10685,13,place_098363
+82,0,,100,10685,14,place_098357
+82,0,,100,10685,15,place_098368
+82,0,,100,10685,16,place_098360
+82,0,,100,10685,17,place_098377
+82,0,,100,10685,18,place_098398
+82,0,,100,10685,19,place_098354
+82,0,,100,10685,20,place_EZBEL1
+82,0,,100,10685,21,place_096274
+82,0,,100,10685,22,place_096271
+82,0,,100,10685,23,place_096275
+82,0,,100,10685,24,place_096282
+82,0,,100,10685,25,place_096272
+82,0,,100,10685,26,place_096284
+82,1,,100,10655,1,place_096284
+82,1,,100,10655,2,place_096272
+82,1,,100,10655,3,place_096282
+82,1,,100,10655,4,place_096275
+82,1,,100,10655,5,place_096271
+82,1,,100,10655,6,place_096274
+82,1,,100,10655,7,place_098354
+82,1,,100,10655,8,place_098382
+82,1,,100,10655,9,place_098398
+82,1,,100,10655,10,place_098377
+82,1,,100,10655,11,place_098360
+82,1,,100,10655,12,place_098368
+82,1,,100,10655,13,place_098357
+82,1,,100,10655,14,place_098363
+82,1,,100,10655,15,place_096777
+82,1,,100,10655,16,place_DFORES
+82,1,,100,10655,17,place_097158
+82,1,,100,10655,18,place_096885
+82,1,,100,10655,19,place_097244
+82,1,,100,10655,20,place_097493
+82,1,,100,10655,21,place_097345
+82,1,,100,10655,22,place_096816
+82,1,,100,10655,23,place_097469
+82,1,,100,10655,24,place_096670
+82,1,,100,10655,25,place_BOYER
+82,1,,100,10655,26,place_097272
+82,1,,100,10655,27,place_097507
+83,0,Plateau de la Justice,100,10216,1,place_095686
+83,0,Plateau de la Justice,100,10216,2,place_095691
+83,0,Plateau de la Justice,100,10216,3,place_095700
+83,0,Plateau de la Justice,100,10216,4,place_095699
+83,0,Plateau de la Justice,100,10216,5,place_096273
+83,0,Plateau de la Justice,100,10216,6,place_096268
+83,0,Plateau de la Justice,100,10216,7,place_096277
+83,0,Plateau de la Justice,100,10216,8,place_096267
+83,0,Plateau de la Justice,100,10216,9,place_099917
+83,0,Plateau de la Justice,100,10216,10,place_096278
+83,0,Plateau de la Justice,100,10216,11,place_096269
+83,0,Plateau de la Justice,100,10216,12,place_096287
+83,0,Plateau de la Justice,100,10216,13,place_096288
+83,0,Plateau de la Justice,100,10216,14,q:8166
+83,0,Plateau de la Justice,100,10216,15,place_096279
+83,0,Plateau de la Justice,100,10216,16,place_096265
+83,0,Plateau de la Justice,100,10216,17,place_096280
+83,0,Plateau de la Justice,100,10216,18,place_096274
+83,0,Plateau de la Justice,100,10216,19,place_096271
+83,0,Plateau de la Justice,100,10216,20,place_096275
+83,0,Plateau de la Justice,100,10216,21,place_096282
+83,0,Plateau de la Justice,100,10216,22,place_096272
+83,0,Plateau de la Justice,100,10216,23,place_096284
+83,1,,100,10917,1,place_096284
+83,1,,100,10917,2,place_096272
+83,1,,100,10917,3,place_096282
+83,1,,100,10917,4,place_096275
+83,1,,100,10917,5,place_096271
+83,1,,100,10917,6,place_096274
+83,1,,100,10917,7,place_096280
+83,1,,100,10917,8,place_096270
+83,1,,100,10917,9,place_096265
+83,1,,100,10917,10,place_096279
+83,1,,100,10917,11,place_096285
+83,1,,100,10917,12,place_096288
+83,1,,100,10917,13,place_096287
+83,1,,100,10917,14,place_096269
+83,1,,100,10917,15,place_096278
+83,1,,100,10917,16,place_099917
+83,1,,100,10917,17,place_EZCPE2
+83,1,,100,10917,18,place_096277
+83,1,,100,10917,19,place_096268
+83,1,,100,10917,20,place_096273
+83,1,,100,10917,21,place_095699
+83,1,,100,10917,22,place_095700
+83,1,,100,10917,23,place_BMEGL2
+83,1,,100,10917,24,place_095689
+83,1,,100,10917,25,place_095690
+83,1,,100,10917,26,place_095697
+83,1,,100,10917,27,place_095686
+84,0,,50,13343,1,place_097383
+84,0,,50,13343,2,place_099395
+84,0,,50,13343,3,place_096918
+84,0,,50,13343,4,place_097281
+84,0,,50,13343,5,place_096828
+84,0,,50,13343,6,place_096651
+84,0,,50,13343,7,place_096721
+84,0,,50,13343,8,place_097223
+84,0,,50,13343,9,place_097153
+84,0,,50,13343,10,place_097407
+84,0,,50,13343,11,place_096974
+84,0,,50,13343,12,place_097404
+84,0,,50,13343,13,place_097430
+84,0,,50,13343,14,place_098150
+84,0,,50,13343,15,place_098131
+84,0,,50,13343,16,place_098136
+84,0,,50,13343,17,place_097266
+84,0,,50,13343,18,place_097010
+84,0,,50,13343,19,place_098343
+84,0,,50,13343,20,place_VMCAP
+84,0,,50,13343,21,place_098387
+84,0,,50,13343,22,place_098391
+84,0,,50,13343,23,place_VMOLV9
+84,0,,50,13343,24,place_VMCAP
+84,0,,50,13343,25,place_4CHEM0
+84,0,,50,13343,26,place_098355
+84,0,,50,13343,27,place_098395
+84,0,,50,13343,28,place_098388
+84,0,,50,13343,29,place_098350
+84,0,,50,13343,30,place_098366
+84,0,,50,13343,31,place_096777
+84,0,,50,13343,32,place_098363
+84,0,,50,13343,33,place_098357
+84,0,,50,13343,34,place_098368
+84,0,,50,13343,35,place_098360
+84,0,,50,13343,36,place_098362
+84,0,,50,13343,37,place_098378
+84,0,,50,13343,38,place_095702
+84,0,,50,13343,39,place_095694
+84,0,,50,13343,40,place_095687
+84,0,,50,13343,41,place_BMMAN
+84,0,,50,13343,42,place_095695
+84,0,,50,13343,43,place_095689
+84,0,,50,13343,44,place_095690
+84,0,,50,13343,45,place_095697
+84,0,,50,13343,46,place_095686
+84,1,,59,13010,1,place_095686
+84,1,,59,13010,2,place_095691
+84,1,,59,13010,3,place_095689
+84,1,,59,13010,4,place_095695
+84,1,,59,13010,5,place_BMMAN
+84,1,,59,13010,6,place_095687
+84,1,,59,13010,7,place_095694
+84,1,,59,13010,8,place_095702
+84,1,,59,13010,9,place_098378
+84,1,,59,13010,10,place_098362
+84,1,,59,13010,11,place_098360
+84,1,,59,13010,12,place_098368
+84,1,,59,13010,13,place_098357
+84,1,,59,13010,14,place_098363
+84,1,,59,13010,15,place_096777
+84,1,,59,13010,16,place_098366
+84,1,,59,13010,17,place_098350
+84,1,,59,13010,18,place_098388
+84,1,,59,13010,19,place_098395
+84,1,,59,13010,20,place_098355
+84,1,,59,13010,21,place_098343
+84,1,,59,13010,22,place_VMCAP
+84,1,,59,13010,23,place_098387
+84,1,,59,13010,24,place_098391
+84,1,,59,13010,25,place_VMOLV9
+84,1,,59,13010,26,place_VMCAP
+84,1,,59,13010,27,place_4CHEM0
+84,1,,59,13010,28,place_097010
+84,1,,59,13010,29,place_097266
+84,1,,59,13010,30,place_098136
+84,1,,59,13010,31,place_098131
+84,1,,59,13010,32,place_098150
+84,1,,59,13010,33,place_097430
+84,1,,59,13010,34,place_097404
+84,1,,59,13010,35,place_096974
+84,1,,59,13010,36,place_097407
+84,1,,59,13010,37,place_097153
+84,1,,59,13010,38,place_097223
+84,1,,59,13010,39,place_096721
+84,1,,59,13010,40,place_096651
+84,1,,59,13010,41,place_096828
+84,1,,59,13010,42,place_097281
+84,1,,59,13010,43,place_096918
+84,1,,59,13010,44,place_099395
+84,1,,59,13010,45,place_097383
+85,0,Cité du SoleilCité du Soleil,79,5546,1,place_098098
+85,0,Cité du SoleilCité du Soleil,79,5546,2,place_098133
+85,0,Cité du SoleilCité du Soleil,79,5546,3,place_TRNEG1
+85,0,Cité du SoleilCité du Soleil,79,5546,4,place_098141
+85,0,Cité du SoleilCité du Soleil,79,5546,5,place_TRSUA4
+85,0,Cité du SoleilCité du Soleil,79,5546,6,place_098149
+85,0,Cité du SoleilCité du Soleil,79,5546,7,place_100029
+85,0,Cité du SoleilCité du Soleil,79,5546,8,place_099549
+85,0,Cité du SoleilCité du Soleil,79,5546,9,place_TRCOL
+85,0,Cité du SoleilCité du Soleil,79,5546,10,place_TRCOL2
+85,0,Cité du SoleilCité du Soleil,79,5546,11,place_098132
+85,0,Cité du SoleilCité du Soleil,79,5546,12,place_098138
+85,0,Cité du SoleilCité du Soleil,79,5546,13,place_098148
+85,0,Cité du SoleilCité du Soleil,79,5546,14,place_098839
+85,0,Cité du SoleilCité du Soleil,79,5546,15,place_098838
+85,0,Cité du SoleilCité du Soleil,79,5546,16,place_098837
+85,0,Cité du SoleilCité du Soleil,79,5546,17,place_TRC11
+85,0,Cité du SoleilCité du Soleil,79,5546,18,place_098112
+85,0,Cité du SoleilCité du Soleil,79,5546,19,place_098105
+85,1,Bertagnia,84,5306,1,place_098105
+85,1,Bertagnia,84,5306,2,place_098112
+85,1,Bertagnia,84,5306,3,place_098148
+85,1,Bertagnia,84,5306,4,place_098839
+85,1,Bertagnia,84,5306,5,place_098838
+85,1,Bertagnia,84,5306,6,place_098837
+85,1,Bertagnia,84,5306,7,place_TRC11
+85,1,Bertagnia,84,5306,8,place_098138
+85,1,Bertagnia,84,5306,9,place_TRCSLS
+85,1,Bertagnia,84,5306,10,place_098132
+85,1,Bertagnia,84,5306,11,place_TRCOL2
+85,1,Bertagnia,84,5306,12,place_098117
+85,1,Bertagnia,84,5306,13,place_100029
+85,1,Bertagnia,84,5306,14,place_098149
+85,1,Bertagnia,84,5306,15,place_098141
+85,1,Bertagnia,84,5306,16,place_098156
+85,1,Bertagnia,84,5306,17,place_098157
+85,1,Bertagnia,84,5306,18,place_098098
+86,0,La Plana Matisse,100,3053,1,place_TRCOL
+86,0,La Plana Matisse,100,3053,2,place_098117
+86,0,La Plana Matisse,100,3053,3,place_100029
+86,0,La Plana Matisse,100,3053,4,place_098149
+86,0,La Plana Matisse,100,3053,5,place_TRC11
+86,0,La Plana Matisse,100,3053,6,place_098099
+86,0,La Plana Matisse,100,3053,7,place_098118
+86,0,La Plana Matisse,100,3053,8,place_098123
+86,0,La Plana Matisse,100,3053,9,place_098097
+86,0,La Plana Matisse,100,3053,10,place_098107
+86,0,La Plana Matisse,100,3053,11,place_098109
+86,0,La Plana Matisse,100,3053,12,place_098140
+86,0,La Plana Matisse,100,3053,13,place_098119
+86,1,Collège La Bourgade,100,3302,1,place_098119
+86,1,Collège La Bourgade,100,3302,2,place_098140
+86,1,Collège La Bourgade,100,3302,3,place_098109
+86,1,Collège La Bourgade,100,3302,4,place_098097
+86,1,Collège La Bourgade,100,3302,5,place_098123
+86,1,Collège La Bourgade,100,3302,6,place_097025
+86,1,Collège La Bourgade,100,3302,7,place_CIGALE
+86,1,Collège La Bourgade,100,3302,8,place_096997
+86,1,Collège La Bourgade,100,3302,9,place_097159
+86,1,Collège La Bourgade,100,3302,10,place_097000
+86,1,Collège La Bourgade,100,3302,11,place_098149
+86,1,Collège La Bourgade,100,3302,12,place_100029
+86,1,Collège La Bourgade,100,3302,13,place_099549
+86,1,Collège La Bourgade,100,3302,14,place_TRCOL
+88,0,,66,7143,1,place_097507
+88,0,,66,7143,2,place_097272
+88,0,,66,7143,3,place_097464
+88,0,,66,7143,4,place_100011
+88,0,,66,7143,5,place_101376
+88,0,,66,7143,6,place_096768
+88,0,,66,7143,7,place_097331
+88,0,,66,7143,8,place_097112
+88,0,,66,7143,9,place_097280
+88,0,,66,7143,10,place_097036
+88,0,,66,7143,11,place_096979
+88,0,,66,7143,12,place_GARIG
+88,0,,66,7143,13,place_097714
+88,0,,66,7143,14,place_SAPLA
+88,0,,66,7143,15,place_097717
+88,0,,66,7143,16,place_097713
+88,0,,66,7143,17,place_097705
+88,0,,66,7143,18,place_097719
+88,0,,66,7143,19,place_097716
+88,0,,66,7143,20,place_SATUV9
+88,0,,66,7143,21,place_097724
+88,0,,66,7143,22,place_097707
+88,1,Vauban,68,9361,1,place_097707
+88,1,Vauban,68,9361,2,place_097721
+88,1,Vauban,68,9361,3,place_097727
+88,1,Vauban,68,9361,4,place_097721
+88,1,Vauban,68,9361,5,place_097707
+88,1,Vauban,68,9361,6,place_097730
+88,1,Vauban,68,9361,7,place_097726
+88,1,Vauban,68,9361,8,place_099497
+88,1,Vauban,68,9361,9,place_097709
+88,1,Vauban,68,9361,10,place_097725
+88,1,Vauban,68,9361,11,place_097703
+88,1,Vauban,68,9361,12,place_097722
+88,1,Vauban,68,9361,13,place_097712
+88,1,Vauban,68,9361,14,place_097720
+88,1,Vauban,68,9361,15,place_097735
+88,1,Vauban,68,9361,16,place_097718
+88,1,Vauban,68,9361,17,place_097719
+88,1,Vauban,68,9361,18,place_097705
+88,1,Vauban,68,9361,19,place_097713
+88,1,Vauban,68,9361,20,place_097717
+88,1,Vauban,68,9361,21,place_SAPLA
+88,1,Vauban,68,9361,22,place_097714
+88,1,Vauban,68,9361,23,place_097024
+88,1,Vauban,68,9361,24,place_096979
+88,1,Vauban,68,9361,25,place_097036
+88,1,Vauban,68,9361,26,place_097280
+88,1,Vauban,68,9361,27,place_097112
+88,1,Vauban,68,9361,28,place_097331
+88,1,Vauban,68,9361,29,place_096768
+88,1,Vauban,68,9361,30,place_101376
+88,1,Vauban,68,9361,31,place_100011
+88,1,Vauban,68,9361,32,place_096881
+88,1,Vauban,68,9361,33,place_097293
+88,1,Vauban,68,9361,34,place_096909
+88,1,Vauban,68,9361,35,place_096917
+88,1,Vauban,68,9361,36,place_097272
+88,1,Vauban,68,9361,37,place_097507
+89,0,Les Chênes Verts,100,2803,1,place_DRCCH
+89,0,Les Chênes Verts,100,2803,2,place_DRGIT
+89,0,Les Chênes Verts,100,2803,3,place_DRLOU
+89,0,Les Chênes Verts,100,2803,4,place_DRBOT
+89,0,Les Chênes Verts,100,2803,5,place_DRGSU
+89,0,Les Chênes Verts,100,2803,6,place_DRBSU
+89,0,Les Chênes Verts,100,2803,7,place_DRCNN4
+89,0,Les Chênes Verts,100,2803,8,place_DRCIM
+89,0,Les Chênes Verts,100,2803,9,place_DRPBA0
+89,0,Les Chênes Verts,100,2803,10,place_PCAUV6
+89,0,Les Chênes Verts,100,2803,11,place_DRSJF
+89,0,Les Chênes Verts,100,2803,12,place_VALLO7
+89,0,Les Chênes Verts,100,2803,13,place_096243
+89,1,La colle / Le Château,100,2783,1,place_096243
+89,1,La colle / Le Château,100,2783,2,place_VALLO5
+89,1,La colle / Le Château,100,2783,3,place_DRSJF
+89,1,La colle / Le Château,100,2783,4,place_DRPLC9
+89,1,La colle / Le Château,100,2783,5,place_DRPBA0
+89,1,La colle / Le Château,100,2783,6,place_DRCIM
+89,1,La colle / Le Château,100,2783,7,place_DRCNN4
+89,1,La colle / Le Château,100,2783,8,place_DRBSU
+89,1,La colle / Le Château,100,2783,9,place_DRGSU
+89,1,La colle / Le Château,100,2783,10,place_DRBOT
+89,1,La colle / Le Château,100,2783,11,place_DRLOU
+89,1,La colle / Le Château,100,2783,12,place_DRGIT
+89,1,La colle / Le Château,100,2783,13,place_DRCCH
+90,0,,100,59775,1,place_ARBOUN
+90,0,,100,59775,2,place_ARBORA
+90,0,,100,59775,3,place_WSTIS1
+90,0,,100,59775,4,place_CCSISI
+90,0,,100,59775,5,place_096196
+90,0,,100,59775,6,place_089586
+90,0,,100,59775,7,place_101320
+90,0,,100,59775,8,place_099544
+90,0,,100,59775,9,place_095476
+90,0,,100,59775,10,place_098171
+90,0,,100,59775,11,place_098174
+90,0,,100,59775,12,place_098173
+90,0,,100,59775,13,place_096455
+90,0,,100,59775,14,place_096457
+90,0,,100,59775,15,place_095754
+90,0,,100,59775,16,place_097587
+90,0,,100,59775,17,place_097585
+90,0,,100,59775,18,place_097590
+90,0,,100,59775,19,place_097591
+90,0,,100,59775,20,place_097582
+90,0,,100,59775,21,place_097584
+90,0,,100,59775,22,place_097586
+90,0,,100,59775,23,place_097589
+90,0,,100,59775,24,place_098001
+90,0,,100,59775,25,place_098000
+90,0,,100,59775,26,place_098002
+90,0,,100,59775,27,place_NANTE9
+90,0,,100,59775,28,place_097997
+90,0,,100,59775,29,place_097999
+90,0,,100,59775,30,place_097998
+90,0,,100,59775,31,place_097995
+90,0,,100,59775,32,place_098005
+90,0,,100,59775,33,q:21314
+90,0,,100,59775,34,place_GENDAR
+90,0,,100,59775,35,place_SMPMA7
+90,0,,100,59775,36,place_098213
+90,0,,100,59775,37,place_098216
+90,0,,100,59775,38,place_098214
+90,0,,100,59775,39,place_BOLYC
+90,0,,100,59775,40,place_098211
+90,1,,100,59445,1,place_098211
+90,1,,100,59445,2,place_098214
+90,1,,100,59445,3,place_098216
+90,1,,100,59445,4,place_098213
+90,1,,100,59445,5,q:23025
+90,1,,100,59445,6,place_SMGEN
+90,1,,100,59445,7,place_098006
+90,1,,100,59445,8,place_SMVPL8
+90,1,,100,59445,9,place_098007
+90,1,,100,59445,10,place_097995
+90,1,,100,59445,11,place_097998
+90,1,,100,59445,12,place_098004
+90,1,,100,59445,13,place_097999
+90,1,,100,59445,14,place_097997
+90,1,,100,59445,15,place_NANTE7
+90,1,,100,59445,16,place_098002
+90,1,,100,59445,17,place_098000
+90,1,,100,59445,18,place_098001
+90,1,,100,59445,19,place_097589
+90,1,,100,59445,20,place_097586
+90,1,,100,59445,21,place_097584
+90,1,,100,59445,22,place_097582
+90,1,,100,59445,23,place_097591
+90,1,,100,59445,24,place_097590
+90,1,,100,59445,25,place_097585
+90,1,,100,59445,26,place_097587
+90,1,,100,59445,27,place_095754
+90,1,,100,59445,28,place_096457
+90,1,,100,59445,29,place_096455
+90,1,,100,59445,30,place_098173
+90,1,,100,59445,31,place_098174
+90,1,,100,59445,32,place_098171
+90,1,,100,59445,33,place_095476
+90,1,,100,59445,34,place_099544
+90,1,,100,59445,35,place_101320
+90,1,,100,59445,36,place_089586
+90,1,,100,59445,37,place_096196
+90,1,,100,59445,38,place_CCSISI
+90,1,,100,59445,39,place_WSTIS1
+90,1,,100,59445,40,place_ARBOUN
+91,0,,100,77588,1,place_ARBOUN
+91,0,,100,77588,2,place_ARBORA
+91,0,,100,77588,3,place_WSTIS1
+91,0,,100,77588,4,place_CCSISI
+91,0,,100,77588,5,place_096196
+91,0,,100,77588,6,place_101320
+91,0,,100,77588,7,place_099544
+91,0,,100,77588,8,place_095476
+91,0,,100,77588,9,place_CHAUD0
+91,0,,100,77588,10,place_091455
+91,0,,100,77588,11,place_099838
+91,0,,100,77588,12,place_098034
+91,0,,100,77588,13,place_089628
+91,0,,100,77588,14,place_089627
+91,0,,100,77588,15,place_096530
+91,0,,100,77588,16,place_096529
+91,0,,100,77588,17,place_097581
+91,0,,100,77588,18,place_098012
+91,0,,100,77588,19,place_POPAU
+91,0,,100,77588,20,place_096452
+91,0,,100,77588,21,place_BLACHE
+91,0,,100,77588,22,place_097756
+91,0,,100,77588,23,place_091193
+91,0,,100,77588,24,place_091191
+91,0,,100,77588,25,place_091189
+91,0,,100,77588,26,place_091195
+91,0,,100,77588,27,place_098772
+91,0,,100,77588,28,place_097752
+91,0,,100,77588,29,place_091195
+91,0,,100,77588,30,place_STRIB7
+91,0,,100,77588,31,place_097751
+91,1,,87,77304,1,place_097751
+91,1,,87,77304,2,place_STRIB9
+91,1,,87,77304,3,place_098772
+91,1,,87,77304,4,place_097752
+91,1,,87,77304,5,place_091195
+91,1,,87,77304,6,place_091189
+91,1,,87,77304,7,place_091191
+91,1,,87,77304,8,place_091193
+91,1,,87,77304,9,place_097756
+91,1,,87,77304,10,place_BLACHE
+91,1,,87,77304,11,place_096452
+91,1,,87,77304,12,place_POPAU
+91,1,,87,77304,13,place_098012
+91,1,,87,77304,14,place_097581
+91,1,,87,77304,15,place_096529
+91,1,,87,77304,16,place_096530
+91,1,,87,77304,17,place_089627
+91,1,,87,77304,18,place_089628
+91,1,,87,77304,19,place_098034
+91,1,,87,77304,20,place_099838
+91,1,,87,77304,21,place_091455
+91,1,,87,77304,22,place_095476
+91,1,,87,77304,23,place_099544
+91,1,,87,77304,24,place_101320
+91,1,,87,77304,25,place_096196
+91,1,,87,77304,26,place_CCSISI
+91,1,,87,77304,27,place_WSTIS1
+91,1,,87,77304,28,place_ARBOUN
+92,0,,100,67004,1,place_ARBOUN
+92,0,,100,67004,2,place_ARBORA
+92,0,,100,67004,3,place_WSTIS1
+92,0,,100,67004,4,place_CCSISI
+92,0,,100,67004,5,place_096196
+92,0,,100,67004,6,place_101320
+92,0,,100,67004,7,place_099544
+92,0,,100,67004,8,place_095476
+92,0,,100,67004,9,place_CHAUD0
+92,0,,100,67004,10,place_091455
+92,0,,100,67004,11,place_099838
+92,0,,100,67004,12,place_098034
+92,0,,100,67004,13,place_089628
+92,0,,100,67004,14,place_089627
+92,0,,100,67004,15,place_096530
+92,0,,100,67004,16,place_096529
+92,0,,100,67004,17,place_097581
+92,0,,100,67004,18,place_098012
+92,0,,100,67004,19,place_POPAU
+92,0,,100,67004,20,place_096452
+92,0,,100,67004,21,place_ISOP15
+92,0,,100,67004,22,place_ISECO6
+92,0,,100,67004,23,place_ISOST
+92,0,,100,67004,24,place_ISOHA
+92,1,,100,66842,1,place_ISOHA
+92,1,,100,66842,2,place_ISOST
+92,1,,100,66842,3,place_ISECO3
+92,1,,100,66842,4,place_ISOP15
+92,1,,100,66842,5,place_096452
+92,1,,100,66842,6,place_POPAU
+92,1,,100,66842,7,place_098012
+92,1,,100,66842,8,place_097581
+92,1,,100,66842,9,place_096529
+92,1,,100,66842,10,place_096530
+92,1,,100,66842,11,place_089627
+92,1,,100,66842,12,place_089628
+92,1,,100,66842,13,place_098034
+92,1,,100,66842,14,place_099838
+92,1,,100,66842,15,place_091455
+92,1,,100,66842,16,place_095476
+92,1,,100,66842,17,place_099544
+92,1,,100,66842,18,place_101320
+92,1,,100,66842,19,place_096196
+92,1,,100,66842,20,place_CCSISI
+92,1,,100,66842,21,place_WSTIS1
+92,1,,100,66842,22,place_ARBOUN
+93,0,,86,7360,1,place_096455
+93,0,,86,7360,2,place_096457
+93,0,,86,7360,3,place_095754
+93,0,,86,7360,4,place_095755
+93,0,,86,7360,5,place_097587
+93,0,,86,7360,6,place_097591
+93,0,,86,7360,7,place_095727
+93,1,,86,7306,1,place_095727
+93,1,,86,7306,2,place_097591
+93,1,,86,7306,3,place_097587
+93,1,,86,7306,4,place_095754
+93,1,,86,7306,5,place_095755
+93,1,,86,7306,6,place_096457
+93,1,,86,7306,7,place_096455
+97,0,Tzarewitch / Gambetta,100,3305,1,place_TZAGB
+97,0,Tzarewitch / Gambetta,100,3305,2,place_097476
+97,0,Tzarewitch / Gambetta,100,3305,3,place_096624
+97,0,Tzarewitch / Gambetta,100,3305,4,place_101310
+97,0,Tzarewitch / Gambetta,100,3305,5,place_ECOBA
+97,0,Tzarewitch / Gambetta,100,3305,6,place_096924
+97,0,Tzarewitch / Gambetta,100,3305,7,place_WGCUM
+97,0,Tzarewitch / Gambetta,100,3305,8,q:2403
+97,0,Tzarewitch / Gambetta,100,3305,9,q:2404
+97,0,Tzarewitch / Gambetta,100,3305,10,place_UNTRO
+97,0,Tzarewitch / Gambetta,100,3305,11,q:2406
+97,0,Tzarewitch / Gambetta,100,3305,12,place_096748
+97,0,Tzarewitch / Gambetta,100,3305,13,place_TZARE
+97,0,Tzarewitch / Gambetta,100,3305,14,place_LESCL
+97,0,Tzarewitch / Gambetta,100,3305,15,place_TZAGB
+98,0,GUSTAVIN / PARC VIGIER,86,7431,1,place_GUSTV
+98,0,GUSTAVIN / PARC VIGIER,86,7431,2,place_097403
+98,0,GUSTAVIN / PARC VIGIER,86,7431,3,place_096644
+98,0,GUSTAVIN / PARC VIGIER,86,7431,4,place_096686
+98,0,GUSTAVIN / PARC VIGIER,86,7431,5,place_096757
+98,0,GUSTAVIN / PARC VIGIER,86,7431,6,place_LYMPI
+98,0,GUSTAVIN / PARC VIGIER,86,7431,7,place_PORLYM
+98,0,GUSTAVIN / PARC VIGIER,86,7431,8,place_PUCES
+98,0,GUSTAVIN / PARC VIGIER,86,7431,9,place_MONF
+98,0,GUSTAVIN / PARC VIGIER,86,7431,10,place_ASCEN
+98,0,GUSTAVIN / PARC VIGIER,86,7431,11,place_SALEY
+98,0,GUSTAVIN / PARC VIGIER,86,7431,12,place_SULZE
+98,0,GUSTAVIN / PARC VIGIER,86,7431,13,place_096616
+98,0,GUSTAVIN / PARC VIGIER,86,7431,14,place_097268
+98,0,GUSTAVIN / PARC VIGIER,86,7431,15,place_096733
+98,0,GUSTAVIN / PARC VIGIER,86,7431,16,place_096907
+98,0,GUSTAVIN / PARC VIGIER,86,7431,17,place_SEGUR0
+98,0,GUSTAVIN / PARC VIGIER,86,7431,18,place_PORTQ
+98,0,GUSTAVIN / PARC VIGIER,86,7431,19,place_096757
+98,0,GUSTAVIN / PARC VIGIER,86,7431,20,place_096686
+98,0,GUSTAVIN / PARC VIGIER,86,7431,21,place_096644
+98,0,GUSTAVIN / PARC VIGIER,86,7431,22,place_097015
+98,0,GUSTAVIN / PARC VIGIER,86,7431,23,place_097520
+98,0,GUSTAVIN / PARC VIGIER,86,7431,24,place_097475
+98,0,GUSTAVIN / PARC VIGIER,86,7431,25,place_097127
+98,0,GUSTAVIN / PARC VIGIER,86,7431,26,place_096961
+98,0,GUSTAVIN / PARC VIGIER,86,7431,27,place_097191
+98,0,GUSTAVIN / PARC VIGIER,86,7431,28,place_096961
+98,0,GUSTAVIN / PARC VIGIER,86,7431,29,place_097127
+98,0,GUSTAVIN / PARC VIGIER,86,7431,30,place_097520
+98,0,GUSTAVIN / PARC VIGIER,86,7431,31,place_097015
+98,0,GUSTAVIN / PARC VIGIER,86,7431,32,place_GUSTV
+99,0,Jean Médecin,100,3538,1,place_VHUGO1
+99,0,Jean Médecin,100,3538,2,place_GRIMA
+99,0,Jean Médecin,100,3538,3,place_097388
+99,0,Jean Médecin,100,3538,4,place_098788
+99,0,Jean Médecin,100,3538,5,place_NCALS
+99,0,Jean Médecin,100,3538,6,place_GUGLI1
+99,0,Jean Médecin,100,3538,7,place_GUGLI2
+99,0,Jean Médecin,100,3538,8,place_GSNCFT
+99,0,Jean Médecin,100,3538,9,place_100106
+99,0,Jean Médecin,100,3538,10,place_GSNCFM
+99,0,Jean Médecin,100,3538,11,place_LEPAN2
+99,0,Jean Médecin,100,3538,12,place_LEPAN1
+99,0,Jean Médecin,100,3538,13,place_DUBOU
+99,0,Jean Médecin,100,3538,14,place_VHUGO1
+742,0,,50,78058,1,place_097507
+742,0,,50,78058,2,place_097193
+742,0,,50,78058,3,place_096724
+742,0,,50,78058,4,place_090817
+742,0,,50,78058,5,place_SMSBL1
+742,0,,50,78058,6,place_095476
+742,0,,50,78058,7,place_089628
+742,0,,50,78058,8,place_097581
+742,0,,50,78058,9,place_098012
+742,0,,50,78058,10,place_097752
+742,1,,50,78058,1,place_097752
+742,1,,50,78058,2,place_098012
+742,1,,50,78058,3,place_097581
+742,1,,50,78058,4,place_089628
+742,1,,50,78058,5,place_095476
+742,1,,50,78058,6,place_SMSBL1
+742,1,,50,78058,7,place_090817
+742,1,,50,78058,8,place_096724
+742,1,,50,78058,9,place_097193
+742,1,,50,78058,10,place_097507
+743,0,,25,43647,1,place_090817
+743,0,,25,43647,2,place_096196
+743,0,,25,43647,3,place_096214
+743,0,,25,43647,4,place_095476
+743,0,,25,43647,5,place_BOLYC
+743,1,,25,55267,1,place_BOLYC
+743,1,,25,55267,2,place_095476
+743,1,,25,55267,3,place_096089
+743,1,,25,55267,4,place_090817
+743,1,,25,55267,5,place_GRAREN
+743,1,,25,55267,6,place_097331
+743,1,,25,55267,7,place_097507
+744,0,,100,47810,1,place_097507
+744,0,,100,47810,2,place_097193
+744,0,,100,47810,3,place_096724
+744,0,,100,47810,4,place_090817
+744,0,,100,47810,5,place_096196
+744,0,,100,47810,6,place_096214
+744,0,,100,47810,7,place_095476
+744,0,,100,47810,8,place_098171
+744,0,,100,47810,9,place_ROCJS
+744,1,,100,48658,1,place_ROCJS
+744,1,,100,48658,2,place_098171
+744,1,,100,48658,3,place_095476
+744,1,,100,48658,4,place_096214
+744,1,,100,48658,5,place_096089
+744,1,,100,48658,6,place_090817
+744,1,,100,48658,7,place_096724
+744,1,,100,48658,8,place_097193
+744,1,,100,48658,9,place_097507
+745,0,,100,50598,1,place_098005
+745,0,,100,50598,2,place_098007
+745,0,,100,50598,3,place_097995
+745,0,,100,50598,4,place_097998
+745,0,,100,50598,5,place_098004
+745,0,,100,50598,6,place_097999
+745,0,,100,50598,7,place_097997
+745,0,,100,50598,8,place_098002
+745,0,,100,50598,9,place_098000
+745,0,,100,50598,10,place_098001
+745,0,,100,50598,11,place_097589
+745,0,,100,50598,12,place_097586
+745,0,,100,50598,13,place_097584
+745,0,,100,50598,14,place_097582
+745,0,,100,50598,15,place_097590
+745,0,,100,50598,16,place_097585
+745,0,,100,50598,17,place_097587
+745,0,,100,50598,18,place_095754
+745,0,,100,50598,19,place_096457
+745,0,,100,50598,20,place_096455
+745,0,,100,50598,21,place_098173
+745,0,,100,50598,22,place_098174
+745,0,,100,50598,23,place_098171
+745,0,,100,50598,24,place_095476
+745,0,,100,50598,25,place_096748
+745,0,,100,50598,26,place_097449
+745,0,,100,50598,27,place_097507
+AUR3,0,,80,5721,1,place_STOTO
+AUR3,0,,80,5721,2,place_AURON6
+AUR3,0,,80,5721,3,place_STRIB9
+AUR3,0,,80,5721,4,place_098772
+AUR3,0,,80,5721,5,place_097752
+AUR3,1,,71,5763,1,place_097752
+AUR3,1,,71,5763,2,place_091195
+AUR3,1,,71,5763,3,place_STRIB7
+AUR3,1,,71,5763,4,place_STOTO
+C,0,,38,10915,1,place_097184
+C,0,,38,10915,2,place_096327
+C,0,,38,10915,3,place_COLAN6
+C,0,,38,10915,4,place_096135
+C,0,,38,10915,5,place_MEDHI
+C,0,,38,10915,6,place_096090
+C,0,,38,10915,7,place_096084
+C,0,,38,10915,8,place_100366
+C,1,,40,10932,1,place_100366
+C,1,,40,10932,2,place_096084
+C,1,,40,10932,3,place_096090
+C,1,,40,10932,4,place_MEDHI
+C,1,,40,10932,5,place_096135
+C,1,,40,10932,6,place_096094
+C,1,,40,10932,7,place_096089
+C,1,,40,10932,8,place_096327
+C,1,,40,10932,9,place_097184
+C32,0,,86,7533,1,place_ROPRA
+C32,0,,86,7533,2,place_ROVAU
+C32,0,,86,7533,3,place_LesBu
+C32,0,,86,7533,4,place_ROUBVI
+C32,0,,86,7533,5,place_RBVAL
+C32,0,,86,7533,6,place_ROUR1
+C32,0,,86,7533,7,place_098012
+C32,1,,86,7533,1,place_098012
+C32,1,,86,7533,2,place_ROUR1
+C32,1,,86,7533,3,place_RBVAL
+C32,1,,86,7533,4,place_ROUBVI
+C32,1,,86,7533,5,place_LesBu
+C32,1,,86,7533,6,place_ROVAU
+C32,1,,86,7533,7,place_ROPRA
+C34,0,,100,5630,1,place_DMSDV
+C34,0,,100,5630,2,place_098772
+C34,1,,100,5630,1,place_098772
+C34,1,,100,5630,2,place_DMSDV
+C36,0,,100,1233,1,place_BAIR
+C36,0,,100,1233,2,place_089628
+C36,1,,100,1233,1,place_089628
+C36,1,,100,1233,2,place_BAIR
+C40,0,,100,26090,1,place_LTVIL9
+C40,0,,100,26090,2,place_099838
+C40,0,,100,26090,3,place_091455
+C40,0,,100,26090,4,place_096738
+C40,1,,100,26090,1,place_096738
+C40,1,,100,26090,2,place_091455
+C40,1,,100,26090,3,place_099838
+C40,1,,100,26090,4,place_LTVIL9
+C42,0,,100,2328,1,place_CLANS
+C42,0,,100,2328,2,place_089628
+C42,1,,100,2328,1,place_089628
+C42,1,,100,2328,2,place_CLANS
+C43,0,,100,21741,1,place_UTEL
+C43,0,,100,21741,2,place_096738
+C43,1,,100,21741,1,place_096738
+C43,1,,100,21741,2,place_UTEL
+C44,0,,100,11592,1,place_UTEL
+C44,0,,100,11592,2,place_097585
+C44,1,,100,11592,1,place_097585
+C44,1,,100,11592,2,place_UTEL
+C45,0,,100,22538,1,place_RIVIL
+C45,0,,100,22538,2,place_098211
+C45,0,,100,22538,3,place_098214
+C45,0,,100,22538,4,place_098216
+C45,0,,100,22538,5,place_098213
+C45,0,,100,22538,6,place_VENAN
+C45,0,,100,22538,7,place_SVRAU
+C45,0,,100,22538,8,place_098005
+C45,0,,100,22538,9,place_097585
+C45,0,,100,22538,10,place_RQCCM
+C45,1,,71,23228,1,place_RQCCM
+C45,1,,71,23228,2,place_097585
+C45,1,,71,23228,3,place_098005
+C45,1,,71,23228,4,place_VENAN
+C45,1,,71,23228,5,place_SVRAU
+C45,1,,71,23228,6,place_098213
+C45,1,,71,23228,7,place_098216
+C45,1,,71,23228,8,place_098214
+C45,1,,71,23228,9,place_098211
+C45,1,,71,23228,10,place_RIVIL
+CE,0,Direct CADAM EST,100,13909,1,place_096243
+CE,0,Direct CADAM EST,100,13909,2,place_LEGLI4
+CE,0,Direct CADAM EST,100,13909,3,place_098121
+CE,0,Direct CADAM EST,100,13909,4,place_100428
+CE,0,Direct CADAM EST,100,13909,5,place_LYAUTE
+CE,0,Direct CADAM EST,100,13909,6,place_096881
+CE,0,Direct CADAM EST,100,13909,7,place_097293
+CE,0,Direct CADAM EST,100,13909,8,place_096909
+CE,0,Direct CADAM EST,100,13909,9,place_096917
+CE,0,Direct CADAM EST,100,13909,10,place_099722
+CE,0,Direct CADAM EST,100,13909,11,place_100106
+CE,0,Direct CADAM EST,100,13909,12,place_097476
+CE,0,Direct CADAM EST,100,13909,13,place_096688
+CE,0,Direct CADAM EST,100,13909,14,place_097439
+CE,0,Direct CADAM EST,100,13909,15,place_WCADA
+CE,1,Direct CADAM EST,100,16176,1,place_WCADA
+CE,1,Direct CADAM EST,100,16176,2,place_096688
+CE,1,Direct CADAM EST,100,16176,3,place_101377
+CE,1,Direct CADAM EST,100,16176,4,place_097022
+CE,1,Direct CADAM EST,100,16176,5,place_100431
+CE,1,Direct CADAM EST,100,16176,6,place_096724
+CE,1,Direct CADAM EST,100,16176,7,place_098501
+CE,1,Direct CADAM EST,100,16176,8,place_097432
+CE,1,Direct CADAM EST,100,16176,9,place_096873
+CE,1,Direct CADAM EST,100,16176,10,place_097084
+CE,1,Direct CADAM EST,100,16176,11,place_097193
+CE,1,Direct CADAM EST,100,16176,12,place_096925
+CE,1,Direct CADAM EST,100,16176,13,place_096924
+CE,1,Direct CADAM EST,100,16176,14,place_097138
+CE,1,Direct CADAM EST,100,16176,15,place_097295
+CE,1,Direct CADAM EST,100,16176,16,place_096890
+CE,1,Direct CADAM EST,100,16176,17,place_097476
+CE,1,Direct CADAM EST,100,16176,18,place_POSTE
+CE,1,Direct CADAM EST,100,16176,19,place_100106
+CE,1,Direct CADAM EST,100,16176,20,place_GSNCFM
+CE,1,Direct CADAM EST,100,16176,21,place_NDAME
+CE,1,Direct CADAM EST,100,16176,22,place_097512
+CE,1,Direct CADAM EST,100,16176,23,place_096822
+CE,1,Direct CADAM EST,100,16176,24,place_096944
+CE,1,Direct CADAM EST,100,16176,25,place_096715
+CE,1,Direct CADAM EST,100,16176,26,place_096612
+CE,1,Direct CADAM EST,100,16176,27,place_097272
+CE,1,Direct CADAM EST,100,16176,28,place_097464
+CE,1,Direct CADAM EST,100,16176,29,place_100011
+CE,1,Direct CADAM EST,100,16176,30,place_LYAUTE
+CE,1,Direct CADAM EST,100,16176,31,place_100428
+CE,1,Direct CADAM EST,100,16176,32,place_097196
+CE,1,Direct CADAM EST,100,16176,33,place_097532
+CE,1,Direct CADAM EST,100,16176,34,place_098144
+CE,1,Direct CADAM EST,100,16176,35,place_096243
+CN,0,,67,8802,1,place_096790
+CN,0,,67,8802,2,place_099872
+CN,0,,67,8802,3,place_WCADA
+CN,0,,67,8802,4,place_090709
+CN,0,,67,8802,5,place_100308
+CN,1,,67,9394,1,place_ARBORA
+CN,1,,67,9394,2,place_100308
+CN,1,,67,9394,3,place_090709
+CN,1,,67,9394,4,place_WCADA
+CN,1,,67,9394,5,place_099872
+CN,1,,67,9394,6,place_096790
+Exp2,0,,100,21668,1,place_097331
+Exp2,0,,100,21668,2,place_096979
+Exp2,0,,100,21668,3,place_096848
+Exp2,0,,100,21668,4,place_CRPPS
+Exp2,0,,100,21668,5,place_CRROS7
+Exp2,0,,100,21668,6,place_096123
+Exp2,0,,100,21668,7,place_096124
+Exp2,0,,100,21668,8,place_096126
+Exp2,0,,100,21668,9,place_096127
+Exp2,0,,100,21668,10,place_096129
+Exp2,0,,100,21668,11,place_096130
+Exp2,0,,100,21668,12,place_096133
+Exp2,0,,100,21668,13,place_096106
+Exp2,0,,100,21668,14,place_096108
+Exp2,0,,100,21668,15,place_096110
+Exp2,0,,100,21668,16,place_096111
+Exp2,0,,100,21668,17,place_096113
+Exp2,0,,100,21668,18,place_096116
+Exp2,0,,100,21668,19,place_096118
+Exp2,0,,100,21668,20,place_096119
+Exp2,0,,100,21668,21,place_096120
+Exp2,0,,100,21668,22,place_099861
+Exp2,0,,100,21668,23,place_096122
+Exp2,0,,100,21668,24,place_100163
+Exp2,0,,100,21668,25,place_100192
+Exp2,0,,100,21668,26,place_095763
+Exp2,0,,100,21668,27,place_095764
+Exp2,0,,100,21668,28,place_096117
+Exp2,0,,100,21668,29,place_096114
+Exp2,0,,100,21668,30,place_096115
+Exp2,0,,100,21668,31,place_100166
+Exp2,0,,100,21668,32,place_096109
+Exp2,0,,100,21668,33,place_096107
+Exp2,0,,100,21668,34,place_096134
+Exp2,0,,100,21668,35,place_100168
+Exp2,0,,100,21668,36,place_096131
+Exp2,0,,100,21668,37,place_096128
+Exp2,0,,100,21668,38,place_096125
+Exp2,0,,100,21668,39,place_096105
+Exp2,0,,100,21668,40,place_CRPPS
+Exp2,1,,100,21610,1,place_CRPPS
+Exp2,1,,100,21610,2,place_CRROS7
+Exp2,1,,100,21610,3,place_096123
+Exp2,1,,100,21610,4,place_096124
+Exp2,1,,100,21610,5,place_096126
+Exp2,1,,100,21610,6,place_096127
+Exp2,1,,100,21610,7,place_096129
+Exp2,1,,100,21610,8,place_096130
+Exp2,1,,100,21610,9,place_096133
+Exp2,1,,100,21610,10,place_096106
+Exp2,1,,100,21610,11,place_096108
+Exp2,1,,100,21610,12,place_096110
+Exp2,1,,100,21610,13,place_096111
+Exp2,1,,100,21610,14,place_096113
+Exp2,1,,100,21610,15,place_096116
+Exp2,1,,100,21610,16,place_096118
+Exp2,1,,100,21610,17,place_096119
+Exp2,1,,100,21610,18,place_096120
+Exp2,1,,100,21610,19,place_099861
+Exp2,1,,100,21610,20,place_096122
+Exp2,1,,100,21610,21,place_100163
+Exp2,1,,100,21610,22,place_100192
+Exp2,1,,100,21610,23,place_095763
+Exp2,1,,100,21610,24,place_095764
+Exp2,1,,100,21610,25,place_096117
+Exp2,1,,100,21610,26,place_096114
+Exp2,1,,100,21610,27,place_096115
+Exp2,1,,100,21610,28,place_100166
+Exp2,1,,100,21610,29,place_096109
+Exp2,1,,100,21610,30,place_096107
+Exp2,1,,100,21610,31,place_096134
+Exp2,1,,100,21610,32,place_100168
+Exp2,1,,100,21610,33,place_096131
+Exp2,1,,100,21610,34,place_096128
+Exp2,1,,100,21610,35,place_096125
+Exp2,1,,100,21610,36,place_096105
+Exp2,1,,100,21610,37,place_CRPPS
+Exp2,1,,100,21610,38,place_096848
+Exp2,1,,100,21610,39,place_096979
+Exp2,1,,100,21610,40,place_096626
+Exp3,0,,100,17982,1,place_098250
+Exp3,0,,100,17982,2,place_098265
+Exp3,0,,100,17982,3,place_099702
+Exp3,0,,100,17982,4,place_098247
+Exp3,0,,100,17982,5,place_VNLCY
+Exp3,0,,100,17982,6,place_098243
+Exp3,0,,100,17982,7,place_098279
+Exp3,0,,100,17982,8,place_095864
+Exp3,0,,100,17982,9,place_101377
+Exp3,0,,100,17982,10,place_100431
+Exp3,0,,100,17982,11,place_096724
+Exp3,0,,100,17982,12,place_097432
+Exp3,0,,100,17982,13,place_096873
+Exp3,0,,100,17982,14,place_097084
+Exp3,0,,100,17982,15,place_097193
+Exp3,0,,100,17982,16,place_096925
+Exp3,0,,100,17982,17,place_096897
+Exp3,0,,100,17982,18,place_096793
+Exp3,0,,100,17982,19,place_096616
+Exp3,0,,100,17982,20,place_MASSE
+Exp4,0,,87,16132,1,place_WCADA
+Exp4,0,,87,16132,2,place_090709
+Exp4,0,,87,16132,3,place_090817
+Exp4,0,,87,16132,4,place_ARBOUN
+Exp4,0,,87,16132,5,place_097090
+Exp4,0,,87,16132,6,place_CRPPS
+Exp4,0,,87,16132,7,place_CRROS7
+Exp4,0,,87,16132,8,place_096123
+Exp4,0,,87,16132,9,place_096124
+Exp4,0,,87,16132,10,place_096126
+Exp4,0,,87,16132,11,place_096127
+Exp4,0,,87,16132,12,place_096129
+Exp4,0,,87,16132,13,place_096130
+Exp4,0,,87,16132,14,place_096133
+Exp4,0,,87,16132,15,place_096106
+Exp4,0,,87,16132,16,place_096108
+Exp4,0,,87,16132,17,place_096110
+Exp4,0,,87,16132,18,place_096111
+Exp4,0,,87,16132,19,place_096113
+Exp4,0,,87,16132,20,place_096116
+Exp4,0,,87,16132,21,place_096118
+Exp4,0,,87,16132,22,place_096119
+Exp4,0,,87,16132,23,place_096120
+Exp4,0,,87,16132,24,place_099861
+Exp4,1,,87,16721,1,place_096122
+Exp4,1,,87,16721,2,place_100163
+Exp4,1,,87,16721,3,place_100192
+Exp4,1,,87,16721,4,place_095763
+Exp4,1,,87,16721,5,place_095764
+Exp4,1,,87,16721,6,place_096117
+Exp4,1,,87,16721,7,place_096114
+Exp4,1,,87,16721,8,place_096115
+Exp4,1,,87,16721,9,place_100166
+Exp4,1,,87,16721,10,place_096109
+Exp4,1,,87,16721,11,place_096107
+Exp4,1,,87,16721,12,place_096134
+Exp4,1,,87,16721,13,place_100168
+Exp4,1,,87,16721,14,place_096131
+Exp4,1,,87,16721,15,place_096128
+Exp4,1,,87,16721,16,place_096125
+Exp4,1,,87,16721,17,place_096105
+Exp4,1,,87,16721,18,place_CRPPS
+Exp4,1,,87,16721,19,place_097090
+Exp4,1,,87,16721,20,place_ARBOUN
+Exp4,1,,87,16721,21,place_090817
+Exp4,1,,87,16721,22,place_090709
+Exp4,1,,87,16721,23,place_WCADA
+FOOT,0,,100,19149,1,place_CCSISI
+FOOT,0,,100,19149,2,place_096196
+FOOT,0,,100,19149,3,place_096327
+FOOT,0,,100,19149,4,place_096089
+FOOT,0,,100,19149,5,place_096135
+FOOT,0,,100,19149,6,place_MEDHI
+FOOT,0,,100,19149,7,place_096090
+FOOT,0,,100,19149,8,place_096084
+FOOT,0,,100,19149,9,place_100366
+FOOT,0,,100,19149,10,place_089586
+FOOT,0,,100,19149,11,place_SMSBL1
+FOOT,0,,100,19149,12,place_097990
+FOOT,0,,100,19149,13,place_099544
+FOOT,0,,100,19149,14,place_100187
+FOOT,0,,100,19149,15,place_101105
+FOOT,0,,100,19149,16,place_095476
+FOOT,1,,100,19160,1,place_095476
+FOOT,1,,100,19160,2,q:7014
+FOOT,1,,100,19160,3,place_100187
+FOOT,1,,100,19160,4,place_099544
+FOOT,1,,100,19160,5,place_097990
+FOOT,1,,100,19160,6,place_SMSBL1
+FOOT,1,,100,19160,7,place_089586
+FOOT,1,,100,19160,8,place_100366
+FOOT,1,,100,19160,9,place_096084
+FOOT,1,,100,19160,10,place_096090
+FOOT,1,,100,19160,11,place_MEDHI
+FOOT,1,,100,19160,12,place_096135
+FOOT,1,,100,19160,13,place_096094
+FOOT,1,,100,19160,14,place_096089
+FOOT,1,,100,19160,15,place_096327
+FOOT,1,,100,19160,16,place_096196
+FOOT,1,,100,19160,17,place_CCSISI
+K,0,,100,6157,1,place_089586
+K,0,,100,6157,2,place_CSCROX
+K,0,,100,6157,3,place_096140
+K,0,,100,6157,4,place_096152
+K,0,,100,6157,5,place_096153
+K,0,,100,6157,6,place_096151
+K,0,,100,6157,7,place_096145
+K,0,,100,6157,8,place_097739
+K,0,,100,6157,9,place_096144
+K,0,,100,6157,10,place_097743
+K,0,,100,6157,11,place_097741
+K,0,,100,6157,12,place_097742
+K,0,,100,6157,13,place_097747
+K,0,,100,6157,14,place_097744
+K,0,,100,6157,15,place_097749
+K,1,,100,6092,1,place_097749
+K,1,,100,6092,2,place_097744
+K,1,,100,6092,3,place_097747
+K,1,,100,6092,4,place_097742
+K,1,,100,6092,5,place_097741
+K,1,,100,6092,6,place_097743
+K,1,,100,6092,7,place_096144
+K,1,,100,6092,8,place_097739
+K,1,,100,6092,9,place_096145
+K,1,,100,6092,10,place_096151
+K,1,,100,6092,11,place_096153
+K,1,,100,6092,12,place_CSPK1
+K,1,,100,6092,13,place_096152
+K,1,,100,6092,14,place_096140
+K,1,,100,6092,15,place_CSCAB2
+K,1,,100,6092,16,place_CSBURG
+K,1,,100,6092,17,place_CN1255
+K,1,,100,6092,18,place_089586
+LIso,0,,100,8603,1,place_096452
+LIso,0,,100,8603,2,place_ISOP15
+LIso,0,,100,8603,3,place_ISECO6
+LIso,0,,100,8603,4,place_ISOST
+LIso,0,,100,8603,5,place_ISOHA
+LIso,1,,100,8607,1,place_ISOHA
+LIso,1,,100,8607,2,place_ISOST
+LIso,1,,100,8607,3,place_ISECO3
+LIso,1,,100,8607,4,place_ISOP15
+LIso,1,,100,8607,5,place_096452
+NAur,0,,100,4938,1,place_STRES
+NAur,0,,100,4938,2,place_STOTO
+NAur,0,,100,4938,3,place_AURON6
+NAur,0,,100,4938,4,place_STARG
+NAur,0,,100,4938,5,place_STHLM
+NAur,0,,100,4938,6,place_STAZN
+NAur,0,,100,4938,7,place_STSAP
+NAur,0,,100,4938,8,place_STTLY
+NAur,0,,100,4938,9,place_STOLY4
+NAur,0,,100,4938,10,place_STDAH
+NAur,0,,100,4938,11,place_STPCE
+NAur,0,,100,4938,12,place_STOTO
+NAur,0,,100,4938,13,place_STCAR2
+NAur,0,,100,4938,14,place_STPFO
+NAur,0,,100,4938,15,place_STOTO
+NAur,0,,100,4938,16,place_STRES
+NIso,0,,97,4071,1,place_ISOST
+NIso,0,,97,4071,2,place_ISORP1
+NIso,0,,97,4071,3,q:21763
+NIso,0,,97,4071,4,place_ISOHA
+NIso,0,,97,4071,5,q:21713
+NIso,0,,97,4071,6,q:23022
+NIso,0,,97,4071,7,q:21712
+NIso,0,,97,4071,8,q:21711
+NIso,0,,97,4071,9,place_ISOHA
+NIso,0,,97,4071,10,q:21710
+NIso,0,,97,4071,11,place_ISOVAL
+NIso,0,,97,4071,12,q:21709
+NIso,0,,97,4071,13,place_ISORP1
+NIso,0,,97,4071,14,place_ISOST
+NIso,0,,97,4071,15,place_ISECO3
+NIso,0,,97,4071,16,place_ISOP15
+NIso,0,,97,4071,17,place_ISECO6
+NIso,0,,97,4071,18,place_ISOST
+NVN1,0,,100,7117,1,place_098279
+NVN1,0,,100,7117,2,place_098243
+NVN1,0,,100,7117,3,place_VNCAY
+NVN1,0,,100,7117,4,place_098278
+NVN1,0,,100,7117,5,place_098328
+NVN1,0,,100,7117,6,place_098288
+NVN1,0,,100,7117,7,place_098292
+NVN1,0,,100,7117,8,place_098275
+NVN1,0,,100,7117,9,place_VNPRKT
+NVN1,0,,100,7117,10,place_098228
+NVN1,0,,100,7117,11,place_098251
+NVN1,0,,100,7117,12,place_098249
+NVN1,0,,100,7117,13,place_098250
+NVN1,0,,100,7117,14,place_098237
+NVN1,0,,100,7117,15,place_098226
+NVN1,0,,100,7117,16,place_100557
+NVN1,0,,100,7117,17,place_098239
+NVN1,0,,100,7117,18,place_100709
+NVN1,0,,100,7117,19,place_098231
+NVN1,0,,100,7117,20,place_098333
+NVN1,0,,100,7117,21,place_098262
+NVN1,0,,100,7117,22,place_098232
+NVN1,0,,100,7117,23,place_VNCMP
+NVN1,1,,100,6411,1,place_VNCMP
+NVN1,1,,100,6411,2,place_098232
+NVN1,1,,100,6411,3,place_098262
+NVN1,1,,100,6411,4,place_098333
+NVN1,1,,100,6411,5,place_098231
+NVN1,1,,100,6411,6,place_098240
+NVN1,1,,100,6411,7,place_100557
+NVN1,1,,100,6411,8,place_098226
+NVN1,1,,100,6411,9,place_098237
+NVN1,1,,100,6411,10,place_098305
+NVN1,1,,100,6411,11,place_098250
+NVN1,1,,100,6411,12,place_098265
+NVN1,1,,100,6411,13,place_099702
+NVN1,1,,100,6411,14,place_098247
+NVN1,1,,100,6411,15,place_VNLCY
+NVN1,1,,100,6411,16,place_098243
+NVN1,1,,100,6411,17,place_098279
+NVN2,0,Square Maliver via école Freinet,100,9681,1,place_ VNSQM
+NVN2,0,Square Maliver via école Freinet,100,9681,2,place_098840
+NVN2,0,Square Maliver via école Freinet,100,9681,3,place_VNPRKT
+NVN2,0,Square Maliver via école Freinet,100,9681,4,place_098275
+NVN2,0,Square Maliver via école Freinet,100,9681,5,place_098292
+NVN2,0,Square Maliver via école Freinet,100,9681,6,place_098288
+NVN2,0,Square Maliver via école Freinet,100,9681,7,place_098328
+NVN2,0,Square Maliver via école Freinet,100,9681,8,place_098320
+NVN2,0,Square Maliver via école Freinet,100,9681,9,place_100058
+NVN2,0,Square Maliver via école Freinet,100,9681,10,place_ VNVOG
+NVN2,0,Square Maliver via école Freinet,100,9681,11,place_GC4020
+NVN2,0,Square Maliver via école Freinet,100,9681,12,place_GC4019
+NVN2,0,Square Maliver via école Freinet,100,9681,13,place_GC4018
+NVN2,0,Square Maliver via école Freinet,100,9681,14,place_GC4017
+NVN2,0,Square Maliver via école Freinet,100,9681,15,place_GC4016
+NVN2,0,Square Maliver via école Freinet,100,9681,16,place_VNLAC
+NVN2,0,Square Maliver via école Freinet,100,9681,17,place_GC4015
+NVN2,0,Square Maliver via école Freinet,100,9681,18,place_GC4014
+NVN2,0,Square Maliver via école Freinet,100,9681,19,place_VNFRE3
+NVN2,0,Square Maliver via école Freinet,100,9681,20,place_VNCHE
+NVN2,0,Square Maliver via école Freinet,100,9681,21,place_098327
+NVN2,0,Square Maliver via école Freinet,100,9681,22,place_VNFCA
+NVN2,0,Square Maliver via école Freinet,100,9681,23,place_ VNLUB
+NVN2,0,Square Maliver via école Freinet,100,9681,24,place_ VNHSL
+NVN2,0,Square Maliver via école Freinet,100,9681,25,place_C40A23
+NVN2,0,Square Maliver via école Freinet,100,9681,26,place_098336
+NVN2,0,Square Maliver via école Freinet,100,9681,27,place_098335
+NVN2,0,Square Maliver via école Freinet,100,9681,28,place_098332
+NVN2,0,Square Maliver via école Freinet,100,9681,29,place_098310
+NVN2,0,Square Maliver via école Freinet,100,9681,30,place_098275
+NVN2,0,Square Maliver via école Freinet,100,9681,31,place_VNPRKT
+NVN2,0,Square Maliver via école Freinet,100,9681,32,place_098228
+NVN2,0,Square Maliver via école Freinet,100,9681,33,place_098251
+NVN2,0,Square Maliver via école Freinet,100,9681,34,place_098249
+NVN2,0,Square Maliver via école Freinet,100,9681,35,place_ VNSQM
+NVN3,0,,100,7249,1,place_ VNSQM
+NVN3,0,,100,7249,2,place_VNPRL3
+NVN3,0,,100,7249,3,place_PROJOF
+NVN3,0,,100,7249,4,place_VNPLM
+NVN3,0,,100,7249,5,place_C40A9
+NVN3,0,,100,7249,6,place_VNOLV0
+NVN3,0,,100,7249,7,place_C40A22
+NVN3,0,,100,7249,8,place_VNAGA
+NVN3,0,,100,7249,9,place_GC4011
+NVN3,0,,100,7249,10,place_VNTUN2
+NVN3,0,,100,7249,11,place_VNCLT4
+NVN3,0,,100,7249,12,place_098233
+NVN3,0,,100,7249,13,place_098286
+NVN3,0,,100,7249,14,place_098298
+NVN3,0,,100,7249,15,place_098327
+NVN3,0,,100,7249,16,place_098322
+NVN3,0,,100,7249,17,place_098277
+NVN3,0,,100,7249,18,place_ VNRSU
+NVN3,0,,100,7249,19,place_ VNOSU
+NVN3,0,,100,7249,20,place_098268
+NVN3,0,,100,7249,21,place_098258
+NVN3,0,,100,7249,22,place_098331
+NVN3,0,,100,7249,23,place_VNASV
+NVN3,0,,100,7249,24,place_ VNMIR
+NVN3,0,,100,7249,25,place_098275
+NVN3,0,,100,7249,26,place_VNPRKT
+NVN3,0,,100,7249,27,place_098228
+NVN3,0,,100,7249,28,place_098251
+NVN3,0,,100,7249,29,place_098249
+NVN3,0,,100,7249,30,place_ VNSQM
+V,0,,100,6146,1,place_096735
+V,0,,100,6146,2,place_097133
+V,0,,100,6146,3,place_097337
+V,0,,100,6146,4,place_097139
+V,0,,100,6146,5,place_096734
+V,0,,100,6146,6,place_097194
+V,0,,100,6146,7,place_096633
+V,0,,100,6146,8,place_CLAIRH
+V,0,,100,6146,9,place_096796
+V,0,,100,6146,10,place_096771
+V,0,,100,6146,11,place_096633
+V,0,,100,6146,12,place_097194
+V,0,,100,6146,13,place_096668
+V,0,,100,6146,14,place_097114
+V,0,,100,6146,15,place_099404
+V,0,,100,6146,16,place_097269
+V,0,,100,6146,17,place_097531
+V,0,,100,6146,18,place_097155
+V,0,,100,6146,19,place_096625
+V,0,,100,6146,20,place_097184
+V,1,,100,5363,1,place_097184
+V,1,,100,5363,2,place_096735
+V,1,,100,5363,3,place_097133
+V,1,,100,5363,4,place_097337
+V,1,,100,5363,5,place_097139
+V,1,,100,5363,6,place_096734
+V,1,,100,5363,7,place_097194
+V,1,,100,5363,8,place_096633
+V,1,,100,5363,9,place_CLAIRH
+V,1,,100,5363,10,place_096796
+V,1,,100,5363,11,place_096771
+V,1,,100,5363,12,place_096633
+V,1,,100,5363,13,place_097194
+V,1,,100,5363,14,place_096668
+V,1,,100,5363,15,place_097114
+V,1,,100,5363,16,place_099404
+V,1,,100,5363,17,place_097269
+V,1,,100,5363,18,place_097531

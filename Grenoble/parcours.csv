@@ -1,0 +1,3745 @@
+ligne,sens,destination,part,longueur_m,position,arret
+15,0,"Grenoble, Verdun – Préfecture",51,10386,1,CHE
+15,0,"Grenoble, Verdun – Préfecture",51,10386,2,VERN
+15,0,"Grenoble, Verdun – Préfecture",51,10386,3,DOLPR
+15,0,"Grenoble, Verdun – Préfecture",51,10386,4,DOM
+15,0,"Grenoble, Verdun – Préfecture",51,10386,5,DOMCO
+15,0,"Grenoble, Verdun – Préfecture",51,10386,6,DOMOR
+15,0,"Grenoble, Verdun – Préfecture",51,10386,7,MRT
+15,0,"Grenoble, Verdun – Préfecture",51,10386,8,MURIV
+15,0,"Grenoble, Verdun – Préfecture",51,10386,9,MUBRI
+15,0,"Grenoble, Verdun – Préfecture",51,10386,10,LBG
+15,0,"Grenoble, Verdun – Préfecture",51,10386,11,MURPR
+15,0,"Grenoble, Verdun – Préfecture",51,10386,12,JAB
+15,0,"Grenoble, Verdun – Préfecture",51,10386,13,GIECH
+15,0,"Grenoble, Verdun – Préfecture",51,10386,14,GIPIE
+15,0,"Grenoble, Verdun – Préfecture",51,10386,15,PRJR
+15,0,"Grenoble, Verdun – Préfecture",51,10386,16,EDE
+15,0,"Grenoble, Verdun – Préfecture",51,10386,17,GISON
+15,0,"Grenoble, Verdun – Préfecture",51,10386,18,PORGRE
+15,0,"Grenoble, Verdun – Préfecture",51,10386,19,ROM
+15,0,"Grenoble, Verdun – Préfecture",51,10386,20,BEL
+15,0,"Grenoble, Verdun – Préfecture",51,10386,21,NEB
+15,0,"Grenoble, Verdun – Préfecture",51,10386,22,MHPER
+15,0,"Grenoble, Verdun – Préfecture",51,10386,23,VAMY
+15,0,"Grenoble, Verdun – Préfecture",51,10386,24,BIR
+15,0,"Grenoble, Verdun – Préfecture",51,10386,25,VERD
+15,1,"Domène, Chenevières",51,10386,1,VERD
+15,1,"Domène, Chenevières",51,10386,2,BIR
+15,1,"Domène, Chenevières",51,10386,3,VAMY
+15,1,"Domène, Chenevières",51,10386,4,MHPER
+15,1,"Domène, Chenevières",51,10386,5,NEB
+15,1,"Domène, Chenevières",51,10386,6,BEL
+15,1,"Domène, Chenevières",51,10386,7,ROM
+15,1,"Domène, Chenevières",51,10386,8,PORGRE
+15,1,"Domène, Chenevières",51,10386,9,GISON
+15,1,"Domène, Chenevières",51,10386,10,EDE
+15,1,"Domène, Chenevières",51,10386,11,PRJR
+15,1,"Domène, Chenevières",51,10386,12,GIPIE
+15,1,"Domène, Chenevières",51,10386,13,GIECH
+15,1,"Domène, Chenevières",51,10386,14,JAB
+15,1,"Domène, Chenevières",51,10386,15,MURPR
+15,1,"Domène, Chenevières",51,10386,16,LBG
+15,1,"Domène, Chenevières",51,10386,17,MUBRI
+15,1,"Domène, Chenevières",51,10386,18,MURIV
+15,1,"Domène, Chenevières",51,10386,19,MRT
+15,1,"Domène, Chenevières",51,10386,20,DOMOR
+15,1,"Domène, Chenevières",51,10386,21,DOMCO
+15,1,"Domène, Chenevières",51,10386,22,DOM
+15,1,"Domène, Chenevières",51,10386,23,DOLPR
+15,1,"Domène, Chenevières",51,10386,24,VERN
+15,1,"Domène, Chenevières",51,10386,25,CHE
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,1,ALL
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,2,MHGLA
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,3,CDP
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,4,POT
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,5,EGP
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,6,CAS
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,7,MHHBL
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,8,BPA
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,9,GRGCH
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,10,GRJEA
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,11,GRMAD
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,12,BIR
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,13,VERD
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,14,DMA
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,15,CSB
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,16,RIV
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,17,GRDEP
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,18,GRCAP
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,19,SUE
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,20,GRCLO
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,21,GRMAS
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,22,GRBEA
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,23,VER
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,24,ESS
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,25,ECMON
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,26,GRU
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,27,ECGLI
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,28,ECPHT
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,29,MCU
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,30,DEL
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,31,AUG1
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,32,BAY
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,33,CLM
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,34,ECDCA
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,35,ECVAS
+16,0,"Le Pont-de-Claix, Gendarmerie",98,12167,36,LU
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,1,LU
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,2,ECDCA
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,3,CLM
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,4,BAY
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,5,AUG1
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,6,DEL
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,7,MCU
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,8,ECPHT
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,9,ECGLI
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,10,GRU
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,11,ECMON
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,12,ESS
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,13,VER
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,14,GRBEA
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,15,GRMAS
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,16,GRCLO
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,17,SUE
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,18,GRCAP
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,19,GRDEP
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,20,RIV
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,21,CSB
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,22,DMA
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,23,VERD
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,24,BIR
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,25,GRMAD
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,26,GRJEA
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,27,GRGCH
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,28,BPA
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,29,CAS
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,30,EGP
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,31,POT
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,32,CDP
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,33,MHGLA
+16,1,"Saint-Martin-d'Hères, Les Alloves",100,12167,34,ALL
+17,0,"Grenoble, Verdun – Préfecture",65,4415,1,MFY
+17,0,"Grenoble, Verdun – Préfecture",65,4415,2,CRMAI
+17,0,"Grenoble, Verdun – Préfecture",65,4415,3,CMY
+17,0,"Grenoble, Verdun – Préfecture",65,4415,4,TRGTR
+17,0,"Grenoble, Verdun – Préfecture",65,4415,5,TRJRY
+17,0,"Grenoble, Verdun – Préfecture",65,4415,6,BAST
+17,0,"Grenoble, Verdun – Préfecture",65,4415,7,TRPTR
+17,0,"Grenoble, Verdun – Préfecture",65,4415,8,STL
+17,0,"Grenoble, Verdun – Préfecture",65,4415,9,GRXJN
+17,0,"Grenoble, Verdun – Préfecture",65,4415,10,NDM
+17,0,"Grenoble, Verdun – Préfecture",65,4415,11,GRHPO
+17,0,"Grenoble, Verdun – Préfecture",65,4415,12,GRROC
+17,0,"Grenoble, Verdun – Préfecture",65,4415,13,MUT
+17,0,"Grenoble, Verdun – Préfecture",65,4415,14,VERD
+17,1,"Corenc, Montfleury",62,4288,1,VERD
+17,1,"Corenc, Montfleury",62,4288,2,MUT
+17,1,"Corenc, Montfleury",62,4288,3,GRROC
+17,1,"Corenc, Montfleury",62,4288,4,GRHPO
+17,1,"Corenc, Montfleury",62,4288,5,NDM
+17,1,"Corenc, Montfleury",62,4288,6,STL
+17,1,"Corenc, Montfleury",62,4288,7,TRPTR
+17,1,"Corenc, Montfleury",62,4288,8,BAST
+17,1,"Corenc, Montfleury",62,4288,9,TRJRY
+17,1,"Corenc, Montfleury",62,4288,10,TRGTR
+17,1,"Corenc, Montfleury",62,4288,11,CMY
+17,1,"Corenc, Montfleury",62,4288,12,CRMAI
+17,1,"Corenc, Montfleury",62,4288,13,MFY
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,1,POI
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,2,CSC
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,3,ROB
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,4,EYBEL
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,5,MARAIS
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,6,MHPED
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,7,MHPLI
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,8,SLJ
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,9,COCA
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,10,ARG
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,11,GRSUZ
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,12,GREDI
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,13,GRCLE
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,14,GRRAV
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,15,DRIAN
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,16,CHV
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,17,DMA
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,18,VERD
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,19,MUT
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,20,GRROC
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,21,CGS
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,22,HMB
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,23,NEUR
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,24,TRO
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,25,COMN
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,26,MHB
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,27,TRTHE
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,28,CED
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,29,FLA
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,30,GRE
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,31,RS
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,32,CHMT
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,33,MESJB
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,34,BACH
+18,0,"Meylan, Lycée du Grésivaudan",99,11388,35,LYC
+18,1,"Poisat, Cimetière Intercommunal",99,11280,1,LYC
+18,1,"Poisat, Cimetière Intercommunal",99,11280,2,BACH
+18,1,"Poisat, Cimetière Intercommunal",99,11280,3,MESJB
+18,1,"Poisat, Cimetière Intercommunal",99,11280,4,CHMT
+18,1,"Poisat, Cimetière Intercommunal",99,11280,5,RS
+18,1,"Poisat, Cimetière Intercommunal",99,11280,6,GRE
+18,1,"Poisat, Cimetière Intercommunal",99,11280,7,FLA
+18,1,"Poisat, Cimetière Intercommunal",99,11280,8,CED
+18,1,"Poisat, Cimetière Intercommunal",99,11280,9,TRTHE
+18,1,"Poisat, Cimetière Intercommunal",99,11280,10,MHB
+18,1,"Poisat, Cimetière Intercommunal",99,11280,11,COMN
+18,1,"Poisat, Cimetière Intercommunal",99,11280,12,TRO
+18,1,"Poisat, Cimetière Intercommunal",99,11280,13,NEUR
+18,1,"Poisat, Cimetière Intercommunal",99,11280,14,HMB
+18,1,"Poisat, Cimetière Intercommunal",99,11280,15,CGS
+18,1,"Poisat, Cimetière Intercommunal",99,11280,16,GRROC
+18,1,"Poisat, Cimetière Intercommunal",99,11280,17,MUT
+18,1,"Poisat, Cimetière Intercommunal",99,11280,18,VERD
+18,1,"Poisat, Cimetière Intercommunal",99,11280,19,DMA
+18,1,"Poisat, Cimetière Intercommunal",99,11280,20,CHV
+18,1,"Poisat, Cimetière Intercommunal",99,11280,21,DRIAN
+18,1,"Poisat, Cimetière Intercommunal",99,11280,22,GRRAV
+18,1,"Poisat, Cimetière Intercommunal",99,11280,23,GREDI
+18,1,"Poisat, Cimetière Intercommunal",99,11280,24,GRSUZ
+18,1,"Poisat, Cimetière Intercommunal",99,11280,25,ARG
+18,1,"Poisat, Cimetière Intercommunal",99,11280,26,COCA
+18,1,"Poisat, Cimetière Intercommunal",99,11280,27,SLJ
+18,1,"Poisat, Cimetière Intercommunal",99,11280,28,MHPLI
+18,1,"Poisat, Cimetière Intercommunal",99,11280,29,MHPED
+18,1,"Poisat, Cimetière Intercommunal",99,11280,30,MARAIS
+18,1,"Poisat, Cimetière Intercommunal",99,11280,31,EYBEL
+18,1,"Poisat, Cimetière Intercommunal",99,11280,32,ROB
+18,1,"Poisat, Cimetière Intercommunal",99,11280,33,CSC
+18,1,"Poisat, Cimetière Intercommunal",99,11280,34,POI
+19,0,"Sassenage, L'Ovalie",100,9946,1,CIG
+19,0,"Sassenage, L'Ovalie",100,9946,2,GAL8
+19,0,"Sassenage, L'Ovalie",100,9946,3,PRNO
+19,0,"Sassenage, L'Ovalie",100,9946,4,SEARG
+19,0,"Sassenage, L'Ovalie",100,9946,5,PLV
+19,0,"Sassenage, L'Ovalie",100,9946,6,ANG
+19,0,"Sassenage, L'Ovalie",100,9946,7,MBE
+19,0,"Sassenage, L'Ovalie",100,9946,8,SCV
+19,0,"Sassenage, L'Ovalie",100,9946,9,SBE
+19,0,"Sassenage, L'Ovalie",100,9946,10,SPMUR
+19,0,"Sassenage, L'Ovalie",100,9946,11,SHV3
+19,0,"Sassenage, L'Ovalie",100,9946,12,ABE1
+19,0,"Sassenage, L'Ovalie",100,9946,13,LM
+19,0,"Sassenage, L'Ovalie",100,9946,14,FOCUR
+19,0,"Sassenage, L'Ovalie",100,9946,15,PAS
+19,0,"Sassenage, L'Ovalie",100,9946,16,PMC
+19,0,"Sassenage, L'Ovalie",100,9946,17,FOJGE
+19,0,"Sassenage, L'Ovalie",100,9946,18,ECR
+19,0,"Sassenage, L'Ovalie",100,9946,19,FOMAR
+19,0,"Sassenage, L'Ovalie",100,9946,20,FOALP
+19,0,"Sassenage, L'Ovalie",100,9946,21,FOPHI
+19,0,"Sassenage, L'Ovalie",100,9946,22,LP
+19,0,"Sassenage, L'Ovalie",100,9946,23,SAPIE
+19,0,"Sassenage, L'Ovalie",100,9946,24,PREF
+19,0,"Sassenage, L'Ovalie",100,9946,25,SATRE
+19,0,"Sassenage, L'Ovalie",100,9946,26,PLB
+19,0,"Sassenage, L'Ovalie",100,9946,27,SAGUA
+19,0,"Sassenage, L'Ovalie",100,9946,28,OVA
+19,1,"Seyssins, Garlettes",100,9946,1,OVA
+19,1,"Seyssins, Garlettes",100,9946,2,SAGUA
+19,1,"Seyssins, Garlettes",100,9946,3,PLB
+19,1,"Seyssins, Garlettes",100,9946,4,SATRE
+19,1,"Seyssins, Garlettes",100,9946,5,PREF
+19,1,"Seyssins, Garlettes",100,9946,6,SAPIE
+19,1,"Seyssins, Garlettes",100,9946,7,LP
+19,1,"Seyssins, Garlettes",100,9946,8,FOPHI
+19,1,"Seyssins, Garlettes",100,9946,9,FOALP
+19,1,"Seyssins, Garlettes",100,9946,10,FOMAR
+19,1,"Seyssins, Garlettes",100,9946,11,ECR
+19,1,"Seyssins, Garlettes",100,9946,12,FOJGE
+19,1,"Seyssins, Garlettes",100,9946,13,PMC
+19,1,"Seyssins, Garlettes",100,9946,14,PAS
+19,1,"Seyssins, Garlettes",100,9946,15,FOCUR
+19,1,"Seyssins, Garlettes",100,9946,16,LM
+19,1,"Seyssins, Garlettes",100,9946,17,ABE1
+19,1,"Seyssins, Garlettes",100,9946,18,SHV3
+19,1,"Seyssins, Garlettes",100,9946,19,SPMUR
+19,1,"Seyssins, Garlettes",100,9946,20,SBE
+19,1,"Seyssins, Garlettes",100,9946,21,SCV
+19,1,"Seyssins, Garlettes",100,9946,22,MBE
+19,1,"Seyssins, Garlettes",100,9946,23,ANG
+19,1,"Seyssins, Garlettes",100,9946,24,PLV
+19,1,"Seyssins, Garlettes",100,9946,25,SEARG
+19,1,"Seyssins, Garlettes",100,9946,26,PRNO
+19,1,"Seyssins, Garlettes",100,9946,27,GAL8
+19,1,"Seyssins, Garlettes",100,9946,28,CIG
+20,0,"Veurey-Voroize, La Rive",62,12070,1,SEH
+20,0,"Veurey-Voroize, La Rive",62,12070,2,ABE3
+20,0,"Veurey-Voroize, La Rive",62,12070,3,FOKMX
+20,0,"Veurey-Voroize, La Rive",62,12070,4,JPV
+20,0,"Veurey-Voroize, La Rive",62,12070,5,FOANC
+20,0,"Veurey-Voroize, La Rive",62,12070,6,LP
+20,0,"Veurey-Voroize, La Rive",62,12070,7,SAPIE
+20,0,"Veurey-Voroize, La Rive",62,12070,8,PREF
+20,0,"Veurey-Voroize, La Rive",62,12070,9,SATRE
+20,0,"Veurey-Voroize, La Rive",62,12070,10,PLB
+20,0,"Veurey-Voroize, La Rive",62,12070,11,CHS
+20,0,"Veurey-Voroize, La Rive",62,12070,12,SAROL
+20,0,"Veurey-Voroize, La Rive",62,12070,13,ENG
+20,0,"Veurey-Voroize, La Rive",62,12070,14,PRA
+20,0,"Veurey-Voroize, La Rive",62,12070,15,PRAR
+20,0,"Veurey-Voroize, La Rive",62,12070,16,NOCHA
+20,0,"Veurey-Voroize, La Rive",62,12070,17,STJ
+20,0,"Veurey-Voroize, La Rive",62,12070,18,NOY
+20,0,"Veurey-Voroize, La Rive",62,12070,19,RUI
+20,0,"Veurey-Voroize, La Rive",62,12070,20,VVCUC
+20,0,"Veurey-Voroize, La Rive",62,12070,21,ILES
+20,0,"Veurey-Voroize, La Rive",62,12070,22,PERS
+20,0,"Veurey-Voroize, La Rive",62,12070,23,LEH
+20,0,"Veurey-Voroize, La Rive",62,12070,24,VRI
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,1,VRI
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,2,LEH
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,3,PERS
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,4,ILES
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,5,VVCUC
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,6,RUI
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,7,NOY
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,8,STJ
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,9,NOCHA
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,10,PRAR
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,11,PRA
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,12,ENG
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,13,SAROL
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,14,CHS
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,15,PLB
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,16,SATRE
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,17,PREF
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,18,SAPIE
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,19,LP
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,20,FOANC
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,21,JPV
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,22,FOKMX
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,23,ABE3
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,24,SPILE
+20,1,"Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville",61,12369,25,SEH
+21,0,"Seyssins, Le Prisme",100,7509,1,CPR
+21,0,"Seyssins, Le Prisme",100,7509,2,POMP
+21,0,"Seyssins, Le Prisme",100,7509,3,CLCHZ
+21,0,"Seyssins, Le Prisme",100,7509,4,LRO
+21,0,"Seyssins, Le Prisme",100,7509,5,CLX
+21,0,"Seyssins, Le Prisme",100,7509,6,CLPOS
+21,0,"Seyssins, Le Prisme",100,7509,7,CLFUR
+21,0,"Seyssins, Le Prisme",100,7509,8,CRL
+21,0,"Seyssins, Le Prisme",100,7509,9,COSY
+21,0,"Seyssins, Le Prisme",100,7509,10,CIG
+21,0,"Seyssins, Le Prisme",100,7509,11,GAL8
+21,0,"Seyssins, Le Prisme",100,7509,12,PRNO
+21,0,"Seyssins, Le Prisme",100,7509,13,CHAU
+21,0,"Seyssins, Le Prisme",100,7509,14,SEBOU
+21,0,"Seyssins, Le Prisme",100,7509,15,SEBAU
+21,0,"Seyssins, Le Prisme",100,7509,16,SAN
+21,0,"Seyssins, Le Prisme",100,7509,17,PRI
+21,1,"Claix, Pont Rouge",100,7508,1,PRI
+21,1,"Claix, Pont Rouge",100,7508,2,SAN
+21,1,"Claix, Pont Rouge",100,7508,3,SEBAU
+21,1,"Claix, Pont Rouge",100,7508,4,SEBOU
+21,1,"Claix, Pont Rouge",100,7508,5,CHAU
+21,1,"Claix, Pont Rouge",100,7508,6,PRNO
+21,1,"Claix, Pont Rouge",100,7508,7,GAL8
+21,1,"Claix, Pont Rouge",100,7508,8,CIG
+21,1,"Claix, Pont Rouge",100,7508,9,COSY
+21,1,"Claix, Pont Rouge",100,7508,10,CRL
+21,1,"Claix, Pont Rouge",100,7508,11,CLFUR
+21,1,"Claix, Pont Rouge",100,7508,12,CLX
+21,1,"Claix, Pont Rouge",100,7508,13,LRO
+21,1,"Claix, Pont Rouge",100,7508,14,CLCHZ
+21,1,"Claix, Pont Rouge",100,7508,15,POMP
+21,1,"Claix, Pont Rouge",100,7508,16,CPR
+22,0,"Grenoble, Oxford",100,7898,1,EGR
+22,0,"Grenoble, Oxford",100,7898,2,EGLBL
+22,0,"Grenoble, Oxford",100,7898,3,ZI
+22,0,"Grenoble, Oxford",100,7898,4,KAR
+22,0,"Grenoble, Oxford",100,7898,5,ROC
+22,0,"Grenoble, Oxford",100,7898,6,EGROC
+22,0,"Grenoble, Oxford",100,7898,7,EGGAV
+22,0,"Grenoble, Oxford",100,7898,8,EGEGL
+22,0,"Grenoble, Oxford",100,7898,9,MON
+22,0,"Grenoble, Oxford",100,7898,10,EGCUV
+22,0,"Grenoble, Oxford",100,7898,11,EGVIS
+22,0,"Grenoble, Oxford",100,7898,12,PVC
+22,0,"Grenoble, Oxford",100,7898,13,MOU
+22,0,"Grenoble, Oxford",100,7898,14,MURE
+22,0,"Grenoble, Oxford",100,7898,15,FPR
+22,0,"Grenoble, Oxford",100,7898,16,EGBEL
+22,0,"Grenoble, Oxford",100,7898,17,EGGLA
+22,0,"Grenoble, Oxford",100,7898,18,CDH
+22,0,"Grenoble, Oxford",100,7898,19,OXF
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,1,OXF
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,2,SMLGA
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,3,CDH
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,4,EGGLA
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,5,EGBEL
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,6,FPR
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,7,MURE
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,8,MOU
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,9,PVC
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,10,EGVIS
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,11,EGCUV
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,12,MON
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,13,EGEGL
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,14,EGGAV
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,15,EGROC
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,16,ROC
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,17,KAR
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,18,ZI
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,19,EGLBL
+22,1,"Saint-Égrève, Saint-Égrève Gare",100,7899,20,EGR
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,1,PVL
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,2,LTE
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,3,CHTE
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,4,VZALL
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,5,LCOR
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,6,PTM
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,7,TRA
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,8,PLAT
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,9,VAUB
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,10,MAB
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,11,MARC
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,12,VAUL
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,13,ECJB
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,14,GUIC
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,15,ALBE
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,16,TUI
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,17,RSM
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,18,UGA
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,19,SMUCR6
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,20,SMUPEI
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,21,MAUPA
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,22,VECHE
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,23,GITER
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,24,GICON
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,25,PV
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,26,EDE
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,27,JR
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,28,GGU
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,29,VGN
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,30,BIO
+23,0,"Saint-Martin-d'Hères, Université – Bibliothèques",100,19075,31,BIB
+23,1,"Vizille, Le Péage",100,19075,1,BIB
+23,1,"Vizille, Le Péage",100,19075,2,BIO
+23,1,"Vizille, Le Péage",100,19075,3,VGN
+23,1,"Vizille, Le Péage",100,19075,4,GGU
+23,1,"Vizille, Le Péage",100,19075,5,JR
+23,1,"Vizille, Le Péage",100,19075,6,EDE
+23,1,"Vizille, Le Péage",100,19075,7,PV
+23,1,"Vizille, Le Péage",100,19075,8,GICON
+23,1,"Vizille, Le Péage",100,19075,9,GITER
+23,1,"Vizille, Le Péage",100,19075,10,VECHE
+23,1,"Vizille, Le Péage",100,19075,11,MAUPA
+23,1,"Vizille, Le Péage",100,19075,12,SMUPEI
+23,1,"Vizille, Le Péage",100,19075,13,SMUCR6
+23,1,"Vizille, Le Péage",100,19075,14,UGA
+23,1,"Vizille, Le Péage",100,19075,15,RSM
+23,1,"Vizille, Le Péage",100,19075,16,TUI
+23,1,"Vizille, Le Péage",100,19075,17,ALBE
+23,1,"Vizille, Le Péage",100,19075,18,GUIC
+23,1,"Vizille, Le Péage",100,19075,19,ECJB
+23,1,"Vizille, Le Péage",100,19075,20,VAUL
+23,1,"Vizille, Le Péage",100,19075,21,MARC
+23,1,"Vizille, Le Péage",100,19075,22,MAB
+23,1,"Vizille, Le Péage",100,19075,23,VAUB
+23,1,"Vizille, Le Péage",100,19075,24,PLAT
+23,1,"Vizille, Le Péage",100,19075,25,TRA
+23,1,"Vizille, Le Péage",100,19075,26,PTM
+23,1,"Vizille, Le Péage",100,19075,27,LCOR
+23,1,"Vizille, Le Péage",100,19075,28,VZALL
+23,1,"Vizille, Le Péage",100,19075,29,CHTE
+23,1,"Vizille, Le Péage",100,19075,30,LTE
+23,1,"Vizille, Le Péage",100,19075,31,PVL
+24,0,"Gières, Gières Gare – Chamandier",100,5183,1,VERD
+24,0,"Gières, Gières Gare – Chamandier",100,5183,2,BIR
+24,0,"Gières, Gières Gare – Chamandier",100,5183,3,VAMY
+24,0,"Gières, Gières Gare – Chamandier",100,5183,4,MHCXR
+24,0,"Gières, Gières Gare – Chamandier",100,5183,5,MHGAY
+24,0,"Gières, Gières Gare – Chamandier",100,5183,6,MC
+24,0,"Gières, Gières Gare – Chamandier",100,5183,7,MHCIT
+24,0,"Gières, Gières Gare – Chamandier",100,5183,8,MHPOR
+24,0,"Gières, Gières Gare – Chamandier",100,5183,9,COLI
+24,0,"Gières, Gières Gare – Chamandier",100,5183,10,MHELS
+24,0,"Gières, Gières Gare – Chamandier",100,5183,11,MHGAL
+24,0,"Gières, Gières Gare – Chamandier",100,5183,12,MHANG
+24,0,"Gières, Gières Gare – Chamandier",100,5183,13,MHROS
+24,0,"Gières, Gières Gare – Chamandier",100,5183,14,EDE
+24,0,"Gières, Gières Gare – Chamandier",100,5183,15,JR
+24,1,"Grenoble, Verdun – Préfecture",100,5183,1,JR
+24,1,"Grenoble, Verdun – Préfecture",100,5183,2,EDE
+24,1,"Grenoble, Verdun – Préfecture",100,5183,3,MHROS
+24,1,"Grenoble, Verdun – Préfecture",100,5183,4,MHANG
+24,1,"Grenoble, Verdun – Préfecture",100,5183,5,MHGAL
+24,1,"Grenoble, Verdun – Préfecture",100,5183,6,MHELS
+24,1,"Grenoble, Verdun – Préfecture",100,5183,7,COLI
+24,1,"Grenoble, Verdun – Préfecture",100,5183,8,MHPOR
+24,1,"Grenoble, Verdun – Préfecture",100,5183,9,MHCIT
+24,1,"Grenoble, Verdun – Préfecture",100,5183,10,MC
+24,1,"Grenoble, Verdun – Préfecture",100,5183,11,MHGAY
+24,1,"Grenoble, Verdun – Préfecture",100,5183,12,MHCXR
+24,1,"Grenoble, Verdun – Préfecture",100,5183,13,VAMY
+24,1,"Grenoble, Verdun – Préfecture",100,5183,14,BIR
+24,1,"Grenoble, Verdun – Préfecture",100,5183,15,VERD
+25,0,"Grenoble, Colonel Dumont",60,19948,1,GUA
+25,0,"Grenoble, Colonel Dumont",60,19948,2,PTG
+25,0,"Grenoble, Colonel Dumont",60,19948,3,VIFUN
+25,0,"Grenoble, Colonel Dumont",60,19948,4,RIF
+25,0,"Grenoble, Colonel Dumont",60,19948,5,VIFGR
+25,0,"Grenoble, Colonel Dumont",60,19948,6,VIFCH
+25,0,"Grenoble, Colonel Dumont",60,19948,7,VIFCI
+25,0,"Grenoble, Colonel Dumont",60,19948,8,LVA
+25,0,"Grenoble, Colonel Dumont",60,19948,9,VIFMA
+25,0,"Grenoble, Colonel Dumont",60,19948,10,VIFG
+25,0,"Grenoble, Colonel Dumont",60,19948,11,VIF
+25,0,"Grenoble, Colonel Dumont",60,19948,12,VIFUR
+25,0,"Grenoble, Colonel Dumont",60,19948,13,VIFGA
+25,0,"Grenoble, Colonel Dumont",60,19948,14,PEL
+25,0,"Grenoble, Colonel Dumont",60,19948,15,VAR
+25,0,"Grenoble, Colonel Dumont",60,19948,16,VALOR
+25,0,"Grenoble, Colonel Dumont",60,19948,17,RDPT
+25,0,"Grenoble, Colonel Dumont",60,19948,18,SANG
+25,0,"Grenoble, Colonel Dumont",60,19948,19,VAROC
+25,0,"Grenoble, Colonel Dumont",60,19948,20,VAPDO
+25,0,"Grenoble, Colonel Dumont",60,19948,21,CLCAR
+25,0,"Grenoble, Colonel Dumont",60,19948,22,CPR
+25,0,"Grenoble, Colonel Dumont",60,19948,23,PCM
+25,0,"Grenoble, Colonel Dumont",60,19948,24,ILE
+25,0,"Grenoble, Colonel Dumont",60,19948,25,ETOILE
+25,0,"Grenoble, Colonel Dumont",60,19948,26,BAY
+25,0,"Grenoble, Colonel Dumont",60,19948,27,QUIN
+25,0,"Grenoble, Colonel Dumont",60,19948,28,RON
+25,0,"Grenoble, Colonel Dumont",60,19948,29,LESD
+25,0,"Grenoble, Colonel Dumont",60,19948,30,LMG
+25,0,"Grenoble, Colonel Dumont",60,19948,31,AAF
+25,0,"Grenoble, Colonel Dumont",60,19948,32,VLI
+25,0,"Grenoble, Colonel Dumont",60,19948,33,FOF
+25,0,"Grenoble, Colonel Dumont",60,19948,34,CAB
+25,1,"Le Gua, Les Saillants",56,19817,1,CAB
+25,1,"Le Gua, Les Saillants",56,19817,2,VLI
+25,1,"Le Gua, Les Saillants",56,19817,3,AAF
+25,1,"Le Gua, Les Saillants",56,19817,4,LMG
+25,1,"Le Gua, Les Saillants",56,19817,5,LESD
+25,1,"Le Gua, Les Saillants",56,19817,6,RON
+25,1,"Le Gua, Les Saillants",56,19817,7,QUIN
+25,1,"Le Gua, Les Saillants",56,19817,8,BAY
+25,1,"Le Gua, Les Saillants",56,19817,9,ETOILE
+25,1,"Le Gua, Les Saillants",56,19817,10,ILE
+25,1,"Le Gua, Les Saillants",56,19817,11,PCM
+25,1,"Le Gua, Les Saillants",56,19817,12,CPR
+25,1,"Le Gua, Les Saillants",56,19817,13,CLCAR
+25,1,"Le Gua, Les Saillants",56,19817,14,VAPDO
+25,1,"Le Gua, Les Saillants",56,19817,15,VAROC
+25,1,"Le Gua, Les Saillants",56,19817,16,SANG
+25,1,"Le Gua, Les Saillants",56,19817,17,RDPT
+25,1,"Le Gua, Les Saillants",56,19817,18,VALOR
+25,1,"Le Gua, Les Saillants",56,19817,19,VAR
+25,1,"Le Gua, Les Saillants",56,19817,20,PEL
+25,1,"Le Gua, Les Saillants",56,19817,21,VIFGA2
+25,1,"Le Gua, Les Saillants",56,19817,22,VIFUR
+25,1,"Le Gua, Les Saillants",56,19817,23,VIF
+25,1,"Le Gua, Les Saillants",56,19817,24,VIFG
+25,1,"Le Gua, Les Saillants",56,19817,25,VIFMA
+25,1,"Le Gua, Les Saillants",56,19817,26,LVA
+25,1,"Le Gua, Les Saillants",56,19817,27,VIFCI
+25,1,"Le Gua, Les Saillants",56,19817,28,VIFCH
+25,1,"Le Gua, Les Saillants",56,19817,29,VIFGR
+25,1,"Le Gua, Les Saillants",56,19817,30,RIF
+25,1,"Le Gua, Les Saillants",56,19817,31,VIFUN
+25,1,"Le Gua, Les Saillants",56,19817,32,PTG
+25,1,"Le Gua, Les Saillants",56,19817,33,GUA
+41,0,"La Tronche, Grand Sablon",100,5020,1,LGA
+41,0,"La Tronche, Grand Sablon",100,5020,2,SAPRO
+41,0,"La Tronche, Grand Sablon",100,5020,3,PRO
+41,0,"La Tronche, Grand Sablon",100,5020,4,CORV
+41,0,"La Tronche, Grand Sablon",100,5020,5,CRCD
+41,0,"La Tronche, Grand Sablon",100,5020,6,MNT
+41,0,"La Tronche, Grand Sablon",100,5020,7,CRCPA
+41,0,"La Tronche, Grand Sablon",100,5020,8,CRMAIC
+41,0,"La Tronche, Grand Sablon",100,5020,9,CRMAI
+41,0,"La Tronche, Grand Sablon",100,5020,10,CED
+41,0,"La Tronche, Grand Sablon",100,5020,11,MELEC
+41,0,"La Tronche, Grand Sablon",100,5020,12,PLF
+41,0,"La Tronche, Grand Sablon",100,5020,13,LCB
+41,0,"La Tronche, Grand Sablon",100,5020,14,PSCL
+41,0,"La Tronche, Grand Sablon",100,5020,15,DGO
+41,0,"La Tronche, Grand Sablon",100,5020,16,VERC
+41,0,"La Tronche, Grand Sablon",100,5020,17,GS
+41,1,"Corenc, La Garenne",100,5020,1,GS
+41,1,"Corenc, La Garenne",100,5020,2,VERC
+41,1,"Corenc, La Garenne",100,5020,3,DGO
+41,1,"Corenc, La Garenne",100,5020,4,PSCL
+41,1,"Corenc, La Garenne",100,5020,5,LCB
+41,1,"Corenc, La Garenne",100,5020,6,PLF
+41,1,"Corenc, La Garenne",100,5020,7,MELEC
+41,1,"Corenc, La Garenne",100,5020,8,CED
+41,1,"Corenc, La Garenne",100,5020,9,CRMAI
+41,1,"Corenc, La Garenne",100,5020,10,CRMAIC
+41,1,"Corenc, La Garenne",100,5020,11,CRCPA
+41,1,"Corenc, La Garenne",100,5020,12,MNT
+41,1,"Corenc, La Garenne",100,5020,13,CRCD
+41,1,"Corenc, La Garenne",100,5020,14,CORV
+41,1,"Corenc, La Garenne",100,5020,15,PRO
+41,1,"Corenc, La Garenne",100,5020,16,SAPRO
+41,1,"Corenc, La Garenne",100,5020,17,LGA
+42,0,"Meylan, Place de la Louisiane",73,8477,1,EAU
+42,0,"Meylan, Place de la Louisiane",73,8477,2,MP
+42,0,"Meylan, Place de la Louisiane",73,8477,3,13300
+42,0,"Meylan, Place de la Louisiane",73,8477,4,BICH
+42,0,"Meylan, Place de la Louisiane",73,8477,5,BIM
+42,0,"Meylan, Place de la Louisiane",73,8477,6,BIT
+42,0,"Meylan, Place de la Louisiane",73,8477,7,BIC
+42,0,"Meylan, Place de la Louisiane",73,8477,8,BIL
+42,0,"Meylan, Place de la Louisiane",73,8477,9,SVT
+42,0,"Meylan, Place de la Louisiane",73,8477,10,MEG
+42,0,"Meylan, Place de la Louisiane",73,8477,11,CXCI
+42,0,"Meylan, Place de la Louisiane",73,8477,12,CRC
+42,0,"Meylan, Place de la Louisiane",73,8477,13,CHL
+42,0,"Meylan, Place de la Louisiane",73,8477,14,ANMA
+42,0,"Meylan, Place de la Louisiane",73,8477,15,MRR
+42,0,"Meylan, Place de la Louisiane",73,8477,16,LYC
+42,0,"Meylan, Place de la Louisiane",73,8477,17,MUS
+42,0,"Meylan, Place de la Louisiane",73,8477,18,MEM
+42,0,"Meylan, Place de la Louisiane",73,8477,19,BUC1
+42,0,"Meylan, Place de la Louisiane",73,8477,20,REV
+42,0,"Meylan, Place de la Louisiane",73,8477,21,TER
+42,0,"Meylan, Place de la Louisiane",73,8477,22,RS
+42,0,"Meylan, Place de la Louisiane",73,8477,23,PDL
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,1,PDL
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,2,AIG
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,3,REV
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,4,BUC1
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,5,MEM
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,6,MUS
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,7,LYC
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,8,MRR
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,9,ANMA
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,10,CHL
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,11,CRC
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,12,CXCI
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,13,MEG
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,14,SVT
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,15,BIL
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,16,BIC
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,17,BIT
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,18,BIM
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,19,BICH
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,20,13300
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,21,MP
+42,1,"Montbonnot-Saint-Martin, Pré de l'Eau",77,8200,22,EAU
+44,0,"Miribel-Lanchâtre, Le Vernay",52,7050,1,GUA
+44,0,"Miribel-Lanchâtre, Le Vernay",52,7050,2,GUM
+44,0,"Miribel-Lanchâtre, Le Vernay",52,7050,3,ROS
+44,0,"Miribel-Lanchâtre, Le Vernay",52,7050,4,SBG
+44,0,"Miribel-Lanchâtre, Le Vernay",52,7050,5,LAP
+44,0,"Miribel-Lanchâtre, Le Vernay",52,7050,6,CST
+44,0,"Miribel-Lanchâtre, Le Vernay",52,7050,7,MIBAY
+44,0,"Miribel-Lanchâtre, Le Vernay",52,7050,8,MIV
+44,0,"Miribel-Lanchâtre, Le Vernay",52,7050,9,VEY
+44,1,"Le Gua, Les Saillants",57,7050,1,VEY
+44,1,"Le Gua, Les Saillants",57,7050,2,MIV
+44,1,"Le Gua, Les Saillants",57,7050,3,MIBAY
+44,1,"Le Gua, Les Saillants",57,7050,4,CST
+44,1,"Le Gua, Les Saillants",57,7050,5,LAP
+44,1,"Le Gua, Les Saillants",57,7050,6,SBG
+44,1,"Le Gua, Les Saillants",57,7050,7,ROS
+44,1,"Le Gua, Les Saillants",57,7050,8,GUM
+44,1,"Le Gua, Les Saillants",57,7050,9,GUA
+45,0,"Vif, La Valonne",82,7996,1,RDPT
+45,0,"Vif, La Valonne",82,7996,2,VALOR
+45,0,"Vif, La Valonne",82,7996,3,STEND
+45,0,"Vif, La Valonne",82,7996,4,VANDL
+45,0,"Vif, La Valonne",82,7996,5,VABER
+45,0,"Vif, La Valonne",82,7996,6,VABAL
+45,0,"Vif, La Valonne",82,7996,7,VAROZ
+45,0,"Vif, La Valonne",82,7996,8,FON
+45,0,"Vif, La Valonne",82,7996,9,VAMAL
+45,0,"Vif, La Valonne",82,7996,10,VAGCH
+45,0,"Vif, La Valonne",82,7996,11,REF
+45,0,"Vif, La Valonne",82,7996,12,VIFSAC
+45,0,"Vif, La Valonne",82,7996,13,RYE
+45,0,"Vif, La Valonne",82,7996,14,LPLA
+45,0,"Vif, La Valonne",82,7996,15,VIFJAC
+45,0,"Vif, La Valonne",82,7996,16,PBR
+45,0,"Vif, La Valonne",82,7996,17,MAGA
+45,0,"Vif, La Valonne",82,7996,18,ALG
+45,0,"Vif, La Valonne",82,7996,19,VIFZAS
+45,0,"Vif, La Valonne",82,7996,20,VIFG
+45,0,"Vif, La Valonne",82,7996,21,VIFMA
+45,0,"Vif, La Valonne",82,7996,22,LVA
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,1,LVA
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,2,VIFMA
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,3,VIFG
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,4,VIFZAS
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,5,ALG
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,6,MAGA
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,7,PBR
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,8,VIFJAC
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,9,LPLA
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,10,RYE
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,11,VIFSAC
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,12,REF
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,13,VAGCH
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,14,VAMAL
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,15,FON
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,16,VAROZ
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,17,VABAL
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,18,VABER
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,19,VANDL
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,20,STEND
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,21,VALOR
+45,1,"Varces-Allières-et-Risset, Rond-Point de l'Europe",82,7996,22,RDPT
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,1,SPV
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,2,PVLAC
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,3,PVLAG
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,4,PVLAB
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,5,PVLEP
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,6,MEI
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,7,CHAM
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,8,VAPOM
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,9,VAPLA
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,10,VALOR
+46,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",55,4654,11,RDPT
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,1,RDPT
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,2,VALOR
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,3,VAPLA
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,4,VAPOM
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,5,CHAM
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,6,MEI
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,7,PVLEP
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,8,PVLAB
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,9,PVLAG
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,10,PVLAC
+46,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",55,4654,11,SPV
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,1,VAAL
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,2,CLLAC
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,3,CLVUE
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,4,CLTAI
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,5,PRAM
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,6,CLROS
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,7,BOUL
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,8,CLX
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,9,LRO
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,10,CLCHZ
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,11,POMP
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,12,CPR
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,13,CHARR
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,14,CLMIC
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,15,BAU
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,16,CLPAV
+47,0,"Varces-Allières-et-Risset, Risset",89,5555,17,RISS
+47,1,"Claix, Val d'Allières",90,5555,1,RISS
+47,1,"Claix, Val d'Allières",90,5555,2,CLPAV
+47,1,"Claix, Val d'Allières",90,5555,3,BAU
+47,1,"Claix, Val d'Allières",90,5555,4,CLMIC
+47,1,"Claix, Val d'Allières",90,5555,5,CHARR
+47,1,"Claix, Val d'Allières",90,5555,6,CPR
+47,1,"Claix, Val d'Allières",90,5555,7,POMP
+47,1,"Claix, Val d'Allières",90,5555,8,CLCHZ
+47,1,"Claix, Val d'Allières",90,5555,9,LRO
+47,1,"Claix, Val d'Allières",90,5555,10,CLX
+47,1,"Claix, Val d'Allières",90,5555,11,BOUL
+47,1,"Claix, Val d'Allières",90,5555,12,CLROS
+47,1,"Claix, Val d'Allières",90,5555,13,PRAM
+47,1,"Claix, Val d'Allières",90,5555,14,CLTAI
+47,1,"Claix, Val d'Allières",90,5555,15,CLVUE
+47,1,"Claix, Val d'Allières",90,5555,16,CLLAC
+47,1,"Claix, Val d'Allières",90,5555,17,VAAL
+48,0,"Claix, Pont Rouge",100,4859,1,COSS
+48,0,"Claix, Pont Rouge",100,4859,2,CLCHA
+48,0,"Claix, Pont Rouge",100,4859,3,MLV
+48,0,"Claix, Pont Rouge",100,4859,4,CRL
+48,0,"Claix, Pont Rouge",100,4859,5,CLBED
+48,0,"Claix, Pont Rouge",100,4859,6,CHAUM
+48,0,"Claix, Pont Rouge",100,4859,7,CLVER
+48,0,"Claix, Pont Rouge",100,4859,8,PERO
+48,0,"Claix, Pont Rouge",100,4859,9,CLMOU
+48,0,"Claix, Pont Rouge",100,4859,10,CIMEN
+48,0,"Claix, Pont Rouge",100,4859,11,COT
+48,0,"Claix, Pont Rouge",100,4859,12,CLBAL
+48,0,"Claix, Pont Rouge",100,4859,13,CLMEM
+48,0,"Claix, Pont Rouge",100,4859,14,CLFON
+48,0,"Claix, Pont Rouge",100,4859,15,POMP
+48,0,"Claix, Pont Rouge",100,4859,16,CPR
+48,1,"Claix, Cossey",100,4859,1,CPR
+48,1,"Claix, Cossey",100,4859,2,POMP
+48,1,"Claix, Cossey",100,4859,3,CLFON
+48,1,"Claix, Cossey",100,4859,4,CLMEM
+48,1,"Claix, Cossey",100,4859,5,CLBAL
+48,1,"Claix, Cossey",100,4859,6,COT
+48,1,"Claix, Cossey",100,4859,7,CIMEN
+48,1,"Claix, Cossey",100,4859,8,CLMOU
+48,1,"Claix, Cossey",100,4859,9,PERO
+48,1,"Claix, Cossey",100,4859,10,CLVER
+48,1,"Claix, Cossey",100,4859,11,CHAUM
+48,1,"Claix, Cossey",100,4859,12,CLBED
+48,1,"Claix, Cossey",100,4859,13,CRL
+48,1,"Claix, Cossey",100,4859,14,MLV
+48,1,"Claix, Cossey",100,4859,15,CLCHA
+48,1,"Claix, Cossey",100,4859,16,COSS
+49,0,"Seyssins, Le Prisme",59,3074,1,LECEL
+49,0,"Seyssins, Le Prisme",59,3074,2,LALUNE
+49,0,"Seyssins, Le Prisme",59,3074,3,SEPRL
+49,0,"Seyssins, Le Prisme",59,3074,4,SEPRI
+49,0,"Seyssins, Le Prisme",59,3074,5,PLV
+49,0,"Seyssins, Le Prisme",59,3074,6,ANG
+49,0,"Seyssins, Le Prisme",59,3074,7,SEAGN
+49,0,"Seyssins, Le Prisme",59,3074,8,SEPRC
+49,0,"Seyssins, Le Prisme",59,3074,9,PRI
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,1,PRI
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,2,SEPRC
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,3,SEAGN
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,4,SEBEA
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,5,PLV
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,6,SEPRI
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,7,SEPRL
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,8,LALUNE
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,9,LESCOT
+49,1,"Seyssins, Clinique du Dauphiné",53,3154,10,LECEL
+50,0,"Sassenage, Les Côtes",64,4404,1,LP
+50,0,"Sassenage, Les Côtes",64,4404,2,SAPIE
+50,0,"Sassenage, Les Côtes",64,4404,3,PREF
+50,0,"Sassenage, Les Côtes",64,4404,4,SATRE
+50,0,"Sassenage, Les Côtes",64,4404,5,PLB
+50,0,"Sassenage, Les Côtes",64,4404,6,CHS
+50,0,"Sassenage, Les Côtes",64,4404,7,BFO
+50,0,"Sassenage, Les Côtes",64,4404,8,SACHE
+50,0,"Sassenage, Les Côtes",64,4404,9,PARC
+50,0,"Sassenage, Les Côtes",64,4404,10,SALRD
+50,0,"Sassenage, Les Côtes",64,4404,11,SAMOL
+50,0,"Sassenage, Les Côtes",64,4404,12,SACBE
+50,0,"Sassenage, Les Côtes",64,4404,13,SAVDJ
+50,0,"Sassenage, Les Côtes",64,4404,14,SABEA
+50,0,"Sassenage, Les Côtes",64,4404,15,COTE
+50,1,"Fontaine, La Poya",74,4404,1,COTE
+50,1,"Fontaine, La Poya",74,4404,2,SABEA
+50,1,"Fontaine, La Poya",74,4404,3,SAVDJ
+50,1,"Fontaine, La Poya",74,4404,4,SACBE
+50,1,"Fontaine, La Poya",74,4404,5,SAMOL
+50,1,"Fontaine, La Poya",74,4404,6,SALRD
+50,1,"Fontaine, La Poya",74,4404,7,PARC
+50,1,"Fontaine, La Poya",74,4404,8,SACHE
+50,1,"Fontaine, La Poya",74,4404,9,BFO
+50,1,"Fontaine, La Poya",74,4404,10,CHS
+50,1,"Fontaine, La Poya",74,4404,11,PLB
+50,1,"Fontaine, La Poya",74,4404,12,SATRE
+50,1,"Fontaine, La Poya",74,4404,13,PREF
+50,1,"Fontaine, La Poya",74,4404,14,SAPIE
+50,1,"Fontaine, La Poya",74,4404,15,LP
+51,0,"Veurey-Voroize, Châtelard",69,9607,1,EGR
+51,0,"Veurey-Voroize, Châtelard",69,9607,2,BON
+51,0,"Veurey-Voroize, Châtelard",69,9607,3,KAR
+51,0,"Veurey-Voroize, Châtelard",69,9607,4,ZI
+51,0,"Veurey-Voroize, Châtelard",69,9607,5,PRAR
+51,0,"Veurey-Voroize, Châtelard",69,9607,6,NOCHA
+51,0,"Veurey-Voroize, Châtelard",69,9607,7,STJ
+51,0,"Veurey-Voroize, Châtelard",69,9607,8,NOY
+51,0,"Veurey-Voroize, Châtelard",69,9607,9,RUI
+51,0,"Veurey-Voroize, Châtelard",69,9607,10,VVCUC
+51,0,"Veurey-Voroize, Châtelard",69,9607,11,ILES
+51,0,"Veurey-Voroize, Châtelard",69,9607,12,PERS
+51,0,"Veurey-Voroize, Châtelard",69,9607,13,LEH
+51,0,"Veurey-Voroize, Châtelard",69,9607,14,VRI
+51,0,"Veurey-Voroize, Châtelard",69,9607,15,EGL
+51,0,"Veurey-Voroize, Châtelard",69,9607,16,VM
+51,0,"Veurey-Voroize, Châtelard",69,9607,17,VVBER
+51,0,"Veurey-Voroize, Châtelard",69,9607,18,PCH
+51,0,"Veurey-Voroize, Châtelard",69,9607,19,LMA
+51,0,"Veurey-Voroize, Châtelard",69,9607,20,VVCPC
+51,0,"Veurey-Voroize, Châtelard",69,9607,21,CTL
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,1,CTL
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,2,VVCPC
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,3,LMA
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,4,PCH
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,5,VVBER
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,6,VM
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,7,EGL
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,8,VRI
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,9,LEH
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,10,PERS
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,11,ILES
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,12,VVCUC
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,13,RUI
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,14,NOY
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,15,STJ
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,16,NOCHA
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,17,PRAR
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,18,ZI
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,19,KAR
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,20,BON
+51,1,"Saint-Égrève, Saint-Égrève Gare",62,9607,21,EGR
+54,0,"Saint-Égrève, Pont de Vence",60,11085,1,OXF
+54,0,"Saint-Égrève, Pont de Vence",60,11085,2,MART
+54,0,"Saint-Égrève, Pont de Vence",60,11085,3,CHAD
+54,0,"Saint-Égrève, Pont de Vence",60,11085,4,MALA
+54,0,"Saint-Égrève, Pont de Vence",60,11085,5,SAFBT
+54,0,"Saint-Égrève, Pont de Vence",60,11085,6,SASPO
+54,0,"Saint-Égrève, Pont de Vence",60,11085,7,OVA
+54,0,"Saint-Égrève, Pont de Vence",60,11085,8,SAGUA
+54,0,"Saint-Égrève, Pont de Vence",60,11085,9,CHS
+54,0,"Saint-Égrève, Pont de Vence",60,11085,10,SAROL
+54,0,"Saint-Égrève, Pont de Vence",60,11085,11,ENG
+54,0,"Saint-Égrève, Pont de Vence",60,11085,12,PRA
+54,0,"Saint-Égrève, Pont de Vence",60,11085,13,ZI
+54,0,"Saint-Égrève, Pont de Vence",60,11085,14,KAR
+54,0,"Saint-Égrève, Pont de Vence",60,11085,15,BON
+54,0,"Saint-Égrève, Pont de Vence",60,11085,16,EGR
+54,0,"Saint-Égrève, Pont de Vence",60,11085,17,VEN
+54,0,"Saint-Égrève, Pont de Vence",60,11085,18,EGISE
+54,0,"Saint-Égrève, Pont de Vence",60,11085,19,PVC
+54,1,"Grenoble, Oxford",54,11085,1,PVC
+54,1,"Grenoble, Oxford",54,11085,2,EGISE
+54,1,"Grenoble, Oxford",54,11085,3,VEN
+54,1,"Grenoble, Oxford",54,11085,4,EGR
+54,1,"Grenoble, Oxford",54,11085,5,BON
+54,1,"Grenoble, Oxford",54,11085,6,KAR
+54,1,"Grenoble, Oxford",54,11085,7,ZI
+54,1,"Grenoble, Oxford",54,11085,8,PRA
+54,1,"Grenoble, Oxford",54,11085,9,ENG
+54,1,"Grenoble, Oxford",54,11085,10,SAROL
+54,1,"Grenoble, Oxford",54,11085,11,CHS
+54,1,"Grenoble, Oxford",54,11085,12,SAGUA
+54,1,"Grenoble, Oxford",54,11085,13,OVA
+54,1,"Grenoble, Oxford",54,11085,14,SASPO
+54,1,"Grenoble, Oxford",54,11085,15,SAFBT
+54,1,"Grenoble, Oxford",54,11085,16,MALA
+54,1,"Grenoble, Oxford",54,11085,17,CHAD
+54,1,"Grenoble, Oxford",54,11085,18,MART
+54,1,"Grenoble, Oxford",54,11085,19,OXF
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,1,CCL
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,2,SRI
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,3,SMGAT
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,4,SMBUI
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,5,SLR
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,6,SMBAN
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,7,SMNAR
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,8,SHR
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,9,SMCAN
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,10,SMCGG
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,11,SOU
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,12,SMCSM
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,13,AOU
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,14,SMVRE
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,15,SMVKIL
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,16,PIQ
+55,0,"Saint-Martin-le-Vinoux, Collège Chartreuse",51,7385,17,CCH
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,1,PIQ
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,2,SMVKIL
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,3,SMVRE
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,4,AOU
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,5,SMCSM
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,6,SOU
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,7,SMCGG
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,8,SMCAN
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,9,SHR
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,10,SMNAR
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,11,SMBAN
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,12,SLR
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,13,SMBUI
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,14,SMGAT
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,15,SRI
+55,1,"Saint-Martin-le-Vinoux, Col de Clémencières",70,5737,16,CCL
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,1,CMV
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,2,SMVRE
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,3,AOU
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,4,ANC
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,5,SFA
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,6,SMLER
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,7,ARO
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,8,LCS
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,9,SHB
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,10,SMLAG
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,11,MGE
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,12,SLA
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,13,BLE
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,14,LEV
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,15,CCL
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,16,QUROU
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,17,QUSOU
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,18,BMQ
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,19,QUMQU
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,20,QUFON
+56,0,"Quaix-en-Chartreuse, La Cime de Mont-Quaix",55,8036,21,CMQ
+56,1,"Grenoble, Casamaures – Village",49,8036,1,CMQ
+56,1,"Grenoble, Casamaures – Village",49,8036,2,QUFON
+56,1,"Grenoble, Casamaures – Village",49,8036,3,QUMQU
+56,1,"Grenoble, Casamaures – Village",49,8036,4,BMQ
+56,1,"Grenoble, Casamaures – Village",49,8036,5,QUSOU
+56,1,"Grenoble, Casamaures – Village",49,8036,6,QUROU
+56,1,"Grenoble, Casamaures – Village",49,8036,7,CCL
+56,1,"Grenoble, Casamaures – Village",49,8036,8,LEV
+56,1,"Grenoble, Casamaures – Village",49,8036,9,BLE
+56,1,"Grenoble, Casamaures – Village",49,8036,10,SLA
+56,1,"Grenoble, Casamaures – Village",49,8036,11,MGE
+56,1,"Grenoble, Casamaures – Village",49,8036,12,SMLAG
+56,1,"Grenoble, Casamaures – Village",49,8036,13,SHB
+56,1,"Grenoble, Casamaures – Village",49,8036,14,LCS
+56,1,"Grenoble, Casamaures – Village",49,8036,15,ARO
+56,1,"Grenoble, Casamaures – Village",49,8036,16,SMLER
+56,1,"Grenoble, Casamaures – Village",49,8036,17,SFA
+56,1,"Grenoble, Casamaures – Village",49,8036,18,ANC
+56,1,"Grenoble, Casamaures – Village",49,8036,19,AOU
+56,1,"Grenoble, Casamaures – Village",49,8036,20,SMVRE
+56,1,"Grenoble, Casamaures – Village",49,8036,21,CMV
+59,0,"Gières, Gières Gare – Chamandier",44,13741,1,HAUT
+59,0,"Gières, Gières Gare – Chamandier",44,13741,2,LLN
+59,0,"Gières, Gières Gare – Chamandier",44,13741,3,LPE
+59,0,"Gières, Gières Gare – Chamandier",44,13741,4,CRE
+59,0,"Gières, Gières Gare – Chamandier",44,13741,5,PINET
+59,0,"Gières, Gières Gare – Chamandier",44,13741,6,SMUVAL
+59,0,"Gières, Gières Gare – Chamandier",44,13741,7,SMUOIE
+59,0,"Gières, Gières Gare – Chamandier",44,13741,8,CROI
+59,0,"Gières, Gières Gare – Chamandier",44,13741,9,ROCH
+59,0,"Gières, Gières Gare – Chamandier",44,13741,10,GNA
+59,0,"Gières, Gières Gare – Chamandier",44,13741,11,CORP
+59,0,"Gières, Gières Gare – Chamandier",44,13741,12,PERE
+59,0,"Gières, Gières Gare – Chamandier",44,13741,13,SMUCHE
+59,0,"Gières, Gières Gare – Chamandier",44,13741,14,LROSCO
+59,0,"Gières, Gières Gare – Chamandier",44,13741,15,SMUFAU
+59,0,"Gières, Gières Gare – Chamandier",44,13741,16,COMB
+59,0,"Gières, Gières Gare – Chamandier",44,13741,17,RONZ
+59,0,"Gières, Gières Gare – Chamandier",44,13741,18,SNU
+59,0,"Gières, Gières Gare – Chamandier",44,13741,19,CPO
+59,0,"Gières, Gières Gare – Chamandier",44,13741,20,VEPUI
+59,0,"Gières, Gières Gare – Chamandier",44,13741,21,VEREY
+59,0,"Gières, Gières Gare – Chamandier",44,13741,22,SPR
+59,0,"Gières, Gières Gare – Chamandier",44,13741,23,VEPER
+59,0,"Gières, Gières Gare – Chamandier",44,13741,24,VECUL
+59,0,"Gières, Gières Gare – Chamandier",44,13741,25,LAC
+59,0,"Gières, Gières Gare – Chamandier",44,13741,26,VEM
+59,0,"Gières, Gières Gare – Chamandier",44,13741,27,VIL
+59,0,"Gières, Gières Gare – Chamandier",44,13741,28,VESER
+59,0,"Gières, Gières Gare – Chamandier",44,13741,29,VEFRN
+59,0,"Gières, Gières Gare – Chamandier",44,13741,30,LCO
+59,0,"Gières, Gières Gare – Chamandier",44,13741,31,PV
+59,0,"Gières, Gières Gare – Chamandier",44,13741,32,EDE
+59,0,"Gières, Gières Gare – Chamandier",44,13741,33,JR
+59,1,"Venon, Le Chapon",22,4879,1,LCH
+59,1,"Venon, Le Chapon",22,4879,2,JR
+59,1,"Venon, Le Chapon",22,4879,3,EDE
+59,1,"Venon, Le Chapon",22,4879,4,PV
+59,1,"Venon, Le Chapon",22,4879,5,LCO
+59,1,"Venon, Le Chapon",22,4879,6,VEFRN
+59,1,"Venon, Le Chapon",22,4879,7,VESER
+59,1,"Venon, Le Chapon",22,4879,8,VIL
+59,1,"Venon, Le Chapon",22,4879,9,VEM
+59,1,"Venon, Le Chapon",22,4879,10,LAC
+59,1,"Venon, Le Chapon",22,4879,11,VECUL
+59,1,"Venon, Le Chapon",22,4879,12,VEPER
+59,1,"Venon, Le Chapon",22,4879,13,SPR
+59,1,"Venon, Le Chapon",22,4879,14,VEREY
+59,1,"Venon, Le Chapon",22,4879,15,VEPUI
+59,1,"Venon, Le Chapon",22,4879,16,CPO
+60,0,"Proveysieux, Planfay Haut",100,8077,1,MURE
+60,0,"Proveysieux, Planfay Haut",100,8077,2,EGCFY
+60,0,"Proveysieux, Planfay Haut",100,8077,3,BAR
+60,0,"Proveysieux, Planfay Haut",100,8077,4,EGCHV
+60,0,"Proveysieux, Planfay Haut",100,8077,5,EGCPY
+60,0,"Proveysieux, Planfay Haut",100,8077,6,BLVU
+60,0,"Proveysieux, Planfay Haut",100,8077,7,RIG
+60,0,"Proveysieux, Planfay Haut",100,8077,8,PRMOR
+60,0,"Proveysieux, Planfay Haut",100,8077,9,PRLMO
+60,0,"Proveysieux, Planfay Haut",100,8077,10,PRLAC
+60,0,"Proveysieux, Planfay Haut",100,8077,11,ECOL
+60,0,"Proveysieux, Planfay Haut",100,8077,12,BAZ
+60,0,"Proveysieux, Planfay Haut",100,8077,13,LEG
+60,0,"Proveysieux, Planfay Haut",100,8077,14,PRSAV
+60,0,"Proveysieux, Planfay Haut",100,8077,15,PRPBA
+60,0,"Proveysieux, Planfay Haut",100,8077,16,POM
+60,0,"Proveysieux, Planfay Haut",100,8077,17,PLNB
+60,0,"Proveysieux, Planfay Haut",100,8077,18,PRPCO
+60,0,"Proveysieux, Planfay Haut",100,8077,19,PLN
+60,1,"Saint-Égrève, Muret",100,8077,1,PLN
+60,1,"Saint-Égrève, Muret",100,8077,2,PRPCO
+60,1,"Saint-Égrève, Muret",100,8077,3,PLNB
+60,1,"Saint-Égrève, Muret",100,8077,4,POM
+60,1,"Saint-Égrève, Muret",100,8077,5,PRPBA
+60,1,"Saint-Égrève, Muret",100,8077,6,PRSAV
+60,1,"Saint-Égrève, Muret",100,8077,7,LEG
+60,1,"Saint-Égrève, Muret",100,8077,8,BAZ
+60,1,"Saint-Égrève, Muret",100,8077,9,ECOL
+60,1,"Saint-Égrève, Muret",100,8077,10,PRLAC
+60,1,"Saint-Égrève, Muret",100,8077,11,PRLMO
+60,1,"Saint-Égrève, Muret",100,8077,12,PRMOR
+60,1,"Saint-Égrève, Muret",100,8077,13,RIG
+60,1,"Saint-Égrève, Muret",100,8077,14,BLVU
+60,1,"Saint-Égrève, Muret",100,8077,15,EGCPY
+60,1,"Saint-Égrève, Muret",100,8077,16,EGCHV
+60,1,"Saint-Égrève, Muret",100,8077,17,BAR
+60,1,"Saint-Égrève, Muret",100,8077,18,EGCFY
+60,1,"Saint-Égrève, Muret",100,8077,19,MURE
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,1,MURE
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,2,EGCFY
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,3,BAR
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,4,EGCHV
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,5,EGCPY
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,6,QUGRA
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,7,BAQ
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,8,QURSE
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,9,QUBAR
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,10,PET
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,11,QUA
+61,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,5346,12,ECOQ
+61,1,"Saint-Égrève, Muret",100,5346,1,ECOQ
+61,1,"Saint-Égrève, Muret",100,5346,2,QUA
+61,1,"Saint-Égrève, Muret",100,5346,3,PET
+61,1,"Saint-Égrève, Muret",100,5346,4,QUBAR
+61,1,"Saint-Égrève, Muret",100,5346,5,QURSE
+61,1,"Saint-Égrève, Muret",100,5346,6,BAQ
+61,1,"Saint-Égrève, Muret",100,5346,7,QUGRA
+61,1,"Saint-Égrève, Muret",100,5346,8,EGCPY
+61,1,"Saint-Égrève, Muret",100,5346,9,EGCHV
+61,1,"Saint-Égrève, Muret",100,5346,10,BAR
+61,1,"Saint-Égrève, Muret",100,5346,11,EGCFY
+61,1,"Saint-Égrève, Muret",100,5346,12,MURE
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,1,EGR
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,2,BON
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,3,KAR
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,4,EGRAF
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,5,FOM
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,6,FTCIM
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,7,MMLRI
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,8,FOC
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,9,MMCOL
+63,0,"Mont-Saint-Martin, Chemin de Namière",100,4839,10,NAM
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,1,NAM
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,2,MMCOL
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,3,FOC
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,4,MMLRI
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,5,FTCIM
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,6,FOM
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,7,EGRAF
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,8,KAR
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,9,BON
+63,1,"Saint-Égrève, Saint-Égrève Gare",100,4839,10,EGR
+64,0,"Le Pont-de-Claix, L'Étoile",100,2093,1,ETOILE
+64,0,"Le Pont-de-Claix, L'Étoile",100,2093,2,PCECS
+64,0,"Le Pont-de-Claix, L'Étoile",100,2093,3,ZILES
+64,0,"Le Pont-de-Claix, L'Étoile",100,2093,4,PCMAR
+64,0,"Le Pont-de-Claix, L'Étoile",100,2093,5,TOISE
+64,0,"Le Pont-de-Claix, L'Étoile",100,2093,6,PCECS
+64,0,"Le Pont-de-Claix, L'Étoile",100,2093,7,ETOILE
+65,0,"Grenoble, Grand'place",80,15792,1,PVL
+65,0,"Grenoble, Grand'place",80,15792,2,LTE
+65,0,"Grenoble, Grand'place",80,15792,3,CHTE
+65,0,"Grenoble, Grand'place",80,15792,4,FOR
+65,0,"Grenoble, Grand'place",80,15792,5,VZVOH
+65,0,"Grenoble, Grand'place",80,15792,6,ALI
+65,0,"Grenoble, Grand'place",80,15792,7,CHANT
+65,0,"Grenoble, Grand'place",80,15792,8,VZGRI
+65,0,"Grenoble, Grand'place",80,15792,9,BREG
+65,0,"Grenoble, Grand'place",80,15792,10,BRI
+65,0,"Grenoble, Grand'place",80,15792,11,BROLY
+65,0,"Grenoble, Grand'place",80,15792,12,PLT
+65,0,"Grenoble, Grand'place",80,15792,13,BRMET
+65,0,"Grenoble, Grand'place",80,15792,14,SOUV
+65,0,"Grenoble, Grand'place",80,15792,15,BRSOU
+65,0,"Grenoble, Grand'place",80,15792,16,ENC
+65,0,"Grenoble, Grand'place",80,15792,17,TAV
+65,0,"Grenoble, Grand'place",80,15792,18,VRD
+65,0,"Grenoble, Grand'place",80,15792,19,EBN
+65,0,"Grenoble, Grand'place",80,15792,20,SJV
+65,0,"Grenoble, Grand'place",80,15792,21,ILYA
+65,0,"Grenoble, Grand'place",80,15792,22,EYPRE
+65,0,"Grenoble, Grand'place",80,15792,23,FQUE
+65,0,"Grenoble, Grand'place",80,15792,24,ALX
+65,0,"Grenoble, Grand'place",80,15792,25,APX
+65,0,"Grenoble, Grand'place",80,15792,26,GP
+65,1,"Vizille, Le Péage",51,15792,1,GP
+65,1,"Vizille, Le Péage",51,15792,2,APX
+65,1,"Vizille, Le Péage",51,15792,3,ALX
+65,1,"Vizille, Le Péage",51,15792,4,FQUE
+65,1,"Vizille, Le Péage",51,15792,5,EYPRE
+65,1,"Vizille, Le Péage",51,15792,6,ILYA
+65,1,"Vizille, Le Péage",51,15792,7,SJV
+65,1,"Vizille, Le Péage",51,15792,8,EBN
+65,1,"Vizille, Le Péage",51,15792,9,VRD
+65,1,"Vizille, Le Péage",51,15792,10,TAV
+65,1,"Vizille, Le Péage",51,15792,11,ENC
+65,1,"Vizille, Le Péage",51,15792,12,BRSOU
+65,1,"Vizille, Le Péage",51,15792,13,SOUV
+65,1,"Vizille, Le Péage",51,15792,14,BRMET
+65,1,"Vizille, Le Péage",51,15792,15,PLT
+65,1,"Vizille, Le Péage",51,15792,16,BROLY
+65,1,"Vizille, Le Péage",51,15792,17,BRI
+65,1,"Vizille, Le Péage",51,15792,18,BREG
+65,1,"Vizille, Le Péage",51,15792,19,VZGRI
+65,1,"Vizille, Le Péage",51,15792,20,CHANT
+65,1,"Vizille, Le Péage",51,15792,21,ALI
+65,1,"Vizille, Le Péage",51,15792,22,VZVOH
+65,1,"Vizille, Le Péage",51,15792,23,FOR
+65,1,"Vizille, Le Péage",51,15792,24,CHTE
+65,1,"Vizille, Le Péage",51,15792,25,LTE
+65,1,"Vizille, Le Péage",51,15792,26,PVL
+66,0,"Jarrie, Clos Jouvin",88,11309,1,RAM
+66,0,"Jarrie, Clos Jouvin",88,11309,2,ECAPI
+66,0,"Jarrie, Clos Jouvin",88,11309,3,CHA
+66,0,"Jarrie, Clos Jouvin",88,11309,4,ECGUY
+66,0,"Jarrie, Clos Jouvin",88,11309,5,PLA
+66,0,"Jarrie, Clos Jouvin",88,11309,6,MCU
+66,0,"Jarrie, Clos Jouvin",88,11309,7,DEL
+66,0,"Jarrie, Clos Jouvin",88,11309,8,DP
+66,0,"Jarrie, Clos Jouvin",88,11309,9,GLU
+66,0,"Jarrie, Clos Jouvin",88,11309,10,ECPCO
+66,0,"Jarrie, Clos Jouvin",88,11309,11,LACA
+66,0,"Jarrie, Clos Jouvin",88,11309,12,PLE
+66,0,"Jarrie, Clos Jouvin",88,11309,13,THE
+66,0,"Jarrie, Clos Jouvin",88,11309,14,SIM
+66,0,"Jarrie, Clos Jouvin",88,11309,15,CHAB
+66,0,"Jarrie, Clos Jouvin",88,11309,16,MAUP
+66,0,"Jarrie, Clos Jouvin",88,11309,17,JACHB
+66,0,"Jarrie, Clos Jouvin",88,11309,18,JAVER
+66,0,"Jarrie, Clos Jouvin",88,11309,19,ANMAL
+66,0,"Jarrie, Clos Jouvin",88,11309,20,CLOJ
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,1,CLOJ
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,2,ANMAL
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,3,JAVER
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,4,JACHB
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,5,MAUP
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,6,CHAB
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,7,SIM
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,8,THE
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,9,PLE
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,10,LACA
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,11,ECPCO
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,12,GLU
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,13,DP
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,14,DEL
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,15,MCU
+66,1,"Échirolles, La Rampe – Centre-Ville",100,10105,16,RAM
+67,0,"Grenoble, Grand'place",74,7217,1,LBO
+67,0,"Grenoble, Grand'place",74,7217,2,CHOL
+67,0,"Grenoble, Grand'place",74,7217,3,BRANG
+67,0,"Grenoble, Grand'place",74,7217,4,BRBEA
+67,0,"Grenoble, Grand'place",74,7217,5,TAV
+67,0,"Grenoble, Grand'place",74,7217,6,VRD
+67,0,"Grenoble, Grand'place",74,7217,7,EBN
+67,0,"Grenoble, Grand'place",74,7217,8,SJV
+67,0,"Grenoble, Grand'place",74,7217,9,ILYA
+67,0,"Grenoble, Grand'place",74,7217,10,EYPRE
+67,0,"Grenoble, Grand'place",74,7217,11,FQUE
+67,0,"Grenoble, Grand'place",74,7217,12,ALX
+67,0,"Grenoble, Grand'place",74,7217,13,APX
+67,0,"Grenoble, Grand'place",74,7217,14,GP
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,1,GP
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,2,APX
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,3,ALX
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,4,FQUE
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,5,EYPRE
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,6,ILYA
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,7,SJV
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,8,EBN
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,9,VRD
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,10,TAV
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,11,BRBEA
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,12,BRANG
+67,1,"Herbeys, Herbeys Le Bourg",50,7202,13,LBO
+68,0,"Eybens, Le Verderet",50,4344,1,RAM
+68,0,"Eybens, Le Verderet",50,4344,2,ECAPI
+68,0,"Eybens, Le Verderet",50,4344,3,CHA
+68,0,"Eybens, Le Verderet",50,4344,4,ECHSTA
+68,0,"Eybens, Le Verderet",50,4344,5,ECHTEM
+68,0,"Eybens, Le Verderet",50,4344,6,BNREP
+68,0,"Eybens, Le Verderet",50,4344,7,MARITE
+68,0,"Eybens, Le Verderet",50,4344,8,BNVIG
+68,0,"Eybens, Le Verderet",50,4344,9,BRE
+68,0,"Eybens, Le Verderet",50,4344,10,LAG
+68,0,"Eybens, Le Verderet",50,4344,11,CRET
+68,0,"Eybens, Le Verderet",50,4344,12,EYMAI
+68,0,"Eybens, Le Verderet",50,4344,13,VRD
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,1,VRD
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,2,EYMAI
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,3,CRET
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,4,LAG
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,5,BRE
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,6,BNVIG
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,7,MARITE
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,8,BNREP
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,9,ECHTEM
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,10,ECHSTA
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,11,CHA
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,12,ECAPI
+68,1,"Échirolles, La Rampe – Centre-Ville",55,4344,13,RAM
+70,0,"Champ-sur-Drac, La Melle",92,11824,1,MCB
+70,0,"Champ-sur-Drac, La Melle",92,11824,2,CHAMP
+70,0,"Champ-sur-Drac, La Melle",92,11824,3,VZGRI
+70,0,"Champ-sur-Drac, La Melle",92,11824,4,CHANT
+70,0,"Champ-sur-Drac, La Melle",92,11824,5,ECOLJC
+70,0,"Champ-sur-Drac, La Melle",92,11824,6,MAT
+70,0,"Champ-sur-Drac, La Melle",92,11824,7,VZCAM
+70,0,"Champ-sur-Drac, La Melle",92,11824,8,VZVEN
+70,0,"Champ-sur-Drac, La Melle",92,11824,9,ALI
+70,0,"Champ-sur-Drac, La Melle",92,11824,10,VZVOH
+70,0,"Champ-sur-Drac, La Melle",92,11824,11,FOR
+70,0,"Champ-sur-Drac, La Melle",92,11824,12,CHTE
+70,0,"Champ-sur-Drac, La Melle",92,11824,13,LTE
+70,0,"Champ-sur-Drac, La Melle",92,11824,14,GARJA
+70,0,"Champ-sur-Drac, La Melle",92,11824,15,PONC
+70,0,"Champ-sur-Drac, La Melle",92,11824,16,CDNAV
+70,0,"Champ-sur-Drac, La Melle",92,11824,17,CDLEO
+70,0,"Champ-sur-Drac, La Melle",92,11824,18,SEZ
+70,0,"Champ-sur-Drac, La Melle",92,11824,19,CDPAV1
+70,0,"Champ-sur-Drac, La Melle",92,11824,20,CDMPA
+70,0,"Champ-sur-Drac, La Melle",92,11824,21,CDSTA
+70,0,"Champ-sur-Drac, La Melle",92,11824,22,CSD
+70,0,"Champ-sur-Drac, La Melle",92,11824,23,LAMEL
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,1,LAMEL
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,2,CDGVE
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,3,CDMPA
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,4,CDPAV1
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,5,SEZ
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,6,CDLEO
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,7,CDNAV
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,8,PONC
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,9,GARJA
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,10,LTE
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,11,CHTE
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,12,FOR
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,13,VZVOH
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,14,ALI
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,15,VZVEN
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,16,VZCAM
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,17,MAT
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,18,ECOLJC
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,19,CHANT
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,20,VZGRI
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,21,CHAMP
+70,1,"Montchaboud, Montchaboud Le Village",75,10982,22,MCB
+71,0,"Jarrie, Jarrie Gare",100,6467,1,LACA
+71,0,"Jarrie, Jarrie Gare",100,6467,2,PLE
+71,0,"Jarrie, Jarrie Gare",100,6467,3,THE
+71,0,"Jarrie, Jarrie Gare",100,6467,4,SIM
+71,0,"Jarrie, Jarrie Gare",100,6467,5,CHAB
+71,0,"Jarrie, Jarrie Gare",100,6467,6,MAUP
+71,0,"Jarrie, Jarrie Gare",100,6467,7,JACHB
+71,0,"Jarrie, Jarrie Gare",100,6467,8,JAVER
+71,0,"Jarrie, Jarrie Gare",100,6467,9,ANMAL
+71,0,"Jarrie, Jarrie Gare",100,6467,10,GARJA
+71,1,"Champagnier, Place du Laca",100,6467,1,GARJA
+71,1,"Champagnier, Place du Laca",100,6467,2,ANMAL
+71,1,"Champagnier, Place du Laca",100,6467,3,JAVER
+71,1,"Champagnier, Place du Laca",100,6467,4,JACHB
+71,1,"Champagnier, Place du Laca",100,6467,5,MAUP
+71,1,"Champagnier, Place du Laca",100,6467,6,CHAB
+71,1,"Champagnier, Place du Laca",100,6467,7,SIM
+71,1,"Champagnier, Place du Laca",100,6467,8,THE
+71,1,"Champagnier, Place du Laca",100,6467,9,PLE
+71,1,"Champagnier, Place du Laca",100,6467,10,LACA
+73,0,"Notre-Dame-de-Commiers, Le Moulin",40,680,1,NDCV
+73,0,"Notre-Dame-de-Commiers, Le Moulin",40,680,2,PAUT
+73,0,"Notre-Dame-de-Commiers, Le Moulin",40,680,3,MOULIN
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,1,VIF
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,2,VIFG
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,3,MASE
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,4,VIFGAR
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,5,SGC
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,6,GCPEU
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,7,ISLES
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,8,GCCAN
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,9,CONDAM
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,10,GCGUI
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,11,TOUR
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,12,EGLISE
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,13,GCBIL1
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,14,MOULIN
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,15,PAUT
+73,1,"Notre-Dame-de-Commiers, Notre-Dame-de-Commiers Le Village",36,9964,16,NDCV
+101,0,"Grenoble, Champs-Elysées",100,26927,1,ARZ
+101,0,"Grenoble, Champs-Elysées",100,26927,2,GUARZ
+101,0,"Grenoble, Champs-Elysées",100,26927,3,PRY
+101,0,"Grenoble, Champs-Elysées",100,26927,4,FAR
+101,0,"Grenoble, Champs-Elysées",100,26927,5,GUCHA
+101,0,"Grenoble, Champs-Elysées",100,26927,6,SBG
+101,0,"Grenoble, Champs-Elysées",100,26927,7,ROS
+101,0,"Grenoble, Champs-Elysées",100,26927,8,GUM
+101,0,"Grenoble, Champs-Elysées",100,26927,9,GUA
+101,0,"Grenoble, Champs-Elysées",100,26927,10,PTG
+101,0,"Grenoble, Champs-Elysées",100,26927,11,VIFUN
+101,0,"Grenoble, Champs-Elysées",100,26927,12,RIF
+101,0,"Grenoble, Champs-Elysées",100,26927,13,VIFGR
+101,0,"Grenoble, Champs-Elysées",100,26927,14,VIFCH
+101,0,"Grenoble, Champs-Elysées",100,26927,15,VIFCI
+101,0,"Grenoble, Champs-Elysées",100,26927,16,LVA
+101,0,"Grenoble, Champs-Elysées",100,26927,17,VIFMA
+101,0,"Grenoble, Champs-Elysées",100,26927,18,PEL
+101,0,"Grenoble, Champs-Elysées",100,26927,19,CPM
+101,0,"Grenoble, Champs-Elysées",100,26927,20,DSW
+101,0,"Grenoble, Champs-Elysées",100,26927,21,CEL
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,1,GRLLM
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,2,DSW
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,3,GRLEC
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,4,PEL
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,5,VIFMA
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,6,LVA
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,7,VIFCI
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,8,VIFCH
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,9,VIFGR
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,10,RIF
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,11,VIFUN
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,12,PTG
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,13,GUA
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,14,GUM
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,15,ROS
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,16,SBG
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,17,GUCHA
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,18,FAR
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,19,PRY
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,20,GUARZ
+101,1,"Château-Bernard, Col de l'Arzelier",100,28390,21,ARZ
+102,0,"Grenoble, Champs-Elysées",100,14754,1,VIFG
+102,0,"Grenoble, Champs-Elysées",100,14754,2,VIF
+102,0,"Grenoble, Champs-Elysées",100,14754,3,VIFUR
+102,0,"Grenoble, Champs-Elysées",100,14754,4,VIFGA
+102,0,"Grenoble, Champs-Elysées",100,14754,5,CPM
+102,0,"Grenoble, Champs-Elysées",100,14754,6,DSW
+102,0,"Grenoble, Champs-Elysées",100,14754,7,CEL
+102,1,"Vif, Rivalta",100,15169,1,VLI
+102,1,"Vif, Rivalta",100,15169,2,AAF
+102,1,"Vif, Rivalta",100,15169,3,LMG
+102,1,"Vif, Rivalta",100,15169,4,LESD
+102,1,"Vif, Rivalta",100,15169,5,RON
+102,1,"Vif, Rivalta",100,15169,6,POMP
+102,1,"Vif, Rivalta",100,15169,7,CPR
+102,1,"Vif, Rivalta",100,15169,8,CLCAR
+102,1,"Vif, Rivalta",100,15169,9,VAPDO
+102,1,"Vif, Rivalta",100,15169,10,VAROC
+102,1,"Vif, Rivalta",100,15169,11,SANG
+102,1,"Vif, Rivalta",100,15169,12,RDPT
+102,1,"Vif, Rivalta",100,15169,13,VALOR
+102,1,"Vif, Rivalta",100,15169,14,VAR
+102,1,"Vif, Rivalta",100,15169,15,PEL
+102,1,"Vif, Rivalta",100,15169,16,VIFGA2
+102,1,"Vif, Rivalta",100,15169,17,VIFUR
+102,1,"Vif, Rivalta",100,15169,18,VIF
+102,1,"Vif, Rivalta",100,15169,19,VIFG
+103,0,"Grenoble, Lycée Eaux Claires",100,10624,1,VAR
+103,0,"Grenoble, Lycée Eaux Claires",100,10624,2,VALOR
+103,0,"Grenoble, Lycée Eaux Claires",100,10624,3,RDPT
+103,0,"Grenoble, Lycée Eaux Claires",100,10624,4,SANG
+103,0,"Grenoble, Lycée Eaux Claires",100,10624,5,VAROC
+103,0,"Grenoble, Lycée Eaux Claires",100,10624,6,CPM
+103,0,"Grenoble, Lycée Eaux Claires",100,10624,7,DSW
+103,0,"Grenoble, Lycée Eaux Claires",100,10624,8,GRLEC
+104,0,"Grenoble, LT Louise Michel",100,15393,1,SPV
+104,0,"Grenoble, LT Louise Michel",100,15393,2,PVLAC
+104,0,"Grenoble, LT Louise Michel",100,15393,3,PVLAG
+104,0,"Grenoble, LT Louise Michel",100,15393,4,PVLAB
+104,0,"Grenoble, LT Louise Michel",100,15393,5,PVLEP
+104,0,"Grenoble, LT Louise Michel",100,15393,6,MEI
+104,0,"Grenoble, LT Louise Michel",100,15393,7,CHAM
+104,0,"Grenoble, LT Louise Michel",100,15393,8,VAPOM
+104,0,"Grenoble, LT Louise Michel",100,15393,9,VACA
+104,0,"Grenoble, LT Louise Michel",100,15393,10,DSW
+104,0,"Grenoble, LT Louise Michel",100,15393,11,GRLLM
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,1,GRLLM
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,2,DSW
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,3,GRLEC
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,4,VAPOM
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,5,CHAM
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,6,MEI
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,7,PVLEP
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,8,PVLAB
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,9,PVLAG
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,10,PVLAC
+104,1,"Saint-Paul-de-Varces, Saint-Paul-de-Varces Place",100,15316,11,SPV
+111,0,"Grenoble, Lycée Clos d'Or",100,1305,1,GRLLM
+111,0,"Grenoble, Lycée Clos d'Or",100,1305,2,GRLCO
+115,0,"Grenoble, André Argouges",100,3059,1,GARO
+115,0,"Grenoble, André Argouges",100,3059,2,ARG
+122,0,"Claix, EREA",100,10019,1,GARO
+122,0,"Claix, EREA",100,10019,2,CPR
+122,0,"Claix, EREA",100,10019,3,CLERE
+122,1,"Grenoble, Gare Routière",100,10019,1,CLERE
+122,1,"Grenoble, Gare Routière",100,10019,2,CPR
+122,1,"Grenoble, Gare Routière",100,10019,3,GARO
+131,0,"Corenc, Collège Jules Flandrin",67,9884,1,CHRT
+131,0,"Corenc, Collège Jules Flandrin",67,9884,2,SAPP
+131,0,"Corenc, Collège Jules Flandrin",67,9884,3,SAPGO
+131,0,"Corenc, Collège Jules Flandrin",67,9884,4,STEY
+131,0,"Corenc, Collège Jules Flandrin",67,9884,5,CRPHV
+131,0,"Corenc, Collège Jules Flandrin",67,9884,6,CVE
+131,0,"Corenc, Collège Jules Flandrin",67,9884,7,SAPBA
+131,0,"Corenc, Collège Jules Flandrin",67,9884,8,LGA
+131,0,"Corenc, Collège Jules Flandrin",67,9884,9,SAPRO
+131,0,"Corenc, Collège Jules Flandrin",67,9884,10,PRO
+131,0,"Corenc, Collège Jules Flandrin",67,9884,11,CDE
+131,0,"Corenc, Collège Jules Flandrin",67,9884,12,CRSGE
+131,0,"Corenc, Collège Jules Flandrin",67,9884,13,CRMAL
+131,0,"Corenc, Collège Jules Flandrin",67,9884,14,BACH
+131,0,"Corenc, Collège Jules Flandrin",67,9884,15,CRCJF
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,1,CRCJF
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,2,BACH
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,3,CRMAL
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,4,CRSGE
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,5,CDE
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,6,PRO
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,7,SAPRO
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,8,LGA
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,9,SAPBA
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,10,CVE
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,11,CRPHV
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,12,STEY
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,13,SAPGO
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,14,SAPP
+131,1,"Le Sappey-en-Chartreuse, Churut",71,9884,15,CHRT
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,1,GUIL
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,2,SRLC
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,3,SAR
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,4,SARV
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,5,LEM
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,6,CHRT
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,7,SAPP
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,8,SAPGO
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,9,STEY
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,10,CRPHV
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,11,CVE
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,12,SAPBA
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,13,LGA
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,14,SAPRO
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,15,PRO
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,16,CRCD
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,17,MNT
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,18,CRCPA
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,19,CED
+132,0,"Meylan, Lycée du Gresivaudan (Parking)",100,13277,20,LGP
+132,1,"Sarcenas, Guilletière",50,13104,1,LGP
+132,1,"Sarcenas, Guilletière",50,13104,2,CRCJF
+132,1,"Sarcenas, Guilletière",50,13104,3,CRCPA
+132,1,"Sarcenas, Guilletière",50,13104,4,MNT
+132,1,"Sarcenas, Guilletière",50,13104,5,CRCD
+132,1,"Sarcenas, Guilletière",50,13104,6,PRO
+132,1,"Sarcenas, Guilletière",50,13104,7,SAPRO
+132,1,"Sarcenas, Guilletière",50,13104,8,LGA
+132,1,"Sarcenas, Guilletière",50,13104,9,SAPBA
+132,1,"Sarcenas, Guilletière",50,13104,10,CVE
+132,1,"Sarcenas, Guilletière",50,13104,11,CRPHV
+132,1,"Sarcenas, Guilletière",50,13104,12,STEY
+132,1,"Sarcenas, Guilletière",50,13104,13,SAPGO
+132,1,"Sarcenas, Guilletière",50,13104,14,SAPP
+132,1,"Sarcenas, Guilletière",50,13104,15,CHRT
+132,1,"Sarcenas, Guilletière",50,13104,16,LEM
+132,1,"Sarcenas, Guilletière",50,13104,17,SARV
+132,1,"Sarcenas, Guilletière",50,13104,18,SAR
+132,1,"Sarcenas, Guilletière",50,13104,19,SRLC
+132,1,"Sarcenas, Guilletière",50,13104,20,GUIL
+133,0,"Meylan, Lionel Terray",33,5184,1,BIBAR
+133,0,"Meylan, Lionel Terray",33,5184,2,BIHAU
+133,0,"Meylan, Lionel Terray",33,5184,3,BIM
+133,0,"Meylan, Lionel Terray",33,5184,4,BIT
+133,0,"Meylan, Lionel Terray",33,5184,5,BIC
+133,0,"Meylan, Lionel Terray",33,5184,6,BIL
+133,0,"Meylan, Lionel Terray",33,5184,7,MOCHA
+133,0,"Meylan, Lionel Terray",33,5184,8,BACH
+133,0,"Meylan, Lionel Terray",33,5184,9,TER
+133,1,"Saint-Ismier, Place de l'Église",62,6621,1,TER
+133,1,"Saint-Ismier, Place de l'Église",62,6621,2,BACH
+133,1,"Saint-Ismier, Place de l'Église",62,6621,3,MOCHA
+133,1,"Saint-Ismier, Place de l'Église",62,6621,4,BIL
+133,1,"Saint-Ismier, Place de l'Église",62,6621,5,BIC
+133,1,"Saint-Ismier, Place de l'Église",62,6621,6,BIT
+133,1,"Saint-Ismier, Place de l'Église",62,6621,7,BIM
+133,1,"Saint-Ismier, Place de l'Église",62,6621,8,BIHAU
+133,1,"Saint-Ismier, Place de l'Église",62,6621,9,BIBAR
+133,1,"Saint-Ismier, Place de l'Église",62,6621,10,ISSER
+133,1,"Saint-Ismier, Place de l'Église",62,6621,11,ISPLA
+134,1,"Crolles, Le Coteau",58,12921,1,LGP
+134,1,"Crolles, Le Coteau",58,12921,2,AGD
+134,1,"Crolles, Le Coteau",58,12921,3,MG
+134,1,"Crolles, Le Coteau",58,12921,4,13300
+134,1,"Crolles, Le Coteau",58,12921,5,EVE
+134,1,"Crolles, Le Coteau",58,12921,6,COG
+134,1,"Crolles, Le Coteau",58,12921,7,CHRA
+134,1,"Crolles, Le Coteau",58,12921,8,SIG
+134,1,"Crolles, Le Coteau",58,12921,9,LEMA
+134,1,"Crolles, Le Coteau",58,12921,10,MEMO
+134,1,"Crolles, Le Coteau",58,12921,11,EYM
+134,1,"Crolles, Le Coteau",58,12921,12,RAT
+134,1,"Crolles, Le Coteau",58,12921,13,VAX
+134,1,"Crolles, Le Coteau",58,12921,14,CVAX
+134,1,"Crolles, Le Coteau",58,12921,15,BERV
+134,1,"Crolles, Le Coteau",58,12921,16,PBER
+134,1,"Crolles, Le Coteau",58,12921,17,AYE
+134,1,"Crolles, Le Coteau",58,12921,18,BRO
+134,1,"Crolles, Le Coteau",58,12921,19,CMA
+134,1,"Crolles, Le Coteau",58,12921,20,PDC
+134,1,"Crolles, Le Coteau",58,12921,21,CROCOT
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,1,MUBRI
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,2,LBG
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,3,MURPR
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,4,JAB
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,5,GIECH
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,6,GIPIE
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,7,PRJR
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,8,EDE
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,9,MHROS
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,10,MHANG
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,11,MHGAL
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,12,MHELS
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,13,COLI
+141,0,"Saint-Martin-d'Hères, Pablo Neruda",50,5509,14,NED
+141,1,"Domène, Les Arnauds",85,9055,1,NED
+141,1,"Domène, Les Arnauds",85,9055,2,COLI
+141,1,"Domène, Les Arnauds",85,9055,3,MHELS
+141,1,"Domène, Les Arnauds",85,9055,4,MHGAL
+141,1,"Domène, Les Arnauds",85,9055,5,MHANG
+141,1,"Domène, Les Arnauds",85,9055,6,MHROS
+141,1,"Domène, Les Arnauds",85,9055,7,EDE
+141,1,"Domène, Les Arnauds",85,9055,8,PRJR
+141,1,"Domène, Les Arnauds",85,9055,9,GIPIE
+141,1,"Domène, Les Arnauds",85,9055,10,GIECH
+141,1,"Domène, Les Arnauds",85,9055,11,JAB
+141,1,"Domène, Les Arnauds",85,9055,12,MURPR
+141,1,"Domène, Les Arnauds",85,9055,13,LBG
+141,1,"Domène, Les Arnauds",85,9055,14,MUBRI
+141,1,"Domène, Les Arnauds",85,9055,15,MURIV
+141,1,"Domène, Les Arnauds",85,9055,16,MRT
+141,1,"Domène, Les Arnauds",85,9055,17,DOMOR
+141,1,"Domène, Les Arnauds",85,9055,18,DOMCO
+141,1,"Domène, Les Arnauds",85,9055,19,DOM
+141,1,"Domène, Les Arnauds",85,9055,20,DOLPR
+141,1,"Domène, Les Arnauds",85,9055,21,VERN
+141,1,"Domène, Les Arnauds",85,9055,22,ARN
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,1,CPO
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,2,VEPUI
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,3,VEREY
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,4,SPR
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,5,VEPER
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,6,VECUL
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,7,LAC
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,8,VEM
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,9,VIL
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,10,VESER
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,11,VEFRN
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,12,LCO
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,13,PV
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,14,EDE
+142,0,"Saint-Martin-d'Hères, Pablo Neruda",100,6190,15,NED
+142,1,"Venon, Le Chapon",100,6270,1,NED
+142,1,"Venon, Le Chapon",100,6270,2,LCH
+142,1,"Venon, Le Chapon",100,6270,3,EDE
+142,1,"Venon, Le Chapon",100,6270,4,PV
+142,1,"Venon, Le Chapon",100,6270,5,LCO
+142,1,"Venon, Le Chapon",100,6270,6,VEFRN
+142,1,"Venon, Le Chapon",100,6270,7,VESER
+142,1,"Venon, Le Chapon",100,6270,8,VIL
+142,1,"Venon, Le Chapon",100,6270,9,VEM
+142,1,"Venon, Le Chapon",100,6270,10,LAC
+142,1,"Venon, Le Chapon",100,6270,11,VECUL
+142,1,"Venon, Le Chapon",100,6270,12,VEPER
+142,1,"Venon, Le Chapon",100,6270,13,SPR
+142,1,"Venon, Le Chapon",100,6270,14,VEREY
+142,1,"Venon, Le Chapon",100,6270,15,VEPUI
+142,1,"Venon, Le Chapon",100,6270,16,CPO
+143,0,"Gières, Le Sonnant",25,13670,1,CROI
+143,0,"Gières, Le Sonnant",25,13670,2,SMUOIE
+143,0,"Gières, Le Sonnant",25,13670,3,SMUVAL
+143,0,"Gières, Le Sonnant",25,13670,4,PINET
+143,0,"Gières, Le Sonnant",25,13670,5,CRE
+143,0,"Gières, Le Sonnant",25,13670,6,LPE
+143,0,"Gières, Le Sonnant",25,13670,7,LLN
+143,0,"Gières, Le Sonnant",25,13670,8,HAUT
+143,0,"Gières, Le Sonnant",25,13670,9,SNU
+143,0,"Gières, Le Sonnant",25,13670,10,LROS
+143,0,"Gières, Le Sonnant",25,13670,11,CDCH
+143,0,"Gières, Le Sonnant",25,13670,12,SMU
+143,0,"Gières, Le Sonnant",25,13670,13,RSM
+143,0,"Gières, Le Sonnant",25,13670,14,SMUCR6
+143,0,"Gières, Le Sonnant",25,13670,15,SMUPEI
+143,0,"Gières, Le Sonnant",25,13670,16,MAUPA
+143,0,"Gières, Le Sonnant",25,13670,17,VECHE
+143,0,"Gières, Le Sonnant",25,13670,18,GITER
+143,0,"Gières, Le Sonnant",25,13670,19,GICON
+143,0,"Gières, Le Sonnant",25,13670,20,GISON
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,1,NED
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,2,GICON
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,3,GITER
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,4,VECHE
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,5,MAUPA
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,6,SMUPEI
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,7,SMUCR6
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,8,UGA
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,9,RSM
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,10,HT
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,11,LEVA
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,12,LFE
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,13,LBD
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,14,LMO
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,15,LPIS
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,16,SMU
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,17,SMUCHA
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,18,SMUBEL
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,19,SMUBON
+143,1,"Saint-Martin-d'Uriage, La Grivolée",35,12768,20,SMUGRI
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,1,LCC
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,2,GT
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,3,PST
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,4,LPC
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,5,CHF
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,6,CFB
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,7,COQ
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,8,PCF
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,9,CJ
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,10,BPL
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,11,BPC
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,12,LSA
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,13,VBL
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,14,LMV
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,15,VBE
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,16,VBM
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,17,LA
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,18,CDR
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,19,LVP
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,20,LC
+144,0,"Saint-Martin-d'Hères, Pablo Neruda",50,22197,21,NED
+144,1,"Tencin, Le Clos du Cèdre",100,22222,1,NED
+144,1,"Tencin, Le Clos du Cèdre",100,22222,2,DOM
+144,1,"Tencin, Le Clos du Cèdre",100,22222,3,ARN
+144,1,"Tencin, Le Clos du Cèdre",100,22222,4,VSETA
+144,1,"Tencin, Le Clos du Cèdre",100,22222,5,LC
+144,1,"Tencin, Le Clos du Cèdre",100,22222,6,LVP
+144,1,"Tencin, Le Clos du Cèdre",100,22222,7,COB
+144,1,"Tencin, Le Clos du Cèdre",100,22222,8,BLP
+144,1,"Tencin, Le Clos du Cèdre",100,22222,9,PP
+144,1,"Tencin, Le Clos du Cèdre",100,22222,10,CN
+144,1,"Tencin, Le Clos du Cèdre",100,22222,11,CDR
+144,1,"Tencin, Le Clos du Cèdre",100,22222,12,LA
+144,1,"Tencin, Le Clos du Cèdre",100,22222,13,VBM
+144,1,"Tencin, Le Clos du Cèdre",100,22222,14,VBE
+144,1,"Tencin, Le Clos du Cèdre",100,22222,15,LMV
+144,1,"Tencin, Le Clos du Cèdre",100,22222,16,VBL
+144,1,"Tencin, Le Clos du Cèdre",100,22222,17,LSA
+144,1,"Tencin, Le Clos du Cèdre",100,22222,18,BPC
+144,1,"Tencin, Le Clos du Cèdre",100,22222,19,BPL
+144,1,"Tencin, Le Clos du Cèdre",100,22222,20,CJ
+144,1,"Tencin, Le Clos du Cèdre",100,22222,21,PCF
+144,1,"Tencin, Le Clos du Cèdre",100,22222,22,COQ
+144,1,"Tencin, Le Clos du Cèdre",100,22222,23,CFB
+144,1,"Tencin, Le Clos du Cèdre",100,22222,24,CHF
+144,1,"Tencin, Le Clos du Cèdre",100,22222,25,LPC
+144,1,"Tencin, Le Clos du Cèdre",100,22222,26,PST
+144,1,"Tencin, Le Clos du Cèdre",100,22222,27,GT
+144,1,"Tencin, Le Clos du Cèdre",100,22222,28,LCC
+151,0,"Échirolles, Lycée Marie Curie",100,8256,1,CLLAP
+151,0,"Échirolles, Lycée Marie Curie",100,8256,2,COSS
+151,0,"Échirolles, Lycée Marie Curie",100,8256,3,CLCHA
+151,0,"Échirolles, Lycée Marie Curie",100,8256,4,MLV
+151,0,"Échirolles, Lycée Marie Curie",100,8256,5,CRL
+151,0,"Échirolles, Lycée Marie Curie",100,8256,6,CLFUR
+151,0,"Échirolles, Lycée Marie Curie",100,8256,7,CLBED
+151,0,"Échirolles, Lycée Marie Curie",100,8256,8,CHAUM
+151,0,"Échirolles, Lycée Marie Curie",100,8256,9,CLVER
+151,0,"Échirolles, Lycée Marie Curie",100,8256,10,PERO
+151,0,"Échirolles, Lycée Marie Curie",100,8256,11,CLMOU
+151,0,"Échirolles, Lycée Marie Curie",100,8256,12,CIMEN
+151,0,"Échirolles, Lycée Marie Curie",100,8256,13,COT
+151,0,"Échirolles, Lycée Marie Curie",100,8256,14,CLBAL
+151,0,"Échirolles, Lycée Marie Curie",100,8256,15,CLMEM
+151,0,"Échirolles, Lycée Marie Curie",100,8256,16,CLFON
+151,0,"Échirolles, Lycée Marie Curie",100,8256,17,POMP
+151,0,"Échirolles, Lycée Marie Curie",100,8256,18,MCU
+151,1,"Claix, Lapouya",100,8256,1,MCU
+151,1,"Claix, Lapouya",100,8256,2,POMP
+151,1,"Claix, Lapouya",100,8256,3,CLFON
+151,1,"Claix, Lapouya",100,8256,4,CLMEM
+151,1,"Claix, Lapouya",100,8256,5,CLBAL
+151,1,"Claix, Lapouya",100,8256,6,COT
+151,1,"Claix, Lapouya",100,8256,7,CIMEN
+151,1,"Claix, Lapouya",100,8256,8,CLMOU
+151,1,"Claix, Lapouya",100,8256,9,PERO
+151,1,"Claix, Lapouya",100,8256,10,CLVER
+151,1,"Claix, Lapouya",100,8256,11,CHAUM
+151,1,"Claix, Lapouya",100,8256,12,CLBED
+151,1,"Claix, Lapouya",100,8256,13,CLFUR
+151,1,"Claix, Lapouya",100,8256,14,CRL
+151,1,"Claix, Lapouya",100,8256,15,MLV
+151,1,"Claix, Lapouya",100,8256,16,CLCHA
+151,1,"Claix, Lapouya",100,8256,17,COSS
+151,1,"Claix, Lapouya",100,8256,18,CLLAP
+152,0,"Échirolles, Lycée Marie Curie",100,9371,1,VAAL
+152,0,"Échirolles, Lycée Marie Curie",100,9371,2,CLLAC
+152,0,"Échirolles, Lycée Marie Curie",100,9371,3,CLVUE
+152,0,"Échirolles, Lycée Marie Curie",100,9371,4,CLTAI
+152,0,"Échirolles, Lycée Marie Curie",100,9371,5,PRAM
+152,0,"Échirolles, Lycée Marie Curie",100,9371,6,CLROS
+152,0,"Échirolles, Lycée Marie Curie",100,9371,7,BOUL
+152,0,"Échirolles, Lycée Marie Curie",100,9371,8,CLX
+152,0,"Échirolles, Lycée Marie Curie",100,9371,9,CLTAB
+152,0,"Échirolles, Lycée Marie Curie",100,9371,10,CLTIL
+152,0,"Échirolles, Lycée Marie Curie",100,9371,11,CLGCH
+152,0,"Échirolles, Lycée Marie Curie",100,9371,12,CLCHE
+152,0,"Échirolles, Lycée Marie Curie",100,9371,13,CLBAT
+152,0,"Échirolles, Lycée Marie Curie",100,9371,14,CLHOR
+152,0,"Échirolles, Lycée Marie Curie",100,9371,15,RISS
+152,0,"Échirolles, Lycée Marie Curie",100,9371,16,CLPAV
+152,0,"Échirolles, Lycée Marie Curie",100,9371,17,BAU
+152,0,"Échirolles, Lycée Marie Curie",100,9371,18,CLMIC
+152,0,"Échirolles, Lycée Marie Curie",100,9371,19,CHARR
+152,0,"Échirolles, Lycée Marie Curie",100,9371,20,CPR
+152,0,"Échirolles, Lycée Marie Curie",100,9371,21,MCU
+152,1,"Claix, Val d'Allières",72,9371,1,MCU
+152,1,"Claix, Val d'Allières",72,9371,2,CPR
+152,1,"Claix, Val d'Allières",72,9371,3,CHARR
+152,1,"Claix, Val d'Allières",72,9371,4,CLMIC
+152,1,"Claix, Val d'Allières",72,9371,5,BAU
+152,1,"Claix, Val d'Allières",72,9371,6,CLPAV
+152,1,"Claix, Val d'Allières",72,9371,7,RISS
+152,1,"Claix, Val d'Allières",72,9371,8,CLHOR
+152,1,"Claix, Val d'Allières",72,9371,9,CLBAT
+152,1,"Claix, Val d'Allières",72,9371,10,CLCHE
+152,1,"Claix, Val d'Allières",72,9371,11,CLGCH
+152,1,"Claix, Val d'Allières",72,9371,12,CLTIL
+152,1,"Claix, Val d'Allières",72,9371,13,CLTAB
+152,1,"Claix, Val d'Allières",72,9371,14,CLX
+152,1,"Claix, Val d'Allières",72,9371,15,BOUL
+152,1,"Claix, Val d'Allières",72,9371,16,CLROS
+152,1,"Claix, Val d'Allières",72,9371,17,PRAM
+152,1,"Claix, Val d'Allières",72,9371,18,CLTAI
+152,1,"Claix, Val d'Allières",72,9371,19,CLVUE
+152,1,"Claix, Val d'Allières",72,9371,20,CLLAC
+152,1,"Claix, Val d'Allières",72,9371,21,VAAL
+161,0,"Corenc, Lycée Boisfleury",100,9223,1,EGFIA
+161,0,"Corenc, Lycée Boisfleury",100,9223,2,PVC
+161,0,"Corenc, Lycée Boisfleury",100,9223,3,MOU
+161,0,"Corenc, Lycée Boisfleury",100,9223,4,MURE
+161,0,"Corenc, Lycée Boisfleury",100,9223,5,PIQ
+161,0,"Corenc, Lycée Boisfleury",100,9223,6,SMVKIL
+161,0,"Corenc, Lycée Boisfleury",100,9223,7,SMVRE
+161,0,"Corenc, Lycée Boisfleury",100,9223,8,CMV
+161,0,"Corenc, Lycée Boisfleury",100,9223,9,GRBRI
+161,0,"Corenc, Lycée Boisfleury",100,9223,10,NDM
+161,0,"Corenc, Lycée Boisfleury",100,9223,11,IL
+161,0,"Corenc, Lycée Boisfleury",100,9223,12,GRMEN
+161,0,"Corenc, Lycée Boisfleury",100,9223,13,COMN
+161,0,"Corenc, Lycée Boisfleury",100,9223,14,MHB
+161,0,"Corenc, Lycée Boisfleury",100,9223,15,CED
+161,0,"Corenc, Lycée Boisfleury",100,9223,16,CRLYB
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,1,CRCLR
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,2,CRLYB
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,3,CED
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,4,MHB
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,5,COMN
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,6,GRMEN
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,7,IL
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,8,NDM
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,9,GRBRI
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,10,CMV
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,11,SMVRE
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,12,SMVKIL
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,13,PIQ
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,14,MURE
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,15,MOU
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,16,PVC
+161,1,"Saint-Égrève, Espace Robert Fiat",100,9969,17,EGFIA
+162,0,"Corenc, Collège Le Rondeau",100,4126,1,MO
+162,0,"Corenc, Collège Le Rondeau",100,4126,2,BEA
+162,0,"Corenc, Collège Le Rondeau",100,4126,3,MAC
+162,0,"Corenc, Collège Le Rondeau",100,4126,4,MUS
+162,0,"Corenc, Collège Le Rondeau",100,4126,5,MEM
+162,0,"Corenc, Collège Le Rondeau",100,4126,6,BUC1
+162,0,"Corenc, Collège Le Rondeau",100,4126,7,CRLYB
+162,0,"Corenc, Collège Le Rondeau",100,4126,8,CRCLR
+162,1,"Meylan, Charlaix – Maupertuis",82,4117,1,CRCLR
+162,1,"Meylan, Charlaix – Maupertuis",82,4117,2,CRLYB
+162,1,"Meylan, Charlaix – Maupertuis",82,4117,3,BUC1
+162,1,"Meylan, Charlaix – Maupertuis",82,4117,4,MEM
+162,1,"Meylan, Charlaix – Maupertuis",82,4117,5,MUS
+162,1,"Meylan, Charlaix – Maupertuis",82,4117,6,MAC
+162,1,"Meylan, Charlaix – Maupertuis",82,4117,7,BEA
+162,1,"Meylan, Charlaix – Maupertuis",82,4117,8,MO1
+163,0,"Corenc, Collège Le Rondeau",100,4387,1,DET
+163,0,"Corenc, Collège Le Rondeau",100,4387,2,ME21J
+163,0,"Corenc, Collège Le Rondeau",100,4387,3,ME15J
+163,0,"Corenc, Collège Le Rondeau",100,4387,4,MEG
+163,0,"Corenc, Collège Le Rondeau",100,4387,5,CXCI
+163,0,"Corenc, Collège Le Rondeau",100,4387,6,CRC
+163,0,"Corenc, Collège Le Rondeau",100,4387,7,CHL
+163,0,"Corenc, Collège Le Rondeau",100,4387,8,MEFLO
+163,0,"Corenc, Collège Le Rondeau",100,4387,9,CRLYB
+163,0,"Corenc, Collège Le Rondeau",100,4387,10,CRCLR
+163,1,"Meylan, La Détourbe",82,4603,1,CRCLR
+163,1,"Meylan, La Détourbe",82,4603,2,CRLYB
+163,1,"Meylan, La Détourbe",82,4603,3,SEG
+163,1,"Meylan, La Détourbe",82,4603,4,COOIS
+163,1,"Meylan, La Détourbe",82,4603,5,MEFLO
+163,1,"Meylan, La Détourbe",82,4603,6,CHL
+163,1,"Meylan, La Détourbe",82,4603,7,CRC
+163,1,"Meylan, La Détourbe",82,4603,8,CXCI
+163,1,"Meylan, La Détourbe",82,4603,9,MEG
+163,1,"Meylan, La Détourbe",82,4603,10,ME15J
+163,1,"Meylan, La Détourbe",82,4603,11,ME21J
+163,1,"Meylan, La Détourbe",82,4603,12,SJA
+163,1,"Meylan, La Détourbe",82,4603,13,DET
+164,0,"Corenc, Collège Le Rondeau",100,9908,1,ARN
+164,0,"Corenc, Collège Le Rondeau",100,9908,2,DOCAS
+164,0,"Corenc, Collège Le Rondeau",100,9908,3,DOM
+164,0,"Corenc, Collège Le Rondeau",100,9908,4,DOLPR
+164,0,"Corenc, Collège Le Rondeau",100,9908,5,VERN
+164,0,"Corenc, Collège Le Rondeau",100,9908,6,DET
+164,0,"Corenc, Collège Le Rondeau",100,9908,7,SSM
+164,0,"Corenc, Collège Le Rondeau",100,9908,8,BACH
+164,0,"Corenc, Collège Le Rondeau",100,9908,9,REV
+164,0,"Corenc, Collège Le Rondeau",100,9908,10,AIG
+164,0,"Corenc, Collège Le Rondeau",100,9908,11,PDL
+164,0,"Corenc, Collège Le Rondeau",100,9908,12,CRLYB
+164,0,"Corenc, Collège Le Rondeau",100,9908,13,CRCLR
+164,1,"Domène, Les Arnauds",82,9481,1,CRCLR
+164,1,"Domène, Les Arnauds",82,9481,2,CRLYB
+164,1,"Domène, Les Arnauds",82,9481,3,PDL
+164,1,"Domène, Les Arnauds",82,9481,4,AIG
+164,1,"Domène, Les Arnauds",82,9481,5,REV
+164,1,"Domène, Les Arnauds",82,9481,6,BACH
+164,1,"Domène, Les Arnauds",82,9481,7,SSM
+164,1,"Domène, Les Arnauds",82,9481,8,VERN
+164,1,"Domène, Les Arnauds",82,9481,9,DOLPR
+164,1,"Domène, Les Arnauds",82,9481,10,DOM
+164,1,"Domène, Les Arnauds",82,9481,11,DOCAS
+164,1,"Domène, Les Arnauds",82,9481,12,ARN
+165,0,"Corenc, Collège Le Rondeau",100,4354,1,MEDUY
+165,0,"Corenc, Collège Le Rondeau",100,4354,2,MEMOS
+165,0,"Corenc, Collège Le Rondeau",100,4354,3,MEBEA
+165,0,"Corenc, Collège Le Rondeau",100,4354,4,CSM
+165,0,"Corenc, Collège Le Rondeau",100,4354,5,SJA
+165,0,"Corenc, Collège Le Rondeau",100,4354,6,ANMA
+165,0,"Corenc, Collège Le Rondeau",100,4354,7,MEBUC
+165,0,"Corenc, Collège Le Rondeau",100,4354,8,COOIS
+165,0,"Corenc, Collège Le Rondeau",100,4354,9,SEG
+165,0,"Corenc, Collège Le Rondeau",100,4354,10,CRLYB
+165,0,"Corenc, Collège Le Rondeau",100,4354,11,CRCLR
+165,1,"Meylan, Chemin de la Dhuy",100,4592,1,CRCLR
+165,1,"Meylan, Chemin de la Dhuy",100,4592,2,CRLYB
+165,1,"Meylan, Chemin de la Dhuy",100,4592,3,MEBUC
+165,1,"Meylan, Chemin de la Dhuy",100,4592,4,ANMA
+165,1,"Meylan, Chemin de la Dhuy",100,4592,5,SJA
+165,1,"Meylan, Chemin de la Dhuy",100,4592,6,DET
+165,1,"Meylan, Chemin de la Dhuy",100,4592,7,CSM
+165,1,"Meylan, Chemin de la Dhuy",100,4592,8,MEBEA
+165,1,"Meylan, Chemin de la Dhuy",100,4592,9,MEMOS
+165,1,"Meylan, Chemin de la Dhuy",100,4592,10,MEDUY
+166,0,"Corenc, Collège Le Rondeau",15,25431,1,VMMAI
+166,0,"Corenc, Collège Le Rondeau",15,25431,2,VMBRA
+166,0,"Corenc, Collège Le Rondeau",15,25431,3,CIME
+166,0,"Corenc, Collège Le Rondeau",15,25431,4,LSJ
+166,0,"Corenc, Collège Le Rondeau",15,25431,5,CHARI
+166,0,"Corenc, Collège Le Rondeau",15,25431,6,CONC
+166,0,"Corenc, Collège Le Rondeau",15,25431,7,LFR
+166,0,"Corenc, Collège Le Rondeau",15,25431,8,INS
+166,0,"Corenc, Collège Le Rondeau",15,25431,9,TMA
+166,0,"Corenc, Collège Le Rondeau",15,25431,10,TMU
+166,0,"Corenc, Collège Le Rondeau",15,25431,11,LCA
+166,0,"Corenc, Collège Le Rondeau",15,25431,12,RAT
+166,0,"Corenc, Collège Le Rondeau",15,25431,13,EYM
+166,0,"Corenc, Collège Le Rondeau",15,25431,14,CHRA
+166,0,"Corenc, Collège Le Rondeau",15,25431,15,CRLYB
+166,0,"Corenc, Collège Le Rondeau",15,25431,16,CRCLR
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,1,CRCLR
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,2,CRLYB
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,3,EYM
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,4,AYE
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,5,LCA
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,6,TMU
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,7,TMA
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,8,INS
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,9,LFR
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,10,CONC
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,11,CHARI
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,12,TG
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,13,LSJ
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,14,CIME
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,15,VMBRA
+166,1,"Saint-Vincent-de-Mercuze, Saint-Vincent-de-Mercuze Mairie",14,25428,16,VMMAI
+167,0,"Corenc, Collège Le Rondeau",50,25792,1,GOG
+167,0,"Corenc, Collège Le Rondeau",50,25792,2,VB
+167,0,"Corenc, Collège Le Rondeau",50,25792,3,GT
+167,0,"Corenc, Collège Le Rondeau",50,25792,4,PST
+167,0,"Corenc, Collège Le Rondeau",50,25792,5,LPC
+167,0,"Corenc, Collège Le Rondeau",50,25792,6,CHF
+167,0,"Corenc, Collège Le Rondeau",50,25792,7,CFB
+167,0,"Corenc, Collège Le Rondeau",50,25792,8,COQ
+167,0,"Corenc, Collège Le Rondeau",50,25792,9,PCF
+167,0,"Corenc, Collège Le Rondeau",50,25792,10,CJ
+167,0,"Corenc, Collège Le Rondeau",50,25792,11,BPL
+167,0,"Corenc, Collège Le Rondeau",50,25792,12,BPC
+167,0,"Corenc, Collège Le Rondeau",50,25792,13,LSA
+167,0,"Corenc, Collège Le Rondeau",50,25792,14,VBL
+167,0,"Corenc, Collège Le Rondeau",50,25792,15,LMV
+167,0,"Corenc, Collège Le Rondeau",50,25792,16,VO
+167,0,"Corenc, Collège Le Rondeau",50,25792,17,VBE
+167,0,"Corenc, Collège Le Rondeau",50,25792,18,VBM
+167,0,"Corenc, Collège Le Rondeau",50,25792,19,LAPO
+167,0,"Corenc, Collège Le Rondeau",50,25792,20,LA
+167,0,"Corenc, Collège Le Rondeau",50,25792,21,CDR
+167,0,"Corenc, Collège Le Rondeau",50,25792,22,CN
+167,0,"Corenc, Collège Le Rondeau",50,25792,23,PP
+167,0,"Corenc, Collège Le Rondeau",50,25792,24,BLP
+167,0,"Corenc, Collège Le Rondeau",50,25792,25,COB
+167,0,"Corenc, Collège Le Rondeau",50,25792,26,LVP
+167,0,"Corenc, Collège Le Rondeau",50,25792,27,LC
+167,0,"Corenc, Collège Le Rondeau",50,25792,28,VSETA
+167,0,"Corenc, Collège Le Rondeau",50,25792,29,CRLYB
+167,0,"Corenc, Collège Le Rondeau",50,25792,30,CRCLR
+167,1,"Goncelin, Goncelin Gare",33,26894,1,CRCLR
+167,1,"Goncelin, Goncelin Gare",33,26894,2,CRLYB
+167,1,"Goncelin, Goncelin Gare",33,26894,3,PLS
+167,1,"Goncelin, Goncelin Gare",33,26894,4,MOHAM
+167,1,"Goncelin, Goncelin Gare",33,26894,5,LTA
+167,1,"Goncelin, Goncelin Gare",33,26894,6,VSETA
+167,1,"Goncelin, Goncelin Gare",33,26894,7,LC
+167,1,"Goncelin, Goncelin Gare",33,26894,8,LVP
+167,1,"Goncelin, Goncelin Gare",33,26894,9,COB
+167,1,"Goncelin, Goncelin Gare",33,26894,10,BLP
+167,1,"Goncelin, Goncelin Gare",33,26894,11,PP
+167,1,"Goncelin, Goncelin Gare",33,26894,12,CN
+167,1,"Goncelin, Goncelin Gare",33,26894,13,CDR
+167,1,"Goncelin, Goncelin Gare",33,26894,14,LA
+167,1,"Goncelin, Goncelin Gare",33,26894,15,LAPO
+167,1,"Goncelin, Goncelin Gare",33,26894,16,VBM
+167,1,"Goncelin, Goncelin Gare",33,26894,17,VBE
+167,1,"Goncelin, Goncelin Gare",33,26894,18,VO
+167,1,"Goncelin, Goncelin Gare",33,26894,19,LMV
+167,1,"Goncelin, Goncelin Gare",33,26894,20,VBL
+167,1,"Goncelin, Goncelin Gare",33,26894,21,LSA
+167,1,"Goncelin, Goncelin Gare",33,26894,22,BPC
+167,1,"Goncelin, Goncelin Gare",33,26894,23,BPL
+167,1,"Goncelin, Goncelin Gare",33,26894,24,CJ
+167,1,"Goncelin, Goncelin Gare",33,26894,25,PCF
+167,1,"Goncelin, Goncelin Gare",33,26894,26,COQ
+167,1,"Goncelin, Goncelin Gare",33,26894,27,CFB
+167,1,"Goncelin, Goncelin Gare",33,26894,28,CHF
+167,1,"Goncelin, Goncelin Gare",33,26894,29,LPC
+167,1,"Goncelin, Goncelin Gare",33,26894,30,PST
+167,1,"Goncelin, Goncelin Gare",33,26894,31,GT
+167,1,"Goncelin, Goncelin Gare",33,26894,32,VB
+167,1,"Goncelin, Goncelin Gare",33,26894,33,GOG
+171,0,"Grenoble, Lycée Champollion",100,20383,1,PLN
+171,0,"Grenoble, Lycée Champollion",100,20383,2,PRPCO
+171,0,"Grenoble, Lycée Champollion",100,20383,3,PLNB
+171,0,"Grenoble, Lycée Champollion",100,20383,4,POM
+171,0,"Grenoble, Lycée Champollion",100,20383,5,PRPBA
+171,0,"Grenoble, Lycée Champollion",100,20383,6,PRSAV
+171,0,"Grenoble, Lycée Champollion",100,20383,7,LEG
+171,0,"Grenoble, Lycée Champollion",100,20383,8,BAZ
+171,0,"Grenoble, Lycée Champollion",100,20383,9,ECOL
+171,0,"Grenoble, Lycée Champollion",100,20383,10,PRLAC
+171,0,"Grenoble, Lycée Champollion",100,20383,11,PRLMO
+171,0,"Grenoble, Lycée Champollion",100,20383,12,PRMOR
+171,0,"Grenoble, Lycée Champollion",100,20383,13,RIG
+171,0,"Grenoble, Lycée Champollion",100,20383,14,BLVU
+171,0,"Grenoble, Lycée Champollion",100,20383,15,EGFIA
+171,0,"Grenoble, Lycée Champollion",100,20383,16,QUGRA
+171,0,"Grenoble, Lycée Champollion",100,20383,17,BAQ
+171,0,"Grenoble, Lycée Champollion",100,20383,18,QURSE
+171,0,"Grenoble, Lycée Champollion",100,20383,19,QUBAR
+171,0,"Grenoble, Lycée Champollion",100,20383,20,PET
+171,0,"Grenoble, Lycée Champollion",100,20383,21,QUA
+171,0,"Grenoble, Lycée Champollion",100,20383,22,QUCTU
+171,0,"Grenoble, Lycée Champollion",100,20383,23,QUCEN
+171,0,"Grenoble, Lycée Champollion",100,20383,24,CHAR
+171,0,"Grenoble, Lycée Champollion",100,20383,25,QUCDV
+171,0,"Grenoble, Lycée Champollion",100,20383,26,CCL
+171,0,"Grenoble, Lycée Champollion",100,20383,27,LEV
+171,0,"Grenoble, Lycée Champollion",100,20383,28,SLA
+171,0,"Grenoble, Lycée Champollion",100,20383,29,MGE
+171,0,"Grenoble, Lycée Champollion",100,20383,30,SMLAG
+171,0,"Grenoble, Lycée Champollion",100,20383,31,SHB
+171,0,"Grenoble, Lycée Champollion",100,20383,32,LCS
+171,0,"Grenoble, Lycée Champollion",100,20383,33,SMLER
+171,0,"Grenoble, Lycée Champollion",100,20383,34,SFA
+171,0,"Grenoble, Lycée Champollion",100,20383,35,GRBRI
+171,0,"Grenoble, Lycée Champollion",100,20383,36,GRLCH
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,1,GRLCH
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,2,GRBRI
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,3,SFA
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,4,SMLER
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,5,LCS
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,6,SHB
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,7,SMLAG
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,8,MGE
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,9,SLA
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,10,LEV
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,11,CCL
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,12,QUCDV
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,13,CHAR
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,14,QUCEN
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,15,QUCTU
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,16,QUA
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,17,PET
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,18,QUBAR
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,19,QURSE
+171,1,"Quaix-en-Chartreuse, Le Bas de Quaix",100,10310,20,BAQ
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,1,LP
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,2,SALYC
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,3,PREF
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,4,SATRE
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,5,PLB
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,6,CHS
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,7,SAROL
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,8,ENG
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,9,PRA
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,10,ZI
+175,0,"Fontanil-Cornillon, LT Françoise Dolto",100,7149,11,DOLTO
+175,1,"Fontaine, La Poya",100,7149,1,DOLTO
+175,1,"Fontaine, La Poya",100,7149,2,ZI
+175,1,"Fontaine, La Poya",100,7149,3,PRA
+175,1,"Fontaine, La Poya",100,7149,4,ENG
+175,1,"Fontaine, La Poya",100,7149,5,SAROL
+175,1,"Fontaine, La Poya",100,7149,6,CHS
+175,1,"Fontaine, La Poya",100,7149,7,PLB
+175,1,"Fontaine, La Poya",100,7149,8,SATRE
+175,1,"Fontaine, La Poya",100,7149,9,PREF
+175,1,"Fontaine, La Poya",100,7149,10,SALYC
+175,1,"Fontaine, La Poya",100,7149,11,LP
+181,0,"Vizille, Vizille Lycée",100,11604,1,NDCV
+181,0,"Vizille, Vizille Lycée",100,11604,2,PAUT
+181,0,"Vizille, Vizille Lycée",100,11604,3,MOULIN
+181,0,"Vizille, Vizille Lycée",100,11604,4,GCBIL1
+181,0,"Vizille, Vizille Lycée",100,11604,5,EGLISE
+181,0,"Vizille, Vizille Lycée",100,11604,6,TOUR
+181,0,"Vizille, Vizille Lycée",100,11604,7,GCGUI
+181,0,"Vizille, Vizille Lycée",100,11604,8,CONDAM
+181,0,"Vizille, Vizille Lycée",100,11604,9,CDMON
+181,0,"Vizille, Vizille Lycée",100,11604,10,CDSER
+181,0,"Vizille, Vizille Lycée",100,11604,11,CDPAV1
+181,0,"Vizille, Vizille Lycée",100,11604,12,LTE
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,1,LTE
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,2,CDPAV1
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,3,CDMON
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,4,CDSER
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,5,CONDAM
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,6,GCGUI
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,7,TOUR
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,8,EGLISE
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,9,GCBIL1
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,10,PAUT
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,11,NDCV
+181,1,"Notre-Dame-de-Commiers, Le Moulin",55,13057,12,MOULIN
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,1,GUIC
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,2,ECJB
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,3,VAUL
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,4,MARC
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,5,MAB
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,6,VAUB
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,7,PLAT
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,8,TRA
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,9,PTM
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,10,LCOR
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,11,VZALL
+182,0,"Vizille, Lycée Portes de l'Oisans",33,7695,12,LTE
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,1,LTE
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,2,MARC
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,3,VAUL
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,4,ECJB
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,5,GUIC
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,6,ALBE
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,7,VHGEO
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,8,LRV
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,9,BLC
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,10,VHLBC
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,11,LDA
+182,1,"Vaulnaveys-le-Haut, Les Blanchères",29,10652,12,LBL
+183,0,"Vizille, Collège les Mattons (quai 1)",17,6518,1,VZLAN
+183,0,"Vizille, Collège les Mattons (quai 1)",17,6518,2,PMEGL
+183,0,"Vizille, Collège les Mattons (quai 1)",17,6518,3,PMCHV
+183,0,"Vizille, Collège les Mattons (quai 1)",17,6518,4,PMHAM
+183,0,"Vizille, Collège les Mattons (quai 1)",17,6518,5,NDMOL
+183,0,"Vizille, Collège les Mattons (quai 1)",17,6518,6,NDTEM
+183,0,"Vizille, Collège les Mattons (quai 1)",17,6518,7,LTE
+183,0,"Vizille, Collège les Mattons (quai 1)",17,6518,8,MAT
+183,1,"Saint-Pierre-de-Mésage, Place de l'Église",33,4782,1,MAT
+183,1,"Saint-Pierre-de-Mésage, Place de l'Église",33,4782,2,LTE
+183,1,"Saint-Pierre-de-Mésage, Place de l'Église",33,4782,3,NDMOL
+183,1,"Saint-Pierre-de-Mésage, Place de l'Église",33,4782,4,NDTEM
+183,1,"Saint-Pierre-de-Mésage, Place de l'Église",33,4782,5,PMHAM
+183,1,"Saint-Pierre-de-Mésage, Place de l'Église",33,4782,6,PMCHV
+183,1,"Saint-Pierre-de-Mésage, Place de l'Église",33,4782,7,PMEGL
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,1,VIF
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,2,VIFG
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,3,VFRIV
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,4,SGC
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,5,GCPEU
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,6,ISLES
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,7,GCCAN
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,8,CDCLO1
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,9,CDBOU1
+184,0,"Vizille, Lycée Portes de l'Oisans",50,10510,10,LTE
+184,1,"Vif, Vif Mairie",55,10510,1,LTE
+184,1,"Vif, Vif Mairie",55,10510,2,CDBOU1
+184,1,"Vif, Vif Mairie",55,10510,3,CDCLO1
+184,1,"Vif, Vif Mairie",55,10510,4,GCCAN
+184,1,"Vif, Vif Mairie",55,10510,5,ISLES
+184,1,"Vif, Vif Mairie",55,10510,6,GCPEU
+184,1,"Vif, Vif Mairie",55,10510,7,SGC
+184,1,"Vif, Vif Mairie",55,10510,8,VFRIV
+184,1,"Vif, Vif Mairie",55,10510,9,VIFG
+184,1,"Vif, Vif Mairie",55,10510,10,VIF
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,1,LACA
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,2,PLE
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,3,THE
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,4,SIM
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,5,CHAB
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,6,MAUP
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,7,JABRA
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,8,JADEL
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,9,CLOJ
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,10,ANMAL
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,11,JASTA
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,12,GARJA
+185,0,"Vizille, Lycée Portes de l'Oisans",33,9238,13,LTE
+185,1,"Jarrie, Les Simianes",35,6333,1,LTE
+185,1,"Jarrie, Les Simianes",35,6333,2,JAVER
+185,1,"Jarrie, Les Simianes",35,6333,3,JACHB
+185,1,"Jarrie, Les Simianes",35,6333,4,MAUP
+185,1,"Jarrie, Les Simianes",35,6333,5,CHAB
+185,1,"Jarrie, Les Simianes",35,6333,6,SIM
+186,1,"Grenoble, Louise Michel",100,13591,1,LTE
+186,1,"Grenoble, Louise Michel",100,13591,2,GARJA
+186,1,"Grenoble, Louise Michel",100,13591,3,PONC
+186,1,"Grenoble, Louise Michel",100,13591,4,SDM
+186,1,"Grenoble, Louise Michel",100,13591,5,POV1
+186,1,"Grenoble, Louise Michel",100,13591,6,PDCBSI
+186,1,"Grenoble, Louise Michel",100,13591,7,LDP
+186,1,"Grenoble, Louise Michel",100,13591,8,PCM
+186,1,"Grenoble, Louise Michel",100,13591,9,ILE
+186,1,"Grenoble, Louise Michel",100,13591,10,ETOILE
+186,1,"Grenoble, Louise Michel",100,13591,11,BAY
+186,1,"Grenoble, Louise Michel",100,13591,12,QUIN
+186,1,"Grenoble, Louise Michel",100,13591,13,RON
+186,1,"Grenoble, Louise Michel",100,13591,14,LESD
+186,1,"Grenoble, Louise Michel",100,13591,15,LMG
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,1,CSOFF
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,2,CSMAI
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,3,VHFUJ
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,4,VHMON
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,5,VHBEL
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,6,LRV
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,7,VHGEO
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,8,ALBE
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,9,VAUL
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,10,PLAT
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,11,TRA
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,12,PTM
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,13,LCOR
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,14,VZALL
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,15,LTE
+187,0,"Vizille, Collège les Mattons (quai 1)",100,17602,16,MAT
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,1,LTE
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,2,MAT
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,3,VZALL
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,4,LCOR
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,5,PTM
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,6,TRA
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,7,ECJB
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,8,VHGEO
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,9,LRV
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,10,VHBEL
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,11,VHMON
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,12,VHFUJ
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,13,CSMAI
+187,1,"Chamrousse, Le Recoin – Office du Tourisme",82,17331,14,CSOFF
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,1,VRI
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,2,LEH
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,3,PERS
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,4,ILES
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,5,VVCUC
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,6,RUI
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,7,NOY
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,8,STJ
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,9,NOCHA
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,10,PRAR
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,11,PRA
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,12,ENG
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,13,SAROL
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,14,CHS
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,15,PLB
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,16,SATRE
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,17,PREF
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,18,SAPIE
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,19,LP
+191,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,11518,20,SELYC
+191,1,"Veurey-Voroize, La Rive",100,11518,1,SELYC
+191,1,"Veurey-Voroize, La Rive",100,11518,2,LP
+191,1,"Veurey-Voroize, La Rive",100,11518,3,SAPIE
+191,1,"Veurey-Voroize, La Rive",100,11518,4,PREF
+191,1,"Veurey-Voroize, La Rive",100,11518,5,SATRE
+191,1,"Veurey-Voroize, La Rive",100,11518,6,PLB
+191,1,"Veurey-Voroize, La Rive",100,11518,7,CHS
+191,1,"Veurey-Voroize, La Rive",100,11518,8,SAROL
+191,1,"Veurey-Voroize, La Rive",100,11518,9,ENG
+191,1,"Veurey-Voroize, La Rive",100,11518,10,PRA
+191,1,"Veurey-Voroize, La Rive",100,11518,11,PRAR
+191,1,"Veurey-Voroize, La Rive",100,11518,12,NOCHA
+191,1,"Veurey-Voroize, La Rive",100,11518,13,STJ
+191,1,"Veurey-Voroize, La Rive",100,11518,14,NOY
+191,1,"Veurey-Voroize, La Rive",100,11518,15,RUI
+191,1,"Veurey-Voroize, La Rive",100,11518,16,VVCUC
+191,1,"Veurey-Voroize, La Rive",100,11518,17,ILES
+191,1,"Veurey-Voroize, La Rive",100,11518,18,PERS
+191,1,"Veurey-Voroize, La Rive",100,11518,19,LEH
+191,1,"Veurey-Voroize, La Rive",100,11518,20,VRI
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,1,PARISE
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,2,SPTSV
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,3,SEHAM
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,4,SEHDS
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,5,SEBEL
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,6,LALUNE
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,7,SEPRL
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,8,SEPRI
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,9,PLV
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,10,ANG
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,11,SEAGN
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,12,SEPRC
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,13,SECMS
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,14,SBE
+193,0,"Seyssinet-Pariset, Lycée Aristide Bergès",100,7744,15,SELYC
+193,1,"Seyssinet-Pariset, Pariset",100,7791,1,SELYC
+193,1,"Seyssinet-Pariset, Pariset",100,7791,2,SBE
+193,1,"Seyssinet-Pariset, Pariset",100,7791,3,SECMS
+193,1,"Seyssinet-Pariset, Pariset",100,7791,4,SEPRC
+193,1,"Seyssinet-Pariset, Pariset",100,7791,5,SEAGN
+193,1,"Seyssinet-Pariset, Pariset",100,7791,6,SEBEA
+193,1,"Seyssinet-Pariset, Pariset",100,7791,7,PLV
+193,1,"Seyssinet-Pariset, Pariset",100,7791,8,SEPRI
+193,1,"Seyssinet-Pariset, Pariset",100,7791,9,SEPRL
+193,1,"Seyssinet-Pariset, Pariset",100,7791,10,LALUNE
+193,1,"Seyssinet-Pariset, Pariset",100,7791,11,LESCOT
+193,1,"Seyssinet-Pariset, Pariset",100,7791,12,SEBEL
+193,1,"Seyssinet-Pariset, Pariset",100,7791,13,SEHDS
+193,1,"Seyssinet-Pariset, Pariset",100,7791,14,SEHAM
+193,1,"Seyssinet-Pariset, Pariset",100,7791,15,SPTSV
+193,1,"Seyssinet-Pariset, Pariset",100,7791,16,PARISE
+205,0,"Sassenage, Collège Fleming",50,8776,1,VRI
+205,0,"Sassenage, Collège Fleming",50,8776,2,LEH
+205,0,"Sassenage, Collège Fleming",50,8776,3,PERS
+205,0,"Sassenage, Collège Fleming",50,8776,4,ILES
+205,0,"Sassenage, Collège Fleming",50,8776,5,VVCUC
+205,0,"Sassenage, Collège Fleming",50,8776,6,RUI
+205,0,"Sassenage, Collège Fleming",50,8776,7,NOY
+205,0,"Sassenage, Collège Fleming",50,8776,8,STJ
+205,0,"Sassenage, Collège Fleming",50,8776,9,NOCHA
+205,0,"Sassenage, Collège Fleming",50,8776,10,PRAR
+205,0,"Sassenage, Collège Fleming",50,8776,11,PRA
+205,0,"Sassenage, Collège Fleming",50,8776,12,ENG
+205,0,"Sassenage, Collège Fleming",50,8776,13,SAROL
+205,0,"Sassenage, Collège Fleming",50,8776,14,CHS
+205,0,"Sassenage, Collège Fleming",50,8776,15,PLB
+205,0,"Sassenage, Collège Fleming",50,8776,16,COLFLE
+205,1,"Veurey-Voroize, La Rive",50,8776,1,COLFLE
+205,1,"Veurey-Voroize, La Rive",50,8776,2,PLB
+205,1,"Veurey-Voroize, La Rive",50,8776,3,CHS
+205,1,"Veurey-Voroize, La Rive",50,8776,4,SAROL
+205,1,"Veurey-Voroize, La Rive",50,8776,5,ENG
+205,1,"Veurey-Voroize, La Rive",50,8776,6,PRA
+205,1,"Veurey-Voroize, La Rive",50,8776,7,PRAR
+205,1,"Veurey-Voroize, La Rive",50,8776,8,NOCHA
+205,1,"Veurey-Voroize, La Rive",50,8776,9,STJ
+205,1,"Veurey-Voroize, La Rive",50,8776,10,NOY
+205,1,"Veurey-Voroize, La Rive",50,8776,11,RUI
+205,1,"Veurey-Voroize, La Rive",50,8776,12,VVCUC
+205,1,"Veurey-Voroize, La Rive",50,8776,13,ILES
+205,1,"Veurey-Voroize, La Rive",50,8776,14,PERS
+205,1,"Veurey-Voroize, La Rive",50,8776,15,LEH
+205,1,"Veurey-Voroize, La Rive",50,8776,16,VRI
+206,1,"Sassenage, La Dent du Loup",100,3680,1,COLFLE
+206,1,"Sassenage, La Dent du Loup",100,3680,2,BFO
+206,1,"Sassenage, La Dent du Loup",100,3680,3,SACHE
+206,1,"Sassenage, La Dent du Loup",100,3680,4,PARC
+206,1,"Sassenage, La Dent du Loup",100,3680,5,SALRD
+206,1,"Sassenage, La Dent du Loup",100,3680,6,SAMOL
+206,1,"Sassenage, La Dent du Loup",100,3680,7,SACBE
+206,1,"Sassenage, La Dent du Loup",100,3680,8,SAVDJ
+206,1,"Sassenage, La Dent du Loup",100,3680,9,SABEA
+206,1,"Sassenage, La Dent du Loup",100,3680,10,COTE
+206,1,"Sassenage, La Dent du Loup",100,3680,11,DENT
+211,0,"Claix, Pompidou",100,4207,1,CLX
+211,0,"Claix, Pompidou",100,4207,2,CLTAB
+211,0,"Claix, Pompidou",100,4207,3,CLTIL
+211,0,"Claix, Pompidou",100,4207,4,CLGCH
+211,0,"Claix, Pompidou",100,4207,5,CLCHE
+211,0,"Claix, Pompidou",100,4207,6,CLBAT
+211,0,"Claix, Pompidou",100,4207,7,CLHOR
+211,0,"Claix, Pompidou",100,4207,8,RISS
+211,0,"Claix, Pompidou",100,4207,9,CLPAV
+211,0,"Claix, Pompidou",100,4207,10,BAU
+211,0,"Claix, Pompidou",100,4207,11,CLMIC
+211,0,"Claix, Pompidou",100,4207,12,CHARR
+211,0,"Claix, Pompidou",100,4207,13,POMP
+211,1,"Claix, Claix Mairie",100,4207,1,POMP
+211,1,"Claix, Claix Mairie",100,4207,2,CHARR
+211,1,"Claix, Claix Mairie",100,4207,3,CLMIC
+211,1,"Claix, Claix Mairie",100,4207,4,BAU
+211,1,"Claix, Claix Mairie",100,4207,5,CLPAV
+211,1,"Claix, Claix Mairie",100,4207,6,RISS
+211,1,"Claix, Claix Mairie",100,4207,7,CLHOR
+211,1,"Claix, Claix Mairie",100,4207,8,CLBAT
+211,1,"Claix, Claix Mairie",100,4207,9,CLCHE
+211,1,"Claix, Claix Mairie",100,4207,10,CLGCH
+211,1,"Claix, Claix Mairie",100,4207,11,CLTIL
+211,1,"Claix, Claix Mairie",100,4207,12,CLTAB
+211,1,"Claix, Claix Mairie",100,4207,13,CLX
+221,1,"Meylan, La Détourbe",100,4302,1,TER
+221,1,"Meylan, La Détourbe",100,4302,2,RS
+221,1,"Meylan, La Détourbe",100,4302,3,CHMT
+221,1,"Meylan, La Détourbe",100,4302,4,MESJB
+221,1,"Meylan, La Détourbe",100,4302,5,BACH
+221,1,"Meylan, La Détourbe",100,4302,6,MRR
+221,1,"Meylan, La Détourbe",100,4302,7,ANMA
+221,1,"Meylan, La Détourbe",100,4302,8,CHL
+221,1,"Meylan, La Détourbe",100,4302,9,CRC
+221,1,"Meylan, La Détourbe",100,4302,10,CXCI
+221,1,"Meylan, La Détourbe",100,4302,11,BOT
+221,1,"Meylan, La Détourbe",100,4302,12,MEPCA
+221,1,"Meylan, La Détourbe",100,4302,13,MEMON
+221,1,"Meylan, La Détourbe",100,4302,14,SVT
+221,1,"Meylan, La Détourbe",100,4302,15,TRE
+221,1,"Meylan, La Détourbe",100,4302,16,DET
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,1,TER
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,2,BUC1
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,3,MEM
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,4,MRR
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,5,ANMA
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,6,CHL
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,7,CRC
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,8,CXCI
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,9,MEG
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,10,ME15J
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,11,ME21J
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,12,SJA
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,13,DET
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,14,CSM
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,15,MEBEA
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,16,MEMOS
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,17,MEBRA
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,18,MECHA
+222,1,"Meylan, Charlaix – Maupertuis",100,6052,19,MO1
+231,0,"Gières, Institution Don Bosco",100,23633,1,GOG
+231,0,"Gières, Institution Don Bosco",100,23633,2,CDT
+231,0,"Gières, Institution Don Bosco",100,23633,3,LCC
+231,0,"Gières, Institution Don Bosco",100,23633,4,GT
+231,0,"Gières, Institution Don Bosco",100,23633,5,PST
+231,0,"Gières, Institution Don Bosco",100,23633,6,LPC
+231,0,"Gières, Institution Don Bosco",100,23633,7,CHF
+231,0,"Gières, Institution Don Bosco",100,23633,8,CFB
+231,0,"Gières, Institution Don Bosco",100,23633,9,COQ
+231,0,"Gières, Institution Don Bosco",100,23633,10,PCF
+231,0,"Gières, Institution Don Bosco",100,23633,11,CJ
+231,0,"Gières, Institution Don Bosco",100,23633,12,BPL
+231,0,"Gières, Institution Don Bosco",100,23633,13,BPC
+231,0,"Gières, Institution Don Bosco",100,23633,14,LSA
+231,0,"Gières, Institution Don Bosco",100,23633,15,VBL
+231,0,"Gières, Institution Don Bosco",100,23633,16,LMV
+231,0,"Gières, Institution Don Bosco",100,23633,17,VBE
+231,0,"Gières, Institution Don Bosco",100,23633,18,LAPO
+231,0,"Gières, Institution Don Bosco",100,23633,19,LA
+231,0,"Gières, Institution Don Bosco",100,23633,20,CDR
+231,0,"Gières, Institution Don Bosco",100,23633,21,CN
+231,0,"Gières, Institution Don Bosco",100,23633,22,PP
+231,0,"Gières, Institution Don Bosco",100,23633,23,BLP
+231,0,"Gières, Institution Don Bosco",100,23633,24,COB
+231,0,"Gières, Institution Don Bosco",100,23633,25,LVP
+231,0,"Gières, Institution Don Bosco",100,23633,26,LC
+231,0,"Gières, Institution Don Bosco",100,23633,27,VSETA
+231,0,"Gières, Institution Don Bosco",100,23633,28,DOM
+231,0,"Gières, Institution Don Bosco",100,23633,29,IDB
+231,1,"Goncelin, Goncelin Gare",100,23743,1,JR
+231,1,"Goncelin, Goncelin Gare",100,23743,2,DOM
+231,1,"Goncelin, Goncelin Gare",100,23743,3,VSETA
+231,1,"Goncelin, Goncelin Gare",100,23743,4,LC
+231,1,"Goncelin, Goncelin Gare",100,23743,5,LVP
+231,1,"Goncelin, Goncelin Gare",100,23743,6,COB
+231,1,"Goncelin, Goncelin Gare",100,23743,7,BLP
+231,1,"Goncelin, Goncelin Gare",100,23743,8,PP
+231,1,"Goncelin, Goncelin Gare",100,23743,9,CN
+231,1,"Goncelin, Goncelin Gare",100,23743,10,CDR
+231,1,"Goncelin, Goncelin Gare",100,23743,11,LA
+231,1,"Goncelin, Goncelin Gare",100,23743,12,LAPO
+231,1,"Goncelin, Goncelin Gare",100,23743,13,VBE
+231,1,"Goncelin, Goncelin Gare",100,23743,14,LMV
+231,1,"Goncelin, Goncelin Gare",100,23743,15,VBL
+231,1,"Goncelin, Goncelin Gare",100,23743,16,LSA
+231,1,"Goncelin, Goncelin Gare",100,23743,17,BPL
+231,1,"Goncelin, Goncelin Gare",100,23743,18,CJ
+231,1,"Goncelin, Goncelin Gare",100,23743,19,PCF
+231,1,"Goncelin, Goncelin Gare",100,23743,20,COQ
+231,1,"Goncelin, Goncelin Gare",100,23743,21,CFB
+231,1,"Goncelin, Goncelin Gare",100,23743,22,CHF
+231,1,"Goncelin, Goncelin Gare",100,23743,23,LPC
+231,1,"Goncelin, Goncelin Gare",100,23743,24,PST
+231,1,"Goncelin, Goncelin Gare",100,23743,25,GT
+231,1,"Goncelin, Goncelin Gare",100,23743,26,LCC
+231,1,"Goncelin, Goncelin Gare",100,23743,27,CDT
+231,1,"Goncelin, Goncelin Gare",100,23743,28,GOG
+233,1,"Montbonnot-Saint-Martin, Les Évêquaux",50,7318,1,TER
+233,1,"Montbonnot-Saint-Martin, Les Évêquaux",50,7318,2,AGD
+233,1,"Montbonnot-Saint-Martin, Les Évêquaux",50,7318,3,MG
+233,1,"Montbonnot-Saint-Martin, Les Évêquaux",50,7318,4,MOHAM
+233,1,"Montbonnot-Saint-Martin, Les Évêquaux",50,7318,5,PLS
+233,1,"Montbonnot-Saint-Martin, Les Évêquaux",50,7318,6,13300
+233,1,"Montbonnot-Saint-Martin, Les Évêquaux",50,7318,7,EVE
+235,0,"Échirolles, Collège Pablo Picasso",100,1959,1,DP
+235,0,"Échirolles, Collège Pablo Picasso",100,1959,2,DEL
+235,0,"Échirolles, Collège Pablo Picasso",100,1959,3,AUG1
+235,0,"Échirolles, Collège Pablo Picasso",100,1959,4,BAY
+235,0,"Échirolles, Collège Pablo Picasso",100,1959,5,CLM
+235,0,"Échirolles, Collège Pablo Picasso",100,1959,6,PAB
+235,1,"Échirolles, Denis Papin",100,1959,1,PAB
+235,1,"Échirolles, Denis Papin",100,1959,2,CLM
+235,1,"Échirolles, Denis Papin",100,1959,3,BAY
+235,1,"Échirolles, Denis Papin",100,1959,4,AUG1
+235,1,"Échirolles, Denis Papin",100,1959,5,DEL
+235,1,"Échirolles, Denis Papin",100,1959,6,DP
+241,0,"Domène, Collège La Moulinière",21,11267,1,COQ
+241,0,"Domène, Collège La Moulinière",21,11267,2,PCF
+241,0,"Domène, Collège La Moulinière",21,11267,3,CJ
+241,0,"Domène, Collège La Moulinière",21,11267,4,BPL
+241,0,"Domène, Collège La Moulinière",21,11267,5,BPC
+241,0,"Domène, Collège La Moulinière",21,11267,6,LSA
+241,0,"Domène, Collège La Moulinière",21,11267,7,VBL
+241,0,"Domène, Collège La Moulinière",21,11267,8,LMV
+241,0,"Domène, Collège La Moulinière",21,11267,9,VO
+241,0,"Domène, Collège La Moulinière",21,11267,10,VBE
+241,0,"Domène, Collège La Moulinière",21,11267,11,VBM
+241,0,"Domène, Collège La Moulinière",21,11267,12,LAPO
+241,0,"Domène, Collège La Moulinière",21,11267,13,LA
+241,0,"Domène, Collège La Moulinière",21,11267,14,CDR
+241,0,"Domène, Collège La Moulinière",21,11267,15,CN
+241,0,"Domène, Collège La Moulinière",21,11267,16,PP
+241,0,"Domène, Collège La Moulinière",21,11267,17,BLP
+241,0,"Domène, Collège La Moulinière",21,11267,18,COB
+241,0,"Domène, Collège La Moulinière",21,11267,19,LVP
+241,0,"Domène, Collège La Moulinière",21,11267,20,LC
+241,0,"Domène, Collège La Moulinière",21,11267,21,VSETA
+241,0,"Domène, Collège La Moulinière",21,11267,22,MOULI
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,1,MOULI
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,2,LC
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,3,LVP
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,4,CN
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,5,CDR
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,6,LA
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,7,LAPO
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,8,VBM
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,9,VBE
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,10,VO
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,11,LMV
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,12,VBL
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,13,LSA
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,14,BPC
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,15,BPL
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,16,CJ
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,17,PCF
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,18,COQ
+241,1,"Le Champ-près-Froges, Le Bas",15,11975,19,CFB
+243,0,"Gières, Le Chamandier",100,8809,1,LPIS
+243,0,"Gières, Le Chamandier",100,8809,2,LMO
+243,0,"Gières, Le Chamandier",100,8809,3,LBD
+243,0,"Gières, Le Chamandier",100,8809,4,LFE
+243,0,"Gières, Le Chamandier",100,8809,5,LEVA
+243,0,"Gières, Le Chamandier",100,8809,6,HT
+243,0,"Gières, Le Chamandier",100,8809,7,UGA
+243,0,"Gières, Le Chamandier",100,8809,8,LCH
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,1,LCH
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,2,GICON
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,3,GITER
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,4,VECHE
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,5,MAUPA
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,6,SMUPEI
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,7,SMUCR6
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,8,UGA
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,9,RSM
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,10,SMURIC
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,11,SMU
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,12,CDCH
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,13,LROS
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,14,SNU
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,15,HAUT
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,16,LLN
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,17,LPE
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,18,CRE
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,19,PINET
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,20,SMUVAL
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,21,SMUOIE
+243,1,"Saint-Martin-d'Uriage, La Croix de Pinet",21,13908,22,CROI
+251,0,"Corenc, Collège Jules Flandrin",100,4482,1,CORBAT
+251,0,"Corenc, Collège Jules Flandrin",100,4482,2,TRFER
+251,0,"Corenc, Collège Jules Flandrin",100,4482,3,TRCTM
+251,0,"Corenc, Collège Jules Flandrin",100,4482,4,TRPEL
+251,0,"Corenc, Collège Jules Flandrin",100,4482,5,CRORE
+251,0,"Corenc, Collège Jules Flandrin",100,4482,6,TRCAB
+251,0,"Corenc, Collège Jules Flandrin",100,4482,7,TRMAU
+251,0,"Corenc, Collège Jules Flandrin",100,4482,8,TRGOR
+251,0,"Corenc, Collège Jules Flandrin",100,4482,9,TRVIE
+251,0,"Corenc, Collège Jules Flandrin",100,4482,10,TRNOY
+251,0,"Corenc, Collège Jules Flandrin",100,4482,11,TRCOT
+251,0,"Corenc, Collège Jules Flandrin",100,4482,12,CRCJF
+251,1,"La Tronche, Batonnieres",82,5420,1,CRCJF
+251,1,"La Tronche, Batonnieres",82,5420,2,TRECO
+251,1,"La Tronche, Batonnieres",82,5420,3,TRCOT
+251,1,"La Tronche, Batonnieres",82,5420,4,TRNOY
+251,1,"La Tronche, Batonnieres",82,5420,5,TRVIE
+251,1,"La Tronche, Batonnieres",82,5420,6,TRGOR
+251,1,"La Tronche, Batonnieres",82,5420,7,TRMAU
+251,1,"La Tronche, Batonnieres",82,5420,8,TRCAB
+251,1,"La Tronche, Batonnieres",82,5420,9,CRORE
+251,1,"La Tronche, Batonnieres",82,5420,10,TRPEL
+251,1,"La Tronche, Batonnieres",82,5420,11,TRCTM
+251,1,"La Tronche, Batonnieres",82,5420,12,TRFER
+251,1,"La Tronche, Batonnieres",82,5420,13,CORBAT
+261,0,"Corenc, Collège Le Rondeau",100,9406,1,EGFIA
+261,0,"Corenc, Collège Le Rondeau",100,9406,2,PVC
+261,0,"Corenc, Collège Le Rondeau",100,9406,3,MOU
+261,0,"Corenc, Collège Le Rondeau",100,9406,4,MURE
+261,0,"Corenc, Collège Le Rondeau",100,9406,5,PIQ
+261,0,"Corenc, Collège Le Rondeau",100,9406,6,SMVKIL
+261,0,"Corenc, Collège Le Rondeau",100,9406,7,SMVRE
+261,0,"Corenc, Collège Le Rondeau",100,9406,8,CMV
+261,0,"Corenc, Collège Le Rondeau",100,9406,9,GRBRI
+261,0,"Corenc, Collège Le Rondeau",100,9406,10,NDM
+261,0,"Corenc, Collège Le Rondeau",100,9406,11,IL
+261,0,"Corenc, Collège Le Rondeau",100,9406,12,GRMEN
+261,0,"Corenc, Collège Le Rondeau",100,9406,13,COMN
+261,0,"Corenc, Collège Le Rondeau",100,9406,14,MHB
+261,0,"Corenc, Collège Le Rondeau",100,9406,15,CED
+261,0,"Corenc, Collège Le Rondeau",100,9406,16,CRCLR
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,1,PVMON
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,2,PVLOU
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,3,PVONG
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,4,SPV
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,5,PVLAC
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,6,PVLAG
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,7,PVLAB
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,8,PVLEP
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,9,MEI
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,10,CHAM
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,11,VAPOM
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,12,VAMAZ
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,13,VATIS
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,14,CITE
+262,0,"Varces-Allières-et-Risset, Rond-Point de l'Europe",33,6755,15,RDPT
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,1,CITE
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,2,VATIS
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,3,VAMAZ
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,4,VAPOM
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,5,CHAM
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,6,MEI
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,7,PVLEP
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,8,PVLAB
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,9,PVLAG
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,10,PVLAC
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,11,SPV
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,12,PVONG
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,13,PVLOU
+262,1,"Saint-Paul-de-Varces, Le Mont",100,5811,14,PVMON
+263,1,"Vif, Le Gros Chêne",100,6068,1,CITE
+263,1,"Vif, Le Gros Chêne",100,6068,2,VANIV
+263,1,"Vif, Le Gros Chêne",100,6068,3,LAV
+263,1,"Vif, Le Gros Chêne",100,6068,4,VAPCH
+263,1,"Vif, Le Gros Chêne",100,6068,5,CLPAV
+263,1,"Vif, Le Gros Chêne",100,6068,6,VALIL
+263,1,"Vif, Le Gros Chêne",100,6068,7,VARVA
+263,1,"Vif, Le Gros Chêne",100,6068,8,VAPRE
+263,1,"Vif, Le Gros Chêne",100,6068,9,SANG
+263,1,"Vif, Le Gros Chêne",100,6068,10,RDPT
+263,1,"Vif, Le Gros Chêne",100,6068,11,VALOR
+263,1,"Vif, Le Gros Chêne",100,6068,12,STEND
+263,1,"Vif, Le Gros Chêne",100,6068,13,VAPON
+263,1,"Vif, Le Gros Chêne",100,6068,14,VAAUB
+263,1,"Vif, Le Gros Chêne",100,6068,15,VAREE
+263,1,"Vif, Le Gros Chêne",100,6068,16,VAGCH
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,1,CMQ
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,2,QUFON
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,3,QUMQU
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,4,BMQ
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,5,QUSOU
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,6,QUROU
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,7,CHAR
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,8,QUCEN
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,9,QUCTU
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,10,QUMEA
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,11,QUJAR
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,12,QUMCO
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,13,QUSAP
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,14,QUVLG
+265,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,15,ECOQ
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,1,ECOQ
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,2,QUVLG
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,3,QUSAP
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,4,QUMCO
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,5,QUJAR
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,6,QUMEA
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,7,QUCTU
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,8,QUCEN
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,9,CHAR
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,10,QUROU
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,11,QUSOU
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,12,BMQ
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,13,QUMQU
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,14,CMQ
+265,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,15,QUFON
+266,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,1,QUFRE
+266,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,2,QUARA
+266,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,3,CCL
+266,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,4,CHAR
+266,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,5,QUCEN
+266,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,6,QUCTU
+266,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,7,ECOQ
+266,1,"Quaix-en-Chartreuse, La Frette",100,3797,1,ECOQ
+266,1,"Quaix-en-Chartreuse, La Frette",100,3797,2,QUCTU
+266,1,"Quaix-en-Chartreuse, La Frette",100,3797,3,QUCEN
+266,1,"Quaix-en-Chartreuse, La Frette",100,3797,4,CHAR
+266,1,"Quaix-en-Chartreuse, La Frette",100,3797,5,CCL
+266,1,"Quaix-en-Chartreuse, La Frette",100,3797,6,QUARA
+266,1,"Quaix-en-Chartreuse, La Frette",100,3797,7,QUFRE
+271,0,"Vif, Collège le Masségu",82,12330,1,PRY
+271,0,"Vif, Collège le Masségu",82,12330,2,FAR
+271,0,"Vif, Collège le Masségu",82,12330,3,GUCHA
+271,0,"Vif, Collège le Masségu",82,12330,4,LAP
+271,0,"Vif, Collège le Masségu",82,12330,5,SBG
+271,0,"Vif, Collège le Masségu",82,12330,6,ROS
+271,0,"Vif, Collège le Masségu",82,12330,7,GUM
+271,0,"Vif, Collège le Masségu",82,12330,8,GUA
+271,0,"Vif, Collège le Masségu",82,12330,9,GUECP
+271,0,"Vif, Collège le Masségu",82,12330,10,PTG
+271,0,"Vif, Collège le Masségu",82,12330,11,VIFUN
+271,0,"Vif, Collège le Masségu",82,12330,12,RIF
+271,0,"Vif, Collège le Masségu",82,12330,13,VIFGR
+271,0,"Vif, Collège le Masségu",82,12330,14,VIFCH
+271,0,"Vif, Collège le Masségu",82,12330,15,VIFCI
+271,0,"Vif, Collège le Masségu",82,12330,16,MASE
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,1,MASE
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,2,VIFCI
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,3,VIFCH
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,4,VIFGR
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,5,RIF
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,6,VIFUN
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,7,PTG
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,8,GUECP
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,9,GUA
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,10,GUM
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,11,ROS
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,12,SBG
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,13,LAP
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,14,GUGER
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,15,GUCHA
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,16,FAR
+271,1,"Le Gua, Prélenfrey Eglise",82,12563,17,PRY
+273,0,"Vif, Collège le Masségu",50,3786,1,TOUR
+273,0,"Vif, Collège le Masségu",50,3786,2,GCGUI
+273,0,"Vif, Collège le Masségu",50,3786,3,CONDAM
+273,0,"Vif, Collège le Masségu",50,3786,4,SGC
+273,0,"Vif, Collège le Masségu",50,3786,5,VIFGAR
+273,0,"Vif, Collège le Masségu",50,3786,6,MASE
+273,1,"Saint-Georges-de-Commiers, St-Georges-de-Commiers Gare",100,4872,1,MASE
+273,1,"Saint-Georges-de-Commiers, St-Georges-de-Commiers Gare",100,4872,2,VIFGAR
+273,1,"Saint-Georges-de-Commiers, St-Georges-de-Commiers Gare",100,4872,3,GCPEU
+273,1,"Saint-Georges-de-Commiers, St-Georges-de-Commiers Gare",100,4872,4,ISLES
+273,1,"Saint-Georges-de-Commiers, St-Georges-de-Commiers Gare",100,4872,5,GCCAN
+273,1,"Saint-Georges-de-Commiers, St-Georges-de-Commiers Gare",100,4872,6,CONDAM
+273,1,"Saint-Georges-de-Commiers, St-Georges-de-Commiers Gare",100,4872,7,SGC
+282,0,"Vizille, Collège les Mattons (quai 1)",50,7059,1,TUI
+282,0,"Vizille, Collège les Mattons (quai 1)",50,7059,2,ALBE
+282,0,"Vizille, Collège les Mattons (quai 1)",50,7059,3,MAB
+282,0,"Vizille, Collège les Mattons (quai 1)",50,7059,4,VAUB
+282,0,"Vizille, Collège les Mattons (quai 1)",50,7059,5,TRA
+282,0,"Vizille, Collège les Mattons (quai 1)",50,7059,6,MAT
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,1,MAT
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,2,VZALL
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,3,LCOR
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,4,PTM
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,5,TRA
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,6,PLAT
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,7,VAUB
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,8,MAB
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,9,ECJB
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,10,GUIC
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,11,ALBE
+282,1,"Vaulnaveys-le-Haut, La Tuilerie",38,9029,12,TUI
+283,0,"Vizille, Collège les Mattons (quai 1)",100,8264,1,SESEC
+283,0,"Vizille, Collège les Mattons (quai 1)",100,8264,2,SESEG
+283,0,"Vizille, Collège les Mattons (quai 1)",100,8264,3,PVL
+283,0,"Vizille, Collège les Mattons (quai 1)",100,8264,4,MAT
+283,1,"Séchilienne, Séchilienne Le Village",29,8413,1,MAT
+283,1,"Séchilienne, Séchilienne Le Village",29,8413,2,PVL
+283,1,"Séchilienne, Séchilienne Le Village",29,8413,3,VZMAN
+283,1,"Séchilienne, Séchilienne Le Village",29,8413,4,SESEG
+283,1,"Séchilienne, Séchilienne Le Village",29,8413,5,SESEC
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,1,TUI
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,2,ALBE
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,3,ECJB
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,4,MAB
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,5,VAUB
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,6,PLAT
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,7,TRA
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,8,PTM
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,9,LCOR
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,10,VZALL
+287,0,"Vizille, Collège les Mattons (quai 1)",100,9029,11,MAT
+291,0,"Jarrie, Clos Jouvin",25,7361,1,BREG
+291,0,"Jarrie, Clos Jouvin",25,7361,2,BRI
+291,0,"Jarrie, Clos Jouvin",25,7361,3,BROLY
+291,0,"Jarrie, Clos Jouvin",25,7361,4,PLT
+291,0,"Jarrie, Clos Jouvin",25,7361,5,BRMET
+291,0,"Jarrie, Clos Jouvin",25,7361,6,SOUV
+291,0,"Jarrie, Clos Jouvin",25,7361,7,BRSOU
+291,0,"Jarrie, Clos Jouvin",25,7361,8,JALOU
+291,0,"Jarrie, Clos Jouvin",25,7361,9,JALFL
+291,0,"Jarrie, Clos Jouvin",25,7361,10,JAMAL
+291,0,"Jarrie, Clos Jouvin",25,7361,11,CLOJ
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,1,CLOJ
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,2,JAMAL
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,3,JALFL
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,4,JALOU
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,5,ENC
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,6,BRSOU
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,7,SOUV
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,8,BRMET
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,9,PLT
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,10,BROLY
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,11,BRI
+291,1,"Brié-et-Angonnes, Brié-et-Angonnes Église",21,7928,12,BREG
+292,0,"Jarrie, Clos Jouvin",50,4577,1,LAMEL
+292,0,"Jarrie, Clos Jouvin",50,4577,2,CDGVE
+292,0,"Jarrie, Clos Jouvin",50,4577,3,CDSTA
+292,0,"Jarrie, Clos Jouvin",50,4577,4,CDGON
+292,0,"Jarrie, Clos Jouvin",50,4577,5,CDCOL
+292,0,"Jarrie, Clos Jouvin",50,4577,6,CDLEO
+292,0,"Jarrie, Clos Jouvin",50,4577,7,CDNAV
+292,0,"Jarrie, Clos Jouvin",50,4577,8,GARJA
+292,0,"Jarrie, Clos Jouvin",50,4577,9,CLOJ
+292,1,"Champ-sur-Drac, La Melle",91,3626,1,CLOJ
+292,1,"Champ-sur-Drac, La Melle",91,3626,2,GARJA
+292,1,"Champ-sur-Drac, La Melle",91,3626,3,CDGON
+292,1,"Champ-sur-Drac, La Melle",91,3626,4,CDSTA
+292,1,"Champ-sur-Drac, La Melle",91,3626,5,LAMEL
+293,0,"Jarrie, Clos Jouvin",33,3545,1,CDMON
+293,0,"Jarrie, Clos Jouvin",33,3545,2,CDSER
+293,0,"Jarrie, Clos Jouvin",33,3545,3,CDPAV1
+293,0,"Jarrie, Clos Jouvin",33,3545,4,CDCOL
+293,0,"Jarrie, Clos Jouvin",33,3545,5,CDLEO
+293,0,"Jarrie, Clos Jouvin",33,3545,6,CDNAV
+293,0,"Jarrie, Clos Jouvin",33,3545,7,CLOJ
+293,1,"Champ-sur-Drac, Le Sert",100,3526,1,CLOJ
+293,1,"Champ-sur-Drac, Le Sert",100,3526,2,CDLEO
+293,1,"Champ-sur-Drac, Le Sert",100,3526,3,CDCOL
+293,1,"Champ-sur-Drac, Le Sert",100,3526,4,CDPAV1
+293,1,"Champ-sur-Drac, Le Sert",100,3526,5,CDMON
+293,1,"Champ-sur-Drac, Le Sert",100,3526,6,CDSER
+294,0,"Jarrie, Clos Jouvin",50,5299,1,ENC
+294,0,"Jarrie, Clos Jouvin",50,5299,2,TAV
+294,0,"Jarrie, Clos Jouvin",50,5299,3,JACOU
+294,0,"Jarrie, Clos Jouvin",50,5299,4,JAFIA
+294,0,"Jarrie, Clos Jouvin",50,5299,5,SIM
+294,0,"Jarrie, Clos Jouvin",50,5299,6,JABRA
+294,0,"Jarrie, Clos Jouvin",50,5299,7,JADEL
+294,0,"Jarrie, Clos Jouvin",50,5299,8,CLOJ
+294,1,"Champagnier, Place du Laca",82,3879,1,CLOJ
+294,1,"Champagnier, Place du Laca",82,3879,2,THE
+294,1,"Champagnier, Place du Laca",82,3879,3,LACA
+316,0,"Saint-Ismier, Château Randon",100,11050,1,GARO
+316,0,"Saint-Ismier, Château Randon",100,11050,2,GAR
+316,0,"Saint-Ismier, Château Randon",100,11050,3,DMA
+316,0,"Saint-Ismier, Château Randon",100,11050,4,VERD
+316,0,"Saint-Ismier, Château Randon",100,11050,5,CHRA
+316,1,"Grenoble, Gare Routière",100,11050,1,CHRA
+316,1,"Grenoble, Gare Routière",100,11050,2,VERD
+316,1,"Grenoble, Gare Routière",100,11050,3,DMA
+316,1,"Grenoble, Gare Routière",100,11050,4,GAR
+316,1,"Grenoble, Gare Routière",100,11050,5,GARO
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,1,MURPR
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,2,LBG
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,3,MUBRI
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,4,MURIV
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,5,MRT
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,6,DOMOR
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,7,DOM
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,8,DOLPR
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,9,VERN
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,10,CHE
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,11,LVP
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,12,BLP
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,13,PP
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,14,CDR
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,15,LA
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,16,LAPO
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,17,VBM
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,18,LMV
+319,0,"Villard-Bonnot, Lycée Marie Reynoard – Parking",100,11577,19,VLMR
+319,1,"Gières, La Perrière",100,11570,1,VLMR
+319,1,"Gières, La Perrière",100,11570,2,LMV
+319,1,"Gières, La Perrière",100,11570,3,CDR
+319,1,"Gières, La Perrière",100,11570,4,BLP
+319,1,"Gières, La Perrière",100,11570,5,LVP
+319,1,"Gières, La Perrière",100,11570,6,CHE
+319,1,"Gières, La Perrière",100,11570,7,VERN
+319,1,"Gières, La Perrière",100,11570,8,DOLPR
+319,1,"Gières, La Perrière",100,11570,9,DOM
+319,1,"Gières, La Perrière",100,11570,10,DOMOR
+319,1,"Gières, La Perrière",100,11570,11,MRT
+319,1,"Gières, La Perrière",100,11570,12,MURIV
+319,1,"Gières, La Perrière",100,11570,13,MUBRI
+319,1,"Gières, La Perrière",100,11570,14,LBG
+319,1,"Gières, La Perrière",100,11570,15,MURPR
+402,0,"Vaulnaveys-le-Bas, École du Bourg",50,6527,1,VBECO
+402,0,"Vaulnaveys-le-Bas, École du Bourg",50,6527,2,VBMON
+402,0,"Vaulnaveys-le-Bas, École du Bourg",50,6527,3,VBGAI
+402,0,"Vaulnaveys-le-Bas, École du Bourg",50,6527,4,VBROB
+402,0,"Vaulnaveys-le-Bas, École du Bourg",50,6527,5,VBALH
+402,0,"Vaulnaveys-le-Bas, École du Bourg",50,6527,6,VBALL
+402,0,"Vaulnaveys-le-Bas, École du Bourg",50,6527,7,VBGOR
+402,0,"Vaulnaveys-le-Bas, École du Bourg",50,6527,8,VBECO
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,1,ECJB
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,2,BLC
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,3,VHLBC
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,4,LDA
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,5,LBL
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,6,LRV
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,7,VHGEO
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,8,TUI
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,9,ALBE
+403,0,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,5518,10,ECJB
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,1,ECJB
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,2,TUI
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,3,ALBE
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,4,VHGEO
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,5,BLC
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,6,VHLBC
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,7,LDA
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,8,LBL
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,9,LRV
+403,1,"Vaulnaveys-le-Haut, Ecole Jules Bruant",100,6715,10,ECJB
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,1,SMUAEV
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,2,SMUVIL
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,3,SMURAP
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,4,RSM
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,5,LEVA
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,6,SMUCOM
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,7,LFE
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,8,LBD
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,9,LMO
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,10,SMUPMA
+404,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,5181,11,SMU
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,1,SMUPMA
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,2,SMU
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,3,LMO
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,4,LBD
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,5,LFE
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,6,SMUCOM
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,7,LEVA
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,8,UGA
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,9,SMURAP
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,10,SMUAEV
+404,1,"Saint-Martin-d'Uriage, Villeneuve d'Uriage",100,5498,11,SMUVIL
+405,0,"Saint-Martin-d'Uriage, GS Les Petites Maisons",100,2735,1,SMUGRI
+405,0,"Saint-Martin-d'Uriage, GS Les Petites Maisons",100,2735,2,SMUMRO
+405,0,"Saint-Martin-d'Uriage, GS Les Petites Maisons",100,2735,3,SMUPER
+405,0,"Saint-Martin-d'Uriage, GS Les Petites Maisons",100,2735,4,SMUBON
+405,0,"Saint-Martin-d'Uriage, GS Les Petites Maisons",100,2735,5,SMUANG
+405,0,"Saint-Martin-d'Uriage, GS Les Petites Maisons",100,2735,6,SMUBEL
+405,0,"Saint-Martin-d'Uriage, GS Les Petites Maisons",100,2735,7,SMUCHA
+405,0,"Saint-Martin-d'Uriage, GS Les Petites Maisons",100,2735,8,SMU
+405,0,"Saint-Martin-d'Uriage, GS Les Petites Maisons",100,2735,9,SMUPMA
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,1,SMUPMA
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,2,SMU
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,3,SMUCHA
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,4,SMUANG
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,5,SMUBON
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,6,SMUPER
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,7,SMUMRO
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,8,SMUGRI
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,9,SMUANG
+405,1,"Saint-Martin-d'Uriage, Route de Belin",100,3563,10,SMUBEL
+406,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,4981,1,MAUPA
+406,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,4981,2,SMUPEI
+406,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,4981,3,SMUCR6
+406,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,4981,4,UGA
+406,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,4981,5,TUI
+406,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,4981,6,RSM
+406,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,4981,7,SMUPMA
+406,0,"Saint-Martin-d'Uriage, Saint-Martin-d'Uriage Mairie",100,4981,8,SMU
+406,1,"Saint-Martin-d'Uriage, Les Peiffendes",100,6055,1,SMUPMA
+406,1,"Saint-Martin-d'Uriage, Les Peiffendes",100,6055,2,SMU
+406,1,"Saint-Martin-d'Uriage, Les Peiffendes",100,6055,3,RSM
+406,1,"Saint-Martin-d'Uriage, Les Peiffendes",100,6055,4,TUI
+406,1,"Saint-Martin-d'Uriage, Les Peiffendes",100,6055,5,UGA
+406,1,"Saint-Martin-d'Uriage, Les Peiffendes",100,6055,6,SMUCR6
+406,1,"Saint-Martin-d'Uriage, Les Peiffendes",100,6055,7,SMUPEI
+406,1,"Saint-Martin-d'Uriage, Les Peiffendes",100,6055,8,MAUPA
+406,1,"Saint-Martin-d'Uriage, Les Peiffendes",100,6055,9,SMUPEI
+411,0,"Claix, Malhivert",100,5002,1,CIMEN
+411,0,"Claix, Malhivert",100,5002,2,CLMOU
+411,0,"Claix, Malhivert",100,5002,3,PERO
+411,0,"Claix, Malhivert",100,5002,4,CLVER
+411,0,"Claix, Malhivert",100,5002,5,CLMAB
+411,0,"Claix, Malhivert",100,5002,6,CLMAH
+411,0,"Claix, Malhivert",100,5002,7,CRL
+411,0,"Claix, Malhivert",100,5002,8,CLFUR
+411,0,"Claix, Malhivert",100,5002,9,CLBED
+411,0,"Claix, Malhivert",100,5002,10,CHAUM
+411,0,"Claix, Malhivert",100,5002,11,COSY
+411,0,"Claix, Malhivert",100,5002,12,COSS
+411,0,"Claix, Malhivert",100,5002,13,CLCHA
+411,0,"Claix, Malhivert",100,5002,14,MLV
+411,1,"Claix, Les Cimentiers",100,6519,1,CLX
+411,1,"Claix, Les Cimentiers",100,6519,2,MLV
+411,1,"Claix, Les Cimentiers",100,6519,3,CLCHA
+411,1,"Claix, Les Cimentiers",100,6519,4,COSS
+411,1,"Claix, Les Cimentiers",100,6519,5,COSY
+411,1,"Claix, Les Cimentiers",100,6519,6,CRL
+411,1,"Claix, Les Cimentiers",100,6519,7,CLFUR
+411,1,"Claix, Les Cimentiers",100,6519,8,CLBED
+411,1,"Claix, Les Cimentiers",100,6519,9,CHAUM
+411,1,"Claix, Les Cimentiers",100,6519,10,CLMAH
+411,1,"Claix, Les Cimentiers",100,6519,11,CLMAB
+411,1,"Claix, Les Cimentiers",100,6519,12,CLVER
+411,1,"Claix, Les Cimentiers",100,6519,13,PERO
+411,1,"Claix, Les Cimentiers",100,6519,14,CLMOU
+411,1,"Claix, Les Cimentiers",100,6519,15,CIMEN
+412,0,"Claix, École Claix Centre",100,5116,1,LRO
+412,0,"Claix, École Claix Centre",100,5116,2,CLTEN
+412,0,"Claix, École Claix Centre",100,5116,3,CLCHE
+412,0,"Claix, École Claix Centre",100,5116,4,CLGCH
+412,0,"Claix, École Claix Centre",100,5116,5,CLTIL
+412,0,"Claix, École Claix Centre",100,5116,6,CLTAB
+412,0,"Claix, École Claix Centre",100,5116,7,CLPIE
+412,0,"Claix, École Claix Centre",100,5116,8,CLFUR
+412,0,"Claix, École Claix Centre",100,5116,9,CLBED
+412,0,"Claix, École Claix Centre",100,5116,10,CHAUM
+412,0,"Claix, École Claix Centre",100,5116,11,CLVER
+412,0,"Claix, École Claix Centre",100,5116,12,CLCP
+412,0,"Claix, École Claix Centre",100,5116,13,CLECO
+412,1,"Claix, Claix Mairie",100,4348,1,CLECO
+412,1,"Claix, Claix Mairie",100,4348,2,CLPIE
+412,1,"Claix, Claix Mairie",100,4348,3,CLFUR
+412,1,"Claix, Claix Mairie",100,4348,4,CLBED
+412,1,"Claix, Claix Mairie",100,4348,5,CHAUM
+412,1,"Claix, Claix Mairie",100,4348,6,CLVER
+412,1,"Claix, Claix Mairie",100,4348,7,CLCP
+412,1,"Claix, Claix Mairie",100,4348,8,CLTAB
+412,1,"Claix, Claix Mairie",100,4348,9,CLTIL
+412,1,"Claix, Claix Mairie",100,4348,10,CLGCH
+412,1,"Claix, Claix Mairie",100,4348,11,CLCHE
+412,1,"Claix, Claix Mairie",100,4348,12,CLBAT
+412,1,"Claix, Claix Mairie",100,4348,13,CLTEN
+412,1,"Claix, Claix Mairie",100,4348,14,CLX
+413,0,"Claix, Boulodrome-Ecole",100,3021,1,CLX
+413,0,"Claix, Boulodrome-Ecole",100,3021,2,VAAL
+413,0,"Claix, Boulodrome-Ecole",100,3021,3,CLLYS
+413,0,"Claix, Boulodrome-Ecole",100,3021,4,CLLAC
+413,0,"Claix, Boulodrome-Ecole",100,3021,5,CLVUE
+413,0,"Claix, Boulodrome-Ecole",100,3021,6,CLTAI
+413,0,"Claix, Boulodrome-Ecole",100,3021,7,PRAM
+413,0,"Claix, Boulodrome-Ecole",100,3021,8,BOUL
+413,1,"Claix, Claix Mairie",100,3021,1,BOUL
+413,1,"Claix, Claix Mairie",100,3021,2,PRAM
+413,1,"Claix, Claix Mairie",100,3021,3,CLTAI
+413,1,"Claix, Claix Mairie",100,3021,4,CLVUE
+413,1,"Claix, Claix Mairie",100,3021,5,CLLAC
+413,1,"Claix, Claix Mairie",100,3021,6,CLLYS
+413,1,"Claix, Claix Mairie",100,3021,7,VAAL
+413,1,"Claix, Claix Mairie",100,3021,8,CLX
+414,0,"Claix, École François Mignot",100,6900,1,POMP
+414,0,"Claix, École François Mignot",100,6900,2,CLZIB
+414,0,"Claix, École François Mignot",100,6900,3,CLOMB
+414,0,"Claix, École François Mignot",100,6900,4,CLHOR
+414,0,"Claix, École François Mignot",100,6900,5,CLX
+414,0,"Claix, École François Mignot",100,6900,6,CLBEL
+414,0,"Claix, École François Mignot",100,6900,7,CLCBB
+414,0,"Claix, École François Mignot",100,6900,8,CLCBH
+414,0,"Claix, École François Mignot",100,6900,9,PERO
+414,0,"Claix, École François Mignot",100,6900,10,CLMOU
+414,0,"Claix, École François Mignot",100,6900,11,CIMEN
+414,0,"Claix, École François Mignot",100,6900,12,COT
+414,0,"Claix, École François Mignot",100,6900,13,CLBAL
+414,0,"Claix, École François Mignot",100,6900,14,CLLAV
+414,0,"Claix, École François Mignot",100,6900,15,CLEPR
+414,1,"Claix, Pompidou",100,6440,1,CLEPR
+414,1,"Claix, Pompidou",100,6440,2,CLZIB
+414,1,"Claix, Pompidou",100,6440,3,CLOMB
+414,1,"Claix, Pompidou",100,6440,4,CLHOR
+414,1,"Claix, Pompidou",100,6440,5,CLBAT
+414,1,"Claix, Pompidou",100,6440,6,CLX
+414,1,"Claix, Pompidou",100,6440,7,CLBEL
+414,1,"Claix, Pompidou",100,6440,8,CLCBB
+414,1,"Claix, Pompidou",100,6440,9,CLCBH
+414,1,"Claix, Pompidou",100,6440,10,PERO
+414,1,"Claix, Pompidou",100,6440,11,CLMOU
+414,1,"Claix, Pompidou",100,6440,12,CIMEN
+414,1,"Claix, Pompidou",100,6440,13,COT
+414,1,"Claix, Pompidou",100,6440,14,CLBAL
+414,1,"Claix, Pompidou",100,6440,15,CLLAV
+414,1,"Claix, Pompidou",100,6440,16,POMP
+431,0,"Sarcenas, Sarcenas Le Village",100,5839,1,SARV
+431,0,"Sarcenas, Sarcenas Le Village",100,5839,2,GUIL
+431,0,"Sarcenas, Sarcenas Le Village",100,5839,3,SRLC
+431,0,"Sarcenas, Sarcenas Le Village",100,5839,4,SAR
+431,0,"Sarcenas, Sarcenas Le Village",100,5839,5,SARV
+431,0,"Sarcenas, Sarcenas Le Village",100,5839,6,LEM
+431,0,"Sarcenas, Sarcenas Le Village",100,5839,7,CHRT
+431,0,"Sarcenas, Sarcenas Le Village",100,5839,8,QUSCO
+431,0,"Sarcenas, Sarcenas Le Village",100,5839,9,SARV
+431,1,"Sarcenas, Sarcenas Le Village",100,5839,1,SARV
+431,1,"Sarcenas, Sarcenas Le Village",100,5839,2,QUSCO
+431,1,"Sarcenas, Sarcenas Le Village",100,5839,3,CHRT
+431,1,"Sarcenas, Sarcenas Le Village",100,5839,4,LEM
+431,1,"Sarcenas, Sarcenas Le Village",100,5839,5,SARV
+431,1,"Sarcenas, Sarcenas Le Village",100,5839,6,SAR
+431,1,"Sarcenas, Sarcenas Le Village",100,5839,7,SRLC
+431,1,"Sarcenas, Sarcenas Le Village",100,5839,8,GUIL
+431,1,"Sarcenas, Sarcenas Le Village",100,5839,9,SARV
+442,0,"Sassenage, LT Roger Deschaux",100,4536,1,SALYC
+442,0,"Sassenage, LT Roger Deschaux",100,4536,2,SABAL
+442,0,"Sassenage, LT Roger Deschaux",100,4536,3,SAHAM
+442,0,"Sassenage, LT Roger Deschaux",100,4536,4,OVA
+442,0,"Sassenage, LT Roger Deschaux",100,4536,5,SASPO
+442,0,"Sassenage, LT Roger Deschaux",100,4536,6,SAFBT
+442,0,"Sassenage, LT Roger Deschaux",100,4536,7,MALA
+442,0,"Sassenage, LT Roger Deschaux",100,4536,8,SAARG
+442,0,"Sassenage, LT Roger Deschaux",100,4536,9,SALYC
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,1,CMQ
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,2,QUFON
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,3,QUMQU
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,4,BMQ
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,5,QUSOU
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,6,QUROU
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,7,CHAR
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,8,QUCEN
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,9,QUCTU
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,10,QUMEA
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,11,QUJAR
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,12,QUMCO
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,13,QUSAP
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,14,QUVLG
+465,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,7547,15,ECOQ
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,1,ECOQ
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,2,QUVLG
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,3,QUSAP
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,4,QUMCO
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,5,QUJAR
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,6,QUMEA
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,7,QUCTU
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,8,QUCEN
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,9,CHAR
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,10,QUROU
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,11,QUSOU
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,12,BMQ
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,13,QUMQU
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,14,CMQ
+465,1,"Quaix-en-Chartreuse, Fontvieille",100,7429,15,QUFON
+466,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,1,QUFRE
+466,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,2,QUARA
+466,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,3,CCL
+466,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,4,CHAR
+466,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,5,QUCEN
+466,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,6,QUCTU
+466,0,"Quaix-en-Chartreuse, Quaix-en-Chartreuse Village",100,3797,7,ECOQ
+466,1,"Quaix-en-Chartreuse, La Frette",100,3797,1,ECOQ
+466,1,"Quaix-en-Chartreuse, La Frette",100,3797,2,QUCTU
+466,1,"Quaix-en-Chartreuse, La Frette",100,3797,3,QUCEN
+466,1,"Quaix-en-Chartreuse, La Frette",100,3797,4,CHAR
+466,1,"Quaix-en-Chartreuse, La Frette",100,3797,5,CCL
+466,1,"Quaix-en-Chartreuse, La Frette",100,3797,6,QUARA
+466,1,"Quaix-en-Chartreuse, La Frette",100,3797,7,QUFRE
+470,0,"Brié-et-Angonnes, Groupe Scolaire Barlatier",100,3617,1,MCB
+470,0,"Brié-et-Angonnes, Groupe Scolaire Barlatier",100,3617,2,CHAMP
+470,0,"Brié-et-Angonnes, Groupe Scolaire Barlatier",100,3617,3,BRGSB
+470,1,"Montchaboud, Montchaboud Le Village",100,3617,1,BRGSB
+470,1,"Montchaboud, Montchaboud Le Village",100,3617,2,CHAMP
+470,1,"Montchaboud, Montchaboud Le Village",100,3617,3,MCB
+1,0,"Grenoble, Cité Jean Macé",100,11721,1,EAU
+1,0,"Grenoble, Cité Jean Macé",100,11721,2,PRM
+1,0,"Grenoble, Cité Jean Macé",100,11721,3,INR
+1,0,"Grenoble, Cité Jean Macé",100,11721,4,BOD
+1,0,"Grenoble, Cité Jean Macé",100,11721,5,BUS
+1,0,"Grenoble, Cité Jean Macé",100,11721,6,MO1
+1,0,"Grenoble, Cité Jean Macé",100,11721,7,BEA
+1,0,"Grenoble, Cité Jean Macé",100,11721,8,MAC
+1,0,"Grenoble, Cité Jean Macé",100,11721,9,MUS
+1,0,"Grenoble, Cité Jean Macé",100,11721,10,MEM
+1,0,"Grenoble, Cité Jean Macé",100,11721,11,BUC1
+1,0,"Grenoble, Cité Jean Macé",100,11721,12,REV
+1,0,"Grenoble, Cité Jean Macé",100,11721,13,AIG
+1,0,"Grenoble, Cité Jean Macé",100,11721,14,PLF
+1,0,"Grenoble, Cité Jean Macé",100,11721,15,CARO
+1,0,"Grenoble, Cité Jean Macé",100,11721,16,SAB
+1,0,"Grenoble, Cité Jean Macé",100,11721,17,GHV
+1,0,"Grenoble, Cité Jean Macé",100,11721,18,CHV
+1,0,"Grenoble, Cité Jean Macé",100,11721,19,DMA
+1,0,"Grenoble, Cité Jean Macé",100,11721,20,VH
+1,0,"Grenoble, Cité Jean Macé",100,11721,21,MAZ
+1,0,"Grenoble, Cité Jean Macé",100,11721,22,FVI
+1,0,"Grenoble, Cité Jean Macé",100,11721,23,GAR
+1,0,"Grenoble, Cité Jean Macé",100,11721,24,ARA
+1,0,"Grenoble, Cité Jean Macé",100,11721,25,JM
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,1,JM
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,2,ARA
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,3,GAR
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,4,FVI
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,5,MAZ
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,6,VH
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,7,DMA
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,8,CHV
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,9,GHV
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,10,SAB
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,11,CARO
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,12,PLF
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,13,AIG
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,14,REV
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,15,BUC1
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,16,MEM
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,17,MUS
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,18,MAC
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,19,BEA
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,20,MO1
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,21,BUS
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,22,BOD
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,23,INR
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,24,PRM
+1,1,"Montbonnot-Saint-Martin, Pré de l'Eau",100,11721,25,EAU
+2,0,"Grenoble, Louise Michel",100,5940,1,CPR
+2,0,"Grenoble, Louise Michel",100,5940,2,PCM
+2,0,"Grenoble, Louise Michel",100,5940,3,PCB
+2,0,"Grenoble, Louise Michel",100,5940,4,PCIJC
+2,0,"Grenoble, Louise Michel",100,5940,5,PCAMP
+2,0,"Grenoble, Louise Michel",100,5940,6,ILE
+2,0,"Grenoble, Louise Michel",100,5940,7,PCCLO
+2,0,"Grenoble, Louise Michel",100,5940,8,ETOILE
+2,0,"Grenoble, Louise Michel",100,5940,9,ECECU
+2,0,"Grenoble, Louise Michel",100,5940,10,BAY
+2,0,"Grenoble, Louise Michel",100,5940,11,QUIN
+2,0,"Grenoble, Louise Michel",100,5940,12,ECNAV
+2,0,"Grenoble, Louise Michel",100,5940,13,RON
+2,0,"Grenoble, Louise Michel",100,5940,14,LESD
+2,0,"Grenoble, Louise Michel",100,5940,15,LMG
+2,1,"Claix, Pont Rouge",100,5940,1,LMG
+2,1,"Claix, Pont Rouge",100,5940,2,LESD
+2,1,"Claix, Pont Rouge",100,5940,3,RON
+2,1,"Claix, Pont Rouge",100,5940,4,ECNAV
+2,1,"Claix, Pont Rouge",100,5940,5,QUIN
+2,1,"Claix, Pont Rouge",100,5940,6,BAY
+2,1,"Claix, Pont Rouge",100,5940,7,ECECU
+2,1,"Claix, Pont Rouge",100,5940,8,ETOILE
+2,1,"Claix, Pont Rouge",100,5940,9,PCCLO
+2,1,"Claix, Pont Rouge",100,5940,10,ILE
+2,1,"Claix, Pont Rouge",100,5940,11,PCAMP
+2,1,"Claix, Pont Rouge",100,5940,12,PCIJC
+2,1,"Claix, Pont Rouge",100,5940,13,PCB
+2,1,"Claix, Pont Rouge",100,5940,14,PCM
+2,1,"Claix, Pont Rouge",100,5940,15,CPR
+3,0,"Échirolles, Centre du graphisme",94,7038,1,VH
+3,0,"Échirolles, Centre du graphisme",94,7038,2,CHP
+3,0,"Échirolles, Centre du graphisme",94,7038,3,GRMAR
+3,0,"Échirolles, Centre du graphisme",94,7038,4,FOF
+3,0,"Échirolles, Centre du graphisme",94,7038,5,GRCAP
+3,0,"Échirolles, Centre du graphisme",94,7038,6,SUE
+3,0,"Échirolles, Centre du graphisme",94,7038,7,GRCLO
+3,0,"Échirolles, Centre du graphisme",94,7038,8,GRVIN
+3,0,"Échirolles, Centre du graphisme",94,7038,9,GROLY
+3,0,"Échirolles, Centre du graphisme",94,7038,10,CTU
+3,0,"Échirolles, Centre du graphisme",94,7038,11,GRESM
+3,0,"Échirolles, Centre du graphisme",94,7038,12,GP
+3,0,"Échirolles, Centre du graphisme",94,7038,13,APX
+3,0,"Échirolles, Centre du graphisme",94,7038,14,ALX
+3,0,"Échirolles, Centre du graphisme",94,7038,15,FQUE
+3,0,"Échirolles, Centre du graphisme",94,7038,16,HSU
+3,0,"Échirolles, Centre du graphisme",94,7038,17,ECEHO
+3,0,"Échirolles, Centre du graphisme",94,7038,18,CHA
+3,0,"Échirolles, Centre du graphisme",94,7038,19,ECGUY
+3,0,"Échirolles, Centre du graphisme",94,7038,20,PLA
+3,0,"Échirolles, Centre du graphisme",94,7038,21,VILLAG
+3,0,"Échirolles, Centre du graphisme",94,7038,22,GRAPH
+3,1,"Grenoble, Victor Hugo",95,7309,1,GRAPH
+3,1,"Grenoble, Victor Hugo",95,7309,2,VILLAG
+3,1,"Grenoble, Victor Hugo",95,7309,3,PLA
+3,1,"Grenoble, Victor Hugo",95,7309,4,ECGUY
+3,1,"Grenoble, Victor Hugo",95,7309,5,CHA
+3,1,"Grenoble, Victor Hugo",95,7309,6,ECEHO
+3,1,"Grenoble, Victor Hugo",95,7309,7,HSU
+3,1,"Grenoble, Victor Hugo",95,7309,8,FQUE
+3,1,"Grenoble, Victor Hugo",95,7309,9,ALX
+3,1,"Grenoble, Victor Hugo",95,7309,10,APX
+3,1,"Grenoble, Victor Hugo",95,7309,11,GP
+3,1,"Grenoble, Victor Hugo",95,7309,12,GRESM
+3,1,"Grenoble, Victor Hugo",95,7309,13,GRMAN
+3,1,"Grenoble, Victor Hugo",95,7309,14,GRAND
+3,1,"Grenoble, Victor Hugo",95,7309,15,GRVIN
+3,1,"Grenoble, Victor Hugo",95,7309,16,GRCLO
+3,1,"Grenoble, Victor Hugo",95,7309,17,SUE
+3,1,"Grenoble, Victor Hugo",95,7309,18,GRCAP
+3,1,"Grenoble, Victor Hugo",95,7309,19,FOF
+3,1,"Grenoble, Victor Hugo",95,7309,20,GRMAR
+3,1,"Grenoble, Victor Hugo",95,7309,21,CHP
+3,1,"Grenoble, Victor Hugo",95,7309,22,VH
+4,0,"Grenoble, Victor Hugo",96,5467,1,VRD
+4,0,"Grenoble, Victor Hugo",96,5467,2,EBN
+4,0,"Grenoble, Victor Hugo",96,5467,3,SJV
+4,0,"Grenoble, Victor Hugo",96,5467,4,ODY
+4,0,"Grenoble, Victor Hugo",96,5467,5,EYVAL
+4,0,"Grenoble, Victor Hugo",96,5467,6,GDG
+4,0,"Grenoble, Victor Hugo",96,5467,7,MNV
+4,0,"Grenoble, Victor Hugo",96,5467,8,GRRAC
+4,0,"Grenoble, Victor Hugo",96,5467,9,TES
+4,0,"Grenoble, Victor Hugo",96,5467,10,GRPCL
+4,0,"Grenoble, Victor Hugo",96,5467,11,GRPSR
+4,0,"Grenoble, Victor Hugo",96,5467,12,GRBAJ
+4,0,"Grenoble, Victor Hugo",96,5467,13,GRMLF
+4,0,"Grenoble, Victor Hugo",96,5467,14,DRIAN
+4,0,"Grenoble, Victor Hugo",96,5467,15,CHV
+4,0,"Grenoble, Victor Hugo",96,5467,16,DMA
+4,0,"Grenoble, Victor Hugo",96,5467,17,VH
+4,1,"Eybens, Le Verderet",94,5467,1,VH
+4,1,"Eybens, Le Verderet",94,5467,2,DMA
+4,1,"Eybens, Le Verderet",94,5467,3,CHV
+4,1,"Eybens, Le Verderet",94,5467,4,DRIAN
+4,1,"Eybens, Le Verderet",94,5467,5,GRMLF
+4,1,"Eybens, Le Verderet",94,5467,6,GRBAJ
+4,1,"Eybens, Le Verderet",94,5467,7,GRPSR
+4,1,"Eybens, Le Verderet",94,5467,8,GRPCL
+4,1,"Eybens, Le Verderet",94,5467,9,TES
+4,1,"Eybens, Le Verderet",94,5467,10,GRRAC
+4,1,"Eybens, Le Verderet",94,5467,11,MNV
+4,1,"Eybens, Le Verderet",94,5467,12,GDG
+4,1,"Eybens, Le Verderet",94,5467,13,EYVAL
+4,1,"Eybens, Le Verderet",94,5467,14,ODY
+4,1,"Eybens, Le Verderet",94,5467,15,SJV
+4,1,"Eybens, Le Verderet",94,5467,16,EBN
+4,1,"Eybens, Le Verderet",94,5467,17,VRD
+5,0,"Gières, Université – Biologie",100,10152,1,PJU
+5,0,"Gières, Université – Biologie",100,10152,2,GRESC
+5,0,"Gières, Université – Biologie",100,10152,3,BER
+5,0,"Gières, Université – Biologie",100,10152,4,GRCEM
+5,0,"Gières, Université – Biologie",100,10152,5,VAL
+5,0,"Gières, Université – Biologie",100,10152,6,GRROS
+5,0,"Gières, Université – Biologie",100,10152,7,DSW
+5,0,"Gières, Université – Biologie",100,10152,8,GRLYS
+5,0,"Gières, Université – Biologie",100,10152,9,AAF
+5,0,"Gières, Université – Biologie",100,10152,10,MIA
+5,0,"Gières, Université – Biologie",100,10152,11,STAL
+5,0,"Gières, Université – Biologie",100,10152,12,CLO
+5,0,"Gières, Université – Biologie",100,10152,13,MAH
+5,0,"Gières, Université – Biologie",100,10152,14,LJO
+5,0,"Gières, Université – Biologie",100,10152,15,TES
+5,0,"Gières, Université – Biologie",100,10152,16,COCA
+5,0,"Gières, Université – Biologie",100,10152,17,ARG
+5,0,"Gières, Université – Biologie",100,10152,18,GRSAU
+5,0,"Gières, Université – Biologie",100,10152,19,BPA
+5,0,"Gières, Université – Biologie",100,10152,20,EVA
+5,0,"Gières, Université – Biologie",100,10152,21,MHPSD
+5,0,"Gières, Université – Biologie",100,10152,22,NEB
+5,0,"Gières, Université – Biologie",100,10152,23,BEL
+5,0,"Gières, Université – Biologie",100,10152,24,ROM
+5,0,"Gières, Université – Biologie",100,10152,25,ALPI
+5,0,"Gières, Université – Biologie",100,10152,26,BIB
+5,0,"Gières, Université – Biologie",100,10152,27,BIO
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,1,BIO
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,2,BIB
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,3,ALPI
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,4,ROM
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,5,BEL
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,6,NEB
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,7,MHPSD
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,8,EVA
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,9,BPA
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,10,GRSAU
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,11,ARG
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,12,COCA
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,13,TES
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,14,LJO
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,15,MAH
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,16,CLO
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,17,STAL
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,18,MIA
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,19,AAF
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,20,GRHDT
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,21,DSW
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,22,GRROS
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,23,VAL
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,24,BER
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,25,GRESC
+5,1,"Grenoble, Palais de Justice – Gare",80,10248,26,PJU
+6,0,"Eybens, Maisons Neuves",91,11928,1,OXF
+6,0,"Eybens, Maisons Neuves",91,11928,2,MART
+6,0,"Eybens, Maisons Neuves",91,11928,3,CHAD
+6,0,"Eybens, Maisons Neuves",91,11928,4,FOSUR
+6,0,"Eybens, Maisons Neuves",91,11928,5,FOSEY
+6,0,"Eybens, Maisons Neuves",91,11928,6,CRM
+6,0,"Eybens, Maisons Neuves",91,11928,7,PAS
+6,0,"Eybens, Maisons Neuves",91,11928,8,FOCUR
+6,0,"Eybens, Maisons Neuves",91,11928,9,LM
+6,0,"Eybens, Maisons Neuves",91,11928,10,ABE1
+6,0,"Eybens, Maisons Neuves",91,11928,11,SPILE
+6,0,"Eybens, Maisons Neuves",91,11928,12,SEH
+6,0,"Eybens, Maisons Neuves",91,11928,13,SPARC
+6,0,"Eybens, Maisons Neuves",91,11928,14,SPBSI
+6,0,"Eybens, Maisons Neuves",91,11928,15,SPLPL
+6,0,"Eybens, Maisons Neuves",91,11928,16,CSU
+6,0,"Eybens, Maisons Neuves",91,11928,17,SETUI
+6,0,"Eybens, Maisons Neuves",91,11928,18,PRI
+6,0,"Eybens, Maisons Neuves",91,11928,19,SRO
+6,0,"Eybens, Maisons Neuves",91,11928,20,SEYRON
+6,0,"Eybens, Maisons Neuves",91,11928,21,RON
+6,0,"Eybens, Maisons Neuves",91,11928,22,LESD
+6,0,"Eybens, Maisons Neuves",91,11928,23,VER
+6,0,"Eybens, Maisons Neuves",91,11928,24,GRMAN
+6,0,"Eybens, Maisons Neuves",91,11928,25,GRESM
+6,0,"Eybens, Maisons Neuves",91,11928,26,GP
+6,0,"Eybens, Maisons Neuves",91,11928,27,CHAN
+6,0,"Eybens, Maisons Neuves",91,11928,28,GRGEA
+6,0,"Eybens, Maisons Neuves",91,11928,29,SAUL
+6,0,"Eybens, Maisons Neuves",91,11928,30,MNV
+6,1,"Grenoble, Oxford",93,11928,1,MNV
+6,1,"Grenoble, Oxford",93,11928,2,SAUL
+6,1,"Grenoble, Oxford",93,11928,3,GRGEA
+6,1,"Grenoble, Oxford",93,11928,4,CHAN
+6,1,"Grenoble, Oxford",93,11928,5,GP
+6,1,"Grenoble, Oxford",93,11928,6,GRESM
+6,1,"Grenoble, Oxford",93,11928,7,GRMAN
+6,1,"Grenoble, Oxford",93,11928,8,VER
+6,1,"Grenoble, Oxford",93,11928,9,LESD
+6,1,"Grenoble, Oxford",93,11928,10,RON
+6,1,"Grenoble, Oxford",93,11928,11,SEYRON
+6,1,"Grenoble, Oxford",93,11928,12,SRO
+6,1,"Grenoble, Oxford",93,11928,13,PRI
+6,1,"Grenoble, Oxford",93,11928,14,SETUI
+6,1,"Grenoble, Oxford",93,11928,15,CSU
+6,1,"Grenoble, Oxford",93,11928,16,SPLPL
+6,1,"Grenoble, Oxford",93,11928,17,SPBSI
+6,1,"Grenoble, Oxford",93,11928,18,SPARC
+6,1,"Grenoble, Oxford",93,11928,19,SEH
+6,1,"Grenoble, Oxford",93,11928,20,SPILE
+6,1,"Grenoble, Oxford",93,11928,21,ABE1
+6,1,"Grenoble, Oxford",93,11928,22,LM
+6,1,"Grenoble, Oxford",93,11928,23,FOCUR
+6,1,"Grenoble, Oxford",93,11928,24,PAS
+6,1,"Grenoble, Oxford",93,11928,25,CRM
+6,1,"Grenoble, Oxford",93,11928,26,FOSEY
+6,1,"Grenoble, Oxford",93,11928,27,FOSUR
+6,1,"Grenoble, Oxford",93,11928,28,CHAD
+6,1,"Grenoble, Oxford",93,11928,29,MART
+6,1,"Grenoble, Oxford",93,11928,30,OXF
+7,0,"Seyssins, Comboire",100,9376,1,WALLON
+7,0,"Seyssins, Comboire",100,9376,2,NED
+7,0,"Seyssins, Comboire",100,9376,3,EGP
+7,0,"Seyssins, Comboire",100,9376,4,POT
+7,0,"Seyssins, Comboire",100,9376,5,CDP
+7,0,"Seyssins, Comboire",100,9376,6,SMV
+7,0,"Seyssins, Comboire",100,9376,7,CAR
+7,0,"Seyssins, Comboire",100,9376,8,CSC
+7,0,"Seyssins, Comboire",100,9376,9,EYFIL
+7,0,"Seyssins, Comboire",100,9376,10,ODY
+7,0,"Seyssins, Comboire",100,9376,11,RUIR
+7,0,"Seyssins, Comboire",100,9376,12,FQUE
+7,0,"Seyssins, Comboire",100,9376,13,HSU
+7,0,"Seyssins, Comboire",100,9376,14,ECEHO
+7,0,"Seyssins, Comboire",100,9376,15,CHA
+7,0,"Seyssins, Comboire",100,9376,16,ECAPI
+7,0,"Seyssins, Comboire",100,9376,17,RAM
+7,0,"Seyssins, Comboire",100,9376,18,FPL
+7,0,"Seyssins, Comboire",100,9376,19,GRU
+7,0,"Seyssins, Comboire",100,9376,20,QUIN
+7,0,"Seyssins, Comboire",100,9376,21,BAY
+7,0,"Seyssins, Comboire",100,9376,22,CLM
+7,0,"Seyssins, Comboire",100,9376,23,GEO
+7,0,"Seyssins, Comboire",100,9376,24,DRAC
+7,0,"Seyssins, Comboire",100,9376,25,COM
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,1,COM
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,2,DRAC
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,3,GEO
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,4,CLM
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,5,BAY
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,6,QUIN
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,7,GRU
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,8,FPL
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,9,RAM
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,10,ECAPI
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,11,CHA
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,12,ECEHO
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,13,HSU
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,14,FQUE
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,15,RUIR
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,16,ODY
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,17,EYFIL
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,18,CSC
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,19,CAR
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,20,SMV
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,21,CDP
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,22,POT
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,23,EGP
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,24,NED
+7,1,"Saint-Martin-d'Hères, Henri Wallon",100,9376,25,WALLON
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,1,IUT
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,2,GIEPI
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,3,BIO
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,4,BIB
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,5,ALPI
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,6,ROM
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,7,COLI
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,8,ROH
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,9,WALLON
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,10,NED
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,11,EGP
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,12,MHZEH
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,13,MHCHO
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,14,MARAIS
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,15,CHAT
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,16,GDG
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,17,SAUL1
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,18,CHAN
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,19,GP
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,20,GRESM
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,21,GRMAN
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,22,VER
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,23,LESD
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,24,BAC
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,25,CPM
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,26,GRANA
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,27,DSW
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,28,GRSAL
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,29,CEL
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,30,VACA
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,31,GRABB
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,32,GRCSB
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,33,EST
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,34,COD
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,35,CHP
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,36,DMA
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,37,VH
+8,0,"Grenoble, Victor Hugo – Belgrade",46,12737,38,VHG
+8,1,"Gières, Université – IUT-STAPS",47,12700,1,VHG
+8,1,"Gières, Université – IUT-STAPS",47,12700,2,VH
+8,1,"Gières, Université – IUT-STAPS",47,12700,3,DMA
+8,1,"Gières, Université – IUT-STAPS",47,12700,4,CHP
+8,1,"Gières, Université – IUT-STAPS",47,12700,5,COD
+8,1,"Gières, Université – IUT-STAPS",47,12700,6,CDC
+8,1,"Gières, Université – IUT-STAPS",47,12700,7,VLI
+8,1,"Gières, Université – IUT-STAPS",47,12700,8,VACA
+8,1,"Gières, Université – IUT-STAPS",47,12700,9,CEL
+8,1,"Gières, Université – IUT-STAPS",47,12700,10,GRSAL
+8,1,"Gières, Université – IUT-STAPS",47,12700,11,GRHDT
+8,1,"Gières, Université – IUT-STAPS",47,12700,12,DSW
+8,1,"Gières, Université – IUT-STAPS",47,12700,13,GRANA
+8,1,"Gières, Université – IUT-STAPS",47,12700,14,CPM
+8,1,"Gières, Université – IUT-STAPS",47,12700,15,BAC
+8,1,"Gières, Université – IUT-STAPS",47,12700,16,LESD
+8,1,"Gières, Université – IUT-STAPS",47,12700,17,VER
+8,1,"Gières, Université – IUT-STAPS",47,12700,18,GRMAN
+8,1,"Gières, Université – IUT-STAPS",47,12700,19,GRESM
+8,1,"Gières, Université – IUT-STAPS",47,12700,20,GP
+8,1,"Gières, Université – IUT-STAPS",47,12700,21,CHAN
+8,1,"Gières, Université – IUT-STAPS",47,12700,22,GDG
+8,1,"Gières, Université – IUT-STAPS",47,12700,23,CHAT
+8,1,"Gières, Université – IUT-STAPS",47,12700,24,MARAIS
+8,1,"Gières, Université – IUT-STAPS",47,12700,25,MHCHO
+8,1,"Gières, Université – IUT-STAPS",47,12700,26,MHZEH
+8,1,"Gières, Université – IUT-STAPS",47,12700,27,EGP
+8,1,"Gières, Université – IUT-STAPS",47,12700,28,NED
+8,1,"Gières, Université – IUT-STAPS",47,12700,29,WALLON
+8,1,"Gières, Université – IUT-STAPS",47,12700,30,ROH
+8,1,"Gières, Université – IUT-STAPS",47,12700,31,COLI
+8,1,"Gières, Université – IUT-STAPS",47,12700,32,ROM
+8,1,"Gières, Université – IUT-STAPS",47,12700,33,ALPI
+8,1,"Gières, Université – IUT-STAPS",47,12700,34,BIB
+8,1,"Gières, Université – IUT-STAPS",47,12700,35,BIO
+8,1,"Gières, Université – IUT-STAPS",47,12700,36,GIEPI
+8,1,"Gières, Université – IUT-STAPS",47,12700,37,IUT
+10,0,"Bernin, Cloyères",100,24386,1,MCU
+10,0,"Bernin, Cloyères",100,24386,2,RAM
+10,0,"Bernin, Cloyères",100,24386,3,ECAPI
+10,0,"Bernin, Cloyères",100,24386,4,CHA
+10,0,"Bernin, Cloyères",100,24386,5,ECEHO
+10,0,"Bernin, Cloyères",100,24386,6,HSU
+10,0,"Bernin, Cloyères",100,24386,7,FQUE
+10,0,"Bernin, Cloyères",100,24386,8,PORGRE
+10,0,"Bernin, Cloyères",100,24386,9,ROM
+10,0,"Bernin, Cloyères",100,24386,10,ALPI
+10,0,"Bernin, Cloyères",100,24386,11,BIB
+10,0,"Bernin, Cloyères",100,24386,12,BIO
+10,0,"Bernin, Cloyères",100,24386,13,VGN
+10,0,"Bernin, Cloyères",100,24386,14,MUS
+10,0,"Bernin, Cloyères",100,24386,15,LYC
+10,0,"Bernin, Cloyères",100,24386,16,SSM
+10,0,"Bernin, Cloyères",100,24386,17,SJA
+10,0,"Bernin, Cloyères",100,24386,18,DET
+10,0,"Bernin, Cloyères",100,24386,19,AGD
+10,0,"Bernin, Cloyères",100,24386,20,MG
+10,0,"Bernin, Cloyères",100,24386,21,13300
+10,0,"Bernin, Cloyères",100,24386,22,EVE
+10,0,"Bernin, Cloyères",100,24386,23,COG
+10,0,"Bernin, Cloyères",100,24386,24,CHRA
+10,0,"Bernin, Cloyères",100,24386,25,SIG
+10,0,"Bernin, Cloyères",100,24386,26,LEMA
+10,0,"Bernin, Cloyères",100,24386,27,MEMO
+10,0,"Bernin, Cloyères",100,24386,28,EYM
+10,0,"Bernin, Cloyères",100,24386,29,RAT
+10,0,"Bernin, Cloyères",100,24386,30,VAX
+10,0,"Bernin, Cloyères",100,24386,31,CVAX
+10,0,"Bernin, Cloyères",100,24386,32,BERV
+10,0,"Bernin, Cloyères",100,24386,33,PBER
+10,0,"Bernin, Cloyères",100,24386,34,LPO
+10,0,"Bernin, Cloyères",100,24386,35,TESS
+10,0,"Bernin, Cloyères",100,24386,36,RPR
+10,0,"Bernin, Cloyères",100,24386,37,STM
+10,0,"Bernin, Cloyères",100,24386,38,CLY
+10,1,"Échirolles, Marie Curie",100,24369,1,CLY
+10,1,"Échirolles, Marie Curie",100,24369,2,STM
+10,1,"Échirolles, Marie Curie",100,24369,3,TESS
+10,1,"Échirolles, Marie Curie",100,24369,4,LPO
+10,1,"Échirolles, Marie Curie",100,24369,5,PBER
+10,1,"Échirolles, Marie Curie",100,24369,6,BERV
+10,1,"Échirolles, Marie Curie",100,24369,7,CVAX
+10,1,"Échirolles, Marie Curie",100,24369,8,VAX
+10,1,"Échirolles, Marie Curie",100,24369,9,RAT
+10,1,"Échirolles, Marie Curie",100,24369,10,EYM
+10,1,"Échirolles, Marie Curie",100,24369,11,MEMO
+10,1,"Échirolles, Marie Curie",100,24369,12,LEMA
+10,1,"Échirolles, Marie Curie",100,24369,13,SIG
+10,1,"Échirolles, Marie Curie",100,24369,14,CHRA
+10,1,"Échirolles, Marie Curie",100,24369,15,COG
+10,1,"Échirolles, Marie Curie",100,24369,16,EVE
+10,1,"Échirolles, Marie Curie",100,24369,17,13300
+10,1,"Échirolles, Marie Curie",100,24369,18,MG
+10,1,"Échirolles, Marie Curie",100,24369,19,AGD
+10,1,"Échirolles, Marie Curie",100,24369,20,DET
+10,1,"Échirolles, Marie Curie",100,24369,21,SJA
+10,1,"Échirolles, Marie Curie",100,24369,22,SSM
+10,1,"Échirolles, Marie Curie",100,24369,23,LYC
+10,1,"Échirolles, Marie Curie",100,24369,24,MUS
+10,1,"Échirolles, Marie Curie",100,24369,25,VGN
+10,1,"Échirolles, Marie Curie",100,24369,26,BIO
+10,1,"Échirolles, Marie Curie",100,24369,27,BIB
+10,1,"Échirolles, Marie Curie",100,24369,28,ALPI
+10,1,"Échirolles, Marie Curie",100,24369,29,ROM
+10,1,"Échirolles, Marie Curie",100,24369,30,PORGRE
+10,1,"Échirolles, Marie Curie",100,24369,31,FQUE
+10,1,"Échirolles, Marie Curie",100,24369,32,HSU
+10,1,"Échirolles, Marie Curie",100,24369,33,ECEHO
+10,1,"Échirolles, Marie Curie",100,24369,34,CHA
+10,1,"Échirolles, Marie Curie",100,24369,35,ECAPI
+10,1,"Échirolles, Marie Curie",100,24369,36,RAM
+10,1,"Échirolles, Marie Curie",100,24369,37,MCU
+14,0,"Grenoble, Gares",45,21242,1,GUA
+14,0,"Grenoble, Gares",45,21242,2,PTG
+14,0,"Grenoble, Gares",45,21242,3,VIFUN
+14,0,"Grenoble, Gares",45,21242,4,RIF
+14,0,"Grenoble, Gares",45,21242,5,VIFGR
+14,0,"Grenoble, Gares",45,21242,6,VIFCH
+14,0,"Grenoble, Gares",45,21242,7,VIFCI
+14,0,"Grenoble, Gares",45,21242,8,LVA
+14,0,"Grenoble, Gares",45,21242,9,VIFMA
+14,0,"Grenoble, Gares",45,21242,10,VIFG
+14,0,"Grenoble, Gares",45,21242,11,VIF
+14,0,"Grenoble, Gares",45,21242,12,VIFUR
+14,0,"Grenoble, Gares",45,21242,13,VIFGA
+14,0,"Grenoble, Gares",45,21242,14,PEL
+14,0,"Grenoble, Gares",45,21242,15,VAR
+14,0,"Grenoble, Gares",45,21242,16,VALOR
+14,0,"Grenoble, Gares",45,21242,17,RDPT
+14,0,"Grenoble, Gares",45,21242,18,SANG
+14,0,"Grenoble, Gares",45,21242,19,VAROC
+14,0,"Grenoble, Gares",45,21242,20,VAL
+14,0,"Grenoble, Gares",45,21242,21,VLI
+14,0,"Grenoble, Gares",45,21242,22,AL
+14,0,"Grenoble, Gares",45,21242,23,GAR
+14,1,"Le Gua, Les Saillants",50,21249,1,GAR
+14,1,"Le Gua, Les Saillants",50,21249,2,AL
+14,1,"Le Gua, Les Saillants",50,21249,3,VLI
+14,1,"Le Gua, Les Saillants",50,21249,4,VAL
+14,1,"Le Gua, Les Saillants",50,21249,5,VAROC
+14,1,"Le Gua, Les Saillants",50,21249,6,SANG
+14,1,"Le Gua, Les Saillants",50,21249,7,RDPT
+14,1,"Le Gua, Les Saillants",50,21249,8,VALOR
+14,1,"Le Gua, Les Saillants",50,21249,9,VAR
+14,1,"Le Gua, Les Saillants",50,21249,10,PEL
+14,1,"Le Gua, Les Saillants",50,21249,11,VIFGA2
+14,1,"Le Gua, Les Saillants",50,21249,12,VIFUR
+14,1,"Le Gua, Les Saillants",50,21249,13,VIF
+14,1,"Le Gua, Les Saillants",50,21249,14,VIFG
+14,1,"Le Gua, Les Saillants",50,21249,15,VIFMA
+14,1,"Le Gua, Les Saillants",50,21249,16,LVA
+14,1,"Le Gua, Les Saillants",50,21249,17,VIFCI
+14,1,"Le Gua, Les Saillants",50,21249,18,VIFCH
+14,1,"Le Gua, Les Saillants",50,21249,19,VIFGR
+14,1,"Le Gua, Les Saillants",50,21249,20,RIF
+14,1,"Le Gua, Les Saillants",50,21249,21,VIFUN
+14,1,"Le Gua, Les Saillants",50,21249,22,PTG
+14,1,"Le Gua, Les Saillants",50,21249,23,GUA
+62,0,"Sarcenas, Pont du Croz",52,12922,1,NDM
+62,0,"Sarcenas, Pont du Croz",52,12922,2,STL
+62,0,"Sarcenas, Pont du Croz",52,12922,3,TRPTR
+62,0,"Sarcenas, Pont du Croz",52,12922,4,BAST
+62,0,"Sarcenas, Pont du Croz",52,12922,5,SAINTG
+62,0,"Sarcenas, Pont du Croz",52,12922,6,TRLGO
+62,0,"Sarcenas, Pont du Croz",52,12922,7,MNT
+62,0,"Sarcenas, Pont du Croz",52,12922,8,CRCD
+62,0,"Sarcenas, Pont du Croz",52,12922,9,CORV
+62,0,"Sarcenas, Pont du Croz",52,12922,10,PRO
+62,0,"Sarcenas, Pont du Croz",52,12922,11,SAPRO
+62,0,"Sarcenas, Pont du Croz",52,12922,12,LGA
+62,0,"Sarcenas, Pont du Croz",52,12922,13,SAPBA
+62,0,"Sarcenas, Pont du Croz",52,12922,14,CVE
+62,0,"Sarcenas, Pont du Croz",52,12922,15,CRPHV
+62,0,"Sarcenas, Pont du Croz",52,12922,16,STEY
+62,0,"Sarcenas, Pont du Croz",52,12922,17,SAPGO
+62,0,"Sarcenas, Pont du Croz",52,12922,18,SAPP
+62,0,"Sarcenas, Pont du Croz",52,12922,19,CHRT
+62,0,"Sarcenas, Pont du Croz",52,12922,20,LEM
+62,0,"Sarcenas, Pont du Croz",52,12922,21,COLPA
+62,0,"Sarcenas, Pont du Croz",52,12922,22,SARV
+62,0,"Sarcenas, Pont du Croz",52,12922,23,SAR
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,1,SAR
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,2,SARV
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,3,COLPA
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,4,LEM
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,5,CHRT
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,6,SAPP
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,7,SAPGO
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,8,STEY
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,9,CRPHV
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,10,CVE
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,11,SAPBA
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,12,LGA
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,13,SAPRO
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,14,PRO
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,15,CORV
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,16,CRCD
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,17,MNT
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,18,TRLGO
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,19,SAINTG
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,20,BAST
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,21,TRPTR
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,22,STL
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,23,GRXJN
+62,1,"Grenoble, Notre-Dame – Musée",50,13049,24,NDM
+31,0,"Fontanil-Cornillon, Palluel",100,11048,1,LMG
+31,0,"Fontanil-Cornillon, Palluel",100,11048,2,AAF
+31,0,"Fontanil-Cornillon, Palluel",100,11048,3,VLI
+31,0,"Fontanil-Cornillon, Palluel",100,11048,4,CDC
+31,0,"Fontanil-Cornillon, Palluel",100,11048,5,AL
+31,0,"Fontanil-Cornillon, Palluel",100,11048,6,ESC
+31,0,"Fontanil-Cornillon, Palluel",100,11048,7,CMV
+31,0,"Fontanil-Cornillon, Palluel",100,11048,8,PIQ
+31,0,"Fontanil-Cornillon, Palluel",100,11048,9,SMHOR
+31,0,"Fontanil-Cornillon, Palluel",100,11048,10,SMNER
+31,0,"Fontanil-Cornillon, Palluel",100,11048,11,FPR
+31,0,"Fontanil-Cornillon, Palluel",100,11048,12,MURE
+31,0,"Fontanil-Cornillon, Palluel",100,11048,13,PVC
+31,0,"Fontanil-Cornillon, Palluel",100,11048,14,PIN
+31,0,"Fontanil-Cornillon, Palluel",100,11048,15,KAR
+31,0,"Fontanil-Cornillon, Palluel",100,11048,16,EGRAF
+31,0,"Fontanil-Cornillon, Palluel",100,11048,17,FTL
+31,1,"Grenoble, Louise Michel",100,11048,1,FTL
+31,1,"Grenoble, Louise Michel",100,11048,2,EGRAF
+31,1,"Grenoble, Louise Michel",100,11048,3,KAR
+31,1,"Grenoble, Louise Michel",100,11048,4,PIN
+31,1,"Grenoble, Louise Michel",100,11048,5,PVC
+31,1,"Grenoble, Louise Michel",100,11048,6,MURE
+31,1,"Grenoble, Louise Michel",100,11048,7,FPR
+31,1,"Grenoble, Louise Michel",100,11048,8,SMNER
+31,1,"Grenoble, Louise Michel",100,11048,9,SMHOR
+31,1,"Grenoble, Louise Michel",100,11048,10,PIQ
+31,1,"Grenoble, Louise Michel",100,11048,11,CMV
+31,1,"Grenoble, Louise Michel",100,11048,12,ESC
+31,1,"Grenoble, Louise Michel",100,11048,13,AL
+31,1,"Grenoble, Louise Michel",100,11048,14,CDC
+31,1,"Grenoble, Louise Michel",100,11048,15,VLI
+31,1,"Grenoble, Louise Michel",100,11048,16,AAF
+31,1,"Grenoble, Louise Michel",100,11048,17,LMG

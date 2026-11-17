@@ -1,0 +1,120 @@
+id,numero,nom,description,type,couleur,couleur_texte,boucle
+line:142,13,Saint Cyprien - République / Oncopole Courrière,,normale,3F2682,FFFFFF,0
+line:8,15,Jeanne d'Arc / Etats-Unis Fondeyre,,normale,A0670F,FFFFFF,0
+line:143,18,Basso Cambo / Arènes ou Cité Scolaire Rive-Gauche,,normale,E46809,FFFFFF,0
+line:10,19,Borderouge / Argoulets,,normale,58AC25,FFFFFF,0
+line:12,20,Balma - Gramont / Beaupuy Mairie,,normale,007C52,FFFFFF,0
+line:72,21,Basso Cambo / Colomiers Airbus,,normale,007C52,FFFFFF,0
+line:74,23,Jeanne d'Arc / La Terrasse,,normale,A0670F,FFFFFF,0
+line:90,25,Oncopole Courrière / Colomiers Gare SNCF,,normale,3F2682,FFFFFF,0
+line:75,26,Borderouge / Montberon,,normale,A0670F,FFFFFF,0
+line:76,27,Toulouse-Lautrec Négreneys / Ramonville,,normale,58AC25,FFFFFF,0
+line:84,29,Jeanne d'Arc / Fonbeauzard Mermoz,,normale,DC006B,FFFFFF,0
+line:96,30,Aéroport / MEETT,,normale,0098D4,FFFFFF,0
+line:139,31,Guyenne - Berry / Aéroport,,normale,DC006B,FFFFFF,0
+line:14,32,Colomiers Ramassiers Gare SNCF / Léguevin Collège,,normale,A0670F,FFFFFF,0
+line:63,33,Argoulets / Gratentour Gravette,,normale,0098D4,FFFFFF,0
+line:73,34,Université Paul Sabatier / Arènes,,normale,E46809,FFFFFF,0
+line:64,35,Colomiers Ramassiers Gare SNCF / Arènes Romaines,,normale,58AC25,FFFFFF,0
+line:65,37,Jolimont / Ramonville,,normale,004687,FFFFFF,0
+line:16,39,Jeanne d'Arc / Amouroux,,normale,007C52,FFFFFF,0
+line:17,40,Borderouge / L'Union Malbou,,normale,DC006B,FFFFFF,0
+line:18,41,Borderouge / Chaussas,,normale,E46809,FFFFFF,0
+line:19,42,Borderouge / Saint-Jean Clinique de L'Union,,normale,E46809,FFFFFF,0
+line:62,43,Argoulets / Saint-Jean Clinique de L'Union,,normale,58AC25,FFFFFF,0
+line:140,44,Empalot / Université Paul Sabatier,,normale,0098D4,FFFFFF,0
+line:97,45,Jeanne d'Arc / Pelletier Purpan,,normale,58AC25,FFFFFF,0
+line:20,46,Basso Cambo / Pelletier Purpan,,normale,DC006B,FFFFFF,0
+line:22,48,Basso Cambo / Tournefeuille Lycée,,normale,007C52,FFFFFF,0
+line:23,49,Basso Cambo / Portet Gare SNCF,,normale,004687,FFFFFF,0
+line:24,50,Basso Cambo / Portet H. Boucher,,normale,A0670F,FFFFFF,0
+line:25,51,Balma - Gramont / La Terrasse,,normale,E46809,FFFFFF,0
+line:104,53,Basso Cambo / Tibaous,,normale,0098D4,FFFFFF,0
+line:27,54,Empalot / Gleyze-Vieille,,normale,E46809,FFFFFF,0
+line:28,55,Colomiers Gare SNCF / Plaisance Ousseau,,normale,DB001B,FFFFFF,0
+line:29,56,Université Paul Sabatier / Auzeville Eglise,,normale,58AC25,FFFFFF,0
+line:31,58,"Basso Cambo / Seysses Gay, Seysses Maison d'Arrêt ou Muret Lycée",,normale,58AC25,FFFFFF,0
+line:32,59,La Vache / Saint-Jory Collège,,normale,3F2682,FFFFFF,0
+line:33,60,Trois Cocus / Saint-Alban Centre Commercial,,normale,3F2682,FFFFFF,0
+line:94,63,Tournefeuille Lycée / Compans-Caffarelli,,normale,E675A7,FFFFFF,0
+line:38,66,Pelletier Purpan / Grand Rond,,normale,007C52,FFFFFF,0
+line:39,67,Arènes / Plaisance Monestié,,normale,E675A7,FFFFFF,0
+line:40,68,Balma - Gramont / Castelmaurou Mairie,,normale,572F08,FFFFFF,0
+line:41,69,La Vache / Bruguières Verger,,normale,BB9DC6,FFFFFF,0
+line:42,70,Jeanne d'Arc / Aéroconstellation,,normale,E675A7,FFFFFF,0
+line:43,71,Seilh Mairie / Aussonne Agassines,,normale,58AC25,FFFFFF,0
+line:44,72,Balma - Gramont / Balma Lasbordes,,normale,004687,FFFFFF,0
+line:45,73,Borderouge / Saint-Jean Lestang,,normale,DB001B,FFFFFF,0
+line:46,74,Andromède Lycée / Mondonville Moulis,,normale,3F2682,FFFFFF,0
+line:47,75,Colomiers Gare SNCF / Mondonville Moulis,,normale,007C52,FFFFFF,0
+line:48,76,Argoulets / Lapeyrouse,,normale,A0670F,FFFFFF,0
+line:51,79,Ramonville / Labège Couder ou Saint-Orens Lycée,,normale,0098D4,FFFFFF,0
+line:52,80,Rangueil / Belberaud La Balme,,normale,3F2682,FFFFFF,0
+line:58,81,Université Paul Sabatier / Castanet-Tolosan,,normale,DC006B,FFFFFF,0
+line:59,82,Université Paul Sabatier / Ramonville Port Sud,,normale,DB001B,FFFFFF,0
+line:60,83,Balma - Gramont / Saint-Orens Lycée,,normale,DC006B,FFFFFF,0
+line:105,84,Balma - Gramont / Fonsegrives Collège,,normale,0098D4,FFFFFF,0
+line:215,85,Basso Cambo / Portet Gare SNCF,,normale,E675A7,FFFFFF,0
+line:109,87,Cité Scolaire Rive Gauche / Frouzins Complexe Sportif,,normale,004687,FFFFFF,0
+line:182,101,Balma - Gramont / Mondouzil ZA Les Landes,,normale,BB9DC6,FFFFFF,0
+line:183,102,Balma - Gramont / Drémil Stade,,normale,3F2682,FFFFFF,0
+line:184,103,Balma - Gramont / Drémil Le Colombier,,normale,58AC25,FFFFFF,0
+line:185,104,Balma Ribaute / Aigrefeuille Clos Marelle,,normale,E675A7,FFFFFF,0
+line:194,107,Fonsegrives Entiore / Drémil Stade,,normale,A0670F,FFFFFF,0
+line:70,109,Balma Ribaute / Castanet-Tolosan,,normale,58AC25,FFFFFF,0
+line:82,110,Barrière de Paris / Ginestous Chênes,,normale,0098D4,FFFFFF,0
+line:81,111,Ramonville / Ramonville,,normale,DC006B,FFFFFF,1
+line:83,112,Ramonville / Montjoie,,normale,007C52,FFFFFF,0
+line:100,113,Fenouillet Croix / Collège Pechbonnieu,,normale,E46809,FFFFFF,0
+line:87,114,Borderouge / Quartier Virebent,,normale,58AC25,FFFFFF,1
+line:89,115,Saint Agne - SNCF / Université Paul Sabatier,,normale,007C52,FFFFFF,0
+line:102,116,Tournefeuille Lycée / Saint-Lys Rossignols,,normale,0098D4,FFFFFF,0
+line:101,117,Basso Cambo / Muret Gare SNCF - Cimetière,,normale,0098D4,FFFFFF,0
+line:197,121,Tournefeuille Les Chênes / La Salvetat Apouticayre,,normale,DC006B,FFFFFF,0
+line:151,130,Andromède Lycée / Fenouillet Centre Commercial - Entrée Sud,,normale,A0670F,FFFFFF,0
+line:207,131,Saint-Alban Salvador Allende / Bruguières Gutenberg,,normale,58AC25,FFFFFF,0
+line:208,132,Sept Deniers - Salvador Dali / Pôle,,normale,007C52,FFFFFF,0
+line:275,139,Roseraie / Amouroux,,normale,58AC25,FFFFFF,0
+line:138,150,Colomiers Gare SNCF / Colomiers Gare SNCF,,normale,0098D4,FFFFFF,1
+line:198,151,Colomiers Gare SNCF / Colomiers Gare SNCF,,normale,004687,FFFFFF,1
+line:230,169,La Vache / Bruguières Mairie,,normale,DB001B,FFFFFF,0
+line:54,201,Malepère / Varennes En Clavié,,normale,E675A7,FFFFFF,0
+line:55,202,Castanet-Tolosan / Montbrun-Lauragais Roumieu,,normale,58AC25,FFFFFF,0
+line:56,204,Labège Innopole Gare SNCF / Ayguesvives Collège,,normale,DB001B,FFFFFF,0
+line:57,205,Castanet-Tolosan / Ayguesvives Collège,,normale,0098D4,FFFFFF,0
+line:152,301,Muret Gare SNCF - Parvis / Muret Sans Souci,,normale,DC006B,FFFFFF,0
+line:153,302,Muret Gare SNCF - Parvis / Muret Salle Horizon,,normale,E46809,FFFFFF,0
+line:154,303,Muret Gare SNCF - Parvis / Muret Peyrusse,,normale,E675A7,FFFFFF,0
+line:155,304,Muret Gare SNCF - Cimetière / Muret Guyenne,,normale,DC006B,FFFFFF,0
+line:156,305,Muret Gare SNCF - Parvis / Muret Côte des Bènes,,normale,0098D4,FFFFFF,0
+line:157,306,Muret Gare SNCF - Parvis / Muret C.A.M.,,normale,E675A7,FFFFFF,0
+line:158,310,Muret Gare SNCF - Parvis / Muret Estantens Eglise,,normale,007C52,FFFFFF,0
+line:159,311,Muret Gare SNCF - Parvis / Portet Gare SNCF (par Villate),,normale,58AC25,FFFFFF,0
+line:160,312,Muret Gare SNCF - Cimetière/ Saint-Clar Mairie,,normale,3F2682,FFFFFF,0
+line:161,313,Muret Gare SNCF - Cimetière / Le Fauga Cimetière,,normale,E675A7,FFFFFF,0
+line:162,314,Muret Gare SNCF - Parvis / Eaunes ZAC du Mandarin,,normale,DB001B,FFFFFF,0
+line:163,315,Muret Gare SNCF - Cimetière / Fonsorbes Lycée,,normale,A0670F,FFFFFF,0
+line:164,316,Muret Gare SNCF - Parvis / Portet Gare SNCF (par Labarthe),,normale,004687,FFFFFF,0
+line:165,317,Muret Gare SNCF - Parvis / Portet Gare SNCF (par Saubens),,normale,E46809,FFFFFF,0
+line:224,318,Muret Gare SNCF - Cimetière / Fonsorbes Lycée,,normale,007C52,FFFFFF,0
+line:166,320,Portet Gare SNCF / Muret Sans Souci,,normale,0098D4,FFFFFF,0
+line:217,321,Frouzins Tréville / Portet Gare SNCF,,normale,A0670F,FFFFFF,0
+line:270,401,Colomiers Gare SNCF / Saint-Lys Boulodrome,,normale,58AC25,FFFFFF,0
+line:271,402,Colomiers Gare SNCF / Léguevin Salle Polyvalente,,normale,DC006B,FFFFFF,0
+line:272,403,Lévignac Ancienne Gare / Mérenvielle Gare,,normale,004687,FFFFFF,0
+line:99,AERO,Navette Aéroport,,navette,E46809,FFFFFF,0
+line:108,CIMTR,Navette Cimetières,,navette,0098D4,FFFFFF,0
+line:144,L1,Sept Deniers - Salvador Dali / Fonsegrives Entiore,,normale,FF671B,FFFFFF,0
+line:145,L2,Arènes / Colomiers Lycée International,,normale,FF671B,FFFFFF,0
+line:176,L3,Arènes / Plaisance Monestié,,normale,FF671B,FFFFFF,0
+line:187,L4,Basso Cambo / Cours Dillon,,normale,FF671B,FFFFFF,0
+line:193,L5,Empalot / Portet Gare SNCF,,normale,FF671B,FFFFFF,0
+line:170,L6,Ramonville / Castanet-Tolosan,,normale,FF671B,FFFFFF,0
+line:171,L7,Université Paul Sabatier / Saint-Orens Piscine,,normale,FF671B,FFFFFF,0
+line:172,L8,Marengo - SNCF / Gonin,,normale,FF671B,FFFFFF,0
+line:174,L9,L'Union Grande Halle / Saint-Orens Centre Commercial,,normale,FF671B,FFFFFF,0
+line:209,L10,La Vache / Fenouillet Centre Commercial - Entrée Nord,,normale,FF671B,FFFFFF,0
+line:216,L11,Basso Cambo / Frouzins Complexe Sportif,,normale,FF671B,FFFFFF,0
+line:269,L12,Borderouge  / Rangueil,,normale,FF671B,FFFFFF,0
+line:264,L14,Basso Cambo / Marengo - SNCF,,normale,FF671B,FFFFFF,0
+line:107,VILLE,Navette Centre Ville,,navette,E675A7,FFFFFF,1

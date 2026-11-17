@@ -1,0 +1,91 @@
+id,numero,nom,description,type,couleur,couleur_texte,boucle
+FR_NAOLIB:Line:1B,1B,François Mitterrand - Beaujoire / Ranzay,,normale,00A754,FFFFFF,0
+FR_NAOLIB:Line:4,4,Foch - Cathédrale - Porte de Vertou,,normale,FFCD1C,000000,0
+FR_NAOLIB:Line:5,5,Hangar à Bananes - Gare Sud,,normale,0BBBEF,FFFFFF,0
+FR_NAOLIB:Line:10,10,Gare de Chantenay - Bd de Doulon,,normale,FFED00,000000,0
+FR_NAOLIB:Line:11,11,Tertre - Perray,,normale,E8B975,000000,0
+FR_NAOLIB:Line:12,12,Jules Verne - Beauséjour,,normale,A1DAF8,000000,0
+FR_NAOLIB:Line:23,23,Haluchère - Batignolles - Mendès France - Bellevue,,normale,0BBBEF,FFFFFF,0
+FR_NAOLIB:Line:26,26,Jonelière - Hôtel de Région,,normale,009640,FFFFFF,0
+FR_NAOLIB:Line:27,27,La Herdrie - Pirmil,,normale,A1DAF8,000000,0
+FR_NAOLIB:Line:28,28,Vertou - Pirmil,,normale,A1DAF8,000000,0
+FR_NAOLIB:Line:30,30,Joliverie / Iles de Loire - Trentemoult,,normale,FFED00,000000,0
+FR_NAOLIB:Line:33,33,Robinière / L'Aufrère - Espace Diderot,,normale,F5B5D3,000000,0
+FR_NAOLIB:Line:36,36,Greneraie - Croix Jeannette,,normale,65C2C4,FFFFFF,0
+FR_NAOLIB:Line:38,38,Greneraie - Aéroport,,normale,009640,FFFFFF,0
+FR_NAOLIB:Line:40,40,Mendès France - Bellevue - Neustrie,,normale,FFED00,000000,0
+FR_NAOLIB:Line:42,42,Vertou - Pirmil,,normale,C8D300,000000,0
+FR_NAOLIB:Line:47,47,Pégers / Grande Noëlle - Vertou,,normale,BCA3CE,FFFFFF,0
+FR_NAOLIB:Line:50,50,Basse-Indre - Porte de La Chapelle,,normale,FFED00,000000,0
+FR_NAOLIB:Line:59,59,Mendès France - Bellevue - Bout des Landes,,normale,F5B5D3,000000,0
+FR_NAOLIB:Line:60,60,Quintaine - Vertou,,normale,FFED00,000000,0
+FR_NAOLIB:Line:66,66,Babinière - Ecole Centrale - Audencia,,normale,2581C4,FFFFFF,0
+FR_NAOLIB:Line:67,67,Le Cellier - Centre de Thouaré,,normale,2581C4,FFFFFF,0
+FR_NAOLIB:Line:69,69,Sautron - Orvault Morlière,,normale,D39E46,FFFFFF,0
+FR_NAOLIB:Line:71,71,Bac de Couëron - Hauts de Couëron,,normale,C8D300,000000,0
+FR_NAOLIB:Line:75,75,Charbonneau - Facultés,,normale,E8B975,000000,0
+FR_NAOLIB:Line:77,77,Sables d'Or - Haluchère - Batignolles,,normale,A1DAF8,000000,0
+FR_NAOLIB:Line:78,78,Bac du Pellerin - Neustrie,,normale,F7A600,000000,0
+FR_NAOLIB:Line:79,79,Orvault - Beauséjour,,normale,F5B5D3,000000,0
+FR_NAOLIB:Line:80,80,Chassay / Bellevue - Fac de Droit,,normale,FFED00,000000,0
+FR_NAOLIB:Line:81,81,Mendès France - Bellevue - Gare Maritime,,normale,65C2C4,FFFFFF,0
+FR_NAOLIB:Line:85,85,Souchais - Haluchère - Batignolles,,normale,F5B5D3,000000,0
+FR_NAOLIB:Line:86,86,La Chapelle Aulnay - Bout des Pavés,,normale,0BBBEF,FFFFFF,0
+FR_NAOLIB:Line:87,87,Le Halleray - Toutes Aides,,normale,F7A600,000000,0
+FR_NAOLIB:Line:88,88,Château d'Aux - Neustrie,,normale,A877B2,FFFFFF,0
+FR_NAOLIB:Line:89,89,Le Cardo - Beauséjour,,normale,76B82A,FFFFFF,0
+FR_NAOLIB:Line:91,91,Couëron Bougon - Mendès France - Bellevue,,normale,009640,FFFFFF,0
+FR_NAOLIB:Line:95,95,Bois St-Lys - Haluchère - Batignolles,,normale,C8D300,000000,0
+FR_NAOLIB:Line:96,96,Coutancière - Bout des Pavés,,normale,F7A600,000000,0
+FR_NAOLIB:Line:97,97,Vertou - Trentemoult,,normale,BCA3CE,FFFFFF,0
+FR_NAOLIB:Line:98,98,St-Léger-les-Vignes / Brains - Neustrie,,normale,F7A600,000000,0
+FR_NAOLIB:Line:101,101,Mairie de Couëron - Sinière,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:102,102,Chalonges - René Bernier,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:107,107,Bournière - Reinetière,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:109,109,Ferrière - Couchant,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:111,111,ADAPEI à Tillay - Lycée Appert,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:112,112,St Blaise - Savarières,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:117,117,Le Halleray - Reinetière,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:118,118,Pirmil - St-Léger-les-Vignes,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:119,119,Mairie d'Orvault - Angevinière,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:122,122,Savarières - St Blaise,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:127,127,Colinière - Monteverdi,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:129,129,Les Anges - Angevinière,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:131,131,Bac de Couëron - Mendès France Bellevue,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:137,137,Chinon / Monteverdi - Toutes Aides,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:139,139,Sautron - Angevinière,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:142,142,CAT Vertonne - Porte de Vertou,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:147,147,Bournière - Toutes Aides,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:149,149,Cheverny - Sautron,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:152,152,La Herdrie - Pirmil,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:157,157,Toutes Aides - Le Halleray,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:159,159,Sautron - Angevinière,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:162,162,La Herdrie - Pirmil,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:169,169,Sautron - Thébaudières,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:172,172,René Bernier - Pirmil,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:179,179,Les Anges - Orvault-Morlière,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:189,189,Pont Marchand - Angevinière,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:192,192,Jean Monnet - Porte de Vertou,,normale,A9162E,FFFFFF,0
+FR_NAOLIB:Line:C1,C1,Haluchère - Batignolles - Gare de Chantenay,,normale,0BBBEF,FFFFFF,0
+FR_NAOLIB:Line:C2,C2,Le Cardo - Gare Sud,,normale,EE7402,FFFFFF,0
+FR_NAOLIB:Line:C3,C3,Bio Ouest Laënnec - Bd de Doulon,,normale,F7A600,000000,0
+FR_NAOLIB:Line:C4,C4,Les Sorinières - Greneraie,,normale,76B82A,FFFFFF,0
+FR_NAOLIB:Line:C6,C6,Chantrerie - Grandes Ecoles - Hermeland,,normale,A877B2,FFFFFF,0
+FR_NAOLIB:Line:C7,C7,Trianon / Clairais - Souillarderie,,normale,C8D300,000000,0
+FR_NAOLIB:Line:C8,C8,Marcel Paul - Saupin,,normale,C8D300,000000,0
+FR_NAOLIB:Line:C9,C9,Basse Goulaine / Chalonges - Pirmil,,normale,F5B5D3,000000,0
+FR_NAOLIB:Line:C20,C20,Ecole Centrale - Audencia - Gare Maritime,,normale,FFED00,000000,0
+FR_NAOLIB:Line:CNO,CNO,René Cassin - Pont Pilet,,normale,2581C4,FFFFFF,0
+FR_NAOLIB:Line:E1,E1,Couëron Océan - Gare Maritime,,normale,E30613,FFFFFF,0
+FR_NAOLIB:Line:E4,E4,Porte de Vertou - Vertou,,normale,E30613,FFFFFF,0
+FR_NAOLIB:Line:E5,E5,Carquefou - Fac de Droit,,normale,E30613,FFFFFF,0
+FR_NAOLIB:Line:E8,E8,La Cochère - Greneraie,,normale,E30613,FFFFFF,0
+FR_NAOLIB:Line:LCE,LCE,Cotalard - Léo Lagrange,,normale,00A754,FFFFFF,1
+FR_NAOLIB:Line:NA,NA,Aéroport - Hôtel Dieu,,normale,A1DAF8,000000,0
+FR_NAOLIB:Line:NC,NC,Chantrerie Grandes Ecoles - Ligne de nuit Chantrerie,,normale,FFFFFF,232C77,0
+FR_NAOLIB:Line:NN,NN,Porte de la Chapelle - Hangar à Bananes,,normale,F91AFF,FFFFFF,0
+FR_NAOLIB:Line:NO,NO,Beauséjour - Hangar à Bananes,,normale,FFFA3E,232C77,0
+FR_NAOLIB:Line:NS,NS,Bourdonnières - Hangar à Bananes,,normale,00FFC2,232C77,0
+FR_NAOLIB:Line:TE1,TE1,Greneraie - Allende,,normale,502391,FFFFFF,0
+FR_NAOLIB:Line:TE2,TE2,Bac d'Indret - Château d'Aux,,normale,2581C4,FFFFFF,0
+FR_NAOLIB:Line:TE3,TE3,Hôpital Laënnec - Bio Ouest,,normale,2581C4,FFFFFF,0

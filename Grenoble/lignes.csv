@@ -1,0 +1,125 @@
+id,numero,nom,description,type,couleur,couleur_texte,boucle
+15,15,Grenoble Verdun – Préfecture / Domène Les Arnauds / Domène Chenevières,,normale,1E71B8,FFFFFF,0
+16,16,Saint-Martin-d'Hères Les Alloves / Le Pont-de-Claix Gendarmerie,,normale,33A457,FFFFFF,0
+17,17,Meylan Lycée du Grésivaudan / Grenoble Verdun – Préfecture,,normale,33A457,FFFFFF,0
+18,18,Poisat Cimetière Intercommunal / Meylan Lycée du Grésivaudan,,normale,33A457,FFFFFF,0
+19,19,Seyssins Garlettes / Sassenage L'Ovalie,,normale,33A457,FFFFFF,0
+20,20,Seyssinet-Pariset Hôtel de Ville / Veurey-Voroize La Rive,,normale,1E71B8,FFFFFF,0
+21,21,Claix Pont Rouge / Seyssins Le Prisme,,normale,1E71B8,FFFFFF,0
+22,22,Saint-Égrève Gare / Grenoble Oxford,,normale,33A457,FFFFFF,0
+23,23,Vizille Le Péage / Saint-Martin-d'Hères Université – Bibliothèques,,normale,1E71B8,FFFFFF,0
+24,24,Grenoble Verdun – Préfecture / Gières Gare – Chamandier,,normale,33A457,FFFFFF,0
+25,25,Le Gua Les Saillants / Grenoble Colonel Dumont,,normale,1E71B8,FFFFFF,0
+41,41,Corenc La Garenne / La Tronche Grand Sablon,,normale,D572A8,FFFFFF,0
+42,42,Montbonnot-Saint-Martin Pré de l'Eau / Meylan Place de la Louisiane,,normale,D572A8,FFFFFF,0
+44,44,Le Gua Les Saillants / Miribel-Lanchâtre Le Vernay / Le Gua Prélenfrey Eglise / Col de l'Arzelier,,normale,D572A8,FFFFFF,0
+45,45,Varces-Allières-et-Risset Rond Point de l'Europe / Vif La Valonne,,normale,D572A8,FFFFFF,0
+46,46,Saint-Paul-de-Varces Place / Varces-Allières-et-Risset Rond Point de l'Europe,,normale,D572A8,FFFFFF,0
+47,47,Claix Val d'Allières / Varces-Allières-et-Risset Risset,,normale,D572A8,FFFFFF,0
+48,48,Claix Cossey / Claix Pont Rouge,,normale,D572A8,FFFFFF,0
+49,49,Seyssins Clinique du Dauphiné / Seyssinet-Pariset Cimetière,,normale,D572A8,FFFFFF,0
+50,50,Fontaine La Poya / Sassenage Les Côtes,,normale,D572A8,FFFFFF,0
+51,51,Saint-Égrève Gare / Voreppe Gare / Veurey-Voroize Châtelard,,normale,D572A8,FFFFFF,0
+54,54,Grenoble Oxford / Saint-Égrève Pont de Vence,,normale,D572A8,FFFFFF,0
+55,55,Saint-Martin-le-Vinoux Col de Clémencières / Saint-Martin-le-Vinoux Hôtel de Ville,,normale,D572A8,FFFFFF,0
+56,56,Grenoble Casamaures – Village / Quaix-en-Chartreuse La Cime de Mont-Quaix,,normale,D572A8,FFFFFF,0
+59,59,Saint-Martin-d'Uriage La Ronzière / Hautes Vues / Gières Gare – Chamandier,,normale,D572A8,FFFFFF,0
+60,60,Saint-Égrève Muret / Proveysieux Planfay Haut,,normale,D572A8,FFFFFF,0
+61,61,Saint-Égrève Muret / Quaix-en-Chartreuse Village,,normale,D572A8,FFFFFF,0
+63,63,Saint-Égrève Gare / Mont-Saint-Martin Chemin de Namière,,normale,D572A8,FFFFFF,0
+64,64,Le Pont-de-Claix L'Étoile / Le Pont-de-Claix ZI des Îles,,normale,D572A8,FFFFFF,1
+65,65,Vizille Le Péage / Grenoble Grand'place,,normale,D572A8,FFFFFF,0
+66,66,Échirolles La Rampe – Centre-Ville / Jarrie Clos Jouvin,,normale,D572A8,FFFFFF,0
+67,67,Herbeys Le Bourg / Grenoble Grand'place,,normale,D572A8,FFFFFF,0
+68,68,Échirolles La Rampe – Centre-Ville / Eybens Le Verderet,,normale,D572A8,FFFFFF,0
+70,70,Montchaboud Le Village / Champ-sur-Drac La Melle,,normale,D572A8,FFFFFF,0
+71,71,Champagnier Place du Laca / Jarrie Gare,,normale,D572A8,FFFFFF,0
+73,73,Notre-Dame-de-Commiers Le Village / Vif Mairie,,normale,D572A8,FFFFFF,0
+101,101,Le Gua / Grenoble LT Louise Michel,,normale,78520D,FFFFFF,0
+102,102,Vif / Grenoble Vallier – Libération,,normale,78520D,FFFFFF,0
+103,103,Varces-Allières-et-Risset / Grenoble Les Eaux Claires,,normale,78520D,FFFFFF,0
+104,104,Saint-Paul-de-Varces / Grenoble LT Louise Michel,,normale,78520D,FFFFFF,0
+111,111,Grenoble / Grenoble Lycée Clos d'Or,,normale,78520D,FFFFFF,0
+115,115,Grenoble / Grenoble André Argouges,,normale,78520D,FFFFFF,0
+122,122,Grenoble / Claix EREA,,normale,78520D,FFFFFF,0
+131,131,Le Sappey-en-Chartreuse / Corenc Collège Jules Flandrin,,normale,78520D,FFFFFF,0
+132,132,Sarcenas / Meylan Lycée du Gresivaudan (Parking),,normale,78520D,FFFFFF,0
+133,133,Saint-Ismier / Meylan Lionel Terray,,normale,78520D,FFFFFF,0
+134,134,Crolles / Meylan Lycée du Gresivaudan (Parking),,normale,78520D,FFFFFF,0
+141,141,Domène / Saint-Martin-d'Hères Pablo Neruda,,normale,78520D,FFFFFF,0
+142,142,Venon / Saint-Martin-d'Hères Pablo Neruda,,normale,78520D,FFFFFF,0
+143,143,Saint-Martin-d'Uriage / Saint-Martin-d'Hères Pablo Neruda,,normale,78520D,FFFFFF,0
+144,144,Tencin / Saint-Martin-d'Hères Pablo Neruda,,normale,78520D,FFFFFF,0
+151,151,Claix Lapouya / Échirolles Lycée Marie Curie,,normale,78520D,FFFFFF,0
+152,152,Claix Val d'Allières / Échirolles Lycée Marie Curie,,normale,78520D,FFFFFF,0
+161,161,Saint-Égrève / Corenc Lycée Boisfleury,,normale,78520D,FFFFFF,0
+162,162,Meylan / Maupertuis / Corenc Collège Le Rondeau,,normale,78520D,FFFFFF,0
+163,163,Meylan / Ancienne Mairie / Corenc Collège Le Rondeau,,normale,78520D,FFFFFF,0
+164,164,Domène / Corenc Collège Le Rondeau,,normale,78520D,FFFFFF,0
+165,165,Meylan / Corenc / Corenc Collège Le Rondeau,,normale,78520D,FFFFFF,0
+166,166,Saint-Vincent-de-Mercuze / Corenc Collège Le Rondeau,,normale,78520D,FFFFFF,0
+167,167,Goncelin / Corenc Collège Le Rondeau,,normale,78520D,FFFFFF,0
+171,171,Proveysieux / Grenoble Lycée Champollion,,normale,78520D,FFFFFF,0
+175,175,Fontaine / Fontanil-Cornillon LT Françoise Dolto,,normale,78520D,FFFFFF,0
+181,181,/ Vizille Lycée Portes de l'Oisans,,normale,79530D,FFFFFF,0
+182,182,Vaulnaveys-le-Haut / Vizille Lycée Portes de l'Oisans,,normale,78520D,FFFFFF,0
+183,183,Saint-Barthélémy-de-Séchilienne / Vizille Lycée Portes de l'Oisans,,normale,79530D,FFFFFF,0
+184,184,Vif / Vizille Lycée,,normale,79530D,FFFFFF,0
+185,185,Champagnier / Vizille Lycée Portes de l'Oisans,,normale,79530D,FFFFFF,0
+186,186,Grenoble / Vizille Lycée Portes de l'Oisans,,normale,79530D,FFFFFF,0
+187,187,Chamrousse / Vizille Lycée Portes de l'Oisans,,normale,78520D,FFFFFF,0
+191,191,Veurey-Voroize / Seyssinet-Pariset Lycée Aristide Bergès,,normale,78520D,FFFFFF,0
+193,193,Seyssinet-Pariset / Seyssinet-Pariset Lycée Aristide Bergès,,normale,78520D,FFFFFF,0
+205,205,Veurey-Voroize / Sassenage Collège Fleming,,normale,78520D,FFFFFF,0
+206,206,Sassenage / Sassenage Collège Fleming,,normale,78520D,FFFFFF,0
+211,211,Claix / Claix Pompidou,,normale,78520D,FFFFFF,0
+221,221,Meylan La Détourbe / Meylan Lionel Terray,,normale,78520D,FFFFFF,0
+222,222,Meylan Charlaix – Maupertuis / Meylan Lionel Terray,,normale,78520D,FFFFFF,0
+231,231,Goncelin / Gières Gare – Chamandier,,normale,78520D,FFFFFF,0
+233,233,Montbonnot / Meylan Lionel Terray,,normale,78520D,FFFFFF,0
+235,235,Échirolles / Échirolles Collège Pablo Picasso,,normale,78520D,FFFFFF,0
+241,241,Froges / Domène Collège La Moulinière,,normale,78520D,FFFFFF,0
+243,243,Saint-Martin-d'Uriage / Gières Le Chamandier,,normale,78520D,FFFFFF,0
+251,251,Corenc / Corenc Collège Jules Flandrin,,normale,78520D,FFFFFF,0
+261,261,Saint-Égrève / Corenc Collège Le Rondeau,,normale,78520D,FFFFFF,0
+262,262,Saint-Paul-de-Varces / Varces-Allières-et-Risset Collège Jules Verne,,normale,78520D,FFFFFF,0
+263,263,Varces-Allières-et-Risset / Varces-Allières-et-Risset Collège Jules Verne,,normale,78520D,FFFFFF,0
+265,265,Quaix-en-Chartreuse La Cime de Mont-Quaix / Quaix-en-Chartreuse Village,,normale,78520D,FFFFFF,0
+266,266,Quaix-en-Chartreuse La Frette / Quaix-en-Chartreuse Village,,normale,78520D,FFFFFF,0
+271,271,Le Gua / Vif Collège le Masségu,,normale,78520D,FFFFFF,0
+273,273,Saint-Georges-de-Commiers / Vif Collège le Masségu,,normale,78520D,FFFFFF,0
+282,282,Vaulnaveys-le-Haut / Vizille Collège les Mattons (quai 1),,normale,78520D,FFFFFF,0
+283,283,Séchilienne / Vizille Collège les Mattons (quai 1),,normale,79530D,FFFFFF,0
+287,287,Vaulnaveys-le-Haut / Vizille Collège Les Mattons,,normale,78520D,FFFFFF,0
+291,291,Brié-et-Angonnes / Jarrie Clos Jouvin,,normale,79530D,FFFFFF,0
+292,292,Champ-sur-Drac La Melle / Jarrie Clos Jouvin,,normale,79530D,FFFFFF,0
+293,293,Champ-sur-Drac Le Monument / Jarrie Clos Jouvin,,normale,79530D,FFFFFF,0
+294,294,Champagnier / Jarrie Clos Jouvin,,normale,79530D,FFFFFF,0
+316,316,Grenoble / Saint-Ismier Château Randon,,normale,78520D,FFFFFF,0
+319,319,Murianette / Villard-Bonnot Lycée Marie Reynoard – Parking,,normale,78520D,FFFFFF,0
+402,402,Vaulnaveys-le-Bas / Vaulnavers-le-Bas École du Bourg,,normale,78520D,FFFFFF,1
+403,403,Vaulnaveys-le-Haut / Vaulnaveys-le-Haut Ecole Jules Bruant,,normale,78520D,FFFFFF,1
+404,404,Saint-Martin-d'Uriage Villeneuve d'Uriage / Saint-Martin-d'Uriage GS Les Petites Maisons,,normale,78520D,FFFFFF,0
+405,405,Saint-Martin-d'Uriage La Grivolée / Saint-Martin-d'Uriage GS Les Petites Maisons,,normale,78520D,FFFFFF,0
+406,406,Saint-Martin-d'Uriage Le Maupas / Saint-Martin-d'Uriage GS Les Petites Maisons,,normale,78520D,FFFFFF,0
+411,411,Claix / Claix Malhivert,,normale,78520D,FFFFFF,0
+412,412,Claix / Claix École Claix Centre,,normale,78520D,FFFFFF,0
+413,413,Claix / Claix Boulodrome-Ecole,,normale,78520D,FFFFFF,0
+414,414,Claix / Claix École François Mignot,,normale,78520D,FFFFFF,0
+431,431,Sarcenas / Le Sappey-en-Chartreuse Groupe Scolaire Albert Jai,,normale,78520D,FFFFFF,1
+442,442,Sassenage /,,normale,78520D,FFFFFF,1
+465,465,Quaix-en-Chartreuse La Cime de Mont-Quaix / Quaix-en-Chartreuse Village,,normale,78520D,FFFFFF,0
+466,466,Quaix-en-Chartreuse La Frette / Quaix-en-Chartreuse Village,,normale,78520D,FFFFFF,0
+470,470,Montchaboud / Brié-et-Angonnes Groupe Scolaire Barlatier,,normale,78520D,FFFFFF,0
+1,C1,Montbonnot-Saint-Martin Pré de l'Eau / Grenoble Cité Jean Macé,,normale,F5D24D,000000,0
+2,C2,Claix Pont Rouge / Grenoble Louise Michel,,normale,F5D24D,000000,0
+3,C3,Grenoble Victor Hugo / Échirolles Centre du graphisme,,normale,F5D24D,000000,0
+4,C4,Eybens Le Verderet / Grenoble Victor Hugo,,normale,F5D24D,000000,0
+5,C5,Grenoble Palais de Justice – Gare / Gières Université – Biologie,,normale,F5D24D,000000,0
+6,C6,Grenoble Oxford / Eybens Maisons Neuves,,normale,F5D24D,000000,0
+7,C7,Saint-Martin-d'Hères Henri Wallon / Échirolles Comboire,,normale,F5D24D,000000,0
+8,C8,Gières Université – IUT-STAPS / Grenoble Victor Hugo – Belgrade,,normale,F5D24D,000000,0
+10,C10,Échirolles Marie Curie / Bernin Cloyères,,normale,EF7C00,FFFFFF,0
+14,C14,St-Georges-de-Commiers Gare / Grenoble Gares,,normale,EF7C00,FFFFFF,0
+62,N62,Sarcenas Pont du Croz / Col de Porte / Grenoble Notre-Dame – Musée,,normale,81BA26,FFFFFF,0
+31,NAVE,Grenoble Louise Michel / Fontanil-Cornillon Palluel,,normale,533786,FFFFFF,0

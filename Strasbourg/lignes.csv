@@ -1,0 +1,41 @@
+id,numero,nom,description,type,couleur,couleur_texte,boucle
+02,2,Lingolsheim Gare - Jardin des Deux Rives,,normale,E10D19,FFFFFF,0
+10,10,Gare Centrale - Musée d'Art Moderne - Gallia,,normale,F8B705,000000,1
+12,12,Lingolsheim Alouettes - Entzheim Ouest,,normale,89CDD1,000000,0
+15,15,République -  Boecklin,,normale,89CDD1,000000,0
+17,17,Rotonde - Mittelhausbergen Mittelberg,,normale,F3C6DB,000000,0
+18,18,Rotonde - via Marché Gare,,normale,F8B705,000000,1
+22,22,Lingolsheim Alouettes - Holtzheim Ouest,,normale,89CDD1,000000,0
+30,30,Ampère -Robertsau Sainte Anne/ Robertsau Chasseurs,,normale,FFDC08,000000,0
+31,31,Ampère - Baggersee,,normale,F3C6DB,000000,0
+40,40,Unterelsau - Neuhof Ganzau,,normale,FFDC08,000000,0
+42,42,Entzheim Gare - Entzheim Ouest,,normale,C273A8,FFFFFF,0
+43,43,Entzheim Gare - Holtzheim Ouest,,normale,E75113,FFFFFF,0
+44,44,Entzheim Gare - Kolbsheim Mairie,,normale,729ECF,FFFFFF,0
+45,45,Lingolsheim Alouettes - Poteries,,normale,9A5527,FFFFFF,0
+57,57,Baggersee  - Geispolsheim Ouest / Blaesheim Ouest,,normale,EC7007,000000,0
+60,60,Wacken - Mundolsheim Découvertes,,normale,EC7007,FFFFFF,0
+62,62,Geispolsheim Gare - Graff. Digue / Lipsheim Centre,,normale,BDD753,000000,0
+63,63,Campus d'Illkirch - Lipsheim Gare,,normale,7DBBDF,000000,0
+64,64,Campus d'Illkirch - Lingolsheim Alouettes,,normale,EA5297,FFFFFF,0
+67,67,Baggersee - Graffenstaden Digue / Plobsheim Est,,normale,6DB122,FFFFFF,0
+70,70,Rob. Renaissance / Poteries - Wolfisheim Stade,,normale,F8B705,000000,0
+71,71,Les Halles - Eckwersheim Hippodrome,,normale,73B3DE,FFFFFF,0
+72,72,République - La Wantzenau Le Golf,,normale,F3C6DB,000000,0
+73,73,Les Halles - Lampertheim Alisiers,,normale,B5833C,FFFFFF,0
+74,74,Hoenheim Gare-Reichstett/Vendenheim/EcoParc Rhénan,,normale,008231,FFFFFF,0
+75,75,Les Halles -Mundolsheim / Vendenheim / Eckwersheim,,normale,9FC204,000000,0
+76,76,Les Halles - Reichstett Rue de Paris,,normale,C273A8,FFFFFF,0
+C1,C1,Lingolsheim Alouettes - Robertsau Lamproie,,normale,22AE84,FFFFFF,0
+C3,C3,Les Halles - Hoenheim Gare,,normale,9FC204,000000,0
+C4,C4,Illkirch Fort Uhrich - Schiltigheim Campus,,normale,F08118,FFFFFF,0
+C5,C5,Koenigshoffen Sud - Schiltigheim Le Marais,,normale,25715C,FFFFFF,0
+C6,C6,Pont Phario - Les Halles,,normale,7D5D9F,FFFFFF,0
+C7,C7,Baggersee-L. Aubrac/La Rochelle/Port Autonome Sud,,normale,008A27,FFFFFF,0
+C8,C8,Pont Saint-Nicolas - Neuhof Stockfeld,,normale,88CDD5,000000,0
+C9,C9,Les Halles - Hoenheim Gare / Vendenheim Gare,,normale,F26640,FFFFFF,0
+G,G,Rotterdam - Gare - Espace Européen de l'Entreprise,,normale,F6C900,000000,0
+H,H,Gare Centrale - Parlement Européen,,normale,A62341,FFFFFF,0
+N1,N1,Pont Saint-Nicolas - Pont Phario,,normale,B55C38,FFFFFF,0
+N2,N2,Hoenheim Gare - Campus d'Illkirch,,normale,7F0047,FFFFFF,0
+N3,N3,Kehl Bahnhof - Mathieu Zell,,normale,2D3E58,FFFFFF,0

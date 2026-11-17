@@ -1,0 +1,116 @@
+id,numero,nom,description,type,couleur,couleur_texte,boucle
+RTM-7,1,Métro La Rose - Château Gombert,,normale,009FE3,FFFFFF,0
+RTM-3,2,Métro La Rose - Cité La Marie Haute,,normale,009FE3,FFFFFF,0
+RTM-10,3,Métro La Rose - Hauts de Ste Marthe,,normale,009FE3,FFFFFF,0
+RTM-5,4,Métro La Rose - La Valentine Centre Commercial,,normale,009FE3,FFFFFF,0
+RTM-6,4B,Métro La Rose - Les 3 Lucs,,normale,009FE3,FFFFFF,0
+RTM-9,5,Métro La Rose - La Parade,,normale,009FE3,FFFFFF,0
+RTM-14,6,Foch 5 Avenues - Bois Lemaître,,normale,F39200,000000,0
+RTM-12,7,Foch 5 Avenues - Les 3 Lucs Enco de Botte,,normale,FBBA00,000000,0
+RTM-18,7B,Foch 5 Avenues - Bois Lemaître,,normale,FBBA00,000000,0
+RTM-13,9,Les Caillols Centre Urbain - St Julien,,normale,189B52,FFFFFF,0
+RTM-15,10,Métro La Fourragère - Les Caillols Hôpital,,normale,E94F35,FFFFFF,0
+RTM-58,12,Métro La Timone - Eoures,,normale,007BC4,FFFFFF,0
+RTM-57,12B,Métro La Timone - Les Camoins,,normale,007BC4,FFFFFF,0
+RTM-59,12S,Métro La Timone - La Treille,,normale,007BC4,FFFFFF,0
+RTM-60,15,Sainte-Marguerite Dromel - Les Escourtines,,normale,BD1D1D,FFFFFF,0
+RTM-61,15S,Sainte-Marguerite Dromel - La Valentelle,,normale,BD1D1D,FFFFFF,0
+RTM-78,16,Sainte-Marguerite Dromel - Parc des Bruyères,,normale,CA4E39,FFFFFF,0
+RTM-79,17,Sainte-Marguerite Dromel - Les Caillols C. Urbain,,normale,D77D63,000000,0
+RTM-62,18,Castellane - Le Bosquet,,normale,814997,FFFFFF,0
+RTM-80,19,Castellane - Madrague de Montredon,,normale,E4348B,FFFFFF,0
+RTM-114,20,Madrague de Montredon - Callelongue,,normale,5C2483,FFFFFF,0
+RTM-88,22,Métro Rond Point du Prado - Les Baumettes,,normale,E63323,FFFFFF,0
+RTM-89,22S,Métro Rond Point du Prado - La Seigneurie,,normale,E63323,FFFFFF,0
+RTM-87,23,Métro Rond Point du Prado - Beauvallon,,normale,F39200,000000,0
+RTM-92,24,Sainte-Marguerite Dromel - Campus de Luminy,,normale,E30613,FFFFFF,0
+RTM-4,25,Gèze - St Antoine,,normale,E63329,FFFFFF,0
+RTM-17,27,Métro La Rose - Lycée Saint-Exupéry,,normale,6AAADE,000000,0
+RTM-35,28,Métro Bougainville - Les Aygalades,,normale,E63329,FFFFFF,0
+RTM-133,28B,Métro Bougainville - Bertrandon,,normale,E63329,FFFFFF,0
+RTM-10286,29,Canebière Bourse - Canet Ambrosini,,normale,F3953F,000000,0
+RTM-36,30,Gèze - La Savine,,normale,E63329,FFFFFF,0
+RTM-20,31,Canebière Bourse - Les Aygalades,,normale,009640,FFFFFF,0
+RTM-21,32,Canebière Bourse - St Jérome IUT,,normale,009640,FFFFFF,0
+RTM-22,33,Réformés Canebière - St Jérôme Parking Relais,,normale,00B1B2,FFFFFF,0
+RTM-23,34,Réformés Canebière - Le Merlan,,normale,00B1B2,FFFFFF,0
+RTM-37,35,Joliette - Estaque Riaux,,normale,BD1D1D,FFFFFF,0
+RTM-131,35T,Joliette - Terminal Croisières,,normale,009BBE,FFFFFF,0
+RTM-40,36,Métro Bougainville - La Nerthe,,normale,BD1D1D,FFFFFF,0
+RTM-41,36B,Métro Bougainville - L'Estaque,,normale,BD1D1D,FFFFFF,0
+RTM-25,37,Métro Malpassé - La Batarelle,,normale,312783,FFFFFF,0
+RTM-38,38,Gèze - Métro Malpassé,,normale,E63329,FFFFFF,0
+RTM-27,39,Métro Malpassé - Résidence Fondacle,,normale,312783,FFFFFF,0
+RTM-63,40,Métro La Timone - La Solitude,,normale,6AAADE,000000,0
+RTM-28,41,Vieux-Port Ballard - Métro Rond Point du Prado,,normale,85C9B7,000000,0
+RTM-31,42,Métro 5 Avenues - Dépôt La Rose,,normale,636AAF,FFFFFF,0
+RTM-33,42T,Métro 5 Avenues - Les Baronnies,,normale,636AAF,FFFFFF,0
+RTM-91,44,Métro Rond Point du Prado - Collège Roy d'Espagne,,normale,E63323,FFFFFF,0
+RTM-90,45,Métro Rond Point du Prado - Marseilleveyre,,normale,F39200,000000,0
+RTM-99,46,La Gaye - La Panouse,,normale,C2063B,FFFFFF,0
+RTM-96,47,La Gaye - Escale Borély,,normale,CD4849,FFFFFF,0
+RTM-98,48,Métro Rond Point du Prado - Hôpital Clairval,,normale,DB7A7C,000000,0
+RTM-64,49,Réformés Canebière - Vauban,,normale,DA4F37,FFFFFF,0
+RTM-56,50,Castellane - Les Escourtines,,normale,E4348B,FFFFFF,0
+RTM-1,51,La Valentelle - La Reynarde,,normale,AFCA0B,000000,0
+RTM-65,52,Gare St Charles - Métro La Timone,,normale,0073BD,FFFFFF,0
+RTM-29,53,Métro St Just - Les Flamants,,normale,005286,FFFFFF,0
+RTM-66,54,Catalans - Métro La Timone,,normale,007BC4,FFFFFF,0
+RTM-67,55,Joliette - Roucas Blanc,,normale,F59C00,000000,0
+RTM-143,56,Gare St Charles - Belle de Mai La Friche,,normale,F59C00,000000,0
+RTM-10216,59,Vieux-Port Ballard - Colline de la Garde,,normale,6AAADE,000000,0
+RTM-69,60,Mucem Saint-Jean - Notre Dame de la Garde,,normale,FFDD00,000000,0
+RTM-70,61,Vieux-Port Ballard - Bompard,,normale,76B82A,000000,0
+RTM-10242,62,Métro La Rose - Plan-de-Cuques Montade,,normale,31B7BC,000000,0
+RTM-10244,63,Métro La Rose - Allauch Côtes Rôties,,normale,F9DB33,000000,0
+RTM-10243,64,Gare de la Barasse - Collège Olympe de Gouges,,normale,EF7D00,000000,0
+RTM-71,67,Métro Chartreux - La Blancarde,,normale,5BC5F2,000000,0
+RTM-42,70,Gèze - Lycée Saint-Exupéry,,normale,40AB35,FFFFFF,0
+RTM-44,72,Arenc Euroméditerranée - Métro Rond Point du Prado,,normale,E30613,FFFFFF,0
+RTM-73,73,Castellane - Corniche Roucas Blanc,,normale,E4348B,FFFFFF,0
+RTM-74,74,Réformés Canebière - Vallon Montebello,,normale,5C2483,FFFFFF,0
+RTM-72,80,Vieux-Port Ballard - Eglise d'Endoume,,normale,76B82A,000000,0
+RTM-188,81,Le Pharo - Métro St Just,,normale,005286,FFFFFF,0
+RTM-46,82S,Pharo Catalans - Gare St Charles,,normale,AFCA0B,000000,0
+RTM-76,83,Arenc Euroméditerranée - Métro Rond Point du Prado,,normale,BD1D1D,FFFFFF,0
+RTM-104,84,Place du 4 Septembre - Samatan,,normale,EA591B,FFFFFF,0
+RTM-105,86,Métro Périer - Mairie 6-8,,normale,FFDD00,000000,0
+RTM-50,88,Métro Désirée Clary - Métro 5 Avenues,,normale,AFCA0B,000000,0
+RTM-30,89,Canebière Bourse - Le Canet Jean Jaurès,,normale,009640,FFFFFF,0
+RTM-77,91,Métro La Timone - Les Caillols Hôpital,,normale,93D5F6,000000,0
+RTM-51,95,Estaque Port - Rochers de l'Estaque,,normale,878787,FFFFFF,0
+RTM-54,96,Hôpital Nord - L'Estaque,,normale,878787,FFFFFF,0
+RTM-132,98,Gèze - St Antoine,,normale,F49E00,000000,0
+RTM-10245,107,Métro La Fourragère - Allauch Village,,normale,0080B2,FFFFFF,0
+RTM-127,121,Hôpital Nord - Septèmes Centre,,normale,0BBBEF,000000,0
+RTM-128,122,Septèmes Centre - Hôpital Nord,,normale,85C9B7,000000,0
+RTM-115,142,Métro La Rose - Allauch La Fève,,normale,C60E41,FFFFFF,0
+RTM-121,144,Métro La Rose - Allauch Village,,normale,9CB40D,000000,0
+RTM-86,509,Canebière Bourse - Les Caillols Centre Urbain,,normale,C7D530,000000,0
+RTM-102,518,Castellane - La Rouvière,,normale,F9B122,000000,0
+RTM-107,530,Canebière Bourse - La Savine,,normale,009FE3,FFFFFF,0
+RTM-108,533,Canebière Bourse - Géraniums,,normale,009640,FFFFFF,0
+RTM-111,535,Arenc Euroméditerranée - Estaque Riaux,,normale,C9338B,FFFFFF,0
+RTM-109,540,Castellane - La Solitude,,normale,FFDD00,000000,0
+RTM-110,582,Canebière Bourse - Foch 5 Avenues,,normale,EA5160,FFFFFF,0
+RTM-10247,1100,Circuits scolaires Lycée Monte Cristo,,normale,951B81,FFFFFF,0
+RTM-139,B1,Castellane - Campus de Luminy,,normale,E5006B,FFFFFF,0
+RTM-10298,B1E,Métro Rond Point du Prado - Campus de Luminy,,normale,4E55A2,FFFFFF,0
+RTM-53,B2,Gèze - Vallon des Tuves,,normale,E5006B,FFFFFF,0
+RTM-103,B3,St Jérôme Parking Relais - Technop. de Ch. Gombert,,normale,F42B98,FFFFFF,0
+RTM-10259,B4,Gèze - Métro La Fourragère,,normale,8A5EA4,FFFFFF,0
+RTM-10246,B5,Métro La Fourragère - La Gaye,,normale,D39F51,000000,0
+RTM-10297,B14,Canebière Bourse - Notre Dame Limite,,normale,702283,FFFFFF,0
+RTM-193,BM1A,Métro La Rose - Métro La Timone,,normale,009FE3,FFFFFF,0
+RTM-194,BM1B,Métro La Timone - Métro La Fourragère,,normale,009FE3,FFFFFF,0
+RTM-192,BM2,Métro Gèze - Sainte-Marguerite Dromel,,normale,E30613,FFFFFF,0
+RTM-10217,N1,Vieux-Port - Luminy PN des Calanques,,normale,2E3A68,FFFFFF,0
+RTM-10218,N2,Vieux-Port - Einstein Parking Relais,,normale,2E3A68,FFFFFF,0
+RTM-187,S1,La Solidarité - Collège Vallon des Pins,,normale,951B81,FFFFFF,0
+RTM-178,S2,La Batarelle - Collège Jean Giono,,normale,951B81,FFFFFF,0
+RTM-179,S3,La Parade - Collège Malraux,,normale,951B81,FFFFFF,0
+RTM-180,S4,St Julien - Lycée Nelson Mandela,,normale,951B81,FFFFFF,0
+RTM-181,S5,Métro La Fourragère - Lycée Jean Perrin,,normale,951B81,FFFFFF,0
+RTM-182,S6,La Treille - Lycée Monte Cristo,,normale,951B81,FFFFFF,0
+RTM-183,S7,Place de la Corderie - Lycée Marseilleveyre,,normale,951B81,FFFFFF,0
+RTM-184,S8,Madrague de Montredon - Lycée Marseilleveyre,,normale,951B81,FFFFFF,0

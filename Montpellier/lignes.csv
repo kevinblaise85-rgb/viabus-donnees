@@ -1,0 +1,40 @@
+id,numero,nom,description,type,couleur,couleur_texte,boucle
+6,6,Euromédecine - Albert 1er,,normale,E94190,FFFFFF,0
+7,7,Hôtel du Département - Albert 1e,,normale,A877B2,FFFFFF,0
+8,8,Centrayrargues - Gare Saint-Roch,,normale,FFDC00,000000,0
+10,10,Cimetière St-Lazare - Celleneuve,,normale,FBBA00,000000,0
+11,11,La Martelle - Tournezy,,normale,5FC3E1,000000,0
+13,13,Occitanie - Charles de Gaulle,,normale,941B80,FFFFFF,0
+14,14,Léon Blum - Place de l'Europe,,normale,F08178,000000,0
+15,15,Gare Sud de France - Sabines,,normale,BF0D0D,FFFFFF,0
+16,16,Ch. de Gaulle - Port Marianne,,normale,009EE2,FFFFFF,0
+17,17,Les Bouisses - Gare Saint-Roch,,normale,BDAE00,000000,0
+18,18,Sabines - Maurin - Lattes Centre,,normale,E84E24,FFFFFF,0
+19,19,P. Coubertin - Hôtel Département,,normale,FFD400,000000,0
+20,20,St-Jean le Sec - Parc Font-Colombe,,normale,009EE2,FFFFFF,0
+21,21,ND de Sablassou - Vendargues,,normale,FFE500,000000,0
+22,22,Cirad de Baillarguet - Clapiers - Jacou,,normale,81CFF4,000000,0
+23,23,Clapiers - Prades-le-Lez,,normale,EF7D00,FFFFFF,1
+24,24,Grabels: La Valsière - Le Pradas,,normale,A61680,FFFFFF,0
+25,25,Courpouyran - Le Martinet,,normale,904E00,FFFFFF,0
+26,26,Montferrier-sur-Lez - Montferrier Olympe/Cirad,,normale,306980,FFFFFF,0
+27,27,Stade de Montaud- Gare de Baillargues,,normale,914F00,FFFFFF,0
+28,28,Boirargues - Cabanes Perols,,normale,F29100,FFFFFF,0
+30,30,Le Crès Jean Jaurès / Le Crès Maumarin,,normale,F4B4D2,000000,0
+31,31,ND Sablassou - Baillargues via Sussargues/StGeniès,,normale,8A9400,FFFFFF,0
+32,32,Garcia Lorca - Villeneuve-lès-M./Saint-Jean de V.,,normale,008288,FFFFFF,0
+33,33,St-Jean de Védas (Centre)-Fabrègues,,normale,C7D300,000000,0
+34,34,Mosson - Cournonsec,,normale,729957,FFFFFF,0
+35,35,Ch. de Gaulle-A.Rouge/Aires,,normale,164194,FFFFFF,0
+36,36,Charles de Gaulle - Cap Alpha - Stade de Montaud,,normale,E20613,FFFFFF,0
+38,38,Grés de Montpellier - Cournonsec,,normale,8C004C,FFFFFF,0
+40,40,Mosson - St-Georges d'Orques,,normale,FFDC00,000000,0
+42,42,Mosson - Murviel lès Montpellier,,normale,E5007E,FFFFFF,0
+43,43,St-Jean-le-Sec - Saussan - Pignan,,normale,FABC43,000000,0
+44,44,Navette Gare Villeneuve-les-M.,,normale,F193BD,000000,0
+46,46,ND Sablassou - Castries College,,normale,7A1C79,FFFFFF,0
+47,47,Université Montpellier Triolet,,normale,B5C952,000000,1
+52,52,Pl. de France - Cim. St.Etienne,,normale,FFE500,000000,0
+53,53,Sabines - Saint-Cléophas,,normale,95C11F,000000,0
+A,A,ND de Sablassou-Pl. de l'Europe,,normale,841932,FFFFFF,0
+Amigo,Amigo,Amigo,,normale,1C1B51,FFFFFF,0

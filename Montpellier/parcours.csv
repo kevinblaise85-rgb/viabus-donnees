@@ -1,0 +1,1510 @@
+ligne,sens,destination,part,longueur_m,position,arret
+6,0,Euromedecine,100,7567,1,q:6133
+6,0,Euromedecine,100,7567,2,q:2220
+6,0,Euromedecine,100,7567,3,q:6134
+6,0,Euromedecine,100,7567,4,q:7114
+6,0,Euromedecine,100,7567,5,q:7113
+6,0,Euromedecine,100,7567,6,q:3140
+6,0,Euromedecine,100,7567,7,q:3136
+6,0,Euromedecine,100,7567,8,q:3126
+6,0,Euromedecine,100,7567,9,q:3129
+6,0,Euromedecine,100,7567,10,q:3130
+6,0,Euromedecine,100,7567,11,q:3131
+6,0,Euromedecine,100,7567,12,q:3135
+6,0,Euromedecine,100,7567,13,q:3141
+6,0,Euromedecine,100,7567,14,q:7101
+6,0,Euromedecine,100,7567,15,q:3138
+6,0,Euromedecine,100,7567,16,q:2125
+6,0,Euromedecine,100,7567,17,q:2126
+6,0,Euromedecine,100,7567,18,q:2127
+6,0,Euromedecine,100,7567,19,q:2128
+6,0,Euromedecine,100,7567,20,q:3139
+6,0,Euromedecine,100,7567,21,q:2129
+6,0,Euromedecine,100,7567,22,q:2202
+6,1,ALBERT 1er JARD,100,8366,1,q:2202
+6,1,ALBERT 1er JARD,100,8366,2,q:16202
+6,1,ALBERT 1er JARD,100,8366,3,q:2129
+6,1,ALBERT 1er JARD,100,8366,4,q:3139
+6,1,ALBERT 1er JARD,100,8366,5,q:2128
+6,1,ALBERT 1er JARD,100,8366,6,q:2127
+6,1,ALBERT 1er JARD,100,8366,7,q:2126
+6,1,ALBERT 1er JARD,100,8366,8,q:2125
+6,1,ALBERT 1er JARD,100,8366,9,q:3138
+6,1,ALBERT 1er JARD,100,8366,10,q:7101
+6,1,ALBERT 1er JARD,100,8366,11,q:3141
+6,1,ALBERT 1er JARD,100,8366,12,q:7137
+6,1,ALBERT 1er JARD,100,8366,13,q:3135
+6,1,ALBERT 1er JARD,100,8366,14,q:3131
+6,1,ALBERT 1er JARD,100,8366,15,q:3130
+6,1,ALBERT 1er JARD,100,8366,16,q:3129
+6,1,ALBERT 1er JARD,100,8366,17,q:3126
+6,1,ALBERT 1er JARD,100,8366,18,q:3136
+6,1,ALBERT 1er JARD,100,8366,19,q:3140
+6,1,ALBERT 1er JARD,100,8366,20,q:7113
+6,1,ALBERT 1er JARD,100,8366,21,q:7114
+6,1,ALBERT 1er JARD,100,8366,22,q:6134
+6,1,ALBERT 1er JARD,100,8366,23,q:2220
+6,1,ALBERT 1er JARD,100,8366,24,q:6133
+7,0,ALBERT 1er JARD,100,4440,1,q:7132
+7,0,ALBERT 1er JARD,100,4440,2,q:7237
+7,0,ALBERT 1er JARD,100,4440,3,q:7137
+7,0,ALBERT 1er JARD,100,4440,4,q:3141
+7,0,ALBERT 1er JARD,100,4440,5,q:7106
+7,0,ALBERT 1er JARD,100,4440,6,q:7107
+7,0,ALBERT 1er JARD,100,4440,7,q:7108
+7,0,ALBERT 1er JARD,100,4440,8,q:7109
+7,0,ALBERT 1er JARD,100,4440,9,q:7110
+7,0,ALBERT 1er JARD,100,4440,10,q:7111
+7,0,ALBERT 1er JARD,100,4440,11,q:3121
+7,0,ALBERT 1er JARD,100,4440,12,q:3120
+7,0,ALBERT 1er JARD,100,4440,13,q:6235
+7,0,ALBERT 1er JARD,100,4440,14,q:6133
+7,1,H. Departement,100,4425,1,q:6133
+7,1,H. Departement,100,4425,2,q:3119
+7,1,H. Departement,100,4425,3,q:3120
+7,1,H. Departement,100,4425,4,q:3121
+7,1,H. Departement,100,4425,5,q:7111
+7,1,H. Departement,100,4425,6,q:7110
+7,1,H. Departement,100,4425,7,q:7109
+7,1,H. Departement,100,4425,8,q:7108
+7,1,H. Departement,100,4425,9,q:7224
+7,1,H. Departement,100,4425,10,q:7107
+7,1,H. Departement,100,4425,11,q:7106
+7,1,H. Departement,100,4425,12,q:3141
+7,1,H. Departement,100,4425,13,q:7237
+7,1,H. Departement,100,4425,14,q:7132
+8,0,Gare Saint-Roch,100,3278,1,q:8226
+8,0,Gare Saint-Roch,100,3278,2,q:12211
+8,0,Gare Saint-Roch,100,3278,3,q:12212
+8,0,Gare Saint-Roch,100,3278,4,q:12106
+8,0,Gare Saint-Roch,100,3278,5,q:3107
+8,0,Gare Saint-Roch,100,3278,6,q:8103
+8,0,Gare Saint-Roch,100,3278,7,q:8104
+8,0,Gare Saint-Roch,100,3278,8,q:8105
+8,0,Gare Saint-Roch,100,3278,9,q:8106
+8,0,Gare Saint-Roch,100,3278,10,q:3112
+8,0,Gare Saint-Roch,100,3278,11,q:8131
+8,0,Gare Saint-Roch,100,3278,12,q:8132
+8,0,Gare Saint-Roch,100,3278,13,q:11
+8,1,Centrayrargues,100,3043,1,q:11
+8,1,Centrayrargues,100,3043,2,q:16206
+8,1,Centrayrargues,100,3043,3,q:8218
+8,1,Centrayrargues,100,3043,4,q:8106
+8,1,Centrayrargues,100,3043,5,q:8105
+8,1,Centrayrargues,100,3043,6,q:8104
+8,1,Centrayrargues,100,3043,7,q:8103
+8,1,Centrayrargues,100,3043,8,q:3107
+8,1,Centrayrargues,100,3043,9,q:12106
+8,1,Centrayrargues,100,3043,10,q:8226
+10,0,Celleneuve,100,6970,1,q:10264
+10,0,Celleneuve,100,6970,2,q:10165
+10,0,Celleneuve,100,6970,3,q:5134
+10,0,Celleneuve,100,6970,4,q:5234
+10,0,Celleneuve,100,6970,5,q:5233
+10,0,Celleneuve,100,6970,6,q:10166
+10,0,Celleneuve,100,6970,7,q:5138
+10,0,Celleneuve,100,6970,8,q:7166
+10,0,Celleneuve,100,6970,9,q:9209
+10,0,Celleneuve,100,6970,10,q:9118
+10,0,Celleneuve,100,6970,11,q:9117
+10,0,Celleneuve,100,6970,12,q:9116
+10,0,Celleneuve,100,6970,13,q:9115
+10,0,Celleneuve,100,6970,14,q:9114
+10,0,Celleneuve,100,6970,15,q:9113
+10,0,Celleneuve,100,6970,16,q:9112
+10,0,Celleneuve,100,6970,17,q:9111
+10,0,Celleneuve,100,6970,18,q:9110
+10,0,Celleneuve,100,6970,19,q:9109
+10,0,Celleneuve,100,6970,20,q:1112
+10,0,Celleneuve,100,6970,21,q:1113
+10,0,Celleneuve,100,6970,22,q:1114
+10,0,Celleneuve,100,6970,23,q:1115
+10,0,Celleneuve,100,6970,24,q:10119
+10,1,Cim St Lazare,100,7212,1,q:10119
+10,1,Cim St Lazare,100,7212,2,q:1115
+10,1,Cim St Lazare,100,7212,3,q:1114
+10,1,Cim St Lazare,100,7212,4,q:1113
+10,1,Cim St Lazare,100,7212,5,q:1112
+10,1,Cim St Lazare,100,7212,6,q:9109
+10,1,Cim St Lazare,100,7212,7,q:9110
+10,1,Cim St Lazare,100,7212,8,q:9111
+10,1,Cim St Lazare,100,7212,9,q:9112
+10,1,Cim St Lazare,100,7212,10,q:9113
+10,1,Cim St Lazare,100,7212,11,q:9114
+10,1,Cim St Lazare,100,7212,12,q:9115
+10,1,Cim St Lazare,100,7212,13,q:9116
+10,1,Cim St Lazare,100,7212,14,q:9117
+10,1,Cim St Lazare,100,7212,15,q:9118
+10,1,Cim St Lazare,100,7212,16,q:7115
+10,1,Cim St Lazare,100,7212,17,q:6134
+10,1,Cim St Lazare,100,7212,18,q:3118
+10,1,Cim St Lazare,100,7212,19,q:3119
+10,1,Cim St Lazare,100,7212,20,q:5138
+10,1,Cim St Lazare,100,7212,21,q:10166
+10,1,Cim St Lazare,100,7212,22,q:5233
+10,1,Cim St Lazare,100,7212,23,q:5234
+10,1,Cim St Lazare,100,7212,24,q:5134
+10,1,Cim St Lazare,100,7212,25,q:10165
+10,1,Cim St Lazare,100,7212,26,q:10264
+11,0,Tournezy,100,9456,1,q:7131
+11,0,Tournezy,100,9456,2,q:7129
+11,0,Tournezy,100,9456,3,q:7128
+11,0,Tournezy,100,9456,4,q:7151
+11,0,Tournezy,100,9456,5,q:7152
+11,0,Tournezy,100,9456,6,q:7161
+11,0,Tournezy,100,9456,7,q:7125
+11,0,Tournezy,100,9456,8,q:7124
+11,0,Tournezy,100,9456,9,q:7122
+11,0,Tournezy,100,9456,10,q:7121
+11,0,Tournezy,100,9456,11,q:7120
+11,0,Tournezy,100,9456,12,q:7119
+11,0,Tournezy,100,9456,13,q:7213
+11,0,Tournezy,100,9456,14,q:7214
+11,0,Tournezy,100,9456,15,q:11138
+11,0,Tournezy,100,9456,16,q:11134
+11,0,Tournezy,100,9456,17,q:5212
+11,0,Tournezy,100,9456,18,q:11
+11,0,Tournezy,100,9456,19,q:16206
+11,0,Tournezy,100,9456,20,q:3112
+11,0,Tournezy,100,9456,21,q:3111
+11,0,Tournezy,100,9456,22,q:3110
+11,0,Tournezy,100,9456,23,q:3109
+11,0,Tournezy,100,9456,24,q:3108
+11,0,Tournezy,100,9456,25,q:3107
+11,0,Tournezy,100,9456,26,q:3106
+11,0,Tournezy,100,9456,27,q:3105
+11,0,Tournezy,100,9456,28,q:3102
+11,0,Tournezy,100,9456,29,q:3101
+11,1,La Martelle,100,10338,1,q:3101
+11,1,La Martelle,100,10338,2,q:3102
+11,1,La Martelle,100,10338,3,q:3105
+11,1,La Martelle,100,10338,4,q:3106
+11,1,La Martelle,100,10338,5,q:3107
+11,1,La Martelle,100,10338,6,q:3108
+11,1,La Martelle,100,10338,7,q:3109
+11,1,La Martelle,100,10338,8,q:3110
+11,1,La Martelle,100,10338,9,q:3111
+11,1,La Martelle,100,10338,10,q:3112
+11,1,La Martelle,100,10338,11,q:8131
+11,1,La Martelle,100,10338,12,q:8132
+11,1,La Martelle,100,10338,13,q:11
+11,1,La Martelle,100,10338,14,q:5212
+11,1,La Martelle,100,10338,15,q:11134
+11,1,La Martelle,100,10338,16,q:11138
+11,1,La Martelle,100,10338,17,q:11137
+11,1,La Martelle,100,10338,18,q:11236
+11,1,La Martelle,100,10338,19,q:11237
+11,1,La Martelle,100,10338,20,q:7119
+11,1,La Martelle,100,10338,21,q:7120
+11,1,La Martelle,100,10338,22,q:7121
+11,1,La Martelle,100,10338,23,q:7122
+11,1,La Martelle,100,10338,24,q:7124
+11,1,La Martelle,100,10338,25,q:7125
+11,1,La Martelle,100,10338,26,q:7161
+11,1,La Martelle,100,10338,27,q:7152
+11,1,La Martelle,100,10338,28,q:7151
+11,1,La Martelle,100,10338,29,q:7127
+11,1,La Martelle,100,10338,30,q:7128
+11,1,La Martelle,100,10338,31,q:7129
+11,1,La Martelle,100,10338,32,q:7131
+13,0,Ch Gaulle V Aig,50,7116,1,q:3138
+13,0,Ch Gaulle V Aig,50,7116,2,q:2125
+13,0,Ch Gaulle V Aig,50,7116,3,q:6121
+13,0,Ch Gaulle V Aig,50,7116,4,q:13135
+13,0,Ch Gaulle V Aig,50,7116,5,q:6119
+13,0,Ch Gaulle V Aig,50,7116,6,q:13119
+13,0,Ch Gaulle V Aig,50,7116,7,q:13133
+13,0,Ch Gaulle V Aig,50,7116,8,q:5161
+13,0,Ch Gaulle V Aig,50,7116,9,q:13132
+13,0,Ch Gaulle V Aig,50,7116,10,q:11120
+13,0,Ch Gaulle V Aig,50,7116,11,q:11201
+13,0,Ch Gaulle V Aig,50,7116,12,q:13131
+13,0,Ch Gaulle V Aig,50,7116,13,q:11117
+13,0,Ch Gaulle V Aig,50,7116,14,q:11116
+13,0,Ch Gaulle V Aig,50,7116,15,q:11115
+13,0,Ch Gaulle V Aig,50,7116,16,q:11114
+13,0,Ch Gaulle V Aig,50,7116,17,q:10105
+13,0,Ch Gaulle V Aig,50,7116,18,q:10104
+13,0,Ch Gaulle V Aig,50,7116,19,q:10103
+13,0,Ch Gaulle V Aig,50,7116,20,q:10151
+13,0,Ch Gaulle V Aig,50,7116,21,q:10150
+13,1,Occitanie V Aig,50,7116,1,q:10150
+13,1,Occitanie V Aig,50,7116,2,q:10151
+13,1,Occitanie V Aig,50,7116,3,q:10103
+13,1,Occitanie V Aig,50,7116,4,q:10104
+13,1,Occitanie V Aig,50,7116,5,q:10105
+13,1,Occitanie V Aig,50,7116,6,q:11114
+13,1,Occitanie V Aig,50,7116,7,q:11115
+13,1,Occitanie V Aig,50,7116,8,q:11116
+13,1,Occitanie V Aig,50,7116,9,q:11117
+13,1,Occitanie V Aig,50,7116,10,q:13131
+13,1,Occitanie V Aig,50,7116,11,q:11201
+13,1,Occitanie V Aig,50,7116,12,q:11120
+13,1,Occitanie V Aig,50,7116,13,q:13132
+13,1,Occitanie V Aig,50,7116,14,q:5161
+13,1,Occitanie V Aig,50,7116,15,q:13133
+13,1,Occitanie V Aig,50,7116,16,q:13119
+13,1,Occitanie V Aig,50,7116,17,q:6119
+13,1,Occitanie V Aig,50,7116,18,q:13135
+13,1,Occitanie V Aig,50,7116,19,q:6121
+13,1,Occitanie V Aig,50,7116,20,q:2125
+13,1,Occitanie V Aig,50,7116,21,q:3138
+14,0,Pl. de L'Europe,100,9030,1,q:9234
+14,0,Pl. de L'Europe,100,9030,2,q:4116
+14,0,Pl. de L'Europe,100,9030,3,q:14109
+14,0,Pl. de L'Europe,100,9030,4,q:8110
+14,0,Pl. de L'Europe,100,9030,5,q:8111
+14,0,Pl. de L'Europe,100,9030,6,q:8112
+14,0,Pl. de L'Europe,100,9030,7,q:8113
+14,0,Pl. de L'Europe,100,9030,8,q:8210
+14,0,Pl. de L'Europe,100,9030,9,q:14106
+14,0,Pl. de L'Europe,100,9030,10,q:8116
+14,0,Pl. de L'Europe,100,9030,11,q:8118
+14,0,Pl. de L'Europe,100,9030,12,q:8119
+14,0,Pl. de L'Europe,100,9030,13,q:14120
+14,0,Pl. de L'Europe,100,9030,14,q:10154
+14,0,Pl. de L'Europe,100,9030,15,q:9142
+14,0,Pl. de L'Europe,100,9030,16,q:9255
+14,0,Pl. de L'Europe,100,9030,17,q:9152
+14,0,Pl. de L'Europe,100,9030,18,q:9137
+14,0,Pl. de L'Europe,100,9030,19,q:9138
+14,0,Pl. de L'Europe,100,9030,20,q:10123
+14,0,Pl. de L'Europe,100,9030,21,q:9139
+14,0,Pl. de L'Europe,100,9030,22,q:9140
+14,0,Pl. de L'Europe,100,9030,23,q:9153
+14,0,Pl. de L'Europe,100,9030,24,q:9146
+14,0,Pl. de L'Europe,100,9030,25,q:10133
+14,0,Pl. de L'Europe,100,9030,26,q:10144
+14,0,Pl. de L'Europe,100,9030,27,q:16134
+14,0,Pl. de L'Europe,100,9030,28,q:16135
+14,0,Pl. de L'Europe,100,9030,29,q:16136
+14,0,Pl. de L'Europe,100,9030,30,q:9149
+14,1,Leon Blum,91,9161,1,q:9149
+14,1,Leon Blum,91,9161,2,q:16135
+14,1,Leon Blum,91,9161,3,q:16134
+14,1,Leon Blum,91,9161,4,q:10144
+14,1,Leon Blum,91,9161,5,q:10133
+14,1,Leon Blum,91,9161,6,q:9153
+14,1,Leon Blum,91,9161,7,q:9146
+14,1,Leon Blum,91,9161,8,q:9140
+14,1,Leon Blum,91,9161,9,q:9139
+14,1,Leon Blum,91,9161,10,q:10123
+14,1,Leon Blum,91,9161,11,q:9138
+14,1,Leon Blum,91,9161,12,q:9137
+14,1,Leon Blum,91,9161,13,q:9152
+14,1,Leon Blum,91,9161,14,q:9255
+14,1,Leon Blum,91,9161,15,q:9142
+14,1,Leon Blum,91,9161,16,q:10154
+14,1,Leon Blum,91,9161,17,q:14120
+14,1,Leon Blum,91,9161,18,q:8119
+14,1,Leon Blum,91,9161,19,q:8118
+14,1,Leon Blum,91,9161,20,q:8116
+14,1,Leon Blum,91,9161,21,q:14106
+14,1,Leon Blum,91,9161,22,q:8210
+14,1,Leon Blum,91,9161,23,q:8113
+14,1,Leon Blum,91,9161,24,q:8112
+14,1,Leon Blum,91,9161,25,q:8111
+14,1,Leon Blum,91,9161,26,q:8110
+14,1,Leon Blum,91,9161,27,q:14109
+14,1,Leon Blum,91,9161,28,q:9234
+15,0,Sabines,84,14929,1,q:15121
+15,0,Sabines,84,14929,2,q:15119
+15,0,Sabines,84,14929,3,q:15120
+15,0,Sabines,84,14929,4,q:10133
+15,0,Sabines,84,14929,5,q:10144
+15,0,Sabines,84,14929,6,q:16134
+15,0,Sabines,84,14929,7,q:10146
+15,0,Sabines,84,14929,8,q:10147
+15,0,Sabines,84,14929,9,q:10122
+15,0,Sabines,84,14929,10,q:9129
+15,0,Sabines,84,14929,11,q:10159
+15,0,Sabines,84,14929,12,q:10154
+15,0,Sabines,84,14929,13,q:14120
+15,0,Sabines,84,14929,14,q:8120
+15,0,Sabines,84,14929,15,q:8121
+15,0,Sabines,84,14929,16,q:10150
+15,0,Sabines,84,14929,17,q:10151
+15,0,Sabines,84,14929,18,q:15123
+15,0,Sabines,84,14929,19,q:10107
+15,0,Sabines,84,14929,20,q:10108
+15,0,Sabines,84,14929,21,q:10109
+15,0,Sabines,84,14929,22,q:10110
+15,0,Sabines,84,14929,23,q:10136
+15,0,Sabines,84,14929,24,q:10111
+15,0,Sabines,84,14929,25,q:10112
+15,0,Sabines,84,14929,26,q:3124
+15,0,Sabines,84,14929,27,q:3125
+15,0,Sabines,84,14929,28,q:3126
+15,0,Sabines,84,14929,29,q:10113
+15,0,Sabines,84,14929,30,q:10114
+15,0,Sabines,84,14929,31,q:9109
+15,0,Sabines,84,14929,32,q:1112
+15,0,Sabines,84,14929,33,q:7124
+15,0,Sabines,84,14929,34,q:7125
+15,0,Sabines,84,14929,35,q:7161
+15,0,Sabines,84,14929,36,q:7162
+15,0,Sabines,84,14929,37,q:7165
+15,0,Sabines,84,14929,38,q:38109
+15,0,Sabines,84,14929,39,q:15116
+15,0,Sabines,84,14929,40,q:15117
+15,0,Sabines,84,14929,41,q:6105
+15,0,Sabines,84,14929,42,q:10155
+15,0,Sabines,84,14929,43,q:10152
+15,1,Gare Sud France,85,14929,1,q:10152
+15,1,Gare Sud France,85,14929,2,q:10155
+15,1,Gare Sud France,85,14929,3,q:6105
+15,1,Gare Sud France,85,14929,4,q:15117
+15,1,Gare Sud France,85,14929,5,q:15116
+15,1,Gare Sud France,85,14929,6,q:38109
+15,1,Gare Sud France,85,14929,7,q:7165
+15,1,Gare Sud France,85,14929,8,q:7162
+15,1,Gare Sud France,85,14929,9,q:7161
+15,1,Gare Sud France,85,14929,10,q:7125
+15,1,Gare Sud France,85,14929,11,q:7124
+15,1,Gare Sud France,85,14929,12,q:1112
+15,1,Gare Sud France,85,14929,13,q:9109
+15,1,Gare Sud France,85,14929,14,q:10114
+15,1,Gare Sud France,85,14929,15,q:10113
+15,1,Gare Sud France,85,14929,16,q:3126
+15,1,Gare Sud France,85,14929,17,q:3125
+15,1,Gare Sud France,85,14929,18,q:3124
+15,1,Gare Sud France,85,14929,19,q:10112
+15,1,Gare Sud France,85,14929,20,q:10111
+15,1,Gare Sud France,85,14929,21,q:10136
+15,1,Gare Sud France,85,14929,22,q:10110
+15,1,Gare Sud France,85,14929,23,q:10109
+15,1,Gare Sud France,85,14929,24,q:10108
+15,1,Gare Sud France,85,14929,25,q:10107
+15,1,Gare Sud France,85,14929,26,q:15123
+15,1,Gare Sud France,85,14929,27,q:10151
+15,1,Gare Sud France,85,14929,28,q:10150
+15,1,Gare Sud France,85,14929,29,q:8121
+15,1,Gare Sud France,85,14929,30,q:8120
+15,1,Gare Sud France,85,14929,31,q:14120
+15,1,Gare Sud France,85,14929,32,q:10154
+15,1,Gare Sud France,85,14929,33,q:10159
+15,1,Gare Sud France,85,14929,34,q:9129
+15,1,Gare Sud France,85,14929,35,q:10122
+15,1,Gare Sud France,85,14929,36,q:10147
+15,1,Gare Sud France,85,14929,37,q:10146
+15,1,Gare Sud France,85,14929,38,q:16134
+15,1,Gare Sud France,85,14929,39,q:10144
+15,1,Gare Sud France,85,14929,40,q:10133
+15,1,Gare Sud France,85,14929,41,q:15120
+15,1,Gare Sud France,85,14929,42,q:15119
+15,1,Gare Sud France,85,14929,43,q:15121
+16,0,Port Marianne,100,4622,1,q:10150
+16,0,Port Marianne,100,4622,2,q:8122
+16,0,Port Marianne,100,4622,3,q:8124
+16,0,Port Marianne,100,4622,4,q:9142
+16,0,Port Marianne,100,4622,5,q:10159
+16,0,Port Marianne,100,4622,6,q:9129
+16,0,Port Marianne,100,4622,7,q:9126
+16,0,Port Marianne,100,4622,8,q:9125
+16,0,Port Marianne,100,4622,9,q:9124
+16,0,Port Marianne,100,4622,10,q:9123
+16,0,Port Marianne,100,4622,11,q:9122
+16,0,Port Marianne,100,4622,12,q:9149
+16,0,Port Marianne,100,4622,13,q:16136
+16,0,Port Marianne,100,4622,14,q:16401
+16,1,Ch. de Gaulle,100,4622,1,q:16401
+16,1,Ch. de Gaulle,100,4622,2,q:16136
+16,1,Ch. de Gaulle,100,4622,3,q:9149
+16,1,Ch. de Gaulle,100,4622,4,q:9122
+16,1,Ch. de Gaulle,100,4622,5,q:9123
+16,1,Ch. de Gaulle,100,4622,6,q:9124
+16,1,Ch. de Gaulle,100,4622,7,q:9125
+16,1,Ch. de Gaulle,100,4622,8,q:9126
+16,1,Ch. de Gaulle,100,4622,9,q:9129
+16,1,Ch. de Gaulle,100,4622,10,q:10159
+16,1,Ch. de Gaulle,100,4622,11,q:9142
+16,1,Ch. de Gaulle,100,4622,12,q:8124
+16,1,Ch. de Gaulle,100,4622,13,q:8122
+16,1,Ch. de Gaulle,100,4622,14,q:10150
+17,0,Gare Saint-Roch,100,5860,1,q:7165
+17,0,Gare Saint-Roch,100,5860,2,q:38109
+17,0,Gare Saint-Roch,100,5860,3,q:4106
+17,0,Gare Saint-Roch,100,5860,4,q:6101
+17,0,Gare Saint-Roch,100,5860,5,q:17131
+17,0,Gare Saint-Roch,100,5860,6,q:17132
+17,0,Gare Saint-Roch,100,5860,7,q:17133
+17,0,Gare Saint-Roch,100,5860,8,q:17134
+17,0,Gare Saint-Roch,100,5860,9,q:17135
+17,0,Gare Saint-Roch,100,5860,10,q:15117
+17,0,Gare Saint-Roch,100,5860,11,q:6105
+17,0,Gare Saint-Roch,100,5860,12,q:6106
+17,0,Gare Saint-Roch,100,5860,13,q:6107
+17,0,Gare Saint-Roch,100,5860,14,q:6126
+17,0,Gare Saint-Roch,100,5860,15,q:17136
+17,0,Gare Saint-Roch,100,5860,16,q:17137
+17,0,Gare Saint-Roch,100,5860,17,q:17138
+17,0,Gare Saint-Roch,100,5860,18,q:11134
+17,0,Gare Saint-Roch,100,5860,19,q:5212
+17,0,Gare Saint-Roch,100,5860,20,q:11
+17,1,Les Bouisses,100,5860,1,q:11
+17,1,Les Bouisses,100,5860,2,q:5212
+17,1,Les Bouisses,100,5860,3,q:11134
+17,1,Les Bouisses,100,5860,4,q:17138
+17,1,Les Bouisses,100,5860,5,q:17137
+17,1,Les Bouisses,100,5860,6,q:17136
+17,1,Les Bouisses,100,5860,7,q:6126
+17,1,Les Bouisses,100,5860,8,q:6107
+17,1,Les Bouisses,100,5860,9,q:6106
+17,1,Les Bouisses,100,5860,10,q:6105
+17,1,Les Bouisses,100,5860,11,q:15117
+17,1,Les Bouisses,100,5860,12,q:17135
+17,1,Les Bouisses,100,5860,13,q:17134
+17,1,Les Bouisses,100,5860,14,q:17133
+17,1,Les Bouisses,100,5860,15,q:17132
+17,1,Les Bouisses,100,5860,16,q:17131
+17,1,Les Bouisses,100,5860,17,q:6101
+17,1,Les Bouisses,100,5860,18,q:4106
+17,1,Les Bouisses,100,5860,19,q:38109
+17,1,Les Bouisses,100,5860,20,q:7165
+18,0,Sabines,100,6907,1,q:18125
+18,0,Sabines,100,6907,2,q:18103
+18,0,Sabines,100,6907,3,q:18101
+18,0,Sabines,100,6907,4,q:18121
+18,0,Sabines,100,6907,5,q:18119
+18,0,Sabines,100,6907,6,q:18123
+18,0,Sabines,100,6907,7,q:18118
+18,0,Sabines,100,6907,8,q:18115
+18,0,Sabines,100,6907,9,q:18118
+18,0,Sabines,100,6907,10,q:18123
+18,0,Sabines,100,6907,11,q:27103
+18,0,Sabines,100,6907,12,q:10152
+18,1,Lattes Centre,100,7034,1,q:10152
+18,1,Lattes Centre,100,7034,2,q:27103
+18,1,Lattes Centre,100,7034,3,q:18123
+18,1,Lattes Centre,100,7034,4,q:18118
+18,1,Lattes Centre,100,7034,5,q:18115
+18,1,Lattes Centre,100,7034,6,q:18118
+18,1,Lattes Centre,100,7034,7,q:18123
+18,1,Lattes Centre,100,7034,8,q:18119
+18,1,Lattes Centre,100,7034,9,q:18121
+18,1,Lattes Centre,100,7034,10,q:18101
+18,1,Lattes Centre,100,7034,11,q:18102
+18,1,Lattes Centre,100,7034,12,q:18103
+18,1,Lattes Centre,100,7034,13,q:18125
+19,0,H. Departement,100,4477,1,q:1135
+19,0,H. Departement,100,4477,2,q:1134
+19,0,H. Departement,100,4477,3,q:1133
+19,0,H. Departement,100,4477,4,q:1132
+19,0,H. Departement,100,4477,5,q:1131
+19,0,H. Departement,100,4477,6,q:19105
+19,0,H. Departement,100,4477,7,q:1130
+19,0,H. Departement,100,4477,8,q:1143
+19,0,H. Departement,100,4477,9,q:1142
+19,0,H. Departement,100,4477,10,q:1127
+19,0,H. Departement,100,4477,11,q:1126
+19,0,H. Departement,100,4477,12,q:1125
+19,0,H. Departement,100,4477,13,q:1124
+19,0,H. Departement,100,4477,14,q:19103
+19,0,H. Departement,100,4477,15,q:19104
+19,0,H. Departement,100,4477,16,q:7136
+19,0,H. Departement,100,4477,17,q:7132
+19,1,Coubertin,100,4477,1,q:7132
+19,1,Coubertin,100,4477,2,q:9227
+19,1,Coubertin,100,4477,3,q:7136
+19,1,Coubertin,100,4477,4,q:19104
+19,1,Coubertin,100,4477,5,q:19103
+19,1,Coubertin,100,4477,6,q:1124
+19,1,Coubertin,100,4477,7,q:1125
+19,1,Coubertin,100,4477,8,q:1126
+19,1,Coubertin,100,4477,9,q:1127
+19,1,Coubertin,100,4477,10,q:1142
+19,1,Coubertin,100,4477,11,q:1143
+19,1,Coubertin,100,4477,12,q:1130
+19,1,Coubertin,100,4477,13,q:19105
+19,1,Coubertin,100,4477,14,q:1131
+19,1,Coubertin,100,4477,15,q:1132
+19,1,Coubertin,100,4477,16,q:1133
+19,1,Coubertin,100,4477,17,q:1134
+19,1,Coubertin,100,4477,18,q:1135
+20,0,Parc Font-Colombe,37,5586,1,q:20138
+20,0,Parc Font-Colombe,37,5586,2,q:26109
+20,0,Parc Font-Colombe,37,5586,3,q:26110
+20,0,Parc Font-Colombe,37,5586,4,q:26101
+20,0,Parc Font-Colombe,37,5586,5,q:26111
+20,0,Parc Font-Colombe,37,5586,6,q:33118
+20,0,Parc Font-Colombe,37,5586,7,q:32151
+20,0,Parc Font-Colombe,37,5586,8,q:32152
+20,0,Parc Font-Colombe,37,5586,9,q:20102
+20,0,Parc Font-Colombe,37,5586,10,q:20141
+20,0,Parc Font-Colombe,37,5586,11,q:20101
+20,0,Parc Font-Colombe,37,5586,12,q:32155
+20,0,Parc Font-Colombe,37,5586,13,q:32158
+20,0,Parc Font-Colombe,37,5586,14,q:38109
+20,1,Saint-Jean le Sec,40,5633,1,q:38109
+20,1,Saint-Jean le Sec,40,5633,2,q:32158
+20,1,Saint-Jean le Sec,40,5633,3,q:32155
+20,1,Saint-Jean le Sec,40,5633,4,q:20101
+20,1,Saint-Jean le Sec,40,5633,5,q:20141
+20,1,Saint-Jean le Sec,40,5633,6,q:20102
+20,1,Saint-Jean le Sec,40,5633,7,q:32152
+20,1,Saint-Jean le Sec,40,5633,8,q:32151
+20,1,Saint-Jean le Sec,40,5633,9,q:33118
+20,1,Saint-Jean le Sec,40,5633,10,q:26111
+20,1,Saint-Jean le Sec,40,5633,11,q:26101
+20,1,Saint-Jean le Sec,40,5633,12,q:26109
+20,1,Saint-Jean le Sec,40,5633,13,q:26110
+20,1,Saint-Jean le Sec,40,5633,14,q:20138
+21,0,Versant,56,14473,1,q:21217
+21,0,Versant,56,14473,2,q:20116
+21,0,Versant,56,14473,3,q:20218
+21,0,Versant,56,14473,4,q:21102
+21,0,Versant,56,14473,5,q:21104
+21,0,Versant,56,14473,6,q:21220
+21,0,Versant,56,14473,7,q:21106
+21,0,Versant,56,14473,8,q:21107
+21,0,Versant,56,14473,9,q:21108
+21,0,Versant,56,14473,10,q:21109
+21,0,Versant,56,14473,11,q:21110
+21,0,Versant,56,14473,12,q:21111
+21,0,Versant,56,14473,13,q:21120
+21,0,Versant,56,14473,14,q:21112
+21,0,Versant,56,14473,15,q:21115
+21,0,Versant,56,14473,16,q:21119
+21,0,Versant,56,14473,17,q:21130
+21,0,Versant,56,14473,18,q:29104
+21,0,Versant,56,14473,19,q:29105
+21,0,Versant,56,14473,20,q:29106
+21,0,Versant,56,14473,21,q:29107
+21,0,Versant,56,14473,22,q:29108
+21,0,Versant,56,14473,23,q:29109
+21,0,Versant,56,14473,24,q:29110
+21,0,Versant,56,14473,25,q:29111
+21,0,Versant,56,14473,26,q:29126
+21,0,Versant,56,14473,27,q:29127
+21,0,Versant,56,14473,28,q:29131
+21,0,Versant,56,14473,29,q:29132
+21,0,Versant,56,14473,30,q:29133
+21,0,Versant,56,14473,31,q:29134
+21,1,Notre-Dame de Sablassou,55,14598,1,q:29134
+21,1,Notre-Dame de Sablassou,55,14598,2,q:29133
+21,1,Notre-Dame de Sablassou,55,14598,3,q:29132
+21,1,Notre-Dame de Sablassou,55,14598,4,q:29131
+21,1,Notre-Dame de Sablassou,55,14598,5,q:29127
+21,1,Notre-Dame de Sablassou,55,14598,6,q:29126
+21,1,Notre-Dame de Sablassou,55,14598,7,q:29111
+21,1,Notre-Dame de Sablassou,55,14598,8,q:29110
+21,1,Notre-Dame de Sablassou,55,14598,9,q:29203
+21,1,Notre-Dame de Sablassou,55,14598,10,q:29204
+21,1,Notre-Dame de Sablassou,55,14598,11,q:29108
+21,1,Notre-Dame de Sablassou,55,14598,12,q:29107
+21,1,Notre-Dame de Sablassou,55,14598,13,q:29106
+21,1,Notre-Dame de Sablassou,55,14598,14,q:29105
+21,1,Notre-Dame de Sablassou,55,14598,15,q:29104
+21,1,Notre-Dame de Sablassou,55,14598,16,q:21130
+21,1,Notre-Dame de Sablassou,55,14598,17,q:21119
+21,1,Notre-Dame de Sablassou,55,14598,18,q:21115
+21,1,Notre-Dame de Sablassou,55,14598,19,q:21112
+21,1,Notre-Dame de Sablassou,55,14598,20,q:21120
+21,1,Notre-Dame de Sablassou,55,14598,21,q:21111
+21,1,Notre-Dame de Sablassou,55,14598,22,q:21110
+21,1,Notre-Dame de Sablassou,55,14598,23,q:21109
+21,1,Notre-Dame de Sablassou,55,14598,24,q:21108
+21,1,Notre-Dame de Sablassou,55,14598,25,q:21107
+21,1,Notre-Dame de Sablassou,55,14598,26,q:21106
+21,1,Notre-Dame de Sablassou,55,14598,27,q:21220
+21,1,Notre-Dame de Sablassou,55,14598,28,q:21104
+21,1,Notre-Dame de Sablassou,55,14598,29,q:21102
+21,1,Notre-Dame de Sablassou,55,14598,30,q:20218
+21,1,Notre-Dame de Sablassou,55,14598,31,q:20116
+21,1,Notre-Dame de Sablassou,55,14598,32,q:21217
+22,0,Collège  P. M. France,100,11666,1,q:23125
+22,0,Collège  P. M. France,100,11666,2,q:23133
+22,0,Collège  P. M. France,100,11666,3,q:23114
+22,0,Collège  P. M. France,100,11666,4,q:23113
+22,0,Collège  P. M. France,100,11666,5,q:23158
+22,0,Collège  P. M. France,100,11666,6,q:23157
+22,0,Collège  P. M. France,100,11666,7,q:23156
+22,0,Collège  P. M. France,100,11666,8,q:22171
+22,0,Collège  P. M. France,100,11666,9,q:22170
+22,0,Collège  P. M. France,100,11666,10,q:22106
+22,0,Collège  P. M. France,100,11666,11,q:22107
+22,0,Collège  P. M. France,100,11666,12,q:22108
+22,0,Collège  P. M. France,100,11666,13,q:22109
+22,0,Collège  P. M. France,100,11666,14,q:22110
+22,0,Collège  P. M. France,100,11666,15,q:22111
+22,0,Collège  P. M. France,100,11666,16,q:22113
+22,0,Collège  P. M. France,100,11666,17,q:22114
+22,0,Collège  P. M. France,100,11666,18,q:22115
+22,0,Collège  P. M. France,100,11666,19,q:22169
+22,0,Collège  P. M. France,100,11666,20,q:39102
+22,0,Collège  P. M. France,100,11666,21,q:22136
+22,0,Collège  P. M. France,100,11666,22,q:39102
+22,0,Collège  P. M. France,100,11666,23,q:22116
+22,0,Collège  P. M. France,100,11666,24,q:22117
+22,0,Collège  P. M. France,100,11666,25,q:22118
+22,0,Collège  P. M. France,100,11666,26,q:22119
+22,0,Collège  P. M. France,100,11666,27,q:22120
+22,0,Collège  P. M. France,100,11666,28,q:39100
+22,0,Collège  P. M. France,100,11666,29,q:39101
+22,0,Collège  P. M. France,100,11666,30,q:36166
+22,1,Cirad de Baillarguet,100,11376,1,q:36166
+22,1,Cirad de Baillarguet,100,11376,2,q:39101
+22,1,Cirad de Baillarguet,100,11376,3,q:39100
+22,1,Cirad de Baillarguet,100,11376,4,q:22120
+22,1,Cirad de Baillarguet,100,11376,5,q:22119
+22,1,Cirad de Baillarguet,100,11376,6,q:22118
+22,1,Cirad de Baillarguet,100,11376,7,q:22117
+22,1,Cirad de Baillarguet,100,11376,8,q:22116
+22,1,Cirad de Baillarguet,100,11376,9,q:39102
+22,1,Cirad de Baillarguet,100,11376,10,q:22136
+22,1,Cirad de Baillarguet,100,11376,11,q:39102
+22,1,Cirad de Baillarguet,100,11376,12,q:22169
+22,1,Cirad de Baillarguet,100,11376,13,q:22115
+22,1,Cirad de Baillarguet,100,11376,14,q:22114
+22,1,Cirad de Baillarguet,100,11376,15,q:22113
+22,1,Cirad de Baillarguet,100,11376,16,q:22238
+22,1,Cirad de Baillarguet,100,11376,17,q:22111
+22,1,Cirad de Baillarguet,100,11376,18,q:22212
+22,1,Cirad de Baillarguet,100,11376,19,q:22213
+22,1,Cirad de Baillarguet,100,11376,20,q:22227
+22,1,Cirad de Baillarguet,100,11376,21,q:22106
+22,1,Cirad de Baillarguet,100,11376,22,q:23151
+22,1,Cirad de Baillarguet,100,11376,23,q:22171
+22,1,Cirad de Baillarguet,100,11376,24,q:23156
+22,1,Cirad de Baillarguet,100,11376,25,q:23157
+22,1,Cirad de Baillarguet,100,11376,26,q:23158
+22,1,Cirad de Baillarguet,100,11376,27,q:23113
+22,1,Cirad de Baillarguet,100,11376,28,q:23114
+22,1,Cirad de Baillarguet,100,11376,29,q:23133
+22,1,Cirad de Baillarguet,100,11376,30,q:23125
+23,0,Clapiers,100,10771,1,q:23151
+23,0,Clapiers,100,10771,2,q:23114
+23,0,Clapiers,100,10771,3,q:23115
+23,0,Clapiers,100,10771,4,q:23116
+23,0,Clapiers,100,10771,5,q:23117
+23,0,Clapiers,100,10771,6,q:23118
+23,0,Clapiers,100,10771,7,q:23119
+23,0,Clapiers,100,10771,8,q:23121
+23,0,Clapiers,100,10771,9,q:23122
+23,0,Clapiers,100,10771,10,q:23131
+23,0,Clapiers,100,10771,11,q:23132
+23,0,Clapiers,100,10771,12,q:23140
+23,0,Clapiers,100,10771,13,q:23139
+23,0,Clapiers,100,10771,14,q:23138
+23,0,Clapiers,100,10771,15,q:23137
+23,0,Clapiers,100,10771,16,q:23136
+23,0,Clapiers,100,10771,17,q:23117
+23,0,Clapiers,100,10771,18,q:23116
+23,0,Clapiers,100,10771,19,q:23115
+23,0,Clapiers,100,10771,20,q:23114
+23,0,Clapiers,100,10771,21,q:23151
+23,1,Clapiers,100,10771,1,q:23151
+23,1,Clapiers,100,10771,2,q:23114
+23,1,Clapiers,100,10771,3,q:23115
+23,1,Clapiers,100,10771,4,q:23116
+23,1,Clapiers,100,10771,5,q:23117
+23,1,Clapiers,100,10771,6,q:23136
+23,1,Clapiers,100,10771,7,q:23137
+23,1,Clapiers,100,10771,8,q:23138
+23,1,Clapiers,100,10771,9,q:23139
+23,1,Clapiers,100,10771,10,q:23140
+23,1,Clapiers,100,10771,11,q:23132
+23,1,Clapiers,100,10771,12,q:23131
+23,1,Clapiers,100,10771,13,q:23122
+23,1,Clapiers,100,10771,14,q:23121
+23,1,Clapiers,100,10771,15,q:23119
+23,1,Clapiers,100,10771,16,q:23118
+23,1,Clapiers,100,10771,17,q:23117
+23,1,Clapiers,100,10771,18,q:23116
+23,1,Clapiers,100,10771,19,q:23115
+23,1,Clapiers,100,10771,20,q:23114
+23,1,Clapiers,100,10771,21,q:23151
+24,0,Le Pradas,100,7299,1,q:24116
+24,0,Le Pradas,100,7299,2,q:24117
+24,0,Le Pradas,100,7299,3,q:24125
+24,0,Le Pradas,100,7299,4,q:24123
+24,0,Le Pradas,100,7299,5,q:3139
+24,0,Le Pradas,100,7299,6,q:24124
+24,0,Le Pradas,100,7299,7,q:24118
+24,0,Le Pradas,100,7299,8,q:24121
+24,0,Le Pradas,100,7299,9,q:2202
+24,0,Le Pradas,100,7299,10,q:24104
+24,0,Le Pradas,100,7299,11,q:24105
+24,0,Le Pradas,100,7299,12,q:24106
+24,0,Le Pradas,100,7299,13,q:24107
+24,0,Le Pradas,100,7299,14,q:24108
+24,0,Le Pradas,100,7299,15,q:24109
+24,0,Le Pradas,100,7299,16,q:24126
+24,0,Le Pradas,100,7299,17,q:24110
+24,0,Le Pradas,100,7299,18,q:24112
+24,0,Le Pradas,100,7299,19,q:24127
+24,1,La Valsière,100,7299,1,q:24127
+24,1,La Valsière,100,7299,2,q:24112
+24,1,La Valsière,100,7299,3,q:24110
+24,1,La Valsière,100,7299,4,q:24126
+24,1,La Valsière,100,7299,5,q:24109
+24,1,La Valsière,100,7299,6,q:24108
+24,1,La Valsière,100,7299,7,q:24107
+24,1,La Valsière,100,7299,8,q:24106
+24,1,La Valsière,100,7299,9,q:24105
+24,1,La Valsière,100,7299,10,q:24104
+24,1,La Valsière,100,7299,11,q:2202
+24,1,La Valsière,100,7299,12,q:24121
+24,1,La Valsière,100,7299,13,q:24118
+24,1,La Valsière,100,7299,14,q:24124
+24,1,La Valsière,100,7299,15,q:3139
+24,1,La Valsière,100,7299,16,q:24123
+24,1,La Valsière,100,7299,17,q:24125
+24,1,La Valsière,100,7299,18,q:24117
+24,1,La Valsière,100,7299,19,q:24116
+25,0,Courpouyran,100,7251,1,q:25125
+25,0,Courpouyran,100,7251,2,q:25201
+25,0,Courpouyran,100,7251,3,q:25118
+25,0,Courpouyran,100,7251,4,q:25116
+25,0,Courpouyran,100,7251,5,q:25115
+25,0,Courpouyran,100,7251,6,q:25114
+25,0,Courpouyran,100,7251,7,q:25132
+25,0,Courpouyran,100,7251,8,q:25137
+25,0,Courpouyran,100,7251,9,q:25136
+25,0,Courpouyran,100,7251,10,q:25101
+25,0,Courpouyran,100,7251,11,q:25102
+25,0,Courpouyran,100,7251,12,q:25103
+25,0,Courpouyran,100,7251,13,q:25104
+25,0,Courpouyran,100,7251,14,q:25105
+25,0,Courpouyran,100,7251,15,q:25106
+25,0,Courpouyran,100,7251,16,q:25107
+25,0,Courpouyran,100,7251,17,q:25108
+25,0,Courpouyran,100,7251,18,q:25128
+25,0,Courpouyran,100,7251,19,q:25129
+25,0,Courpouyran,100,7251,20,q:25130
+25,0,Courpouyran,100,7251,21,q:25133
+25,0,Courpouyran,100,7251,22,q:25225
+25,0,Courpouyran,100,7251,23,q:25123
+25,1,Le Martinet,100,7251,1,q:25123
+25,1,Le Martinet,100,7251,2,q:25225
+25,1,Le Martinet,100,7251,3,q:25133
+25,1,Le Martinet,100,7251,4,q:25130
+25,1,Le Martinet,100,7251,5,q:25129
+25,1,Le Martinet,100,7251,6,q:25128
+25,1,Le Martinet,100,7251,7,q:25108
+25,1,Le Martinet,100,7251,8,q:25107
+25,1,Le Martinet,100,7251,9,q:25106
+25,1,Le Martinet,100,7251,10,q:25105
+25,1,Le Martinet,100,7251,11,q:25104
+25,1,Le Martinet,100,7251,12,q:25103
+25,1,Le Martinet,100,7251,13,q:25102
+25,1,Le Martinet,100,7251,14,q:25101
+25,1,Le Martinet,100,7251,15,q:25136
+25,1,Le Martinet,100,7251,16,q:25137
+25,1,Le Martinet,100,7251,17,q:25132
+25,1,Le Martinet,100,7251,18,q:25114
+25,1,Le Martinet,100,7251,19,q:25115
+25,1,Le Martinet,100,7251,20,q:25116
+25,1,Le Martinet,100,7251,21,q:25118
+25,1,Le Martinet,100,7251,22,q:25201
+25,1,Le Martinet,100,7251,23,q:25125
+26,0,Olympe,87,4745,1,q:22171
+26,0,Olympe,87,4745,2,q:23102
+26,0,Olympe,87,4745,3,q:23103
+26,0,Olympe,87,4745,4,q:23104
+26,0,Olympe,87,4745,5,q:23105
+26,0,Olympe,87,4745,6,q:23106
+26,0,Olympe,87,4745,7,q:23107
+26,0,Olympe,87,4745,8,q:23108
+26,0,Olympe,87,4745,9,q:23109
+26,0,Olympe,87,4745,10,q:23110
+26,0,Olympe,87,4745,11,q:23111
+26,0,Olympe,87,4745,12,q:23112
+26,0,Olympe,87,4745,13,q:23113
+26,0,Olympe,87,4745,14,q:26116
+26,0,Olympe,87,4745,15,q:26117
+26,1,Montferrier -sur-Lez,87,4745,1,q:26117
+26,1,Montferrier -sur-Lez,87,4745,2,q:26116
+26,1,Montferrier -sur-Lez,87,4745,3,q:23113
+26,1,Montferrier -sur-Lez,87,4745,4,q:23112
+26,1,Montferrier -sur-Lez,87,4745,5,q:23111
+26,1,Montferrier -sur-Lez,87,4745,6,q:23110
+26,1,Montferrier -sur-Lez,87,4745,7,q:23109
+26,1,Montferrier -sur-Lez,87,4745,8,q:23108
+26,1,Montferrier -sur-Lez,87,4745,9,q:23107
+26,1,Montferrier -sur-Lez,87,4745,10,q:23106
+26,1,Montferrier -sur-Lez,87,4745,11,q:23105
+26,1,Montferrier -sur-Lez,87,4745,12,q:23104
+26,1,Montferrier -sur-Lez,87,4745,13,q:23103
+26,1,Montferrier -sur-Lez,87,4745,14,q:23102
+26,1,Montferrier -sur-Lez,87,4745,15,q:22171
+27,0,Baillargues,100,17521,1,q:36261
+27,0,Baillargues,100,17521,2,q:27156
+27,0,Baillargues,100,17521,3,q:36158
+27,0,Baillargues,100,17521,4,q:27126
+27,0,Baillargues,100,17521,5,q:36153
+27,0,Baillargues,100,17521,6,q:36151
+27,0,Baillargues,100,17521,7,q:36267
+27,0,Baillargues,100,17521,8,q:36152
+27,0,Baillargues,100,17521,9,q:36157
+27,0,Baillargues,100,17521,10,q:27133
+27,0,Baillargues,100,17521,11,q:27121
+27,0,Baillargues,100,17521,12,q:27120
+27,0,Baillargues,100,17521,13,q:27119
+27,0,Baillargues,100,17521,14,q:27128
+27,0,Baillargues,100,17521,15,q:27118
+27,0,Baillargues,100,17521,16,q:31119
+27,0,Baillargues,100,17521,17,q:31120
+27,0,Baillargues,100,17521,18,q:31122
+27,0,Baillargues,100,17521,19,q:27101
+27,0,Baillargues,100,17521,20,q:21130
+27,1,Montaud,100,16179,1,q:21130
+27,1,Montaud,100,16179,2,q:27101
+27,1,Montaud,100,16179,3,q:31122
+27,1,Montaud,100,16179,4,q:31120
+27,1,Montaud,100,16179,5,q:31119
+27,1,Montaud,100,16179,6,q:27118
+27,1,Montaud,100,16179,7,q:27128
+27,1,Montaud,100,16179,8,q:27119
+27,1,Montaud,100,16179,9,q:27120
+27,1,Montaud,100,16179,10,q:27121
+27,1,Montaud,100,16179,11,q:27133
+27,1,Montaud,100,16179,12,q:36158
+27,1,Montaud,100,16179,13,q:27126
+27,1,Montaud,100,16179,14,q:36153
+27,1,Montaud,100,16179,15,q:36151
+27,1,Montaud,100,16179,16,q:36267
+27,1,Montaud,100,16179,17,q:36256
+27,1,Montaud,100,16179,18,q:27156
+27,1,Montaud,100,16179,19,q:36261
+28,0,Perols Cabanes,100,5342,1,q:28104
+28,0,Perols Cabanes,100,5342,2,q:28125
+28,0,Perols Cabanes,100,5342,3,q:28126
+28,0,Perols Cabanes,100,5342,4,q:28110
+28,0,Perols Cabanes,100,5342,5,q:28111
+28,0,Perols Cabanes,100,5342,6,q:28112
+28,0,Perols Cabanes,100,5342,7,q:28113
+28,0,Perols Cabanes,100,5342,8,q:28114
+28,0,Perols Cabanes,100,5342,9,q:28109
+28,0,Perols Cabanes,100,5342,10,q:28116
+28,0,Perols Cabanes,100,5342,11,q:28117
+28,1,Boirargues,100,5342,1,q:28117
+28,1,Boirargues,100,5342,2,q:28116
+28,1,Boirargues,100,5342,3,q:28109
+28,1,Boirargues,100,5342,4,q:28114
+28,1,Boirargues,100,5342,5,q:28113
+28,1,Boirargues,100,5342,6,q:28112
+28,1,Boirargues,100,5342,7,q:28111
+28,1,Boirargues,100,5342,8,q:28110
+28,1,Boirargues,100,5342,9,q:28126
+28,1,Boirargues,100,5342,10,q:28125
+28,1,Boirargues,100,5342,11,q:28104
+30,0,Jean Jaurès,50,3327,1,q:30110
+30,0,Jean Jaurès,50,3327,2,q:30112
+30,0,Jean Jaurès,50,3327,3,q:30108
+30,0,Jean Jaurès,50,3327,4,q:20118
+30,0,Jean Jaurès,50,3327,5,q:20119
+30,0,Jean Jaurès,50,3327,6,q:20120
+30,0,Jean Jaurès,50,3327,7,q:20121
+30,0,Jean Jaurès,50,3327,8,q:20136
+30,0,Jean Jaurès,50,3327,9,q:20123
+30,0,Jean Jaurès,50,3327,10,q:20124
+30,0,Jean Jaurès,50,3327,11,q:20125
+30,0,Jean Jaurès,50,3327,12,q:20126
+30,1,Via Domitia,50,3327,1,q:20126
+30,1,Via Domitia,50,3327,2,q:20125
+30,1,Via Domitia,50,3327,3,q:20124
+30,1,Via Domitia,50,3327,4,q:20123
+30,1,Via Domitia,50,3327,5,q:20136
+30,1,Via Domitia,50,3327,6,q:20121
+30,1,Via Domitia,50,3327,7,q:20120
+30,1,Via Domitia,50,3327,8,q:20119
+30,1,Via Domitia,50,3327,9,q:20118
+30,1,Via Domitia,50,3327,10,q:30108
+30,1,Via Domitia,50,3327,11,q:30112
+30,1,Via Domitia,50,3327,12,q:30110
+31,0,Baillargues,100,27619,1,q:21217
+31,0,Baillargues,100,27619,2,q:20116
+31,0,Baillargues,100,27619,3,q:20218
+31,0,Baillargues,100,27619,4,q:21102
+31,0,Baillargues,100,27619,5,q:21104
+31,0,Baillargues,100,27619,6,q:21220
+31,0,Baillargues,100,27619,7,q:21123
+31,0,Baillargues,100,27619,8,q:31100
+31,0,Baillargues,100,27619,9,q:31122
+31,0,Baillargues,100,27619,10,q:31120
+31,0,Baillargues,100,27619,11,q:31119
+31,0,Baillargues,100,27619,12,q:27118
+31,0,Baillargues,100,27619,13,q:27128
+31,0,Baillargues,100,27619,14,q:27119
+31,0,Baillargues,100,27619,15,q:27120
+31,0,Baillargues,100,27619,16,q:27121
+31,0,Baillargues,100,27619,17,q:27122
+31,0,Baillargues,100,27619,18,q:27124
+31,0,Baillargues,100,27619,19,q:27123
+31,0,Baillargues,100,27619,20,q:27215
+31,0,Baillargues,100,27619,21,q:27125
+31,0,Baillargues,100,27619,22,q:31106
+31,0,Baillargues,100,27619,23,q:35108
+31,0,Baillargues,100,27619,24,q:31105
+31,0,Baillargues,100,27619,25,q:35107
+31,0,Baillargues,100,27619,26,q:31104
+31,0,Baillargues,100,27619,27,q:31103
+31,0,Baillargues,100,27619,28,q:31102
+31,0,Baillargues,100,27619,29,q:31101
+31,0,Baillargues,100,27619,30,q:27118
+31,0,Baillargues,100,27619,31,q:31119
+31,0,Baillargues,100,27619,32,q:31120
+31,0,Baillargues,100,27619,33,q:31122
+31,0,Baillargues,100,27619,34,q:27101
+31,0,Baillargues,100,27619,35,q:21130
+31,1,Nd de Sablassou,100,27619,1,q:21130
+31,1,Nd de Sablassou,100,27619,2,q:27101
+31,1,Nd de Sablassou,100,27619,3,q:31122
+31,1,Nd de Sablassou,100,27619,4,q:31120
+31,1,Nd de Sablassou,100,27619,5,q:31119
+31,1,Nd de Sablassou,100,27619,6,q:27118
+31,1,Nd de Sablassou,100,27619,7,q:31101
+31,1,Nd de Sablassou,100,27619,8,q:31102
+31,1,Nd de Sablassou,100,27619,9,q:31103
+31,1,Nd de Sablassou,100,27619,10,q:31104
+31,1,Nd de Sablassou,100,27619,11,q:35107
+31,1,Nd de Sablassou,100,27619,12,q:31105
+31,1,Nd de Sablassou,100,27619,13,q:35108
+31,1,Nd de Sablassou,100,27619,14,q:31106
+31,1,Nd de Sablassou,100,27619,15,q:27125
+31,1,Nd de Sablassou,100,27619,16,q:27215
+31,1,Nd de Sablassou,100,27619,17,q:27123
+31,1,Nd de Sablassou,100,27619,18,q:27124
+31,1,Nd de Sablassou,100,27619,19,q:27122
+31,1,Nd de Sablassou,100,27619,20,q:27121
+31,1,Nd de Sablassou,100,27619,21,q:27120
+31,1,Nd de Sablassou,100,27619,22,q:27119
+31,1,Nd de Sablassou,100,27619,23,q:27128
+31,1,Nd de Sablassou,100,27619,24,q:27118
+31,1,Nd de Sablassou,100,27619,25,q:31119
+31,1,Nd de Sablassou,100,27619,26,q:31120
+31,1,Nd de Sablassou,100,27619,27,q:31122
+31,1,Nd de Sablassou,100,27619,28,q:31100
+31,1,Nd de Sablassou,100,27619,29,q:21123
+31,1,Nd de Sablassou,100,27619,30,q:21220
+31,1,Nd de Sablassou,100,27619,31,q:21104
+31,1,Nd de Sablassou,100,27619,32,q:21102
+31,1,Nd de Sablassou,100,27619,33,q:20218
+31,1,Nd de Sablassou,100,27619,34,q:20116
+31,1,Nd de Sablassou,100,27619,35,q:21217
+32,0,Saint-Jean le Sec,51,14869,1,q:3107
+32,0,Saint-Jean le Sec,51,14869,2,q:17102
+32,0,Saint-Jean le Sec,51,14869,3,q:17103
+32,0,Saint-Jean le Sec,51,14869,4,q:17104
+32,0,Saint-Jean le Sec,51,14869,5,q:32101
+32,0,Saint-Jean le Sec,51,14869,6,q:32116
+32,0,Saint-Jean le Sec,51,14869,7,q:32215
+32,0,Saint-Jean le Sec,51,14869,8,q:32210
+32,0,Saint-Jean le Sec,51,14869,9,q:32209
+32,0,Saint-Jean le Sec,51,14869,10,q:32208
+32,0,Saint-Jean le Sec,51,14869,11,q:32221
+32,0,Saint-Jean le Sec,51,14869,12,q:32220
+32,0,Saint-Jean le Sec,51,14869,13,q:44159
+32,0,Saint-Jean le Sec,51,14869,14,q:32205
+32,0,Saint-Jean le Sec,51,14869,15,q:44152
+32,0,Saint-Jean le Sec,51,14869,16,q:32111
+32,0,Saint-Jean le Sec,51,14869,17,q:32100
+32,0,Saint-Jean le Sec,51,14869,18,q:20243
+32,0,Saint-Jean le Sec,51,14869,19,q:32157
+32,0,Saint-Jean le Sec,51,14869,20,q:20138
+32,1,Garcia Lorca,51,15852,1,q:20138
+32,1,Garcia Lorca,51,15852,2,q:32157
+32,1,Garcia Lorca,51,15852,3,q:20243
+32,1,Garcia Lorca,51,15852,4,q:32100
+32,1,Garcia Lorca,51,15852,5,q:32111
+32,1,Garcia Lorca,51,15852,6,q:32213
+32,1,Garcia Lorca,51,15852,7,q:32214
+32,1,Garcia Lorca,51,15852,8,q:32204
+32,1,Garcia Lorca,51,15852,9,q:32205
+32,1,Garcia Lorca,51,15852,10,q:44159
+32,1,Garcia Lorca,51,15852,11,q:32220
+32,1,Garcia Lorca,51,15852,12,q:32221
+32,1,Garcia Lorca,51,15852,13,q:32208
+32,1,Garcia Lorca,51,15852,14,q:32209
+32,1,Garcia Lorca,51,15852,15,q:32210
+32,1,Garcia Lorca,51,15852,16,q:32215
+32,1,Garcia Lorca,51,15852,17,q:32116
+32,1,Garcia Lorca,51,15852,18,q:32101
+32,1,Garcia Lorca,51,15852,19,q:17217
+32,1,Garcia Lorca,51,15852,20,q:17104
+32,1,Garcia Lorca,51,15852,21,q:17103
+32,1,Garcia Lorca,51,15852,22,q:17102
+32,1,Garcia Lorca,51,15852,23,q:3107
+33,0,Lou Paillas,81,6081,1,q:20139
+33,0,Lou Paillas,81,6081,2,q:20107
+33,0,Lou Paillas,81,6081,3,q:20106
+33,0,Lou Paillas,81,6081,4,q:33101
+33,0,Lou Paillas,81,6081,5,q:33120
+33,0,Lou Paillas,81,6081,6,q:32117
+33,0,Lou Paillas,81,6081,7,q:33103
+33,0,Lou Paillas,81,6081,8,q:33104
+33,0,Lou Paillas,81,6081,9,q:33105
+33,0,Lou Paillas,81,6081,10,q:33106
+33,0,Lou Paillas,81,6081,11,q:33110
+33,0,Lou Paillas,81,6081,12,q:33107
+33,0,Lou Paillas,81,6081,13,q:33108
+33,0,Lou Paillas,81,6081,14,q:33100
+33,1,St Jean Centre,81,6172,1,q:33100
+33,1,St Jean Centre,81,6172,2,q:33109
+33,1,St Jean Centre,81,6172,3,q:33108
+33,1,St Jean Centre,81,6172,4,q:33107
+33,1,St Jean Centre,81,6172,5,q:33110
+33,1,St Jean Centre,81,6172,6,q:33106
+33,1,St Jean Centre,81,6172,7,q:33105
+33,1,St Jean Centre,81,6172,8,q:33104
+33,1,St Jean Centre,81,6172,9,q:32117
+33,1,St Jean Centre,81,6172,10,q:33120
+33,1,St Jean Centre,81,6172,11,q:33101
+33,1,St Jean Centre,81,6172,12,q:20106
+33,1,St Jean Centre,81,6172,13,q:20107
+33,1,St Jean Centre,81,6172,14,q:33118
+33,1,St Jean Centre,81,6172,15,q:20139
+34,0,Les Clavoux,97,15572,1,q:25126
+34,0,Les Clavoux,97,15572,2,q:34106
+34,0,Les Clavoux,97,15572,3,q:25108
+34,0,Les Clavoux,97,15572,4,q:42193
+34,0,Les Clavoux,97,15572,5,q:36138
+34,0,Les Clavoux,97,15572,6,q:42106
+34,0,Les Clavoux,97,15572,7,q:36139
+34,0,Les Clavoux,97,15572,8,q:34105
+34,0,Les Clavoux,97,15572,9,q:36116
+34,0,Les Clavoux,97,15572,10,q:36117
+34,0,Les Clavoux,97,15572,11,q:36118
+34,0,Les Clavoux,97,15572,12,q:36119
+34,0,Les Clavoux,97,15572,13,q:36120
+34,0,Les Clavoux,97,15572,14,q:36121
+34,0,Les Clavoux,97,15572,15,q:36122
+34,0,Les Clavoux,97,15572,16,q:36123
+34,0,Les Clavoux,97,15572,17,q:38124
+34,0,Les Clavoux,97,15572,18,q:36213
+34,0,Les Clavoux,97,15572,19,q:38115
+34,0,Les Clavoux,97,15572,20,q:36125
+34,0,Les Clavoux,97,15572,21,q:36126
+34,0,Les Clavoux,97,15572,22,q:36129
+34,0,Les Clavoux,97,15572,23,q:36140
+34,0,Les Clavoux,97,15572,24,q:36130
+34,0,Les Clavoux,97,15572,25,q:36131
+34,0,Les Clavoux,97,15572,26,q:36132
+34,0,Les Clavoux,97,15572,27,q:36133
+34,0,Les Clavoux,97,15572,28,q:36134
+34,0,Les Clavoux,97,15572,29,q:36135
+34,0,Les Clavoux,97,15572,30,q:36136
+34,1,Mosson,100,15201,1,q:36136
+34,1,Mosson,100,15201,2,q:36135
+34,1,Mosson,100,15201,3,q:36134
+34,1,Mosson,100,15201,4,q:36133
+34,1,Mosson,100,15201,5,q:36132
+34,1,Mosson,100,15201,6,q:36131
+34,1,Mosson,100,15201,7,q:36129
+34,1,Mosson,100,15201,8,q:36140
+34,1,Mosson,100,15201,9,q:36130
+34,1,Mosson,100,15201,10,q:36126
+34,1,Mosson,100,15201,11,q:36125
+34,1,Mosson,100,15201,12,q:36213
+34,1,Mosson,100,15201,13,q:38124
+34,1,Mosson,100,15201,14,q:36123
+34,1,Mosson,100,15201,15,q:36122
+34,1,Mosson,100,15201,16,q:36121
+34,1,Mosson,100,15201,17,q:36120
+34,1,Mosson,100,15201,18,q:36119
+34,1,Mosson,100,15201,19,q:36219
+34,1,Mosson,100,15201,20,q:36117
+34,1,Mosson,100,15201,21,q:36116
+34,1,Mosson,100,15201,22,q:34105
+34,1,Mosson,100,15201,23,q:36139
+34,1,Mosson,100,15201,24,q:42106
+34,1,Mosson,100,15201,25,q:36138
+34,1,Mosson,100,15201,26,q:42193
+34,1,Mosson,100,15201,27,q:25108
+34,1,Mosson,100,15201,28,q:34106
+34,1,Mosson,100,15201,29,q:25126
+35,0,Aube Rouge,50,5831,1,q:10150
+35,0,Aube Rouge,50,5831,2,q:35113
+35,0,Aube Rouge,50,5831,3,q:22101
+35,0,Aube Rouge,50,5831,4,q:4124
+35,0,Aube Rouge,50,5831,5,q:4125
+35,0,Aube Rouge,50,5831,6,q:35115
+35,0,Aube Rouge,50,5831,7,q:4127
+35,0,Aube Rouge,50,5831,8,q:35112
+35,0,Aube Rouge,50,5831,9,q:35117
+35,0,Aube Rouge,50,5831,10,q:4161
+35,0,Aube Rouge,50,5831,11,q:4162
+35,0,Aube Rouge,50,5831,12,q:4163
+35,0,Aube Rouge,50,5831,13,q:4164
+35,0,Aube Rouge,50,5831,14,q:4165
+35,0,Aube Rouge,50,5831,15,q:4167
+35,0,Aube Rouge,50,5831,16,q:35116
+35,0,Aube Rouge,50,5831,17,q:4136
+35,0,Aube Rouge,50,5831,18,q:4135
+35,0,Aube Rouge,50,5831,19,q:35114
+35,1,Ch. de Gaulle,50,5866,1,q:35114
+35,1,Ch. de Gaulle,50,5866,2,q:4135
+35,1,Ch. de Gaulle,50,5866,3,q:4136
+35,1,Ch. de Gaulle,50,5866,4,q:35116
+35,1,Ch. de Gaulle,50,5866,5,q:4167
+35,1,Ch. de Gaulle,50,5866,6,q:4165
+35,1,Ch. de Gaulle,50,5866,7,q:4164
+35,1,Ch. de Gaulle,50,5866,8,q:4163
+35,1,Ch. de Gaulle,50,5866,9,q:4162
+35,1,Ch. de Gaulle,50,5866,10,q:4161
+35,1,Ch. de Gaulle,50,5866,11,q:35117
+35,1,Ch. de Gaulle,50,5866,12,q:35112
+35,1,Ch. de Gaulle,50,5866,13,q:4127
+35,1,Ch. de Gaulle,50,5866,14,q:35115
+35,1,Ch. de Gaulle,50,5866,15,q:4218
+35,1,Ch. de Gaulle,50,5866,16,q:35113
+35,1,Ch. de Gaulle,50,5866,17,q:22101
+35,1,Ch. de Gaulle,50,5866,18,q:10150
+36,0,Charles de Gaulle,100,18743,1,q:36261
+36,0,Charles de Gaulle,100,18743,2,q:27156
+36,0,Charles de Gaulle,100,18743,3,q:36152
+36,0,Charles de Gaulle,100,18743,4,q:36157
+36,0,Charles de Gaulle,100,18743,5,q:36158
+36,0,Charles de Gaulle,100,18743,6,q:27126
+36,0,Charles de Gaulle,100,18743,7,q:36153
+36,0,Charles de Gaulle,100,18743,8,q:36151
+36,0,Charles de Gaulle,100,18743,9,q:27132
+36,0,Charles de Gaulle,100,18743,10,q:36162
+36,0,Charles de Gaulle,100,18743,11,q:36166
+36,0,Charles de Gaulle,100,18743,12,q:36165
+36,0,Charles de Gaulle,100,18743,13,q:36164
+36,0,Charles de Gaulle,100,18743,14,q:22113
+36,0,Charles de Gaulle,100,18743,15,q:22238
+36,0,Charles de Gaulle,100,18743,16,q:36163
+36,0,Charles de Gaulle,100,18743,17,q:22108
+36,0,Charles de Gaulle,100,18743,18,q:22163
+36,0,Charles de Gaulle,100,18743,19,q:36141
+36,0,Charles de Gaulle,100,18743,20,q:22103
+36,0,Charles de Gaulle,100,18743,21,q:22102
+36,0,Charles de Gaulle,100,18743,22,q:22101
+36,0,Charles de Gaulle,100,18743,23,q:10150
+36,1,Stade de Montaud,100,17615,1,q:10150
+36,1,Stade de Montaud,100,17615,2,q:22101
+36,1,Stade de Montaud,100,17615,3,q:22102
+36,1,Stade de Montaud,100,17615,4,q:22103
+36,1,Stade de Montaud,100,17615,5,q:36141
+36,1,Stade de Montaud,100,17615,6,q:22163
+36,1,Stade de Montaud,100,17615,7,q:22108
+36,1,Stade de Montaud,100,17615,8,q:36163
+36,1,Stade de Montaud,100,17615,9,q:22113
+36,1,Stade de Montaud,100,17615,10,q:36164
+36,1,Stade de Montaud,100,17615,11,q:36165
+36,1,Stade de Montaud,100,17615,12,q:36166
+36,1,Stade de Montaud,100,17615,13,q:36162
+36,1,Stade de Montaud,100,17615,14,q:27132
+36,1,Stade de Montaud,100,17615,15,q:36151
+36,1,Stade de Montaud,100,17615,16,q:36153
+36,1,Stade de Montaud,100,17615,17,q:36267
+36,1,Stade de Montaud,100,17615,18,q:36256
+36,1,Stade de Montaud,100,17615,19,q:27156
+36,1,Stade de Montaud,100,17615,20,q:36261
+38,0,Les Clavoux,70,15150,1,q:38111
+38,0,Les Clavoux,70,15150,2,q:38102
+38,0,Les Clavoux,70,15150,3,q:38103
+38,0,Les Clavoux,70,15150,4,q:38113
+38,0,Les Clavoux,70,15150,5,q:38106
+38,0,Les Clavoux,70,15150,6,q:38107
+38,0,Les Clavoux,70,15150,7,q:38108
+38,0,Les Clavoux,70,15150,8,q:38110
+38,0,Les Clavoux,70,15150,9,q:36115
+38,0,Les Clavoux,70,15150,10,q:36116
+38,0,Les Clavoux,70,15150,11,q:36117
+38,0,Les Clavoux,70,15150,12,q:36118
+38,0,Les Clavoux,70,15150,13,q:36119
+38,0,Les Clavoux,70,15150,14,q:36120
+38,0,Les Clavoux,70,15150,15,q:36121
+38,0,Les Clavoux,70,15150,16,q:36122
+38,0,Les Clavoux,70,15150,17,q:36123
+38,0,Les Clavoux,70,15150,18,q:38124
+38,0,Les Clavoux,70,15150,19,q:36213
+38,0,Les Clavoux,70,15150,20,q:38115
+38,0,Les Clavoux,70,15150,21,q:36125
+38,0,Les Clavoux,70,15150,22,q:36126
+38,0,Les Clavoux,70,15150,23,q:36129
+38,0,Les Clavoux,70,15150,24,q:36140
+38,0,Les Clavoux,70,15150,25,q:36130
+38,0,Les Clavoux,70,15150,26,q:36131
+38,0,Les Clavoux,70,15150,27,q:36132
+38,0,Les Clavoux,70,15150,28,q:36133
+38,0,Les Clavoux,70,15150,29,q:36134
+38,0,Les Clavoux,70,15150,30,q:36135
+38,0,Les Clavoux,70,15150,31,q:36136
+38,1,Grés de Montpellier,90,14780,1,q:36136
+38,1,Grés de Montpellier,90,14780,2,q:36135
+38,1,Grés de Montpellier,90,14780,3,q:36134
+38,1,Grés de Montpellier,90,14780,4,q:36133
+38,1,Grés de Montpellier,90,14780,5,q:36132
+38,1,Grés de Montpellier,90,14780,6,q:36131
+38,1,Grés de Montpellier,90,14780,7,q:36129
+38,1,Grés de Montpellier,90,14780,8,q:36140
+38,1,Grés de Montpellier,90,14780,9,q:36130
+38,1,Grés de Montpellier,90,14780,10,q:36126
+38,1,Grés de Montpellier,90,14780,11,q:36125
+38,1,Grés de Montpellier,90,14780,12,q:36213
+38,1,Grés de Montpellier,90,14780,13,q:38124
+38,1,Grés de Montpellier,90,14780,14,q:36123
+38,1,Grés de Montpellier,90,14780,15,q:36122
+38,1,Grés de Montpellier,90,14780,16,q:36121
+38,1,Grés de Montpellier,90,14780,17,q:36120
+38,1,Grés de Montpellier,90,14780,18,q:36119
+38,1,Grés de Montpellier,90,14780,19,q:36219
+38,1,Grés de Montpellier,90,14780,20,q:36117
+38,1,Grés de Montpellier,90,14780,21,q:36116
+38,1,Grés de Montpellier,90,14780,22,q:36115
+38,1,Grés de Montpellier,90,14780,23,q:38110
+38,1,Grés de Montpellier,90,14780,24,q:38108
+38,1,Grés de Montpellier,90,14780,25,q:38107
+38,1,Grés de Montpellier,90,14780,26,q:38106
+38,1,Grés de Montpellier,90,14780,27,q:38113
+38,1,Grés de Montpellier,90,14780,28,q:38103
+38,1,Grés de Montpellier,90,14780,29,q:38102
+38,1,Grés de Montpellier,90,14780,30,q:38111
+40,0,Mijoulan,100,6426,1,q:25126
+40,0,Mijoulan,100,6426,2,q:34106
+40,0,Mijoulan,100,6426,3,q:25108
+40,0,Mijoulan,100,6426,4,q:42193
+40,0,Mijoulan,100,6426,5,q:36138
+40,0,Mijoulan,100,6426,6,q:42106
+40,0,Mijoulan,100,6426,7,q:36139
+40,0,Mijoulan,100,6426,8,q:40111
+40,0,Mijoulan,100,6426,9,q:40102
+40,0,Mijoulan,100,6426,10,q:42180
+40,0,Mijoulan,100,6426,11,q:40106
+40,0,Mijoulan,100,6426,12,q:40112
+40,0,Mijoulan,100,6426,13,q:40107
+40,0,Mijoulan,100,6426,14,q:40108
+40,1,Mosson,100,6821,1,q:40108
+40,1,Mosson,100,6821,2,q:40107
+40,1,Mosson,100,6821,3,q:40112
+40,1,Mosson,100,6821,4,q:40106
+40,1,Mosson,100,6821,5,q:42180
+40,1,Mosson,100,6821,6,q:36139
+40,1,Mosson,100,6821,7,q:40111
+40,1,Mosson,100,6821,8,q:40102
+40,1,Mosson,100,6821,9,q:42106
+40,1,Mosson,100,6821,10,q:36138
+40,1,Mosson,100,6821,11,q:42193
+40,1,Mosson,100,6821,12,q:25108
+40,1,Mosson,100,6821,13,q:34106
+40,1,Mosson,100,6821,14,q:25126
+42,0,Rouviere Longue,100,8918,1,q:25126
+42,0,Rouviere Longue,100,8918,2,q:34106
+42,0,Rouviere Longue,100,8918,3,q:25108
+42,0,Rouviere Longue,100,8918,4,q:42193
+42,0,Rouviere Longue,100,8918,5,q:36138
+42,0,Rouviere Longue,100,8918,6,q:42106
+42,0,Rouviere Longue,100,8918,7,q:42180
+42,0,Rouviere Longue,100,8918,8,q:40106
+42,0,Rouviere Longue,100,8918,9,q:40112
+42,0,Rouviere Longue,100,8918,10,q:40104
+42,0,Rouviere Longue,100,8918,11,q:42181
+42,0,Rouviere Longue,100,8918,12,q:42382
+42,0,Rouviere Longue,100,8918,13,q:42183
+42,0,Rouviere Longue,100,8918,14,q:42184
+42,0,Rouviere Longue,100,8918,15,q:42185
+42,0,Rouviere Longue,100,8918,16,q:42190
+42,0,Rouviere Longue,100,8918,17,q:42191
+42,0,Rouviere Longue,100,8918,18,q:42188
+42,1,Mosson,100,8918,1,q:42188
+42,1,Mosson,100,8918,2,q:42191
+42,1,Mosson,100,8918,3,q:42190
+42,1,Mosson,100,8918,4,q:42185
+42,1,Mosson,100,8918,5,q:42184
+42,1,Mosson,100,8918,6,q:42183
+42,1,Mosson,100,8918,7,q:42382
+42,1,Mosson,100,8918,8,q:42181
+42,1,Mosson,100,8918,9,q:40104
+42,1,Mosson,100,8918,10,q:40112
+42,1,Mosson,100,8918,11,q:40106
+42,1,Mosson,100,8918,12,q:42180
+42,1,Mosson,100,8918,13,q:42106
+42,1,Mosson,100,8918,14,q:36138
+42,1,Mosson,100,8918,15,q:42193
+42,1,Mosson,100,8918,16,q:25108
+42,1,Mosson,100,8918,17,q:34106
+42,1,Mosson,100,8918,18,q:25126
+43,0,La Bornière,100,8908,1,q:20139
+43,0,La Bornière,100,8908,2,q:20107
+43,0,La Bornière,100,8908,3,q:20106
+43,0,La Bornière,100,8908,4,q:33101
+43,0,La Bornière,100,8908,5,q:33120
+43,0,La Bornière,100,8908,6,q:32117
+43,0,La Bornière,100,8908,7,q:33103
+43,0,La Bornière,100,8908,8,q:33104
+43,0,La Bornière,100,8908,9,q:33105
+43,0,La Bornière,100,8908,10,q:33106
+43,0,La Bornière,100,8908,11,q:33110
+43,0,La Bornière,100,8908,12,q:36111
+43,0,La Bornière,100,8908,13,q:33111
+43,0,La Bornière,100,8908,14,q:33112
+43,0,La Bornière,100,8908,15,q:33113
+43,0,La Bornière,100,8908,16,q:38126
+43,0,La Bornière,100,8908,17,q:36123
+43,1,St Jean Centre,100,8920,1,q:36123
+43,1,St Jean Centre,100,8920,2,q:38126
+43,1,St Jean Centre,100,8920,3,q:33113
+43,1,St Jean Centre,100,8920,4,q:33112
+43,1,St Jean Centre,100,8920,5,q:33111
+43,1,St Jean Centre,100,8920,6,q:36111
+43,1,St Jean Centre,100,8920,7,q:33110
+43,1,St Jean Centre,100,8920,8,q:33106
+43,1,St Jean Centre,100,8920,9,q:33105
+43,1,St Jean Centre,100,8920,10,q:33104
+43,1,St Jean Centre,100,8920,11,q:32117
+43,1,St Jean Centre,100,8920,12,q:33120
+43,1,St Jean Centre,100,8920,13,q:33101
+43,1,St Jean Centre,100,8920,14,q:20106
+43,1,St Jean Centre,100,8920,15,q:20107
+43,1,St Jean Centre,100,8920,16,q:33118
+43,1,St Jean Centre,100,8920,17,q:20139
+44,0,Gare Villeneuve lès-Maguelone,100,4842,1,q:32101
+44,0,Gare Villeneuve lès-Maguelone,100,4842,2,q:32116
+44,0,Gare Villeneuve lès-Maguelone,100,4842,3,q:32215
+44,0,Gare Villeneuve lès-Maguelone,100,4842,4,q:32210
+44,0,Gare Villeneuve lès-Maguelone,100,4842,5,q:32209
+44,0,Gare Villeneuve lès-Maguelone,100,4842,6,q:32208
+44,0,Gare Villeneuve lès-Maguelone,100,4842,7,q:32221
+44,0,Gare Villeneuve lès-Maguelone,100,4842,8,q:32220
+44,0,Gare Villeneuve lès-Maguelone,100,4842,9,q:44161
+44,0,Gare Villeneuve lès-Maguelone,100,4842,10,q:44152
+44,0,Gare Villeneuve lès-Maguelone,100,4842,11,q:32111
+44,0,Gare Villeneuve lès-Maguelone,100,4842,12,q:44151
+44,1,Arnel,100,5448,1,q:44151
+44,1,Arnel,100,5448,2,q:32111
+44,1,Arnel,100,5448,3,q:32213
+44,1,Arnel,100,5448,4,q:32214
+44,1,Arnel,100,5448,5,q:32204
+44,1,Arnel,100,5448,6,q:44161
+44,1,Arnel,100,5448,7,q:32220
+44,1,Arnel,100,5448,8,q:32221
+44,1,Arnel,100,5448,9,q:32208
+44,1,Arnel,100,5448,10,q:32209
+44,1,Arnel,100,5448,11,q:32210
+44,1,Arnel,100,5448,12,q:32215
+44,1,Arnel,100,5448,13,q:32116
+44,1,Arnel,100,5448,14,q:32101
+46,0,Collège Les Pins,100,8052,1,q:21217
+46,0,Collège Les Pins,100,8052,2,q:20116
+46,0,Collège Les Pins,100,8052,3,q:20218
+46,0,Collège Les Pins,100,8052,4,q:21102
+46,0,Collège Les Pins,100,8052,5,q:21104
+46,0,Collège Les Pins,100,8052,6,q:21220
+46,0,Collège Les Pins,100,8052,7,q:21123
+46,0,Collège Les Pins,100,8052,8,q:31122
+46,0,Collège Les Pins,100,8052,9,q:31120
+46,0,Collège Les Pins,100,8052,10,q:31119
+46,1,Notre-Dame de Sablassou,100,8052,1,q:31119
+46,1,Notre-Dame de Sablassou,100,8052,2,q:31120
+46,1,Notre-Dame de Sablassou,100,8052,3,q:31122
+46,1,Notre-Dame de Sablassou,100,8052,4,q:21123
+46,1,Notre-Dame de Sablassou,100,8052,5,q:21220
+46,1,Notre-Dame de Sablassou,100,8052,6,q:21104
+46,1,Notre-Dame de Sablassou,100,8052,7,q:21102
+46,1,Notre-Dame de Sablassou,100,8052,8,q:20218
+46,1,Notre-Dame de Sablassou,100,8052,9,q:20116
+46,1,Notre-Dame de Sablassou,100,8052,10,q:21217
+47,0,Univ.  Sc. et Lettres,100,3132,1,q:6115
+47,0,Univ.  Sc. et Lettres,100,3132,2,q:6116
+47,0,Univ.  Sc. et Lettres,100,3132,3,q:6117
+47,0,Univ.  Sc. et Lettres,100,3132,4,q:13218
+47,0,Univ.  Sc. et Lettres,100,3132,5,q:6119
+47,0,Univ.  Sc. et Lettres,100,3132,6,q:6120
+47,0,Univ.  Sc. et Lettres,100,3132,7,q:6121
+47,0,Univ.  Sc. et Lettres,100,3132,8,q:13135
+47,0,Univ.  Sc. et Lettres,100,3132,9,q:6119
+47,0,Univ.  Sc. et Lettres,100,3132,10,q:13218
+47,0,Univ.  Sc. et Lettres,100,3132,11,q:6117
+47,0,Univ.  Sc. et Lettres,100,3132,12,q:6116
+47,0,Univ.  Sc. et Lettres,100,3132,13,q:6115
+52,0,Cim. St-Eti,100,2067,1,q:9146
+52,0,Cim. St-Eti,100,2067,2,q:9141
+52,0,Cim. St-Eti,100,2067,3,q:12136
+52,0,Cim. St-Eti,100,2067,4,q:12137
+52,0,Cim. St-Eti,100,2067,5,q:12138
+52,1,Pl de France,100,2103,1,q:12138
+52,1,Pl de France,100,2103,2,q:12137
+52,1,Pl de France,100,2103,3,q:12136
+52,1,Pl de France,100,2103,4,q:9141
+52,1,Pl de France,100,2103,5,q:9153
+52,1,Pl de France,100,2103,6,q:9146
+53,0,Saint-Cleophas,100,4215,1,q:10152
+53,0,Saint-Cleophas,100,4215,2,q:53103
+53,0,Saint-Cleophas,100,4215,3,q:53107
+53,0,Saint-Cleophas,100,4215,4,q:53106
+53,0,Saint-Cleophas,100,4215,5,q:53105
+53,0,Saint-Cleophas,100,4215,6,q:53108
+53,0,Saint-Cleophas,100,4215,7,q:12130
+53,0,Saint-Cleophas,100,4215,8,q:12131
+53,0,Saint-Cleophas,100,4215,9,q:5102
+53,0,Saint-Cleophas,100,4215,10,q:5103
+53,0,Saint-Cleophas,100,4215,11,q:5104
+53,0,Saint-Cleophas,100,4215,12,q:10160
+53,1,Sabines,100,4215,1,q:10160
+53,1,Sabines,100,4215,2,q:5104
+53,1,Sabines,100,4215,3,q:5103
+53,1,Sabines,100,4215,4,q:5102
+53,1,Sabines,100,4215,5,q:12131
+53,1,Sabines,100,4215,6,q:12130
+53,1,Sabines,100,4215,7,q:53108
+53,1,Sabines,100,4215,8,q:53105
+53,1,Sabines,100,4215,9,q:53106
+53,1,Sabines,100,4215,10,q:53107
+53,1,Sabines,100,4215,11,q:53103
+53,1,Sabines,100,4215,12,q:10152
+A,0,Nd de Sablassou,100,4221,1,q:9149
+A,0,Nd de Sablassou,100,4221,2,q:16136
+A,0,Nd de Sablassou,100,4221,3,q:9122
+A,0,Nd de Sablassou,100,4221,4,q:10147
+A,0,Nd de Sablassou,100,4221,5,q:61105
+A,0,Nd de Sablassou,100,4221,6,q:61106
+A,0,Nd de Sablassou,100,4221,7,q:61107
+A,0,Nd de Sablassou,100,4221,8,q:21217
+A,1,Pl. de L'Europe,100,4221,1,q:21217
+A,1,Pl. de L'Europe,100,4221,2,q:61107
+A,1,Pl. de L'Europe,100,4221,3,q:61106
+A,1,Pl. de L'Europe,100,4221,4,q:61105
+A,1,Pl. de L'Europe,100,4221,5,q:10147
+A,1,Pl. de L'Europe,100,4221,6,q:9122
+A,1,Pl. de L'Europe,100,4221,7,q:16136
+A,1,Pl. de L'Europe,100,4221,8,q:9149
+Amigo,0,Les Marestelles,100,6257,1,q:5212
+Amigo,0,Les Marestelles,100,6257,2,q:3107
+Amigo,0,Les Marestelles,100,6257,3,q:3225
+Amigo,0,Les Marestelles,100,6257,4,q:3101
+Amigo,0,Les Marestelles,100,6257,5,q:18121
+Amigo,0,Les Marestelles,100,6257,6,q:80102
+Amigo,1,Le Grand M,50,26762,1,q:3225
+Amigo,1,Le Grand M,50,26762,2,q:3101
+Amigo,1,Le Grand M,50,26762,3,q:18121
+Amigo,1,Le Grand M,50,26762,4,q:80102
+Amigo,1,Le Grand M,50,26762,5,q:3107
+Amigo,1,Le Grand M,50,26762,6,q:8131
+Amigo,1,Le Grand M,50,26762,7,q:5212
+Amigo,1,Le Grand M,50,26762,8,q:9149
+Amigo,1,Le Grand M,50,26762,9,q:4116
+Amigo,1,Le Grand M,50,26762,10,q:14109
+Amigo,1,Le Grand M,50,26762,11,q:41131
+Amigo,1,Le Grand M,50,26762,12,q:108
+Amigo,1,Le Grand M,50,26762,13,q:3119
+Amigo,1,Le Grand M,50,26762,14,q:5138
+Amigo,1,Le Grand M,50,26762,15,q:10263
+Amigo,1,Le Grand M,50,26762,16,q:6115
+Amigo,1,Le Grand M,50,26762,17,q:10136
+Amigo,1,Le Grand M,50,26762,18,q:10110
+Amigo,1,Le Grand M,50,26762,19,q:5161
+Amigo,1,Le Grand M,50,26762,20,q:13132
+Amigo,1,Le Grand M,50,26762,21,q:13203
+Amigo,1,Le Grand M,50,26762,22,q:5165
+Amigo,1,Le Grand M,50,26762,23,q:22266
+Amigo,1,Le Grand M,50,26762,24,q:5202
+Amigo,1,Le Grand M,50,26762,25,q:5230
+Amigo,1,Le Grand M,50,26762,26,q:23232
+Amigo,1,Le Grand M,50,26762,27,q:6119
+Amigo,1,Le Grand M,50,26762,28,q:13218
+Amigo,1,Le Grand M,50,26762,29,q:6117
+Amigo,1,Le Grand M,50,26762,30,q:41117
+Amigo,1,Le Grand M,50,26762,31,q:3138
+Amigo,1,Le Grand M,50,26762,32,q:7101
+Amigo,1,Le Grand M,50,26762,33,q:3141
+Amigo,1,Le Grand M,50,26762,34,q:7237
+Amigo,1,Le Grand M,50,26762,35,q:7132
+Amigo,1,Le Grand M,50,26762,36,q:1112
+Amigo,1,Le Grand M,50,26762,37,q:15116
+Amigo,1,Le Grand M,50,26762,38,q:15117
+Amigo,1,Le Grand M,50,26762,39,q:6105

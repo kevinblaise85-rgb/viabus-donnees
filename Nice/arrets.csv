@@ -1,0 +1,1583 @@
+id,nom,commune,latitude,longitude
+place_095768,11 Novembre,,43.662082,7.149316
+place_099861,17eme Ter,,43.808878,7.183242
+place_CA4CH1,4 Chemins,,43.699482,7.149757
+place_097794,A.Tzanck,,43.661564,7.185837
+place_101376,Abattoirs,,43.718143,7.284575
+place_096609,Abbaye de Roseland,,43.693304,7.228395
+place_096610,Abbaye de Roseland / Napoléon III,,43.688851,7.231361
+place_101377,Aéroport / Promenade,,43.666429,7.212223
+place_098226,AFN,,43.724721,7.099325
+place_097795,Agriculteurs,,43.702897,7.178592
+place_096289,Aire Saint-Michel,,43.743444,7.26325
+place_096616,Albert 1er,,43.69585,7.269182
+place_096618,Alberti,,43.698802,7.272394
+place_096619,Alberti / Gioffredo,,43.699098,7.272904
+place_096620,Alberti / Hôtel des Postes,,43.699981,7.271693
+place_100250,Alfred de Vigny,,43.724792,7.264877
+place_AJARD9,Allée des Jardiniers,,43.709162,7.192373
+place_CADAU,Alphonse Daudet,,43.665993,7.175361
+place_096623,Alphonse Karr,,43.700101,7.264318
+place_NCALS,Alsace Lorraine,,43.698062,7.257784
+place_096624,Alsace-Lorraine,,43.698021,7.256231
+place_096625,Amboise,,43.677372,7.206675
+place_097057,Ancien Chemin,,43.713452,7.241062
+place_096626,Ancien Octroi,,43.72304,7.289576
+place_096627,Ancienne Batterie,,43.702057,7.241881
+place_098339,Ange Gardien,,43.703233,7.323637
+place_096628,Ansaldi,,43.695556,7.242678
+place_098228,Anthony Mars,,43.72229,7.11485
+place_097532,Antonia Augusta,,43.721968,7.286837
+place_096630,Apogées,,43.687036,7.220697
+place_096631,Araucaria Batterie,,43.678237,7.219894
+place_096632,Arboras,,43.692973,7.205855
+place_096633,Arcadia,,43.683022,7.222664
+place_096635,Arènes / Musée Matisse,,43.720187,7.274812
+place_096636,Ariane / Général Saramito,,43.740632,7.308327
+place_096638,Auberge du Tortéo,,43.739187,7.261577
+place_096639,Auda,,43.700198,7.234058
+place_097751,Auron,,44.226792,6.931714
+place_AURON6,Auron,,44.226814,6.932698
+place_096641,Auvare,,43.712865,7.28883
+place_096643,Avenue Charpentier,,43.717567,7.250394
+place_096644,Avenue d'Alicante,,43.693883,7.289169
+place_CHAMP,Avenue de Champagne,,43.726701,7.271141
+place_GRARIM,Avenue des Alpes,,43.661667,7.133041
+place_096646,Avenue des Fleurs,,43.698435,7.251279
+place_096647,Avenue des Orangers,,43.696708,7.251524
+place_096648,Avenue des Poilus,,43.724018,7.266079
+place_096653,Avenue du Mont Alban,,43.706887,7.297754
+place_096650,Avenue Flora,,43.712698,7.270815
+place_096651,Avenue Fracchia,,43.712671,7.295943
+place_096652,Avenue Germaine,,43.692415,7.295919
+place_096654,Avenue Thérèse,,43.722719,7.275612
+place_STAZN,Azur Neige,,44.228847,6.936619
+place_096655,Azura Park,,43.692287,7.210704
+place_AZUPA7,Azura Park,,43.692397,7.210718
+place_096656,Azurelle,,43.684481,7.216871
+place_097776,Bagneissore,,43.746867,7.149861
+place_096657,Bagnis,,43.734905,7.215386
+place_095686,Baie des Fourmis,,43.703327,7.330159
+place_BAIR,Bairols,,43.982455,7.126949
+place_096658,Balcons Parc Impérial,,43.704229,7.246931
+place_098097,Balzac,,43.753463,7.309178
+place_089627,Bancairon,,43.998267,7.137322
+place_096659,Bangui,,43.681936,7.213773
+place_100141,Baou des Noirs,,43.731468,7.11843
+place_NCBAR,Barberis,,43.704485,7.286143
+place_096662,Barilli,,43.706022,7.217016
+place_BARLA,Barla,,43.701577,7.287225
+place_096664,Barla / Arson,,43.700094,7.286575
+place_BARLAR,Barla / Riquier,,43.702004,7.288673
+place_096265,Barnessa,,43.730541,7.377143
+place_097797,Baronne Digue,,43.699487,7.181458
+place_096666,Barralis,,43.717002,7.234855
+place_097798,Basse Corniche des Pugets,,43.688517,7.179404
+place_096667,Bassin,,43.693721,7.299761
+place_096668,Batterie,,43.678207,7.218823
+place_096669,Batterie / Princesse Grâce,,43.688001,7.306488
+place_100187,Baus-Roux,,43.846297,7.197314
+place_096670,Bavastro,,43.700934,7.285879
+place_096671,Béarn,,43.708185,7.276054
+place_096672,Beau Site,,43.700445,7.247441
+place_096674,Beauregard,,43.715721,7.248033
+place_096459,Beauséjour,,43.854605,7.23229
+place_098231,Bel Respiro,,43.720572,7.084278
+place_096676,Bell'azur,,43.717353,7.250948
+place_096675,Bella Vista,,43.732774,7.269307
+place_EZBEL1,Bella Vista,,43.726383,7.349259
+place_096677,Belle Niçoise,,43.699798,7.222922
+place_096678,Belle Rive,,43.694302,7.295913
+place_097801,Belle Vue,,43.670174,7.179019
+place_096680,Bello Sguardo,,43.738829,7.273011
+place_095727,Belvédère Place Pavi,,44.015269,7.319793
+place_097582,Bergaïs,,44.028163,7.30949
+place_098232,Bergerie,,43.71397,7.087688
+place_098098,Bertagnia,,43.746724,7.322635
+place_097586,Berthemont,,44.033206,7.300097
+place_LEPAN1,Biscarra,,43.70396,7.270066
+place_099395,Bischoffsheim,,43.705967,7.291572
+place_096684,Biscuiterie,,43.707217,7.231694
+place_096685,Blanchisserie,,43.700285,7.237925
+place_096686,Bleu Rivage,,43.69418,7.28787
+place_096687,Bleuets,,43.715296,7.278067
+place_096688,Bois de Boulogne,,43.672696,7.202042
+place_096689,Bois de Cythère,,43.706451,7.248156
+place_096691,Bon Voyage,,43.731601,7.289478
+place_096692,Bona,,43.733451,7.217193
+place_095777,Bonaparte,,43.660034,7.149922
+place_096693,Borriglione,,43.711579,7.260969
+place_DRBSU,Bottin SUD,,43.754456,7.328948
+place_DRBOT,Bottin supérieur,,43.755326,7.329703
+place_096694,Bougainvilliers,,43.69062,7.235211
+place_100176,Boulangerie,,43.695606,7.235586
+place_BOUL,Boulangerie / Oliviers,,43.722497,7.232695
+place_100426,Boulevard du Mont-Boron,,43.699671,7.295137
+place_096697,Boulevard Mantega,,43.711273,7.250956
+place_096837,Boulevard Pasteur,,43.717644,7.281084
+place_TRCOL2,Bourgade / Blanqui,,43.735865,7.311845
+place_096698,Boutonnerie,,43.705628,7.232923
+place_BOYER,Boyer,,43.701978,7.282343
+place_096700,Braco,,43.719529,7.223462
+place_098233,Bretelle du Collet,,43.73591,7.132394
+place_096701,Brin d'Amour,,43.71659,7.252085
+place_098037,Brocarel,,43.801272,7.271444
+place_096702,Brun,,43.695012,7.238782
+place_098099,Buono,,43.746673,7.31494
+place_096704,C.G.E,,43.707199,7.210059
+place_WCADA,CADAM / Centre Administratif,,43.676247,7.198934
+place_CAGNO,Cagnoli,,43.71752,7.252885
+place_096708,Cal de Spagnol / Fabron,,43.693389,7.210508
+place_CALSP9,Cal de Spagnol / Fabron,,43.693529,7.210438
+place_096709,Cal de Spagnol / Soubran,,43.695795,7.20558
+place_100436,Californie / Promenade,,43.673495,7.226457
+place_096711,Camin Dei Galofre,,43.707651,7.235205
+place_VNCMP,Camping,,43.712321,7.089904
+place_UNTRO,Campus Trotabas,,43.696108,7.245639
+place_096712,Canta Galet,,43.719355,7.217863
+place_096713,Cap Bellet,,43.696648,7.23908
+place_VMCAP,Cap d'Azur,,43.716937,7.317193
+place_096267,Cap Estel,,43.720599,7.376816
+place_EZCPE2,Cap Estel,,43.721698,7.378341
+place_096268,Cap Roux,,43.719599,7.352175
+place_CAPPAN,Cappan,,43.754905,7.20541
+place_CAPHAM,Cappan Hameau,,43.752469,7.203493
+place_NCCPT8,Cappatti,,43.682923,7.207019
+place_NCCPT9,Cappatti,,43.682383,7.207155
+place_096715,Carabacel,,43.703856,7.275008
+place_CARLON,Carlone,,43.693693,7.241908
+place_CARLM,Carlone/Madeleine,,43.694154,7.243468
+place_096719,Carnot,,43.698176,7.287924
+q:2996,Carol de Roumanie,,43.688447,7.230121
+q:180,Carol de Roumanie #plus utilisé,,43.688914,7.229233
+place_096721,Caroubier,,43.714535,7.296826
+place_CARRA2,Carras,,43.680934,7.230951
+place_WCARR,Carras,,43.68156,7.23084
+place_096723,Carras / Frémont,,43.678525,7.228696
+place_096724,Carras / Promenade,,43.679509,7.230418
+place_096725,Carras / Saint-Augustin,,43.679765,7.22936
+q:7014,Cascade,,43.855978,7.196871
+place_096728,Cascade de Gairaut,,43.73801,7.259503
+place_089586,Castagniers - Les Moulins,,43.790903,7.214608
+place_096731,Castel,,43.70854,7.295513
+place_096732,Castel Fabron,,43.70486,7.199941
+place_096733,Cathédrale - Vieille Ville,,43.698441,7.276377
+place_096734,Caucade,,43.677534,7.216894
+place_096735,Caucade / Place Sainte-Marguerite,,43.68084,7.207381
+place_098340,Cauvin,,43.703319,7.306665
+place_CCSISI,Centre Commercial / Saint-Isidore,,43.709649,7.188729
+place_LACENC,Centre Commercial Cap 3000,,43.659133,7.19534
+place_096738,Centre Commercial Lingostière,,43.727674,7.188694
+place_098237,Centre de Secours,,43.724186,7.102839
+place_100360,Centre des Impots,,43.656314,7.15537
+place_WGCUM,Centre Universitaire Méditerranéen,,43.693086,7.249376
+place_096739,Cernuschi,,43.727652,7.251992
+place_CABRE8,CES / Les Bréguières,,43.661278,7.159289
+place_095786,CES Les Bréguières,,43.661073,7.158739
+place_096740,Chalet des Roses,,43.697316,7.240889
+place_097584,Chalet Forneri,,44.03104,7.306673
+q:21713,Chalets Mercantour,,44.186442,7.161288
+place_096741,Chambrun,,43.723458,7.261073
+place_098238,Chapelle Matisse,,43.726921,7.1111
+place_096269,Chapelle Saint-Laurent,,43.72842,7.380719
+place_CHAUT,Charmettes,,43.719593,7.234867
+place_096743,Charretiers,,43.729408,7.229955
+place_ASCEN,Château / Tour Bellanda,,43.693971,7.279143
+place_096270,Château Balzan,,43.729187,7.368781
+place_096744,Château de Crémat,,43.723474,7.208643
+place_096271,Château de l'Aighetta,,43.733072,7.356195
+place_097191,Château de l'Anglais,,43.68804,7.296132
+place_096746,Chateau des Baumettes,,43.695037,7.250312
+place_096747,Château Sainte-Anne,,43.688555,7.231199
+place_095788,Château Vieux-Bourg,,43.667861,7.145657
+place_096748,Châteauneuf,,43.700855,7.251136
+place_096752,Chemin de l'Archet,,43.695462,7.228963
+place_097739,Chemin de l'Eurier,,43.80509,7.234037
+place_CSCROX,Chemin de la Croix,,43.787113,7.230258
+place_100364,Chemin de la Desse,,43.780518,7.186308
+place_096750,Chemin de La Lauvette,,43.742753,7.307931
+place_096751,Chemin de la Tour,,43.736327,7.215493
+place_096310,Chemin de Provence,,43.754519,7.178524
+place_098239,Chemin des Colles,,43.723462,7.086045
+place_099694,Chemin des Sauces,,43.757055,7.17494
+place_CSCAB2,Chemin du Cabrier,,43.788783,7.223505
+place_096753,Chemin du Fort,,43.695613,7.298883
+place_100058,Chemin du Suvéran,,43.714807,7.129748
+place_096462,Chemin Pouchol,,43.856716,7.231052
+place_095791,Chemin Renoir,,43.667255,7.158983
+place_096756,Chemin Saquier,,43.749525,7.216328
+place_096757,Chemin Tordu,,43.695016,7.286517
+place_096759,Chênes Blancs,,43.736654,7.297145
+place_096760,Chénier,,43.724133,7.260497
+place_CHENIE,Chénier,,43.723129,7.259996
+place_096763,Chez Cane,,43.697678,7.209391
+place_096764,Chez Olivier,,43.73467,7.23754
+place_100123,Cimetière / Villefranche,,43.704177,7.309262
+place_DRCIM,Cimetière de DRAP,,43.755027,7.323439
+place_097808,Cimetière Saint-Marc,,43.683052,7.186478
+place_CIMIH2,Cimiez Hopital,,43.721085,7.27214
+place_096767,Cité Arménienne,,43.713668,7.225132
+place_098105,Cité du Soleil,,43.739207,7.320598
+place_096768,Cité PLM,,43.719811,7.286532
+place_096769,Cité Vallon,,43.727095,7.265067
+place_096770,Clair de Lune,,43.700146,7.249433
+place_096771,Clair Horizon,,43.685401,7.225319
+place_CLAIRH,Clair Horizon,,43.685558,7.225473
+place_CLANS,Clans,,43.996446,7.149369
+place_GUGLI2,Clémenceau,,43.701474,7.257968
+place_099814,Clinique Saint-Jean,,43.660077,7.137185
+place_098814,Clos de Ripert,,43.783703,7.174371
+place_NCBOU1,Clua / Boutau,,43.735623,7.239835
+place_NCCEP0,Clua / Epingles,,43.738368,7.239767
+place_NCCEP9,Clua / Epingles,,43.737555,7.239329
+place_NCCLM8,Clua / Manhes,,43.739083,7.238507
+place_NCPAR,Clua / Parc,,43.729755,7.241781
+place_NCTER,Clua / Terrasses,,43.727597,7.244028
+place_096775,Coecilia,,43.695877,7.295716
+place_096272,Col d'Eze,,43.73384,7.346908
+place_096776,Col de Bast,,43.732856,7.244125
+place_096777,Col de Villefranche,,43.705777,7.30098
+place_4CHEM0,Col des 4 chemins,,43.716736,7.313008
+place_098343,Col des 4 Chemins,,43.716755,7.312428
+place_096779,Colette,,43.697617,7.230861
+place_096780,Colibri,,43.738107,7.237449
+place_096194,Colle Germaine,,43.756644,7.220441
+place_098240,Colle Sud,,43.723379,7.088419
+place_095795,Collège A.Malraux,,43.672201,7.162529
+place_096781,Collège de l'Archet,,43.692589,7.229339
+place_097752,Collège Jean Franco,,44.2574,6.923746
+place_ROCJS,Collège Jean Saline,,44.01235,7.308988
+place_099399,Collège Jules Romains,,43.679333,7.204518
+place_TRCOL,Collège La Bourgade,,43.736437,7.311315
+place_099398,Collège Matisse,,43.722507,7.272274
+place_097809,Collège Pagnol,,43.682084,7.189158
+place_100056,Collège René Cassin,,43.786015,7.271618
+place_LACSE,Collège Saint-Exupéry,,43.666142,7.185953
+place_NCCDB,Collet de Basso,,43.728063,7.209732
+place_096080,Collet de la Déesse,,43.781252,7.180447
+place_097741,Collet du Couvent,,43.812248,7.226999
+place_096784,Collet Pioum,,43.750533,7.245032
+q:2406,Collinettes,,43.697392,7.24753
+place_096785,Colombo,,43.722457,7.27959
+place_096788,Commandant Gérôme,,43.724553,7.275367
+place_097786,Commerces du Peyron,,43.74275,7.144606
+place_096789,Complexe Sportif La Lauvette,,43.754448,7.301618
+place_096790,Comte de Falicon,,43.725515,7.255735
+place_CONGJ,Congrès / Joffre,,43.698306,7.262995
+place_096793,Congrès / Promenade,,43.694719,7.262923
+place_097209,Congrès / Promenade,,43.694979,7.264292
+place_095797,Conservatoire,,43.666146,7.153507
+place_096794,Conservatoire National de Région,,43.724988,7.273324
+place_096795,Constellations,,43.688984,7.226786
+place_096796,Constellations / IUT,,43.687266,7.227061
+place_096797,Conti,,43.732957,7.237788
+place_098243,Coq Hardi,,43.705397,7.13278
+place_096798,Coquette,,43.726822,7.248876
+place_096799,Corniche Bellevue,,43.708182,7.243053
+place_097811,Corniche Bellevue,,43.67087,7.183988
+place_097812,Corniche d'Agrimont,,43.677601,7.182589
+place_097814,Corniche des Pugets 1.,,43.692853,7.178667
+place_097815,Corniche des Pugets 2.,,43.702797,7.174471
+place_097816,Corniche des Pugets 3.,,43.703948,7.174039
+place_097817,Corniche des Pugets 4.,,43.715071,7.17262
+place_096800,Corniche Fleurie,,43.682703,7.220275
+place_096801,Coromandel,,43.725391,7.26134
+place_096802,Costabella,,43.678796,7.224038
+place_097819,Coubertin,,43.671452,7.192614
+place_096803,Courbet,,43.731517,7.275673
+place_SALEY,Cours Saleya,,43.695079,7.276015
+place_096805,CP,,43.710484,7.25347
+place_096810,Croix de Berra,,43.708148,7.212382
+place_097085,Croix de Berra,,43.708229,7.213301
+place_097742,Croix de Fer,,43.81486,7.2267
+place_098171,Cros d'Utelle,,43.879767,7.233517
+place_096812,Cyrille Besset,,43.716789,7.255814
+place_CYRNO,Cyrnos,,43.715321,7.253843
+place_ECOBA,Dante,,43.695346,7.252281
+place_LADAU,Daudet,,43.687561,7.183637
+place_LADAU1,Daudet,,43.687959,7.183763
+place_096815,Dauphine,,43.684011,7.231118
+place_096273,David,,43.717555,7.350039
+place_096816,De Joly,,43.701983,7.293225
+place_DFORES,De Joly / Forestière,,43.70455,7.299669
+place_096818,Defly / Klein,,43.701906,7.276388
+place_096819,Delfino / Arson,,43.703784,7.288596
+place_DELFIR,Delfino / Riquier,,43.703037,7.289388
+place_098107,Deloye,,43.754279,7.309554
+place_096822,Deloye / Dubouchage,,43.700626,7.269018
+place_096823,Delphine,,43.723855,7.243266
+q:2766,Denis Semeria,,43.714749,7.285848
+place_096826,Désambrois,,43.705032,7.272311
+place_096827,Deux Avenues,,43.719314,7.252069
+place_096828,Deux Corniches,,43.710813,7.295181
+place_096829,Deux Cyprès,,43.68589,7.230281
+place_096831,Diane,,43.728424,7.244467
+place_096834,Dillies,,43.709655,7.296651
+place_096836,Docteur Moriez,,43.708777,7.275125
+place_096838,Docteur Roux,,43.675722,7.226247
+place_095647,Domaine de l'Aspre,,43.767641,7.241999
+place_096329,Domaine de l'Etoile,,43.719137,7.165625
+place_095800,Domaine du Loup,,43.653049,7.139686
+place_091189,Douans,,44.230544,6.955833
+place_098804,Drakkar,,43.663771,7.130435
+place_DUBOU,Dubouchage / Durandy,,43.702117,7.272075
+place_096841,Dufy,,43.684515,7.215466
+q:2977,Durandy,,43.701744,7.272511
+place_096843,Durandy / Canta Galet,,43.714667,7.217573
+place_096944,Durandy / Pastorelli,,43.702081,7.273451
+place_096846,Ecole Corniche Fleurie,,43.686074,7.208685
+place_096849,Ecole D'Infirmières,,43.725086,7.279707
+place_101310,Ecole des Baumettes,,43.69588,7.256254
+place_096847,Ecole des Genêts,,43.714918,7.229057
+place_096848,Ecole des Oliviers,,43.729564,7.253169
+place_098816,Ecole des Plans,,43.779048,7.196954
+place_096850,Ecole du Righi,,43.71583,7.250452
+place_096851,Ecole Fabron,,43.687677,7.21228
+place_GC4014,Ecole Freinet,,43.724985,7.133329
+place_098109,Ecole La Plana,,43.755059,7.310207
+place_GDEMS,Ecole Manon des Sources,,43.719676,7.150834
+place_097822,Ecole Montaleigne,,43.69365,7.175398
+place_096852,Ecole Prévert,,43.739424,7.306082
+place_096853,Ecole Rimiez,,43.744325,7.268002
+place_099819,Ecole Saint-Isidore,,43.712347,7.19328
+place_100178,Ecole Saint-Pancrace,,43.736706,7.237339
+place_096856,Ecole Saint-Pierre,,43.717236,7.235837
+place_096464,Ecole Saint-Roch,,43.85993,7.229199
+place_096857,Eden Park,,43.676942,7.222729
+place_096858,Edith Cavell,,43.715091,7.271888
+place_096859,Edouard VII,,43.71782,7.274984
+place_096861,Eglise Jeanne d'Arc,,43.71332,7.263101
+place_096862,El Nouzah,,43.707074,7.279484
+place_098247,Emile Hugues,,43.710777,7.125787
+place_VNEHG,Emile Hugues,,43.710869,7.1258
+place_096863,Emmanuel,,43.704279,7.24245
+place_096313,Engéri,,43.762689,7.192921
+place_ECPAM,Entrée CPAM,,43.72012,7.242568
+place_096864,Escale,,43.689471,7.236615
+place_096865,Escalier / Dauphiné,,43.704999,7.248
+place_096866,Escalier / Saint-Pierre,,43.714859,7.23848
+place_098345,Escaliers de Verre,,43.696029,7.304884
+place_096868,Escoffier,,43.720984,7.293581
+q:21710,Espace 2000,,44.186205,7.160542
+place_096869,Estienne d'Orves,,43.701487,7.253649
+place_096870,Evelins,,43.703443,7.244401
+place_098346,F.Ferry,,43.705539,7.30321
+place_096872,Fabron,,43.686654,7.236936
+place_096873,Fabron / Promenade,,43.686991,7.238426
+place_096874,Faculté de Lettres,,43.692116,7.237254
+place_097825,Fahnestock,,43.681173,7.179502
+place_097824,Fahnestock Forêt,,43.685225,7.177399
+place_FANYC,Fanny / Canavèse,,43.72133,7.249921
+place_FANNY,Fanny / Cessole,,43.722381,7.250724
+place_090328,Ferber,,43.677089,7.228323
+place_100431,Ferber / Promenade,,43.675338,7.227962
+place_FERBP,Ferber / Promenade,,43.677173,7.228771
+place_097759,Ferme de May,,43.688376,7.33246
+place_096877,Ferraudière,,43.735352,7.263161
+place_096878,Fiorentina,,43.677602,7.222256
+place_096879,Fleur de Lys,,43.742793,7.251166
+place_095687,Floralies,,43.710348,7.330209
+place_096880,Floralies,,43.691211,7.219636
+place_096881,Flores,,43.714739,7.28165
+place_096882,Florval,,43.684344,7.219728
+place_097779,Fongéri,,43.743977,7.176727
+place_096314,Font Cailloure,,43.749314,7.179022
+place_096883,Fontaine,,43.735657,7.259334
+place_096202,Fontaine d'Agneau,,43.754159,7.21848
+place_097826,Forêt des Pugets,,43.686742,7.179743
+place_VNFCA,Fort Carré,,43.729687,7.125923
+place_096203,Fort Casal Colomars,,43.765438,7.22364
+place_096885,Fort Thaon,,43.700293,7.29626
+place_096886,Fougères,,43.709262,7.219279
+place_098817,Four à Chaux,,43.776653,7.175662
+place_VNFBA6,Foyer des Baoux,,43.7356,7.12295
+place_097827,France d'Outre Mer,,43.659164,7.191252
+place_096890,Franklin,,43.699587,7.255433
+place_VNFRE3,Freinet,,43.730746,7.133116
+place_096891,Frère Marc,,43.720655,7.280277
+place_096275,G.S. Gianton,,43.73404,7.352124
+place_096892,Gairautière,,43.739887,7.256607
+place_098112,Galipette,,43.738121,7.319813
+place_096894,Gambetta / Bottéro,,43.696674,7.255468
+place_098788,Gambetta / Dante / Buffa,,43.696147,7.256602
+place_096897,Gambetta / Promenade,,43.693906,7.256828
+place_095803,Gare / École Daudet,,43.659175,7.146136
+place_LAPSL6,Gare / Passerelle,,43.66267,7.195522
+place_CAGARE,Gare Cagnes-sur-Mer,,43.659129,7.148036
+place_PCANT4,Gare de Drap,,43.759651,7.319903
+place_PCANT7,Gare de Drap,,43.75957,7.320033
+place_097898,Gare Saint-Laurent-du-Var,,43.662098,7.194215
+place_101320,Gare Saint-Martin-du-Var,,43.821191,7.188533
+place_095689,Gare SNCF Beaulieu-sur-Mer,,43.706261,7.331482
+place_096277,Gare SNCF Eze,,43.722648,7.357073
+place_100106,Gare Thiers,,43.704125,7.261965
+place_099722,Gare Thiers / Médecin,,43.705326,7.265292
+place_GSNCFM,Gare Thiers / Médecin,,43.705091,7.264273
+place_GSNCFT,Gare Thiers / Poste,,43.703556,7.260839
+place_POSTE,Gare Thiers / Poste,,43.703366,7.260202
+place_096907,Garibaldi,,43.701208,7.279225
+place_101383,Garibaldi,,43.700629,7.27858
+place_GARIG,Garigliano,,43.732301,7.286593
+place_096909,Gendarmerie,,43.710683,7.282702
+place_GENLE,Général Leclerc,,43.674107,7.189639
+place_096911,George V,,43.713516,7.270345
+place_TLGEO,Georges Bonjean,,43.800074,7.273639
+place_099927,Georges Pompidou,,43.663074,7.154271
+place_096910,Georges Sand,,43.723079,7.261699
+place_096912,Géronima,,43.692266,7.21743
+place_096278,Gianton,,43.724157,7.381918
+place_097829,Giono / Les Pugets,,43.687418,7.181387
+place_096913,Giordan,,43.684644,7.226811
+place_097743,Gipasse,,43.809443,7.231172
+place_098467,Giratoire de la Manda,,43.766375,7.200358
+place_DRGIT,Gîte de la Colle,,43.756038,7.337648
+place_GOLFAN,Golfan,,43.759649,7.210271
+place_097587,Gordolon,,43.99912,7.314399
+place_GRAREN,Grand Arénas,,43.669233,7.210433
+place_095648,Grand Duc,,43.765718,7.242187
+place_098249,Grand Jardin,,43.722769,7.110864
+place_095815,Grand Large,,43.652633,7.154701
+place_096918,Grande Corniche,,43.708138,7.292534
+place_DRGSU,Gras Supérieur,,43.754516,7.326784
+place_096919,Gravier,,43.72425,7.258652
+place_GRIMA,Grimaldi,,43.697546,7.264137
+place_099404,Grinda,,43.674526,7.219845
+place_097830,Gros Buaux,,43.67638,7.177529
+place_099741,Gros Buaux,,43.670617,7.164037
+place_096922,Gros Chênes,,43.690419,7.201278
+place_096924,Grosso CUM,,43.69453,7.251573
+place_096925,Grosso CUM / Promenade,,43.692716,7.251738
+place_096926,Groupe scolaire / Moretti,,43.704961,7.207911
+place_096927,Guiglia,,43.699566,7.257877
+place_GUGLI1,Guiglia,,43.699693,7.257865
+place_095817,Guillaumet,,43.687873,7.150795
+place_096773,Gustave Nadaud,,43.71047,7.272751
+place_096929,Gustavin / Carnot,,43.696686,7.290168
+place_GUSTV,Gustavin / Parc Vigier,,43.694705,7.290576
+place_095818,Guynemer,,43.692715,7.150321
+place_096932,Halte de Gairaut,,43.733898,7.261735
+place_097322,Halte Gambetta,,43.71052,7.255914
+place_HALGA0,Halte Gambetta,,43.710105,7.256474
+place_HALGA1,Halte Gambetta,,43.710037,7.256789
+place_098250,Halte Routière de l'Ara,,43.722671,7.10724
+place_NCHCR9,Hameau de Crémat,,43.715489,7.196228
+place_NCHCR0,Hameau De Crémat,,43.715495,7.196067
+place_096933,Hameaux de la Costière,,43.722198,7.227087
+place_HAMEP,Hameaux de Saint-Pancrace,,43.737008,7.232906
+place_096935,Haute Bise,,43.708484,7.237983
+place_097831,Haute Corniche des Pugets,,43.708682,7.173126
+place_095820,Hautes Collettes,,43.680774,7.153127
+place_096936,Hauts de Chambrun,,43.727609,7.261494
+place_096295,Hauts de Saint-Michel,,43.74638,7.263646
+place_097832,Hauts des Tuillières,,43.673035,7.172542
+place_096938,Henri Dunant,,43.725784,7.264789
+place_097074,Henri Sappia,,43.730696,7.253632
+place_098349,Hermitage,,43.703888,7.306655
+place_099763,Hippodrome,,43.655382,7.151661
+place_STHLM,HLM,,44.228004,6.938169
+place_HLMCO,HLM Colombier,,43.66637,7.142134
+place_ARCHE,Hôpital L'Archet,,43.697106,7.227571
+place_096786,Hôpital Pasteur,,43.723136,7.284182
+place_096943,Hôpital Pasteur,,43.72244,7.283894
+place_098629,Hôpital Pasteur/Clinique Saint-François,,43.722986,7.282095
+place_097434,Hôpital Sainte-Marie,,43.731058,7.283631
+place_098350,Horizon,,43.710821,7.305554
+place_098251,Hôtel de Ville,,43.722171,7.113131
+place_VMHOT1,Hôtel de Ville,,43.702562,7.310898
+place_096333,IBM,,43.730999,7.166394
+place_096649,IFSI / Cap-de-Croix,,43.727206,7.275785
+place_095826,Impasse De L'Aire,,43.664931,7.147757
+place_096946,Impératrice Eugénie,,43.691974,7.233893
+place_096949,Institution Sourds et Muets,,43.70141,7.24641
+place_NCISA5,Isabella,,43.687073,7.218588
+place_ISOP15,Isola 2000 / P1,,44.191041,7.148673
+place_ISOHA,Isola 2000 Les Hameaux,,44.18748,7.159615
+place_ISOST,Isola 2000 Station,,44.186953,7.157455
+place_096951,J. Médecin / Pastorelli,,43.700003,7.269051
+place_096952,J.H.Fabre,,43.732277,7.25113
+place_095827,Jacinthes,,43.662183,7.172658
+place_096953,Jardin,,43.704979,7.247253
+place_096954,Jardin Botanique,,43.684683,7.209501
+place_096617,Jardin d'Arménie,,43.695717,7.2666
+place_096955,Jardins Corniche Fleurie,,43.690387,7.206226
+place_099794,Jardins des Tuillières,,43.674429,7.17413
+place_096956,Jardins Fleuris,,43.689356,7.222333
+place_096957,Jardins Hespérides,,43.707585,7.247093
+place_096958,Jardins Sainte-Marguerite,,43.688857,7.201989
+place_096917,Jean Bouin,,43.707971,7.281745
+place_099738,Jean Féraud,,43.666831,7.14796
+place_096961,Jean Lorrain,,43.687228,7.295254
+place_VHUGO1,Jean Médecin,,43.700512,7.267688
+place_098818,JEAN NATALE,,43.788707,7.182643
+place_095830,Jean Pons,,43.655901,7.161901
+place_099476,Jeanne Jugan,,43.711326,7.280316
+place_096470,Jeu de Boules,,43.858097,7.230311
+place_LVFEL,Jeux de boules,,43.858819,7.230399
+place_096964,Jeux de Boules,,43.724216,7.239386
+place_095690,Joffre,,43.706236,7.328422
+place_096965,Joseph Garnier,,43.710119,7.25853
+place_096966,Joseph Raybaud,,43.727621,7.282326
+place_096967,Jules Romains,,43.737656,7.252959
+place_096968,Kennedy,,43.729331,7.27538
+place_095691,Kerylos,,43.704843,7.333262
+place_BMEGL2,Kérylos,,43.705499,7.334172
+place_097024,L'abadie,,43.733272,7.289233
+place_VNABY1,L'Abey,,43.738761,7.130818
+place_VNABY2,L'Abey,,43.73872,7.130925
+place_ANTEN6,L'Antenne,,43.717023,7.219538
+place_ANTEN7,L'Antenne,,43.716929,7.219631
+place_098363,L’Anthéa,,43.706977,7.304206
+place_098265,L'Ara,,43.721262,7.109733
+place_STARG,L'Argentera,,44.227707,6.936369
+place_097033,L'Ariette,,43.711613,7.250228
+place_096090,L'Aspre,,43.774138,7.191078
+place_097035,L'Auberge,,43.702457,7.298492
+place_097720,L'Ecole,,43.752396,7.295609
+place_ISECO3,L'Ecole,,44.190327,7.151978
+place_ISECO6,L'Ecole,,44.19027,7.151906
+place_095862,L'Eglise,,43.662118,7.150652
+place_097721,L'Eglise,,43.741186,7.287856
+place_LEGLI4,L'Eglise,,43.743662,7.313745
+place_096093,L'Emigra,,43.787755,7.202309
+place_097081,L'Ensouleiadou,,43.71235,7.251036
+place_097088,L'Epingle,,43.703431,7.242384
+place_LAEPG,L'Epingle,,43.713097,7.169583
+place_095694,L'Escafourcha,,43.71158,7.332557
+place_097158,L'Escale,,43.702293,7.297746
+place_097159,L'Escalier,,43.746652,7.308142
+place_098838,L'Espérance,,43.737302,7.321382
+place_100165,L'Estellan,,43.777332,7.178317
+place_097160,L'Etoile,,43.722227,7.244826
+place_097161,L'Ibac,,43.743889,7.265663
+place_097169,L'Obellia,,43.728225,7.237862
+place_ VNOSU,L’Olivier du Suve,,43.726009,7.121408
+place_097173,L'Orée,,43.682578,7.224959
+place_097179,L'Usine,,43.734042,7.292174
+place_097180,L'Usine / Terron,,43.690524,7.223611
+place_098045,La Barbe,,43.806745,7.26766
+place_098353,La Barmassa,,43.705899,7.309931
+place_VMBAR2,La Barmassa,,43.705892,7.309568
+place_096331,La Baronne Place,,43.720042,7.179157
+place_096296,La Bastide,,43.749262,7.264449
+place_096317,La Bastide,,43.765369,7.187938
+place_096969,La Batterie,,43.735497,7.279034
+place_095832,La Bégude,,43.660132,7.155735
+place_096084,La Beilouno,,43.776205,7.190582
+place_097837,La Belle Etoile,,43.659995,7.187477
+place_LAETO,La Belle Etoile,,43.659993,7.188122
+place_BLACHE,La Blache,,44.196585,7.006168
+place_095754,La Bollène,,43.98945,7.320681
+place_098211,La Bolline,,44.075172,7.165963
+place_BOLYC,La Bolline Lycée,,44.070057,7.167949
+place_096529,La Bollinette,,44.041985,7.12893
+place_096970,La Bornala,,43.6939,7.238577
+place_096971,La Brigue,,43.713592,7.28427
+place_097781,La Cabergue,,43.748309,7.153783
+place_SJCAB0,La Cabergue,,43.748442,7.154421
+place_097838,La Calada,,43.712649,7.171781
+place_098354,La Calade,,43.720765,7.342274
+place_098355,La Candellera,,43.714869,7.312818
+place_096972,La Carita,,43.739118,7.274566
+place_101105,La Cascade,,43.85589,7.19698
+place_096974,La Chapelle,,43.720921,7.296805
+place_100180,La Chapelle / Bellet,,43.703261,7.228007
+place_096298,La Chapelle / Saint-Michel,,43.752214,7.267351
+place_096976,La Chapelle / Sainte-Marguerite,,43.686871,7.20266
+place_096978,La Charmeraie / Cimiez,,43.709391,7.272899
+place_096979,La Chaumière,,43.730531,7.285447
+place_096980,La Clinique,,43.716298,7.228313
+place_096981,La Clua,,43.727085,7.245526
+place_098047,La Clua,,43.762728,7.282082
+place_096982,La Colle,,43.70745,7.23736
+place_097703,La Colle,,43.753182,7.287688
+place_DRCCH,La colle / Le Château,,43.757438,7.337724
+place_DRCNN4,La Colle / Normandie Niemen,,43.753794,7.326279
+place_096983,La Colline,,43.698423,7.224771
+place_096984,La Colline / Costière,,43.710888,7.229542
+place_098213,La Colmiane,,44.07089,7.221966
+place_CONDA,La Condamine,,43.77065,7.33299
+place_096985,La Conque,,43.707114,7.240398
+place_098357,La Corne d'Or,,43.707097,7.307104
+place_096986,La Corniche,,43.70372,7.241056
+place_COSTI,La Costière,,43.727177,7.23168
+place_096988,La Costière B,,43.712975,7.230001
+place_096989,La Costière L,,43.712103,7.229871
+place_091455,La Courbaisse,,43.925163,7.185853
+place_097839,La Croisée,,43.704005,7.171444
+place_096990,La Croix,,43.704717,7.217067
+place_097704,La Croix,,43.73431,7.286575
+place_096991,La Croix de Gairaut,,43.738502,7.255734
+place_096992,La Demeure,,43.715588,7.220102
+place_097705,La Fontaine,,43.744742,7.29293
+place_ASFON6,La Fonte,,43.79027,7.243286
+place_ASFON7,La Fonte,,43.790709,7.243212
+place_098258,La Fontette,,43.725034,7.113786
+place_097783,La Fontonne,,43.745789,7.147488
+place_095833,La Foux,,43.653482,7.15169
+place_096994,La Gare,,43.708614,7.231843
+place_098820,La Ginestière,,43.784715,7.184367
+place_096995,La Grangette,,43.728762,7.267302
+place_097706,La Grotte,,43.748288,7.285902
+place_096996,La Guinguette,,43.720714,7.222916
+place_096997,La Haie,,43.748682,7.306493
+place_100240,La Halte,,43.759583,7.183279
+place_096998,La Hune,,43.701591,7.230964
+place_098359,La Jeunesse,,43.703214,7.307758
+place_096999,La Lanterne,,43.678563,7.227688
+place_097000,La Lauvette,,43.743385,7.306901
+place_098360,La Léopolda,,43.709898,7.3172
+place_096144,La Loubière,,43.806708,7.230426
+place_ VNLUB,La Lubiane,,43.724231,7.125616
+place_GC4019,La Lubiane,,43.724199,7.12587
+place_GC4016,La Lune,,43.72315,7.131933
+place_097001,La Madeleine,,43.708491,7.230355
+place_096468,La Madone,,43.850669,7.236417
+place_097002,La Madonette,,43.728318,7.271535
+place_097004,La Mairie,,43.709088,7.223885
+place_096196,La Manda,,43.763575,7.204576
+place_097005,La Marbrerie,,43.716991,7.21862
+place_099805,La Massabella,,43.700855,7.221522
+place_097008,La Mouta,,43.742513,7.260747
+place_098362,La Murta,,43.710493,7.322076
+place_098117,La Nuit,,43.737639,7.309056
+place_097684,La Parisienne,,43.834835,7.193251
+place_099793,La Passerelle,,43.661652,7.194379
+place_097009,La Pastorelle,,43.684125,7.228336
+place_097010,La Pignata,,43.718785,7.309999
+place_095836,La Pinède,,43.654513,7.15823
+place_097011,La Pinède,,43.698738,7.236603
+place_097707,La Piscine,,43.742791,7.288031
+place_098118,La Plage,,43.751367,7.310592
+place_095700,La Plage / Le Port,,43.708643,7.334535
+place_100308,La Plaine,,43.686924,7.201262
+place_098119,La Plana Matisse,,43.756099,7.312063
+place_098140,La Plana Picasso,,43.75424,7.314122
+place_096145,La Plane,,43.803699,7.23403
+place_098262,La Plus Haute Sine,,43.714608,7.086866
+place_096336,La Pompe,,43.716829,7.153157
+place_098049,La Poste,,43.791123,7.273145
+place_098364,La Poste,,43.703438,7.309859
+place_097012,La Poudrière,,43.723199,7.217074
+place_097841,La Provençale,,43.666854,7.192679
+place_096087,La Querello,,43.783756,7.20248
+place_097762,La Rade,,43.696646,7.32745
+place_097013,La Raïola,,43.729689,7.211017
+place_097014,La Redoute,,43.744211,7.249265
+place_CRREP,La République,,43.78277,7.204486
+place_097015,La Réserve,,43.692042,7.291066
+place_STRIB7,La Ribas,,44.221626,6.94512
+place_STRIB9,La Ribas,,44.221591,6.944615
+place_098214,La Roche,,44.069641,7.175799
+place_096299,La Ronde des Pins,,43.744454,7.263319
+place_CRROS7,La Roseraie,,43.771892,7.204721
+place_095840,La Roue,,43.670766,7.131118
+q:4285,La Roue,,43.670888,7.130424
+place_097016,La Sablière,,43.725045,7.266986
+place_STSAP,La Sapinière,,44.22552,6.939744
+place_097017,La Séréna,,43.734419,7.278348
+place_097019,La Sousta,,43.714342,7.220422
+place_096088,La Teréhentine,,43.781273,7.203914
+place_097842,La Tour,,43.705178,7.177689
+place_097843,La Tour Carrée,,43.70094,7.172848
+place_099838,La Tour sur Tinée - Gare,,43.938565,7.164633
+place_LTVIL9,La Tour Village,,43.947611,7.184304
+place_097020,La Tourelle,,43.711657,7.216284
+place_098121,La Trinité,,43.741835,7.311613
+place_097709,La Tuve,,43.749883,7.293451
+place_SATUV9,La Tuve,,43.749851,7.293374
+place_ISOVAL,La Valette,,44.183658,7.162322
+place_096279,La Valléria,,43.731253,7.380809
+place_097021,La Vallière / Goiran,,43.725673,7.248995
+place_097712,La Vierge,,43.75406,7.296053
+place_098366,La Vigie,,43.708999,7.304215
+place_NCVIG1,La Vigneraie,,43.70926,7.233458
+place_NCVIG2,La Vigneraie,,43.708163,7.234169
+place_097023,La Vignette,,43.720499,7.208158
+place_097025,Labrador,,43.751814,7.307338
+place_097026,Lacassagne,,43.723671,7.281005
+place_SJLAF1,Lafayette,,43.745162,7.137018
+place_SJLAF2,Lafayette,,43.745364,7.136385
+place_096089,Langevin,,43.768608,7.196799
+place_COLAN6,Langevin,,43.768998,7.196645
+place_098123,Langlet,,43.751842,7.310043
+place_096455,Lantosque,,43.974148,7.31068
+place_097034,Las Planas / Sappia,,43.729923,7.248351
+place_096474,Laval,,43.824057,7.261516
+place_096475,Laval Centre,,43.826867,7.259918
+place_LVLSU,Laval Sud,,43.821777,7.263216
+place_097036,Lavoir,,43.72912,7.283924
+place_095846,Le Béal,,43.665342,7.1547
+place_091191,Le Bourguet,,44.225143,6.961819
+place_096146,Le Brec,,43.792017,7.238202
+place_BROC,Le Broc Village,,43.8105,7.16756
+place_097713,Le Broch,,43.742339,7.293168
+place_097787,Le Brusquet,,43.744287,7.146545
+place_CSBURG,Le Burguet,,43.787321,7.22265
+place_096147,Le Canet,,43.794521,7.233941
+place_097764,Le Cap / Albert 1er,,43.692018,7.329091
+place_STCAR2,Le Carlina,,44.228126,6.922754
+place_097714,Le Caroubier,,43.736286,7.290423
+place_096091,Le Castelet,,43.771171,7.200115
+place_098368,Le Castellet,,43.709868,7.310891
+place_TRCSLS,Le Castelli,,43.734537,7.315893
+place_099791,Le Castillon,,43.687331,7.182422
+place_098051,Le Cercle,,43.766403,7.280696
+place_CACHT,Le Château,,43.666966,7.14572
+place_LACHT,Le Château,,43.691484,7.176015
+place_CHAUD0,Le Chaudan,,43.870909,7.197952
+place_097756,Le Cialancier,,44.20904,6.978136
+place_097044,Le Ciel de Nice,,43.739502,7.251505
+place_C40A9,Le Claoux,,43.727935,7.114756
+place_097045,Le Clara,,43.727672,7.248118
+place_CRCLA4,Le Claret,,43.797994,7.18075
+place_097046,Le Clos,,43.688997,7.213696
+place_097048,Le Col,,43.720784,7.227692
+place_VNCLT4,Le Collet,,43.736385,7.131122
+place_097846,Le Collet Rouge,,43.697936,7.174101
+place_098052,Le Colombier,,43.811361,7.26579
+place_097589,Le Cougne,,44.039594,7.290564
+place_100365,Le Cougnet,,43.782978,7.182149
+place_VNCOU1,Le Cougnet,,43.740588,7.131866
+place_VNCOU2,Le Cougnet,,43.740574,7.131964
+place_097997,Le Cros,,44.055593,7.264567
+place_STDAH,Le Dahut,,44.225886,6.933916
+place_097049,Le Florilège,,43.710928,7.252615
+place_VNFNZ2,Le Fonzéri,,43.72673,7.105829
+place_097050,Le Four,,43.724981,7.208785
+place_097051,Le Foyer,,43.700212,7.225198
+place_098054,Le Frogier,,43.788197,7.272977
+place_098268,Le Garibou,,43.726161,7.117546
+q:21711,Le Génépi,,44.188729,7.159
+place_097052,Le Génie,,43.741803,7.239162
+place_097053,Le Génie / Bellet,,43.740307,7.216905
+place_098369,Le Gentilhomme,,43.706717,7.313951
+place_098823,Le Gourg,,43.787004,7.178064
+place_097847,Le Gros Chêne,,43.660366,7.182423
+place_097054,Le Gros Pin,,43.727822,7.217513
+place_GRPC,Le Gros Pin/Crémat,,43.728272,7.217248
+place_GRPC4,Le Gros Pin/Crémat,,43.728519,7.216063
+place_099519,Le Gué / Shopping Promenade,,43.668091,7.126589
+place_VNLAC,Le Lacet,,43.721408,7.135275
+place_097055,Le Manoir,,43.719268,7.246672
+place_CAMHC,Le Manoir Haut De Cagnes,,43.66619,7.145849
+place_100894,Le Marronnier,,43.720324,7.149852
+place_097715,Le Masage,,43.737526,7.287159
+place_ VNMIR,Le Mirabaous,,43.721254,7.120722
+place_097716,Le Mortier,,43.751739,7.291874
+place_097058,Le Nid,,43.708107,7.198754
+place_097059,Le Paillon,,43.735887,7.304465
+place_097060,Le Palatin,,43.689686,7.209025
+place_097061,Le Panorama,,43.716527,7.250689
+place_097717,Le Panto,,43.741172,7.292898
+place_095855,Le Park,,43.676253,7.153984
+place_098057,Le Pascal,,43.779173,7.275705
+place_096477,Le Peloubier,,43.840344,7.245397
+place_097063,Le Perchoir,,43.710648,7.246017
+place_CAPER7,Le Pérousin,,43.665983,7.148508
+place_097788,Le Peyron,,43.743837,7.146222
+place_099052,Le Peyrouas,,43.749866,7.157253
+place_096210,Le Pilon,,43.751308,7.216832
+place_095652,Le Pilon d'Aspremont,,43.752374,7.246777
+place_097064,Le Piol,,43.709787,7.251082
+place_PIODO,Le Piol / Saint-Pierre,,43.709034,7.247655
+place_098059,Le Plan d'Ariou,,43.803903,7.268668
+place_096479,Le Plantier,,43.813981,7.265401
+place_097066,Le Plateau,,43.731824,7.231224
+place_099537,Le Pont,,43.723944,7.227821
+place_097068,Le Pont / Dauphiné,,43.70354,7.249799
+place_096338,Le Pont des Colles,,43.736501,7.150359
+place_091193,Le Pré Du Loup,,44.218773,6.968256
+place_097072,Le Président,,43.693072,7.293151
+place_097998,Le Puey,,44.066216,7.257154
+place_098275,Le Puits du Renard,,43.721723,7.122146
+place_STRES,Le Réservoir,,44.230814,6.929502
+place_096480,Le Reveste,,43.835219,7.250842
+place_095653,Le Rigou,,43.762346,7.243965
+place_095859,Le Riou,,43.653382,7.137059
+place_097215,Le Roure,,43.724947,7.221858
+q:21712,Le Saint-Clair,,44.189665,7.158699
+place_097718,Le Serre,,43.748509,7.294935
+place_096303,Le Stade Falicon,,43.749974,7.276674
+place_098173,Le Suquet,,43.942985,7.282696
+place_098277,Le Suve,,43.727305,7.121741
+place_098278,Le Suvéran,,43.710938,7.129935
+place_098279,Le Taude,,43.701346,7.131863
+place_095860,Le Tiercé,,43.651165,7.152032
+place_097076,Le Toasc,,43.716874,7.198348
+place_097999,Le Touron,,44.059969,7.259831
+place_096481,Le Tunnel,,43.862611,7.225576
+place_VNTUN2,Le Tunnel,,43.7363,7.12859
+place_GC4018,Le Vallon,,43.724767,7.127515
+place_VALLO5,Le Vallon,,43.751684,7.320459
+place_VALLO7,Le Vallon,,43.751808,7.320461
+place_097719,Le Verdaou,,43.745051,7.293833
+place_097078,Le Verseau,,43.713047,7.273148
+place_098000,Le Villaron,,44.049276,7.274549
+place_097080,Lei Domi,,43.719548,7.194235
+place_096092,Lei Feirrièro,,43.790681,7.203423
+place_097084,Lenval / Promenade,,43.688794,7.241508
+place_097087,Léopold,,43.71344,7.271619
+place_098375,Léopold II,,43.707596,7.312622
+place_LEPAN2,Lépante,,43.705222,7.269265
+place_095864,Les 4 Chemins / Saint-Paul-de-Vence,,43.687092,7.130106
+place_VNADR1,Les Adrets,,43.73403,7.121713
+place_VNADR2,Les Adrets,,43.733991,7.121784
+q:21709,Les Adrets,,44.185672,7.159515
+place_VNAGA,Les Agaves,,43.73321,7.123096
+place_096094,Les Amandiers,,43.769786,7.195596
+place_ARBORA,Les Arboras,,43.692171,7.199975
+place_ARBOUN,Les Arboras / Université,,43.69272,7.199293
+place_097722,Les Ardouins,,43.753051,7.291529
+place_097090,Les Baraques,,43.696666,7.192169
+place_097091,Les Bassins,,43.736571,7.279274
+place_097849,Les Bastides,,43.675326,7.183507
+place_097092,Les Baumettes,,43.696036,7.248748
+place_097093,Les Beaumonts,,43.745982,7.251304
+place_097094,Les Belles Terres,,43.685923,7.214359
+place_095865,Les Bréguières,,43.66884,7.161422
+place_GC4015,Les Bruyères,,43.723023,7.134533
+place_LesBu,Les Buisses,,44.083042,7.042108
+place_095654,Les Cabanes Blétonnières,,43.755951,7.248334
+place_CAPAC,Les Cappan Croisement,,43.749109,7.196713
+place_098377,Les Caroubiers,,43.711837,7.319977
+place_VNCAY,Les Cayrons,,43.707868,7.1313
+place_VNLCY,Les Cayrons,,43.707732,7.130337
+place_097098,Les Cèdres,,43.720795,7.267597
+q:23022,Les Cèdres,,44.188276,7.160332
+place_097099,Les Cerisiers,,43.710595,7.229058
+place_097100,Les chasseurs,,43.730354,7.269858
+place_098001,Les Châtaigniers,,44.045322,7.277318
+place_097101,Les Chênes,,43.719735,7.293895
+place_099811,Les Chênes,,43.664209,7.171152
+place_VNCHE,Les Chênes,,43.730169,7.130914
+place_097102,Les Chênes / Las Planas,,43.728178,7.24887
+place_096243,Les Chênes Verts,,43.748595,7.320755
+place_096095,Les Cigales,,43.766663,7.193414
+place_CIGALE,Les Cigales,,43.75071,7.306844
+place_LESCL,Les Cliniques,,43.702751,7.252342
+place_097105,Les Clos de Cimiez,,43.727584,7.272726
+place_097106,Les Coccinelles,,43.70562,7.277607
+place_095868,Les Collettes,,43.671946,7.15693
+place_096319,Les Condamines,,43.757995,7.187913
+place_096320,Les Conques,,43.761178,7.191395
+place_099497,Les Coteaux De Bellet,,43.750176,7.289653
+place_100182,Les Cougourdons,,43.734262,7.232155
+place_097109,Les Crêtes / Carnot,,43.691882,7.294323
+place_097110,Les Crêtes / Oliviers,,43.739194,7.234319
+place_096484,Les Cyprès,,43.841954,7.244128
+place_097111,Les Dahlias,,43.730784,7.249306
+place_097112,Les Ecoles,,43.72539,7.288172
+place_097113,Les Etoiles,,43.703428,7.234892
+place_097114,Les Eucalyptus,,43.67566,7.220669
+place_099032,Les Fauvettes,,43.7564,7.17093
+place_096280,Les Flots Bleus,,43.730345,7.365761
+place_095655,Les Fontêtes,,43.763873,7.243158
+place_VNFNT1,Les Fonts,,43.742819,7.132513
+place_VNFNT2,Les Fonts,,43.742806,7.132613
+place_098286,Les Fonts / Sainte Colombe,,43.735522,7.129912
+place_098288,Les Fourches,,43.716087,7.123856
+place_097115,Les Freesias,,43.700468,7.204218
+place_097116,Les Fréghières,,43.764739,7.217356
+place_095871,Les Galets,,43.664389,7.145406
+place_101386,Les Galets,,43.711312,7.233708
+place_097851,Les Gallinières,,43.661683,7.182952
+place_098131,Les Gêmeaux,,43.729739,7.301212
+place_097117,Les Genêts,,43.729991,7.245946
+place_097118,Les Géraniums,,43.731357,7.238629
+place_097119,Les Glycines,,43.724924,7.270918
+place_098132,Les Glycines,,43.734772,7.314303
+place_ VNHSL,Les Hauts de Saint Lambert,,43.721584,7.12715
+place_100007,Les Hespérides,,43.691789,7.307071
+place_097122,Les Immeubles,,43.698848,7.235433
+place_098133,Les Iris,,43.746074,7.324628
+place_097853,Les Iscles,,43.709702,7.177892
+place_097339,Les jardins de la Clairière,,43.716687,7.223764
+place_099033,Les Lentisques,,43.755282,7.165505
+place_097123,Les Lilas,,43.71925,7.265476
+place_097124,Les Liserons,,43.705397,7.295353
+place_099549,Les Lucioles (sur Ligne 86),,43.737986,7.31231
+place_BMMAN,Les Mandarines,,43.710344,7.331125
+place_099407,Les Ménestrels,,43.712828,7.279213
+place_095873,Les Mimosées,,43.665594,7.170028
+place_CAMIM7,Les Mimosées,,43.66545,7.169272
+place_096485,Les Moulins,,43.852891,7.2341
+place_098061,Les Moulins,,43.772451,7.280218
+place_095875,Les Mûriers,,43.657204,7.151045
+place_097126,Les Mûriers,,43.736771,7.306164
+place_097127,Les Néreïdes,,43.686804,7.294972
+place_097128,Les Noisetiers,,43.725795,7.265169
+place_099408,Les Œillets,,43.731818,7.249892
+place_097130,Les Oliviers,,43.71293,7.240506
+place_099922,Les Oliviers,,43.659131,7.163864
+place_VNOLV0,Les Oliviers  scolabus,,43.727547,7.11862
+place_097131,Les Oliviers /  Fabron,,43.689565,7.219098
+place_097132,Les Olympiades,,43.685038,7.203309
+place_STOLY4,Les Olympiades,,44.226154,6.936849
+place_098292,Les Orangers,,43.718921,7.12351
+place_097133,Les OudaÏas,,43.679062,7.210573
+place_VNPLM,Les Palmiers  scolabus,,43.726607,7.112329
+place_097135,Les Palmiers / Bellet,,43.705074,7.225029
+place_097136,Les Palmiers / Mont Boron,,43.703336,7.296521
+place_097137,Les Palmiers / Saint-Pierre,,43.712246,7.239977
+place_100795,Les Panoramas,,43.728909,7.117969
+place_SJPEY1,Les Peyrouas,,43.749722,7.156784
+place_098136,Les Pins,,43.723538,7.30359
+place_096341,Les Plantiers,,43.729672,7.177314
+place_097856,Les Plantiers,,43.66912,7.180745
+place_097138,Les Potiers,,43.699621,7.251502
+place_099810,Les Presses,,43.670786,7.132997
+place_097139,Les Primevères,,43.678426,7.213491
+place_097857,Les Provençales,,43.678764,7.18223
+place_097858,Les Pugets / Aicard,,43.686233,7.180751
+place_097140,Les Restanques,,43.689917,7.210801
+place_097141,Les Restaurants,,43.740673,7.237888
+place_097142,Les Rochers,,43.710386,7.295471
+place_097143,Les Roches,,43.687868,7.218669
+place_096342,Les Rombinas,,43.706083,7.151626
+place_097144,Les Ronces,,43.7256,7.268623
+place_096096,Les Rosemarines,,43.775188,7.198393
+place_097145,Les Roses / Rimiez,,43.74012,7.277397
+place_097861,Les Roses / Saint-Laurent,,43.667961,7.184096
+place_095881,Les Salles,,43.669949,7.14651
+place_096097,Les Sèlves,,43.778211,7.202159
+place_096212,Les Serraires,,43.759419,7.220401
+place_099823,Les Serres,,43.714996,7.195116
+place_097150,Les Serres / Pessicart,,43.726616,7.237305
+place_099724,Les Seuils,,43.709415,7.149213
+place_099824,Les Strelitzias,,43.706763,7.206296
+place_097153,Les Teiras,,43.716452,7.297446
+place_095657,Les Templiers,,43.773474,7.243434
+place_097154,Les Tennis,,43.714601,7.276772
+place_095658,Les Tennis d'Aspremont,,43.780411,7.244586
+place_097155,Les terrasses,,43.675215,7.210298
+q:21763,Les terrasses,,44.188345,7.156874
+place_097156,Les Terrasses la Costière,,43.717589,7.228833
+place_097862,Les Tines,,43.706755,7.17145
+place_100304,Les Travails,,43.667822,7.138295
+q:4289,Les Travails,,43.667773,7.138412
+place_097157,Les Treuyes,,43.707046,7.224116
+place_095883,Les Tritons,,43.659491,7.168565
+place_098378,Les Trois Frères,,43.710199,7.326005
+place_STTLY,Les trois Lys,,44.226297,6.937142
+place_096344,Les Vacquières,,43.732324,7.154971
+place_ROVAU,Les Vautes,,44.089976,7.038958
+place_096345,Les Vergers,,43.704822,7.148123
+place_098298,Les Vergers,,43.73371,7.128707
+place_GC4011,Les Vergers de Vence,,43.735367,7.12577
+place_VERNE,Les Vernes,,43.764379,7.32637
+place_VERNE9,Les Vernes,,43.764678,7.327451
+place_095886,Les Vespins,,43.660477,7.176199
+place_NCVDC0,Les Villas de Cessole,,43.714683,7.253541
+place_095887,Les Violettes,,43.659575,7.160543
+place_097864,Li Maioun,,43.680275,7.180726
+place_097162,Libération,,43.710326,7.262124
+place_099786,Libération,,43.666791,7.187639
+place_097166,Lingostière / Gare CP,,43.720666,7.18825
+place_097168,Lino Ventura,,43.738443,7.307611
+place_GC4017,Logis,,43.724781,7.129089
+place_097171,Lombardie,,43.743802,7.271068
+place_097172,Longchamp,,43.699378,7.267147
+place_096099,Lou Camp,,43.786925,7.180784
+place_095659,Lou Campoun,,43.783209,7.247549
+place_097176,Lou Castel,,43.705846,7.247064
+place_096100,Lou Claus,,43.789835,7.199434
+place_CRCCD,Lou Gourg,,43.784052,7.176659
+place_DRLOU,Lou Valoun,,43.755089,7.331777
+place_097178,Louis Braille,,43.718756,7.294132
+place_100011,Lycée Apollinaire,,43.71571,7.282921
+place_LYCEET,Lycée Massena,,43.70071,7.276761
+place_097183,Lycée Masséna,,43.69949,7.276562
+place_095888,Lycée Renoir,,43.670683,7.150635
+place_097184,Lycée Thierry Maulnier,,43.684482,7.198329
+place_LYMPI,Lympia,,43.697033,7.286619
+place_097186,Maccario / Raybaud,,43.724947,7.285535
+place_097187,Madeleine,,43.716299,7.234558
+place_097188,Madeleine Supérieure,,43.729499,7.222361
+place_098379,Madone Noire,,43.707398,7.316351
+place_096940,Maeterlinck,,43.686846,7.30165
+place_097190,Maeterlinck / Baumettes,,43.697247,7.248454
+place_097192,Magnan,,43.691909,7.244846
+q:2403,Magnan / Henriot,,43.69249,7.246819
+place_097193,Magnan / Promenade,,43.690698,7.245755
+place_097194,Magnolias,,43.680782,7.220713
+place_097866,Magnolias,,43.663242,7.188282
+place_099872,Maioun dóu Rai,,43.727924,7.255467
+place_095889,Mairie,,43.662729,7.148266
+place_097770,Mairie,,43.691613,7.332855
+place_095890,Mairie Annexe,,43.669301,7.165564
+place_096323,Mairie de Gattières,,43.759535,7.175796
+place_098351,Mairie Villefranche-sur-Mer,,43.702506,7.311104
+place_098138,Maison de l'Enfance,,43.735875,7.316759
+place_GRPIN,Maison de l'Environnement,,43.712965,7.255072
+place_VMMAI2,Maison de retraite,,43.704884,7.307559
+place_098380,Maison de Retraite,,43.704528,7.307667
+place_MAISO,Maison des Sports,,43.657995,7.15988
+place_MAIM4,Maison Médicale / La Manda,,43.760736,7.201931
+place_096101,Maison Pour Tous,,43.772415,7.192516
+place_097196,Maisons Neuves,,43.720938,7.285729
+place_096346,Maoupas,,43.723815,7.177665
+place_098305,Maréchal Foch,,43.723683,7.105525
+place_096530,Marie Gare,,44.036099,7.129243
+place_099868,Marie Madeleine,,43.708481,7.23077
+place_095695,Marinoni,,43.709516,7.330937
+place_097200,Marjolaine,,43.704399,7.249426
+place_095661,Marjole,,43.761165,7.245871
+place_097202,Martin,,43.756144,7.197968
+place_095894,Mas de Montalou,,43.682471,7.178762
+place_097868,Mas de Montalou,,43.683569,7.179403
+place_LEMAS,Mas Saint-Pierre,,43.712932,7.242245
+place_MASSE,Masséna,,43.697705,7.271162
+place_097207,Masséna / Guitry,,43.69839,7.270239
+place_097210,Maternelle,,43.713677,7.238627
+place_097869,Mauberts,,43.688571,7.176685
+place_097211,Maurice Jaubert,,43.737102,7.30014
+place_097212,Max Barel,,43.699419,7.287347
+place_MEDHI,Médiathèque,,43.773772,7.192506
+place_097213,Mencarelli,,43.697712,7.23726
+place_097214,Mendiguren,,43.707224,7.276783
+place_097995,Menuiserie,,44.067124,7.255782
+place_MERID,Méridia,,43.682935,7.203103
+place_095897,Mermoz,,43.684968,7.151558
+place_095898,Mermoz Renoir,,43.669136,7.151977
+place_097218,Michel Ange,,43.711274,7.260218
+place_097220,Michel Ange / Auguste Raynaud,,43.711844,7.258802
+place_097222,Michelet,,43.714131,7.258615
+place_095899,Micocouliers,,43.66109,7.163945
+place_097223,Milon de Veraillon,,43.715137,7.29704
+place_099558,Miramar,,43.689747,7.295943
+place_097225,Mirandole,,43.68295,7.21173
+place_097226,Mirasol,,43.710483,7.251893
+place_097227,Mirasol / Pessicart,,43.710486,7.249766
+place_097228,Mistinguette,,43.711885,7.244749
+place_097229,Mistral,,43.725262,7.252016
+place_097231,Mon Plaisir,,43.711513,7.26451
+place_097232,Monastère,,43.72085,7.277296
+place_097235,Mont Boron,,43.691861,7.300356
+place_097236,Mont Carmel,,43.726623,7.260588
+place_097103,Mont des Cigales,,43.740384,7.236762
+place_097237,Mont Fabron,,43.690088,7.213399
+place_096347,Mont Gros,,43.726737,7.169568
+place_MTGROS,Mont Gros,,43.717138,7.294192
+place_097240,Montée de Cimiez,,43.706494,7.276099
+place_095697,Montée du Rêve,,43.703318,7.326627
+place_NCMTR4,Montréal,,43.685057,7.223045
+place_NCMTR5,Montréal,,43.685001,7.223008
+place_MONF,Monument aux Morts,,43.69398,7.282581
+place_095662,Monval,,43.760003,7.246069
+place_097871,Morgan,,43.66888,7.191739
+q:5254,Morgan,,43.667073,7.189963
+place_097242,Mosca,,43.698994,7.239221
+q:5255,Moschetti,,43.668706,7.189107
+place_097243,Moulin,,43.710796,7.227076
+place_097744,Moulin de Saint-Blaise,,43.82055,7.240619
+place_097244,Moyenne Corniche,,43.698527,7.295263
+place_097872,Moyenne Corniche des Pugets,,43.696582,7.177836
+place_097245,Mozart,,43.700374,7.262094
+place_098840,Musée,,43.722864,7.112388
+place_097246,Musée Chagall,,43.708741,7.271082
+place_097247,Musée Chéret,,43.695106,7.248592
+place_095902,Musée Renoir,,43.668489,7.156779
+place_097249,Mutuelle Agricole,,43.678963,7.225552
+place_AGRIC2,Mutuelle Agricole,,43.678999,7.225513
+place_097250,N.121,,43.712558,7.249825
+place_097251,N.54,,43.71202,7.251964
+place_097252,N.59,,43.69387,7.209094
+place_CN1255,N°1255,,43.789838,7.219948
+place_098002,Nantelle,,44.051493,7.271151
+place_NANTE7,Nantelle Supérieure,,44.052776,7.268374
+place_NANTE9,Nantelle Supérieure,,44.052913,7.268113
+place_097724,Nartière Inférieure,,43.749296,7.288966
+place_097725,Nartière Supérieure,,43.751249,7.290366
+place_097255,Nazareth,,43.70946,7.255607
+place_096214,Nécropole,,43.771223,7.21517
+place_TRNEG1,Négron,,43.745133,7.322756
+place_097261,Nicola,,43.702219,7.231542
+place_097263,Normandie / Cimiez,,43.707207,7.27361
+place_097873,Notre Dame,,43.677687,7.188626
+place_NDAME,Notre Dame,,43.704145,7.267671
+place_100709,Notre Dame des Fleurs,,43.722469,7.082706
+place_096151,Notre-Dame de la Paix,,43.801255,7.233501
+place_095903,Notre-Dame de la Protection,,43.668269,7.146074
+place_098382,Oasis,,43.719984,7.338728
+place_097266,Observatoire,,43.720882,7.304643
+place_098383,Octroi,,43.702253,7.307954
+place_098384,Octroi / Grande-Bretagne,,43.702621,7.308469
+place_098385,Octroi / Libération,,43.702632,7.308633
+place_STOTO,Office de Tourisme,,44.226448,6.92914
+place_098387,Olivula,,43.716396,7.321904
+place_VMOLV9,Olivula,,43.716498,7.321838
+place_097268,Opéra - Vieille Ville,,43.697483,7.273403
+place_097726,Ophidie,,43.747995,7.289647
+place_097269,Orangeraie,,43.674936,7.215104
+place_097270,Orangerie,,43.703923,7.207535
+place_098824,Oratoire,,43.780237,7.176023
+place_096492,Ordalena,,43.846337,7.239727
+q:5252,Ossola,,43.662099,7.192758
+place_097875,Ossola Tassigny,,43.662779,7.190658
+place_095906,Ouvéa,,43.671218,7.125886
+place_100366,Pagnol,,43.778652,7.187256
+place_PEXPO,Palais des Expositions,,43.707429,7.282136
+place_090709,Palais Nikaïa,,43.68077,7.199228
+place_097274,Palais Prince Charles,,43.711217,7.268433
+place_097275,Panera,,43.743303,7.249369
+place_098388,Panorama,,43.712831,7.308052
+place_097276,Panoramic,,43.726613,7.257987
+place_098310,Paoutaouchoun,,43.720846,7.123724
+place_097278,Papyrus,,43.70495,7.29495
+place_PARAD,Paradis,,43.706365,7.245807
+place_097280,Parc à Fourrages,,43.726714,7.285738
+place_PARAT,Parc Athénée,,43.712165,7.274202
+place_097281,Parc Boron,,43.709551,7.294413
+place_101317,Parc Chambrun,,43.722365,7.263951
+place_097282,Parc des Miniatures,,43.693866,7.230597
+place_095908,Parc des Sports,,43.671022,7.150016
+place_100459,Parc Impérial,,43.705046,7.251254
+place_PARCG,Parc Impérial / Gambetta,,43.704294,7.25614
+place_097287,Parc Impérial Weygand,,43.703808,7.250734
+place_096493,Parc Laval,,43.825753,7.260991
+place_097876,Parc Layet,,43.674622,7.190872
+place_100010,Parc Louisa,,43.696084,7.292476
+place_098067,Parc Mauran,,43.789267,7.273693
+place_097289,Parc Orangini,,43.723526,7.271539
+place_097022,Parc Phoenix / Promenade,,43.669272,7.221655
+place_096282,Parc Rivièra,,43.733665,7.34893
+place_099917,Parking Saint Laurent d'Eze,,43.724937,7.380267
+place_VNPRKT,Parking Toreille,,43.722473,7.116703
+place_097877,Paros,,43.68158,7.185304
+place_097771,Passable / Rothschild,,43.693944,7.328907
+place_097293,Passerelle du Paillon,,43.713084,7.282576
+place_097464,Passerelle du Paillon,,43.712583,7.284084
+place_097295,Passy,,43.699572,7.25377
+place_097878,Pasteur,,43.665092,7.193402
+q:5253,Pasteur,,43.663872,7.190816
+place_PASTOR,Pastorelli,,43.701204,7.270956
+place_DRPBA0,Patrimoine BAS,,43.75578,7.322272
+place_099785,Paul Marie,,43.672792,7.184027
+place_095911,Pénétrante Cagnes,,43.67164,7.127265
+q:4284,Pénétrante Cagnes,,43.671624,7.12736
+place_097301,Pessicart / Roi Robert,,43.715442,7.246014
+place_PESIN9,Pessicart / Roi Robert,,43.715326,7.246004
+place_PESIN1,Pessicart Inférieur,,43.712848,7.24766
+place_097302,Petit Bosquet,,43.730155,7.243662
+place_095912,Petit Castel,,43.666801,7.168302
+place_097303,Petit Pessicart,,43.722307,7.239866
+place_097305,Petit Saint-Pierre,,43.724121,7.232365
+place_095699,Petite Afrique,,43.713013,7.338117
+place_096939,Philippines,,43.733102,7.249984
+place_097306,Picardie,,43.708199,7.274963
+place_095913,Pichodou,,43.695825,7.151194
+place_097780,Pierre de Fresquet,,43.749279,7.170346
+place_PSEMA,Pierre Sémard,,43.716014,7.28979
+place_PSOLA,Pierre Sola,,43.706489,7.287315
+place_097309,Pietruschi,,43.739479,7.276919
+place_097310,Pignata,,43.690553,7.213989
+place_097311,Piloudrome,,43.699424,7.29777
+place_PLARS,Place Arson,,43.7019,7.284687
+place_STPCE,Place Centrale,,44.225101,6.931403
+place_098389,Place Charles D'Anjou,,43.704273,7.30992
+place_DRPLC9,Place Clémenceau,,43.755652,7.320482
+place_PCAUV6,Place Clémenceau,,43.755784,7.320408
+place_097314,Place de la Lanterne,,43.683214,7.21802
+place_098141,Place de Rebat,,43.743646,7.317596
+place_097315,Place des Mosaïques,,43.737725,7.30284
+place_096102,Place des Plans,,43.775008,7.199892
+place_097316,Place Fontaine du Temple,,43.725208,7.257449
+place_097727,Place Jules Musso,,43.739689,7.287608
+place_097990,Place Village,,43.821907,7.191802
+place_NCPDC,Plaine de Cimiez,,43.707314,7.277774
+place_DRPBL1,Plan de Blavet,,43.765458,7.329276
+place_DRPDB,Plan de Blavet,,43.765399,7.329152
+place_096495,Plan de Couthon,,43.818291,7.264673
+place_100173,Plan de Saint-Jeannet,,43.740564,7.177699
+place_096348,Plan du Bois,,43.731906,7.163852
+place_095476,Plan du var,,43.859493,7.198087
+place_096324,Plans de Gattières,,43.753048,7.182739
+place_097319,Platane,,43.711933,7.248026
+place_096284,Plateau de la Justice,,43.731878,7.342323
+place_097320,Plateau de Rimiez,,43.74195,7.274102
+place_098391,Plateau Saint-Michel,,43.714954,7.32523
+place_097881,Plateaux Fleuris,,43.67522,7.178079
+q:5127,Plateaux Fleuris,,43.674946,7.17825
+place_097321,Pléiade,,43.688616,7.235821
+place_COPLE3,Plesent,,43.766809,7.221927
+place_CRPPS,Pôle d'échanges Pierre Servella,,43.766466,7.20197
+place_097327,Pont Césaire Aube,,43.736343,7.287423
+place_099544,Pont Charles Albert,,43.838061,7.194363
+place_100496,Pont Charles Albert 202 bis,,43.838075,7.191328
+place_POCAG5,Pont de Cagnes,,43.74813,7.130138
+place_POCAG7,Pont de Cagnes,,43.748363,7.129963
+place_097590,Pont de Cervagne,,44.014088,7.306809
+place_089628,Pont de Clans,,43.976615,7.140055
+place_098145,Pont de l'Ariane,,43.734104,7.301714
+place_097328,Pont de l'Ariane / Nice,,43.735254,7.301544
+place_096103,Pont de la Manda,,43.765794,7.201853
+place_098144,Pont de la Roma,,43.744774,7.314963
+place_PONTA3,Pont de la Roma,,43.744715,7.314756
+place_POPAU,Pont de Paule,,44.120273,7.092052
+place_PPEIL,Pont de Peille,,43.768792,7.33182
+place_100428,Pont des Abattoirs,,43.719264,7.283393
+place_097883,Pont des Pugets,,43.682565,7.186085
+place_PCHFE3,Pont du Chemin de Fer,,43.762411,7.321496
+place_PCHFE8,Pont du Chemin de Fer,,43.76186,7.321191
+place_096457,Pont du Martinet,,43.981513,7.317075
+place_STPFO,Pont Fossati,,44.227937,6.918913
+place_097729,Pont Liprandi,,43.745903,7.287427
+place_SMPMA7,Pont Maïssa,,44.090292,7.251651
+q:23025,Pont Maïssa,,44.090156,7.251431
+place_097331,Pont Michel,,43.722601,7.289991
+place_VNPRL3,Pont Royal,,43.723806,7.107095
+place_100043,Pont Saint Jean,,43.701759,7.325976
+place_097773,Pont Saint-Jean / Grasseuil,,43.701181,7.326562
+place_098393,Port de la Santé,,43.702618,7.311431
+place_097774,Port de Saint-Jean,,43.69005,7.333209
+place_PORLYM,Port Lympia / Arson,,43.698877,7.285669
+place_PORTQ,Port Lympia Quai,,43.698211,7.28476
+place_097337,Porte Nord / Sainte-Marguerite,,43.678126,7.211461
+place_096152,Portion,,43.795761,7.231108
+place_CSPK1,Portion K,,43.798643,7.231636
+place_097340,Poste de Saint-Roman,,43.745977,7.215872
+place_100183,Poste Essence,,43.724817,7.215968
+place_ROPRA,Prareon,,44.092799,7.030537
+place_097344,Pré Catelan,,43.721264,7.275239
+place_096498,Pré des Cavaliers,,43.849098,7.237594
+place_097345,Pré Fossati,,43.700694,7.294224
+place_097346,Primavera,,43.681269,7.214377
+place_097348,Primerose / Dauphiné,,43.705369,7.24998
+place_097349,Prince de Galles,,43.716691,7.272112
+place_C40A22,Provence,,43.731962,7.121439
+place_PROJOF,Provence / Joffre,,43.726017,7.109515
+place_097351,Provinces,,43.679058,7.217732
+place_PUCES,Puces de Nice,,43.697124,7.283512
+place_097352,Puget,,43.717465,7.262762
+place_101379,Puget / Borriglione,,43.717354,7.261316
+place_SLROD,Pugets / Rodin,,43.679458,7.188092
+place_SULZE,Quai des Etats-Unis,,43.6952,7.271086
+place_LYAUTE,Quai Lyautey,,43.717348,7.281614
+place_097730,Quartier du Château,,43.744491,7.288063
+place_097357,Raccourci,,43.702768,7.219554
+place_097358,Raccourci Corniche,,43.714144,7.235311
+place_097360,Raccourci N°1,,43.695537,7.240156
+place_097361,Raccourci N°5,,43.712711,7.220814
+place_097364,Raimbaldi / Lepante,,43.706761,7.267445
+place_SVRAU,Raoul Audibert,,44.072407,7.250477
+place_097365,Raoul Dufy,,43.680187,7.215724
+place_097366,Ratti,,43.710146,7.274747
+place_RECTO,Rectorat de Nice,,43.730114,7.276187
+place_097367,Relais de la Jeunesse,,43.729606,7.271851
+place_097368,République / Delfino,,43.705458,7.284309
+place_097369,Résidence,,43.688553,7.206571
+place_097370,Résidence de Bellet,,43.697654,7.238031
+place_097371,Résidence de la Costière,,43.728203,7.22874
+place_097372,Résidence des Baumettes,,43.698125,7.249164
+place_097884,Résidence des Cigales,,43.67189,7.169915
+place_ VNRSU,Résidence du Suve,,43.725609,7.122431
+place_097373,Résidence Monticello,,43.709793,7.267664
+place_097374,Résidence Universitaire,,43.693201,7.23253
+place_097375,Résidence Universitaire Montebello,,43.719235,7.267774
+place_100557,Rhin et Danube,,43.725312,7.09486
+place_098146,Riba Roussa,,43.73321,7.294648
+place_097380,Righi,,43.71398,7.25055
+place_097381,Rimiez Les Sources,,43.741797,7.277257
+place_097382,Rimiez Saint-George,,43.733188,7.276837
+place_097581,Rimplas,,44.054649,7.12091
+place_RIVIL,Rimplas Village,,44.064133,7.132677
+place_097383,Riquier,,43.705543,7.28994
+place_096612,Risso,,43.70421,7.28122
+place_097272,Risso / Palais des Expositions,,43.70753,7.283307
+place_097885,Rives D'Or,,43.677992,7.190855
+place_097388,Rivoli,,43.696586,7.259121
+place_097886,RN7 Les Mouettes,,43.660012,7.183286
+place_097888,RN7 Vauban,,43.660223,7.180377
+place_090817,Robini,,43.682783,7.198588
+place_099702,Rocade,,43.71965,7.112769
+place_097890,Rodin,,43.679396,7.186886
+place_097391,Roland Garros,,43.707468,7.270157
+place_097392,Rond Point,,43.696481,7.233454
+place_097393,Rond Point / Cimiez,,43.710889,7.271185
+place_ISORP1,Rond Point Isola 2000,,44.18662,7.15804
+place_099783,Rond Point Ravet,,43.668326,7.183728
+place_ROQUE,Roquebilière,,43.715016,7.289379
+place_RQCCM,Roquebilière Centre Commercial,,43.999598,7.311779
+place_097585,Roquebillière,,44.012548,7.308385
+place_097591,Roquebillière Vieux Village,,44.01856,7.311709
+place_098500,Rosa Bonheur / Promenade,,43.691982,7.249168
+place_ROLAP,Rose Lacau-Pansini,,43.692975,7.18366
+place_098395,Rose Parc,,43.713747,7.309478
+place_097395,Roselinde Rancher,,43.726263,7.262173
+place_097396,Rossini,,43.700984,7.256757
+place_098148,Rostit,,43.73666,7.319095
+place_ROUBVI,Roubion Village,,44.092393,7.0503
+place_ROUR1,Roure,,44.090253,7.087471
+place_098034,Roussillon,,43.961737,7.153956
+place_097397,Route d'Aspremont,,43.748982,7.247368
+place_098320,Route de Cagnes,,43.712944,7.129201
+place_099781,Route de la Baronne,,43.694586,7.183037
+place_098149,Route de Laghet,,43.74077,7.311103
+place_097893,Route de Saint-Jeannet,,43.711748,7.170322
+place_SLSRL,Route de Saint-Laurent,,43.756228,7.176281
+place_FORES,Route Forestière,,43.703632,7.299184
+place_097894,Royal,,43.669662,7.179242
+place_096105,RUE 1 / Avenue 1,,43.769971,7.206696
+place_096106,Rue 10,,43.789142,7.207515
+place_096107,RUE 10 / Avenue 1,,43.790329,7.209521
+place_096108,Rue 11,,43.791569,7.204741
+place_096109,RUE 11 / Avenue 1,,43.793242,7.206164
+place_096110,Rue 12,,43.794395,7.201488
+place_096111,Rue 13,,43.796279,7.198863
+place_100166,RUE 13 / Avenue 1,,43.796179,7.202816
+place_096113,Rue 14,,43.798366,7.196749
+place_096114,RUE 14 / Avenue 1,,43.80031,7.198253
+place_096115,RUE 14bis / Avenue 1,,43.798652,7.200081
+place_096116,Rue 15,,43.80042,7.193239
+place_096117,RUE 15 / Avenue 1,,43.803042,7.195184
+place_096118,Rue 16,,43.802783,7.189796
+place_096119,Rue 17,,43.805502,7.186661
+place_095763,RUE 17 / Avenue 1,,43.807052,7.19057
+place_096120,Rue 17bis,,43.807505,7.185252
+place_095764,RUE 17bis / Avenue 1,,43.805032,7.192894
+place_100163,RUE 18 / Avenue 1,,43.811588,7.185968
+place_096122,Rue 18bis,,43.810467,7.182836
+place_100192,RUE 18bis / Avenue 1,,43.809025,7.188293
+place_096123,Rue 2,,43.773353,7.20641
+place_096124,Rue 3,,43.774613,7.207939
+place_096125,RUE 3 / Avenue 1,,43.772852,7.209725
+place_096126,Rue 4,,43.776072,7.208584
+place_096127,Rue 5,,43.777457,7.209647
+place_096128,RUE 5 / Avenue 1,,43.776418,7.212656
+place_096129,Rue 6,,43.778657,7.211152
+place_096130,Rue 7,,43.780176,7.211897
+place_096131,RUE 7 / Avenue 1,,43.779972,7.213923
+place_100168,RUE 8 / Avenue 1,,43.783134,7.213884
+place_096133,Rue 9,,43.7867,7.209782
+place_096134,RUE 9 / Avenue 1,,43.787506,7.212089
+place_098837,Rue Haute,,43.73755,7.320639
+place_097400,Ruisseau,,43.727723,7.222204
+place_SABAT,Sabatier,,43.712905,7.236023
+place_098216,Saint Dalmas,,44.066542,7.201373
+place_098772,Saint Etienne de Tinée,,44.254768,6.924444
+place_098810,Saint Joseph,,43.789202,7.188988
+place_098005,Saint Martin en Vésubie,,44.070594,7.254007
+place_096135,Saint Paul,,43.772444,7.194718
+place_099983,Saint Pierre,,43.657525,7.164344
+place_098012,Saint Sauveur sur Tinée,,44.083347,7.105324
+place_096136,Saint Sébastien,,43.801353,7.181851
+place_097402,Saint-Aignan,,43.694759,7.293459
+place_097403,Saint-Aignan / Pilatte,,43.692914,7.290495
+place_097404,Saint-Albert,,43.724807,7.29605
+place_097747,Saint-André,,43.817561,7.232991
+place_097895,Saint-Antoine,,43.67603,7.188532
+place_098070,Saint-Antoine,,43.793465,7.273085
+place_097405,Saint-Antoine-Ginestière,,43.708026,7.21545
+place_098150,Saint-Aubert,,43.730693,7.297713
+place_SMSBL1,Saint-Blaise,,43.799848,7.20469
+place_097407,Saint-Charles / Mont Gros,,43.717181,7.297647
+place_098322,Saint-Claude,,43.73093,7.123613
+place_098397,Saint-Estève,,43.699817,7.305512
+place_100188,Saint-Estève,,43.746606,7.178269
+place_097409,Saint-Honoré,,43.692573,7.238819
+place_WSTIS1,Saint-Isidore,,43.71025,7.194682
+place_097411,Saint-Isidore / G.Eiffel,,43.708154,7.18935
+place_099800,Saint-Isidore / Ginestière,,43.711072,7.197004
+place_097410,Saint-Isidore / Mercantour,,43.711015,7.187843
+place_099798,Saint-Isidore Eglise,,43.710915,7.19555
+place_098174,Saint-Jean-la-Rivière,,43.919632,7.265014
+place_097793,Saint-Jeannet,,43.749791,7.144576
+place_097416,Saint-Joseph,,43.734883,7.297487
+place_097897,Saint-Joseph,,43.680381,7.189858
+place_098004,Saint-Joseph,,44.064359,7.257374
+place_100193,Saint-Joseph / Les Condamines,,43.810674,7.191115
+place_097417,Saint-Lambert,,43.70989,7.264537
+place_096285,Saint-Laurent-d'Eze / RN7,,43.731902,7.382052
+q:8166,Saint-Laurent-d'Eze / RN7,,43.732061,7.38193
+place_099779,Saint-Laurent-Ragadan,,43.666494,7.179682
+place_097418,Saint-Louis,,43.716751,7.249459
+place_LASMA,Saint-Marc,,43.684332,7.182646
+place_098071,Saint-Martin,,43.815793,7.26526
+place_VNSMA1,Saint-Martin,,43.726088,7.10734
+place_SMVPL8,Saint-Martin-Vésubie Place,,44.070503,7.255916
+place_091195,Saint-Maur,,44.242757,6.937179
+place_097420,Saint-Maurice,,43.720095,7.262836
+place_096326,Saint-Michel,,43.753941,7.170311
+place_098398,Saint-Michel,,43.717519,7.334457
+place_GENDAR,Saint-Nicolas,,44.078159,7.249851
+place_SMGEN,Saint-Nicolas,,44.078155,7.24978
+place_097421,Saint-Pancrace,,43.74355,7.240994
+place_099775,Saint-Philippe,,43.699244,7.250104
+place_097423,Saint-Pierre-de-Féric,,43.717497,7.236765
+place_097424,Saint-Pons,,43.72893,7.282021
+place_097425,Saint-Raphaël,,43.722916,7.240919
+place_097427,Saint-Roman de Bellet,,43.743719,7.214626
+place_096914,Saint-Sylvestre,,43.724579,7.249654
+place_097429,Saint-Sylvestre,,43.725323,7.248833
+place_095925,Saint-Véran,,43.653893,7.144255
+place_100029,Sainte Anne,,43.738646,7.309792
+place_095926,Sainte-Anne,,43.669333,7.145268
+place_097430,Sainte-Anne,,43.726601,7.295418
+place_096499,Sainte-Claire,,43.836567,7.246823
+place_098327,Sainte-Colombe,,43.732011,7.128184
+place_098328,Sainte-Elisabeth,,43.714364,7.12617
+place_097902,Sainte-Geneviève,,43.695577,7.17485
+place_STHELE,Sainte-Hélène,,43.68538,7.235375
+place_097432,Sainte-Hélène / Promenade,,43.684484,7.235425
+place_095928,Sainte-Luce,,43.664702,7.150675
+place_097433,Sainte-Marguerite,,43.676898,7.22565
+place_097901,Sainte-Pétronille,,43.71539,7.17746
+place_097435,Sainte-Rosalie,,43.714929,7.274484
+place_DRSJF,Salle Jean Ferrat,,43.75359,7.320702
+place_097436,Salvetti,,43.703794,7.294195
+place_095702,San Miqueu,,43.712129,7.331998
+place_098825,San Sebastian la Diligence,,43.800924,7.179603
+place_097438,Sant'Anna,,43.731841,7.25623
+place_097439,Santoline,,43.675313,7.201722
+place_SASSE,Sasserno,,43.702442,7.27105
+place_100429,Sauvaigo,,43.663627,7.184932
+place_097903,Sauvaigo Vespins,,43.66154,7.179426
+place_098399,Schifanoia,,43.705616,7.320318
+place_097441,Scudéri,,43.728656,7.276632
+place_097442,Scudéri / Saint-Maur,,43.728977,7.274169
+place_SEGUR0,Ségurane,,43.697561,7.28263
+place_097445,Séréna Gairaut,,43.732564,7.258471
+place_SEREA9,Séréna Gairaut,,43.73248,7.258504
+place_098400,Settimelli,,43.705198,7.30718
+place_097446,Sévillan,,43.700617,7.259508
+place_POLRI,Shopping Promenade,,43.665014,7.127462
+place_LASID,Sidonie,,43.690125,7.183596
+place_097447,Sirius,,43.688556,7.22621
+place_098401,Soleil d'Or,,43.705157,7.305771
+place_095930,Solidarités,,43.665122,7.170841
+place_097448,Somora,,43.68117,7.22487
+place_095931,Sous-Barri,,43.665623,7.146674
+place_097905,Square Bénes,,43.670184,7.190456
+place_095932,Square Bourdet,,43.664866,7.151135
+place_097449,Square Daudet,,43.707615,7.251989
+place_095933,Square du 8 mai,,43.65996,7.148559
+place_ VNSQM,Square Maliver,,43.723091,7.108188
+place_097451,Square Normandie Niemen,,43.704387,7.287817
+place_DMSDV,ST-DALMAS le Selvage Village,,44.28372,6.866431
+place_096334,Stade,,43.728865,7.169044
+place_VNASV,Stade De Gaulle A.S.V,,43.720919,7.119071
+place_L'OLI,Stade de l'oli,,43.735377,7.306255
+place_097452,Stade de Valrose,,43.717896,7.266143
+place_097453,Stade du Ray,,43.721773,7.260695
+place_097455,Stade du Ray / Musset,,43.721867,7.261088
+place_098839,Stade du Rostit,,43.734589,7.319119
+place_097456,Stade Hairabedian,,43.74652,7.304627
+place_096327,Stade Tennis,,43.766898,7.200205
+place_097735,Staou Inférieur,,43.749449,7.295451
+place_STAPS,STAPS / Arboras,,43.691098,7.194487
+place_TRSUA4,Suarez,,43.741578,7.312162
+place_096328,Super Gattières,,43.753997,7.161794
+q:21659,Super Gattières,,43.753981,7.161622
+place_097460,Super Rimiez,,43.738368,7.274629
+place_097461,Tabacs / Madeleine,,43.70213,7.236484
+place_TRC11,TAD C11 La Trinité,,43.743714,7.311405
+place_097462,Temple,,43.734029,7.259152
+place_097465,Tende / Vauban,,43.711652,7.28553
+place_097466,Tennis Crémat,,43.718302,7.203302
+place_097469,Terra Amata,,43.700516,7.288889
+place_097470,Terrasses,,43.702259,7.245812
+place_097471,Terrasses Impériales,,43.708434,7.245447
+place_097472,Terrasses Pessicart,,43.722701,7.238373
+place_097474,Terron,,43.701601,7.20732
+place_097326,Tête Carrée,,43.702763,7.278728
+place_097475,Théodore de Banville / Lorrain,,43.688342,7.294448
+place_097476,Thiers / Gambetta,,43.701963,7.256168
+place_096350,Thomas Garbies,,43.726559,7.154139
+place_097478,Toit Zézette,,43.731245,7.217271
+place_097479,Tordo,,43.719852,7.281512
+place_096307,Tornéo,,43.747835,7.263848
+place_TOCIM,Torre di Cimella,,43.716554,7.274638
+place_096287,Toscana,,43.727319,7.379299
+place_097480,Toselli,,43.704867,7.270217
+place_097483,Tournant Robert,,43.681041,7.205115
+place_TROBE6,Tournant Robert,,43.681071,7.205043
+place_097485,Tramontane,,43.73174,7.213501
+place_CARLI5,Traverse des Ecoles,,43.757291,7.320561
+place_CARLI6,Traverse des Ecoles,,43.757905,7.320587
+place_TRESO,Trésorerie,,43.701273,7.275085
+place_096153,Trois Communes,,43.799765,7.233571
+place_097488,Trois Vallées,,43.689748,7.227621
+place_097489,Tyrsene,,43.689211,7.215237
+place_TZARE,Tzarewitch,,43.702388,7.251414
+place_TZAGB,Tzarewitch / Gambetta,,43.702675,7.255071
+place_C40A23,Ugecam,,43.720874,7.127598
+place_GC4020,UGECAM,,43.720703,7.127776
+place_097492,Uletta,,43.698889,7.227722
+place_097493,Urbain Bosio,,43.69897,7.293807
+place_NCURF,Urfé,,43.707253,7.26938
+place_RAURF,Urfé,,43.707116,7.269178
+place_097494,Usine / Canta Galet,,43.703474,7.22146
+place_UTEL,Utelle,,43.919015,7.244435
+place_097495,Val Azur,,43.687159,7.229608
+place_098331,Val d'Azur,,43.7231,7.116079
+place_096288,Val des Costes,,43.731051,7.382623
+place_095938,Val en Sol,,43.662562,7.169441
+place_097496,Val Fleuri,,43.717467,7.264113
+place_099808,Val Fleuri,,43.660059,7.17267
+place_VAFL,Val Fleuri,,43.670969,7.16453
+place_097913,Val Maïssa,,43.712038,7.177942
+place_098332,Val Vert,,43.719566,7.125202
+place_097498,Vallon,,43.688386,7.228864
+place_097499,Vallon 1,,43.747606,7.244765
+place_097500,Vallon 2,,43.741027,7.258861
+place_097501,Vallon Barla,,43.68243,7.231796
+place_098501,Vallon Barla / Promenade,,43.682071,7.232789
+place_VALPE,Vallon de Pessicart,,43.717457,7.244685
+place_VALPE8,Vallon de Pessicart,,43.717455,7.244734
+place_098333,Vallon des Dames,,43.717085,7.084799
+place_097503,Vallon des Fleurs,,43.732585,7.271395
+place_RBVAL,Vallon du Moulin,,44.087876,7.060098
+place_NCVAG,Vallon Ginestière,,43.702549,7.203171
+place_NCVAG8,Vallon Ginestière,,43.701956,7.203334
+place_097505,Valrose,,43.715796,7.26529
+place_096839,Valrose Université,,43.715747,7.261825
+place_097504,Valrose Université,,43.715848,7.262688
+place_097507,Vauban,,43.708779,7.285926
+place_099488,Vauban / Université,,43.709951,7.28787
+place_VENAN,Venanson,,44.05364,7.252988
+place_098335,Venciannes,,43.718082,7.126804
+place_097508,Verdi,,43.69958,7.261728
+place_097510,Vernier / Gambetta,,43.707363,7.256068
+place_097511,Vérola,,43.710684,7.192676
+place_098006,Vésubia Park,,44.072998,7.25219
+q:21314,Vésubia Park,,44.073328,7.251618
+place_097512,Victor Hugo,,43.702228,7.268846
+place_VICTO,Victoria,,43.718874,7.27279
+place_097514,Vieux Chemin de Crémat,,43.712637,7.198737
+place_SAPLA,Vieux Chemin de l’Abadie,,43.738509,7.292244
+place_098156,Vieux chemin de Laghet,,43.744141,7.317887
+place_097516,Vieux Mas,,43.708255,7.243749
+place_097517,Vigna,,43.723015,7.222142
+place_097775,Villa Alexandra,,43.689477,7.330777
+place_097519,Villa Cyrnos,,43.71635,7.250426
+place_097520,Villa la Côte,,43.690879,7.293603
+place_097521,Villa Laurenti,,43.722102,7.26907
+q:2404,Villa Les Passiflores,,43.694604,7.244929
+place_099825,Villa Louise,,43.710627,7.197549
+place_097523,Villa Préjane,,43.711756,7.228575
+place_NVSTA1,Villa Sainte-Anne,,43.709044,7.232482
+place_NVSTA2,Villa Sainte-Anne,,43.709305,7.232751
+place_097915,Villa Sirius,,43.671979,7.178577
+place_097524,Villa Vansy,,43.705743,7.249393
+place_097525,Villa Verte,,43.708909,7.297814
+place_095645,Village,,43.784359,7.243358
+place_095755,Village,,43.989269,7.331022
+place_096079,Village,,43.792213,7.185232
+place_096140,Village,,43.790616,7.231137
+place_096274,Village,,43.729944,7.361421
+place_096335,Village,,43.722424,7.154128
+place_096452,Village,,44.185764,7.053968
+place_097749,Village,,43.820923,7.239525
+place_099534,Village,,43.860081,7.22633
+place_100170,Village,,43.763677,7.222198
+place_097530,Vismara,,43.725367,7.263193
+place_097531,Vittone,,43.674482,7.212588
+place_098157,Voie Romaine,,43.745256,7.319114
+place_PAST,Voie Romaine,,43.723408,7.283112
+place_098336,Vosgelade,,43.717691,7.128959
+place_ VNVOG,Vosgelade scolabus,,43.717896,7.129377
+place_100055,Wilson,,43.699891,7.274453
+place_097534,XVe Corps,,43.706169,7.281156
+place_095943,Ziem,,43.665997,7.165448
+place_CAZIE6,Ziem,,43.665449,7.163638
+place_098007,Zone d'Activité,,44.068557,7.255187

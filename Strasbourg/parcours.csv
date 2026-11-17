@@ -1,0 +1,1701 @@
+ligne,sens,destination,part,longueur_m,position,arret
+02,0,Jardin des 2 Rives,100,12484,1,q:LNGAR_01
+02,0,Jardin des 2 Rives,100,12484,2,q:MAALE_01
+02,0,Jardin des 2 Rives,100,12484,3,q:TOURA_01
+02,0,Jardin des 2 Rives,100,12484,4,q:RUECK_01
+02,0,Jardin des 2 Rives,100,12484,5,q:SPORT_01
+02,0,Jardin des 2 Rives,100,12484,6,q:AVENI_01
+02,0,Jardin des 2 Rives,100,12484,7,q:BLAES_01
+02,0,Jardin des 2 Rives,100,12484,8,q:GLIES_01
+02,0,Jardin des 2 Rives,100,12484,9,q:BRUCH_01
+02,0,Jardin des 2 Rives,100,12484,10,q:NICIG_01
+02,0,Jardin des 2 Rives,100,12484,11,q:CAMPI_01
+02,0,Jardin des 2 Rives,100,12484,12,q:MOVER_02
+02,0,Jardin des 2 Rives,100,12484,13,q:LASA_02
+02,0,Jardin des 2 Rives,100,12484,14,q:LAITE_01
+02,0,Jardin des 2 Rives,100,12484,15,q:PTBLA_01
+02,0,Jardin des 2 Rives,100,12484,16,q:GACEN_24
+02,0,Jardin des 2 Rives,100,12484,17,q:WILSO_02
+02,0,Jardin des 2 Rives,100,12484,18,q:TRAVA_01
+02,0,Jardin des 2 Rives,100,12484,19,q:PLPIE_01
+02,0,Jardin des 2 Rives,100,12484,20,q:PHALS_01
+02,0,Jardin des 2 Rives,100,12484,21,q:CLEME_01
+02,0,Jardin des 2 Rives,100,12484,22,q:LYKLE_01
+02,0,Jardin des 2 Rives,100,12484,23,q:BETHS_01
+02,0,Jardin des 2 Rives,100,12484,24,q:DORDO_01
+02,0,Jardin des 2 Rives,100,12484,25,q:TAULE_01
+02,0,Jardin des 2 Rives,100,12484,26,q:STMAU_01
+02,0,Jardin des 2 Rives,100,12484,27,q:MARNE_01
+02,0,Jardin des 2 Rives,100,12484,28,q:OBSER_05
+02,0,Jardin des 2 Rives,100,12484,29,q:PLISL_01
+02,0,Jardin des 2 Rives,100,12484,30,q:DUNKE_01
+02,0,Jardin des 2 Rives,100,12484,31,q:CAPIE_01
+02,0,Jardin des 2 Rives,100,12484,32,q:COOPE_01
+02,0,Jardin des 2 Rives,100,12484,33,q:PRRHI_03
+02,0,Jardin des 2 Rives,100,12484,34,q:CICEQ_01
+02,0,Jardin des 2 Rives,100,12484,35,q:JARIV_01
+02,1,Lingolsheim Gare,100,12154,1,q:JARIV_01
+02,1,Lingolsheim Gare,100,12154,2,q:CICEQ_01
+02,1,Lingolsheim Gare,100,12154,3,q:PRRHI_03
+02,1,Lingolsheim Gare,100,12154,4,q:COOPE_01
+02,1,Lingolsheim Gare,100,12154,5,q:CAPIE_01
+02,1,Lingolsheim Gare,100,12154,6,q:DUNKE_01
+02,1,Lingolsheim Gare,100,12154,7,q:PLISL_01
+02,1,Lingolsheim Gare,100,12154,8,q:OBSER_05
+02,1,Lingolsheim Gare,100,12154,9,q:MARNE_01
+02,1,Lingolsheim Gare,100,12154,10,q:STMAU_01
+02,1,Lingolsheim Gare,100,12154,11,q:TAULE_01
+02,1,Lingolsheim Gare,100,12154,12,q:DORDO_01
+02,1,Lingolsheim Gare,100,12154,13,q:BETHS_01
+02,1,Lingolsheim Gare,100,12154,14,q:LYKLE_01
+02,1,Lingolsheim Gare,100,12154,15,q:CLEME_01
+02,1,Lingolsheim Gare,100,12154,16,q:PHALS_01
+02,1,Lingolsheim Gare,100,12154,17,q:PLPIE_01
+02,1,Lingolsheim Gare,100,12154,18,q:TRAVA_01
+02,1,Lingolsheim Gare,100,12154,19,q:WILSO_02
+02,1,Lingolsheim Gare,100,12154,20,q:GACEN_01
+02,1,Lingolsheim Gare,100,12154,21,q:PTBLA_01
+02,1,Lingolsheim Gare,100,12154,22,q:LAITE_01
+02,1,Lingolsheim Gare,100,12154,23,q:MOVER_02
+02,1,Lingolsheim Gare,100,12154,24,q:CAMPI_01
+02,1,Lingolsheim Gare,100,12154,25,q:NICIG_01
+02,1,Lingolsheim Gare,100,12154,26,q:BRUCH_01
+02,1,Lingolsheim Gare,100,12154,27,q:GLIES_01
+02,1,Lingolsheim Gare,100,12154,28,q:BLAES_01
+02,1,Lingolsheim Gare,100,12154,29,q:AVENI_01
+02,1,Lingolsheim Gare,100,12154,30,q:SPORT_01
+02,1,Lingolsheim Gare,100,12154,31,q:RUECK_01
+02,1,Lingolsheim Gare,100,12154,32,q:TOURA_01
+02,1,Lingolsheim Gare,100,12154,33,q:MAALE_01
+02,1,Lingolsheim Gare,100,12154,34,q:LNGAR_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,1,q:GACEN_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,2,q:WILSO_02
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,3,q:TRAVA_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,4,q:PLPIE_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,5,q:PAFET_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,6,q:VOOBE_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,7,q:LAMEY_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,8,q:POVOS_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,9,q:BRUNI_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,10,q:GALLI_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,11,q:STGUI_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,12,q:ZURIC_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,13,q:AULIZ_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,14,q:PTHOP_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,15,q:POSAN_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,16,q:STTHO_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,17,q:HOAPF_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,18,q:MAARM_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,19,q:OBLYO_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,20,q:PTBLA_01
+10,0,Gare Centrale via Gallia/Musée Art Mod.,100,5881,21,q:GACEN_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,1,q:GACEN_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,2,q:PTBLA_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,3,q:OBLYO_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,4,q:MAARM_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,5,q:HOAPF_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,6,q:STTHO_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,7,q:POSAN_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,8,q:PTHOP_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,9,q:AULIZ_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,10,q:ZURIC_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,11,q:STGUI_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,12,q:GALLI_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,13,q:BRUNI_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,14,q:POVOS_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,15,q:LAMEY_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,16,q:VOOBE_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,17,q:PAFET_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,18,q:PLPIE_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,19,q:TRAVA_01
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,20,q:WILSO_02
+10,1,Gare Centrale via Musée Art Mod./Gallia,100,5881,21,q:GACEN_01
+12,0,Lingolsheim Alouettes,100,5780,1,q:ENOUE_01
+12,0,Lingolsheim Alouettes,100,5780,2,q:ANFOR_01
+12,0,Lingolsheim Alouettes,100,5780,3,q:ENCEN_01
+12,0,Lingolsheim Alouettes,100,5780,4,q:ENPAR_01
+12,0,Lingolsheim Alouettes,100,5780,5,q:CERIS_01
+12,0,Lingolsheim Alouettes,100,5780,6,q:FLORA_01
+12,0,Lingolsheim Alouettes,100,5780,7,q:TECHA_01
+12,0,Lingolsheim Alouettes,100,5780,8,q:AEROP_02
+12,0,Lingolsheim Alouettes,100,5780,9,q:ICARE_01
+12,0,Lingolsheim Alouettes,100,5780,10,q:FAANS_01
+12,0,Lingolsheim Alouettes,100,5780,11,q:RUJUI_01
+12,0,Lingolsheim Alouettes,100,5780,12,q:PENEI_01
+12,0,Lingolsheim Alouettes,100,5780,13,q:COGAL_01
+12,0,Lingolsheim Alouettes,100,5780,14,q:ALOUT_01
+12,1,Entzheim Ouest,100,5948,1,q:ALOUT_01
+12,1,Entzheim Ouest,100,5948,2,q:COGAL_01
+12,1,Entzheim Ouest,100,5948,3,q:PENEI_01
+12,1,Entzheim Ouest,100,5948,4,q:RUJUI_01
+12,1,Entzheim Ouest,100,5948,5,q:CROIX_02
+12,1,Entzheim Ouest,100,5948,6,q:FAANS_01
+12,1,Entzheim Ouest,100,5948,7,q:ICARE_01
+12,1,Entzheim Ouest,100,5948,8,q:AEROP_02
+12,1,Entzheim Ouest,100,5948,9,q:TECHA_01
+12,1,Entzheim Ouest,100,5948,10,q:FLORA_01
+12,1,Entzheim Ouest,100,5948,11,q:CERIS_01
+12,1,Entzheim Ouest,100,5948,12,q:ENPAR_01
+12,1,Entzheim Ouest,100,5948,13,q:ENCEN_01
+12,1,Entzheim Ouest,100,5948,14,q:ANFOR_01
+12,1,Entzheim Ouest,100,5948,15,q:ENOUE_01
+15,0,Boecklin,80,5510,1,q:REPUB_01
+15,0,Boecklin,80,5510,2,q:LIBER_01
+15,0,Boecklin,80,5510,3,q:BRUNI_01
+15,0,Boecklin,80,5510,4,q:GOLBE_01
+15,0,Boecklin,80,5510,5,q:TAULE_01
+15,0,Boecklin,80,5510,6,q:VERDN_01
+15,0,Boecklin,80,5510,7,q:WAGNE_01
+15,0,Boecklin,80,5510,8,q:YPRES_01
+15,0,Boecklin,80,5510,9,q:COQUI_01
+15,0,Boecklin,80,5510,10,q:QUQUI_01
+15,0,Boecklin,80,5510,11,q:CAHAU_01
+15,0,Boecklin,80,5510,12,q:BREME_01
+15,0,Boecklin,80,5510,13,q:LAMPR_01
+15,0,Boecklin,80,5510,14,q:BOISF_01
+15,0,Boecklin,80,5510,15,q:STFRA_01
+15,0,Boecklin,80,5510,16,q:MELAN_01
+15,0,Boecklin,80,5510,17,q:ROEGL_01
+15,0,Boecklin,80,5510,18,q:SCHOT_01
+15,0,Boecklin,80,5510,19,q:BOECK_01
+15,1,République,80,5510,1,q:BOECK_01
+15,1,République,80,5510,2,q:SCHOT_01
+15,1,République,80,5510,3,q:ROEGL_01
+15,1,République,80,5510,4,q:MELAN_01
+15,1,République,80,5510,5,q:STFRA_01
+15,1,République,80,5510,6,q:BOISF_01
+15,1,République,80,5510,7,q:LAMPR_01
+15,1,République,80,5510,8,q:BREME_01
+15,1,République,80,5510,9,q:CAHAU_01
+15,1,République,80,5510,10,q:QUQUI_01
+15,1,République,80,5510,11,q:COQUI_01
+15,1,République,80,5510,12,q:YPRES_01
+15,1,République,80,5510,13,q:WAGNE_01
+15,1,République,80,5510,14,q:VERDN_01
+15,1,République,80,5510,15,q:TAULE_01
+15,1,République,80,5510,16,q:GOLBE_01
+15,1,République,80,5510,17,q:BRUNI_01
+15,1,République,80,5510,18,q:LIBER_01
+15,1,République,80,5510,19,q:REPUB_01
+17,0,Mittelhausbergen Mittelberg,100,5016,1,q:ROTON_05
+17,0,Mittelhausbergen Mittelberg,100,5016,2,q:STFLO_03
+17,0,Mittelhausbergen Mittelberg,100,5016,3,q:JACOB_01
+17,0,Mittelhausbergen Mittelberg,100,5016,4,q:BRASS_01
+17,0,Mittelhausbergen Mittelberg,100,5016,5,q:ETDOR_01
+17,0,Mittelhausbergen Mittelberg,100,5016,6,q:CATHE_01
+17,0,Mittelhausbergen Mittelberg,100,5016,7,q:DUNTZ_01
+17,0,Mittelhausbergen Mittelberg,100,5016,8,q:BANLI_01
+17,0,Mittelhausbergen Mittelberg,100,5016,9,q:OBEES_01
+17,0,Mittelhausbergen Mittelberg,100,5016,10,q:VOSGE_01
+17,0,Mittelhausbergen Mittelberg,100,5016,11,q:OBHMA_01
+17,0,Mittelhausbergen Mittelberg,100,5016,12,q:OBHEG_01
+17,0,Mittelhausbergen Mittelberg,100,5016,13,q:BETHL_01
+17,0,Mittelhausbergen Mittelberg,100,5016,14,q:RODIN_01
+17,0,Mittelhausbergen Mittelberg,100,5016,15,q:MIEGL_01
+17,0,Mittelhausbergen Mittelberg,100,5016,16,q:MIMIT_02
+17,1,Rotonde,95,5016,1,q:MIMIT_02
+17,1,Rotonde,95,5016,2,q:MIEGL_01
+17,1,Rotonde,95,5016,3,q:RODIN_01
+17,1,Rotonde,95,5016,4,q:BETHL_01
+17,1,Rotonde,95,5016,5,q:OBHEG_01
+17,1,Rotonde,95,5016,6,q:OBHMA_01
+17,1,Rotonde,95,5016,7,q:VOSGE_01
+17,1,Rotonde,95,5016,8,q:OBEES_01
+17,1,Rotonde,95,5016,9,q:BANLI_01
+17,1,Rotonde,95,5016,10,q:DUNTZ_01
+17,1,Rotonde,95,5016,11,q:CATHE_01
+17,1,Rotonde,95,5016,12,q:ETDOR_01
+17,1,Rotonde,95,5016,13,q:BRASS_01
+17,1,Rotonde,95,5016,14,q:JACOB_01
+17,1,Rotonde,95,5016,15,q:STFLO_03
+17,1,Rotonde,95,5016,16,q:ROTON_05
+18,0,Rotonde,100,2535,1,q:ROTON_05
+18,0,Rotonde,100,2535,2,q:VILVE_01
+18,0,Rotonde,100,2535,3,q:HOCHF_01
+18,0,Rotonde,100,2535,4,q:PLABA_01
+18,0,Rotonde,100,2535,5,q:MARGA_01
+18,0,Rotonde,100,2535,6,q:GAMAR_01
+18,0,Rotonde,100,2535,7,q:ROTON_05
+22,0,Lingolsheim Alouettes,93,4655,1,q:HOOUE_02
+22,0,Lingolsheim Alouettes,93,4655,2,q:PEUPL_01
+22,0,Lingolsheim Alouettes,93,4655,3,q:HOEGL_01
+22,0,Lingolsheim Alouettes,93,4655,4,q:HOCEN_03
+22,0,Lingolsheim Alouettes,93,4655,5,q:ALAIG_01
+22,0,Lingolsheim Alouettes,93,4655,6,q:ABATT_01
+22,0,Lingolsheim Alouettes,93,4655,7,q:RUJUI_01
+22,0,Lingolsheim Alouettes,93,4655,8,q:PENEI_01
+22,0,Lingolsheim Alouettes,93,4655,9,q:COGAL_01
+22,0,Lingolsheim Alouettes,93,4655,10,q:ALOUT_01
+22,1,Holtzheim Ouest,93,4720,1,q:ALOUT_01
+22,1,Holtzheim Ouest,93,4720,2,q:COGAL_01
+22,1,Holtzheim Ouest,93,4720,3,q:PENEI_01
+22,1,Holtzheim Ouest,93,4720,4,q:RUJUI_01
+22,1,Holtzheim Ouest,93,4720,5,q:CROIX_02
+22,1,Holtzheim Ouest,93,4720,6,q:ABATT_01
+22,1,Holtzheim Ouest,93,4720,7,q:ALAIG_01
+22,1,Holtzheim Ouest,93,4720,8,q:HOCEN_03
+22,1,Holtzheim Ouest,93,4720,9,q:HOEGL_01
+22,1,Holtzheim Ouest,93,4720,10,q:PEUPL_01
+22,1,Holtzheim Ouest,93,4720,11,q:HOOUE_02
+30,0,Ampère,51,8330,1,q:ROSTA_01
+30,0,Ampère,51,8330,2,q:CLSTA_01
+30,0,Ampère,51,8330,3,q:PAPET_01
+30,0,Ampère,51,8330,4,q:CINOR_01
+30,0,Ampère,51,8330,5,q:FOLOU_01
+30,0,Ampère,51,8330,6,q:CIUNI_01
+30,0,Ampère,51,8330,7,q:BOECK_01
+30,0,Ampère,51,8330,8,q:DRHOM_03
+30,0,Ampère,51,8330,9,q:COEUR_01
+30,0,Ampère,51,8330,10,q:ORANG_01
+30,0,Ampère,51,8330,11,q:DORDO_01
+30,0,Ampère,51,8330,12,q:CLORA_01
+30,0,Ampère,51,8330,13,q:BRUNI_01
+30,0,Ampère,51,8330,14,q:GALLI_01
+30,0,Ampère,51,8330,15,q:STGUI_01
+30,0,Ampère,51,8330,16,q:KRUTE_01
+30,0,Ampère,51,8330,17,q:CIADM_01
+30,0,Ampère,51,8330,18,q:PALER_01
+30,0,Ampère,51,8330,19,q:ROMEE_01
+30,0,Ampère,51,8330,20,q:ANKAR_03
+30,0,Ampère,51,8330,21,q:DANUB_01
+30,0,Ampère,51,8330,22,q:ARBRI_03
+30,0,Ampère,51,8330,23,q:SOULT_01
+30,0,Ampère,51,8330,24,q:MUSAU_01
+30,0,Ampère,51,8330,25,q:PLWAT_01
+30,0,Ampère,51,8330,26,q:AMPER_01
+30,1,Robertsau Sainte Anne,53,8330,1,q:AMPER_01
+30,1,Robertsau Sainte Anne,53,8330,2,q:PLWAT_01
+30,1,Robertsau Sainte Anne,53,8330,3,q:MUSAU_01
+30,1,Robertsau Sainte Anne,53,8330,4,q:SOULT_01
+30,1,Robertsau Sainte Anne,53,8330,5,q:ARBRI_03
+30,1,Robertsau Sainte Anne,53,8330,6,q:DANUB_01
+30,1,Robertsau Sainte Anne,53,8330,7,q:ANKAR_03
+30,1,Robertsau Sainte Anne,53,8330,8,q:ROMEE_01
+30,1,Robertsau Sainte Anne,53,8330,9,q:PALER_01
+30,1,Robertsau Sainte Anne,53,8330,10,q:CIADM_01
+30,1,Robertsau Sainte Anne,53,8330,11,q:KRUTE_01
+30,1,Robertsau Sainte Anne,53,8330,12,q:STGUI_01
+30,1,Robertsau Sainte Anne,53,8330,13,q:GALLI_01
+30,1,Robertsau Sainte Anne,53,8330,14,q:BRUNI_01
+30,1,Robertsau Sainte Anne,53,8330,15,q:CLORA_01
+30,1,Robertsau Sainte Anne,53,8330,16,q:DORDO_01
+30,1,Robertsau Sainte Anne,53,8330,17,q:ORANG_01
+30,1,Robertsau Sainte Anne,53,8330,18,q:COEUR_01
+30,1,Robertsau Sainte Anne,53,8330,19,q:DRHOM_03
+30,1,Robertsau Sainte Anne,53,8330,20,q:BOECK_01
+30,1,Robertsau Sainte Anne,53,8330,21,q:CIUNI_01
+30,1,Robertsau Sainte Anne,53,8330,22,q:FOLOU_01
+30,1,Robertsau Sainte Anne,53,8330,23,q:CINOR_01
+30,1,Robertsau Sainte Anne,53,8330,24,q:PAPET_01
+30,1,Robertsau Sainte Anne,53,8330,25,q:CLSTA_01
+30,1,Robertsau Sainte Anne,53,8330,26,q:ROSTA_01
+31,0,Baggersee,100,7997,1,q:AMPER_01
+31,0,Baggersee,100,7997,2,q:PLWAT_01
+31,0,Baggersee,100,7997,3,q:MUSAU_01
+31,0,Baggersee,100,7997,4,q:SOULT_01
+31,0,Baggersee,100,7997,5,q:ARBRI_03
+31,0,Baggersee,100,7997,6,q:JAURE_01
+31,0,Baggersee,100,7997,7,q:ORBEY_01
+31,0,Baggersee,100,7997,8,q:KIBIT_01
+31,0,Baggersee,100,7997,9,q:BERGE_01
+31,0,Baggersee,100,7997,10,q:VANNE_01
+31,0,Baggersee,100,7997,11,q:RHTOR_01
+31,0,Baggersee,100,7997,12,q:LOLOU_03
+31,0,Baggersee,100,7997,13,q:CIMEI_03
+31,0,Baggersee,100,7997,14,q:SCHUL_03
+31,0,Baggersee,100,7997,15,q:FRCOM_01
+31,0,Baggersee,100,7997,16,q:DIETT_01
+31,0,Baggersee,100,7997,17,q:EMMAT_03
+31,0,Baggersee,100,7997,18,q:BARTI_01
+31,0,Baggersee,100,7997,19,q:FREBE_01
+31,0,Baggersee,100,7997,20,q:CRAVV_01
+31,0,Baggersee,100,7997,21,q:VERDO_01
+31,0,Baggersee,100,7997,22,q:HOHWA_01
+31,0,Baggersee,100,7997,23,q:BAGGE_01
+31,1,Ampère,100,7997,1,q:BAGGE_01
+31,1,Ampère,100,7997,2,q:HOHWA_01
+31,1,Ampère,100,7997,3,q:VERDO_01
+31,1,Ampère,100,7997,4,q:CRAVV_01
+31,1,Ampère,100,7997,5,q:FREBE_01
+31,1,Ampère,100,7997,6,q:BARTI_01
+31,1,Ampère,100,7997,7,q:EMMAT_03
+31,1,Ampère,100,7997,8,q:DIETT_01
+31,1,Ampère,100,7997,9,q:FRCOM_01
+31,1,Ampère,100,7997,10,q:SCHUL_03
+31,1,Ampère,100,7997,11,q:CIMEI_03
+31,1,Ampère,100,7997,12,q:LOLOU_03
+31,1,Ampère,100,7997,13,q:RHTOR_01
+31,1,Ampère,100,7997,14,q:VANNE_01
+31,1,Ampère,100,7997,15,q:BERGE_01
+31,1,Ampère,100,7997,16,q:KIBIT_01
+31,1,Ampère,100,7997,17,q:ORBEY_01
+31,1,Ampère,100,7997,18,q:JAURE_01
+31,1,Ampère,100,7997,19,q:ARBRI_03
+31,1,Ampère,100,7997,20,q:SOULT_01
+31,1,Ampère,100,7997,21,q:MUSAU_01
+31,1,Ampère,100,7997,22,q:PLWAT_01
+31,1,Ampère,100,7997,23,q:AMPER_01
+40,0,Unterelsau,88,9089,1,q:NEHGA_01
+40,0,Unterelsau,88,9089,2,q:STIGN_01
+40,0,Unterelsau,88,9089,3,q:FARIE_01
+40,0,Unterelsau,88,9089,4,q:JESUI_03
+40,0,Unterelsau,88,9089,5,q:POSCH_03
+40,0,Unterelsau,88,9089,6,q:GLAUB_01
+40,0,Unterelsau,88,9089,7,q:ROREU_01
+40,0,Unterelsau,88,9089,8,q:ABEPE_01
+40,0,Unterelsau,88,9089,9,q:CISUD_01
+40,0,Unterelsau,88,9089,10,q:WEEBE_01
+40,0,Unterelsau,88,9089,11,q:BOURG_01
+40,0,Unterelsau,88,9089,12,q:ILDFR_03
+40,0,Unterelsau,88,9089,13,q:FRCOM_01
+40,0,Unterelsau,88,9089,14,q:PFIST_01
+40,0,Unterelsau,88,9089,15,q:LYCOU_01
+40,0,Unterelsau,88,9089,16,q:LEFEB_01
+40,0,Unterelsau,88,9089,17,q:PLBOU_01
+40,0,Unterelsau,88,9089,18,q:FEDER_01
+40,0,Unterelsau,88,9089,19,q:DOUBS_01
+40,0,Unterelsau,88,9089,20,q:ELSAU_03
+40,0,Unterelsau,88,9089,21,q:MSCHO_01
+40,0,Unterelsau,88,9089,22,q:MIANG_02
+40,0,Unterelsau,88,9089,23,q:TITIE_02
+40,0,Unterelsau,88,9089,24,q:UNELS_01
+40,1,Neuhof Ganzau,87,8161,1,q:UNELS_01
+40,1,Neuhof Ganzau,87,8161,2,q:TITIE_02
+40,1,Neuhof Ganzau,87,8161,3,q:ELSAU_03
+40,1,Neuhof Ganzau,87,8161,4,q:DOUBS_01
+40,1,Neuhof Ganzau,87,8161,5,q:FEDER_01
+40,1,Neuhof Ganzau,87,8161,6,q:PLBOU_01
+40,1,Neuhof Ganzau,87,8161,7,q:LEFEB_01
+40,1,Neuhof Ganzau,87,8161,8,q:LYCOU_01
+40,1,Neuhof Ganzau,87,8161,9,q:PFIST_01
+40,1,Neuhof Ganzau,87,8161,10,q:FRCOM_01
+40,1,Neuhof Ganzau,87,8161,11,q:ILDFR_03
+40,1,Neuhof Ganzau,87,8161,12,q:BOURG_01
+40,1,Neuhof Ganzau,87,8161,13,q:WEEBE_01
+40,1,Neuhof Ganzau,87,8161,14,q:CISUD_01
+40,1,Neuhof Ganzau,87,8161,15,q:ABEPE_01
+40,1,Neuhof Ganzau,87,8161,16,q:ROREU_01
+40,1,Neuhof Ganzau,87,8161,17,q:GLAUB_01
+40,1,Neuhof Ganzau,87,8161,18,q:POSCH_03
+40,1,Neuhof Ganzau,87,8161,19,q:JESUI_03
+40,1,Neuhof Ganzau,87,8161,20,q:FARIE_01
+40,1,Neuhof Ganzau,87,8161,21,q:STIGN_01
+40,1,Neuhof Ganzau,87,8161,22,q:NEHGA_01
+42,0,Entzheim Gare,50,4556,1,q:ENOUE_01
+42,0,Entzheim Gare,50,4556,2,q:ANFOR_01
+42,0,Entzheim Gare,50,4556,3,q:ENCEN_01
+42,0,Entzheim Gare,50,4556,4,q:ENPAR_01
+42,0,Entzheim Gare,50,4556,5,q:CERIS_01
+42,0,Entzheim Gare,50,4556,6,q:FLORA_01
+42,0,Entzheim Gare,50,4556,7,q:TECHA_01
+42,0,Entzheim Gare,50,4556,8,q:AEROP_02
+42,0,Entzheim Gare,50,4556,9,q:ICARE_01
+42,0,Entzheim Gare,50,4556,10,q:ENGAR_01
+42,1,Entzheim Ouest,63,4060,1,q:ENGAR_01
+42,1,Entzheim Ouest,63,4060,2,q:AEROP_02
+42,1,Entzheim Ouest,63,4060,3,q:TECHA_01
+42,1,Entzheim Ouest,63,4060,4,q:FLORA_01
+42,1,Entzheim Ouest,63,4060,5,q:CERIS_01
+42,1,Entzheim Ouest,63,4060,6,q:ENPAR_01
+42,1,Entzheim Ouest,63,4060,7,q:ENCEN_01
+42,1,Entzheim Ouest,63,4060,8,q:ANFOR_01
+42,1,Entzheim Ouest,63,4060,9,q:ENOUE_01
+43,0,Entzheim Gare,50,4224,1,q:HOOUE_02
+43,0,Entzheim Gare,50,4224,2,q:PEUPL_01
+43,0,Entzheim Gare,50,4224,3,q:HOEGL_01
+43,0,Entzheim Gare,50,4224,4,q:HOCEN_03
+43,0,Entzheim Gare,50,4224,5,q:ALAIG_01
+43,0,Entzheim Gare,50,4224,6,q:ABATT_01
+43,0,Entzheim Gare,50,4224,7,q:HOLZA_01
+43,0,Entzheim Gare,50,4224,8,q:ENGAR_01
+43,1,Holtzheim Ouest,63,3775,1,q:ENGAR_01
+43,1,Holtzheim Ouest,63,3775,2,q:ABATT_01
+43,1,Holtzheim Ouest,63,3775,3,q:ALAIG_01
+43,1,Holtzheim Ouest,63,3775,4,q:HOCEN_03
+43,1,Holtzheim Ouest,63,3775,5,q:HOEGL_01
+43,1,Holtzheim Ouest,63,3775,6,q:PEUPL_01
+43,1,Holtzheim Ouest,63,3775,7,q:HOOUE_02
+44,0,Kolbsheim Mairie,100,3761,1,q:ENGAR_01
+44,0,Kolbsheim Mairie,100,3761,2,q:COLVE_01
+44,0,Kolbsheim Mairie,100,3761,3,q:HANMA_01
+44,0,Kolbsheim Mairie,100,3761,4,q:ROHAN_01
+44,0,Kolbsheim Mairie,100,3761,5,q:KOMAI_01
+44,1,Entzheim Gare,100,3761,1,q:KOMAI_01
+44,1,Entzheim Gare,100,3761,2,q:ROHAN_01
+44,1,Entzheim Gare,100,3761,3,q:HANMA_01
+44,1,Entzheim Gare,100,3761,4,q:COLVE_01
+44,1,Entzheim Gare,100,3761,5,q:ENGAR_01
+45,0,Lingolsheim Alouettes,100,5405,1,q:POTER_01
+45,0,Lingolsheim Alouettes,100,5405,2,q:POTRO_01
+45,0,Lingolsheim Alouettes,100,5405,3,q:OCTRO_03
+45,0,Lingolsheim Alouettes,100,5405,4,q:JAROS_01
+45,0,Lingolsheim Alouettes,100,5405,5,q:ECKMA_01
+45,0,Lingolsheim Alouettes,100,5405,6,q:MANEG_01
+45,0,Lingolsheim Alouettes,100,5405,7,q:LACSO_01
+45,0,Lingolsheim Alouettes,100,5405,8,q:LACBE_01
+45,0,Lingolsheim Alouettes,100,5405,9,q:SPORT_01
+45,0,Lingolsheim Alouettes,100,5405,10,q:ROGAR_01
+45,0,Lingolsheim Alouettes,100,5405,11,q:TANNE_03
+45,0,Lingolsheim Alouettes,100,5405,12,q:MEMER_01
+45,0,Lingolsheim Alouettes,100,5405,13,q:MACAL_01
+45,0,Lingolsheim Alouettes,100,5405,14,q:PATAN_01
+45,0,Lingolsheim Alouettes,100,5405,15,q:LITIE_01
+45,0,Lingolsheim Alouettes,100,5405,16,q:PROTE_03
+45,0,Lingolsheim Alouettes,100,5405,17,q:ALOUT_01
+45,1,Poteries,100,5533,1,q:ALOUT_01
+45,1,Poteries,100,5533,2,q:PROTE_03
+45,1,Poteries,100,5533,3,q:LITIE_01
+45,1,Poteries,100,5533,4,q:PATAN_01
+45,1,Poteries,100,5533,5,q:MACAL_01
+45,1,Poteries,100,5533,6,q:MEMER_01
+45,1,Poteries,100,5533,7,q:TANNE_03
+45,1,Poteries,100,5533,8,q:ROGAR_01
+45,1,Poteries,100,5533,9,q:SPORT_01
+45,1,Poteries,100,5533,10,q:LACBE_01
+45,1,Poteries,100,5533,11,q:LACSO_01
+45,1,Poteries,100,5533,12,q:MANEG_01
+45,1,Poteries,100,5533,13,q:ECKMA_01
+45,1,Poteries,100,5533,14,q:ECCEN_01
+45,1,Poteries,100,5533,15,q:JAROS_01
+45,1,Poteries,100,5533,16,q:OCTRO_03
+45,1,Poteries,100,5533,17,q:POTRO_01
+45,1,Poteries,100,5533,18,q:POTER_01
+57,0,Blaesheim Ouest,51,12682,1,q:BAGGE_01
+57,0,Blaesheim Ouest,51,12682,2,q:COLON_01
+57,0,Blaesheim Ouest,51,12682,3,q:CETRA_01
+57,0,Blaesheim Ouest,51,12682,4,q:ALSAC_03
+57,0,Blaesheim Ouest,51,12682,5,q:NIEDE_01
+57,0,Blaesheim Ouest,51,12682,6,q:PAKLI_01
+57,0,Blaesheim Ouest,51,12682,7,q:ILMAI_01
+57,0,Blaesheim Ouest,51,12682,8,q:LAACH_01
+57,0,Blaesheim Ouest,51,12682,9,q:LAVIG_01
+57,0,Blaesheim Ouest,51,12682,10,q:GRGAR_03
+57,0,Blaesheim Ouest,51,12682,11,q:GEZOI_01
+57,0,Blaesheim Ouest,51,12682,12,q:CHOPI_01
+57,0,Blaesheim Ouest,51,12682,13,q:VERDU_01
+57,0,Blaesheim Ouest,51,12682,14,q:GEGAR_01
+57,0,Blaesheim Ouest,51,12682,15,q:VIMOU_01
+57,0,Blaesheim Ouest,51,12682,16,q:EHNNN_01
+57,0,Blaesheim Ouest,51,12682,17,q:SENEE_01
+57,0,Blaesheim Ouest,51,12682,18,q:COFON_01
+57,0,Blaesheim Ouest,51,12682,19,q:GEMAI_01
+57,0,Blaesheim Ouest,51,12682,20,q:GEOUE_01
+57,0,Blaesheim Ouest,51,12682,21,q:STATI_01
+57,0,Blaesheim Ouest,51,12682,22,q:ECOLE_01
+57,0,Blaesheim Ouest,51,12682,23,q:GLOEC_01
+57,0,Blaesheim Ouest,51,12682,24,q:BLOUE_02
+57,1,Baggersee,51,12682,1,q:BLOUE_02
+57,1,Baggersee,51,12682,2,q:GLOEC_01
+57,1,Baggersee,51,12682,3,q:ECOLE_01
+57,1,Baggersee,51,12682,4,q:STATI_01
+57,1,Baggersee,51,12682,5,q:GEOUE_01
+57,1,Baggersee,51,12682,6,q:GEMAI_01
+57,1,Baggersee,51,12682,7,q:COFON_01
+57,1,Baggersee,51,12682,8,q:SENEE_01
+57,1,Baggersee,51,12682,9,q:EHNNN_01
+57,1,Baggersee,51,12682,10,q:VIMOU_01
+57,1,Baggersee,51,12682,11,q:GEGAR_01
+57,1,Baggersee,51,12682,12,q:VERDU_01
+57,1,Baggersee,51,12682,13,q:CHOPI_01
+57,1,Baggersee,51,12682,14,q:GEZOI_01
+57,1,Baggersee,51,12682,15,q:GRGAR_03
+57,1,Baggersee,51,12682,16,q:LAVIG_01
+57,1,Baggersee,51,12682,17,q:LAACH_01
+57,1,Baggersee,51,12682,18,q:ILMAI_01
+57,1,Baggersee,51,12682,19,q:PAKLI_01
+57,1,Baggersee,51,12682,20,q:NIEDE_01
+57,1,Baggersee,51,12682,21,q:ALSAC_03
+57,1,Baggersee,51,12682,22,q:CETRA_01
+57,1,Baggersee,51,12682,23,q:COLON_01
+57,1,Baggersee,51,12682,24,q:BAGGE_01
+60,0,Mundolsheim Découvertes,100,8704,1,q:WACKE_01
+60,0,Mundolsheim Découvertes,100,8704,2,q:RIAAR_01
+60,0,Mundolsheim Découvertes,100,8704,3,q:CMCOO_01
+60,0,Mundolsheim Découvertes,100,8704,4,q:SQCHA_01
+60,0,Mundolsheim Découvertes,100,8704,5,q:SCHMA_01
+60,0,Mundolsheim Découvertes,100,8704,6,q:FRIKA_01
+60,0,Mundolsheim Découvertes,100,8704,7,q:LAUTE_01
+60,0,Mundolsheim Découvertes,100,8704,8,q:LAMAR_01
+60,0,Mundolsheim Découvertes,100,8704,9,q:ECRIV_01
+60,0,Mundolsheim Découvertes,100,8704,10,q:POINC_01
+60,0,Mundolsheim Découvertes,100,8704,11,q:MASEG_01
+60,0,Mundolsheim Découvertes,100,8704,12,q:GEBUR_01
+60,0,Mundolsheim Découvertes,100,8704,13,q:ESEUE_03
+60,0,Mundolsheim Découvertes,100,8704,14,q:TRIAG_01
+60,0,Mundolsheim Découvertes,100,8704,15,q:ZAMAR_03
+60,0,Mundolsheim Découvertes,100,8704,16,q:MUPAR_01
+60,0,Mundolsheim Découvertes,100,8704,17,q:BERLI_05
+60,0,Mundolsheim Découvertes,100,8704,18,q:SAULE_01
+60,0,Mundolsheim Découvertes,100,8704,19,q:MUMAI_01
+60,0,Mundolsheim Découvertes,100,8704,20,q:ANEMO_01
+60,0,Mundolsheim Découvertes,100,8704,21,q:ELECT_01
+60,0,Mundolsheim Découvertes,100,8704,22,q:MUDEC_01
+60,1,Wacken,100,8704,1,q:MUDEC_01
+60,1,Wacken,100,8704,2,q:ELECT_01
+60,1,Wacken,100,8704,3,q:ANEMO_01
+60,1,Wacken,100,8704,4,q:MUMAI_01
+60,1,Wacken,100,8704,5,q:SAULE_01
+60,1,Wacken,100,8704,6,q:BERLI_05
+60,1,Wacken,100,8704,7,q:MUPAR_01
+60,1,Wacken,100,8704,8,q:ZAMAR_03
+60,1,Wacken,100,8704,9,q:TRIAG_01
+60,1,Wacken,100,8704,10,q:ESEUE_03
+60,1,Wacken,100,8704,11,q:GEBUR_01
+60,1,Wacken,100,8704,12,q:MASEG_01
+60,1,Wacken,100,8704,13,q:POINC_01
+60,1,Wacken,100,8704,14,q:ECRIV_01
+60,1,Wacken,100,8704,15,q:LAMAR_01
+60,1,Wacken,100,8704,16,q:LAUTE_01
+60,1,Wacken,100,8704,17,q:FRIKA_01
+60,1,Wacken,100,8704,18,q:SCHMA_01
+60,1,Wacken,100,8704,19,q:SQCHA_01
+60,1,Wacken,100,8704,20,q:CMCOO_01
+60,1,Wacken,100,8704,21,q:RIAAR_01
+60,1,Wacken,100,8704,22,q:WACKE_01
+62,0,Lipsheim Centre,92,9660,1,q:GEGAR_07
+62,0,Lipsheim Centre,92,9660,2,q:URBAN_01
+62,0,Lipsheim Centre,92,9660,3,q:GECEN_03
+62,0,Lipsheim Centre,92,9660,4,q:FOLEF_01
+62,0,Lipsheim Centre,92,9660,5,q:RUFOR_03
+62,0,Lipsheim Centre,92,9660,6,q:GRGAR_03
+62,0,Lipsheim Centre,92,9660,7,q:LAVIG_01
+62,0,Lipsheim Centre,92,9660,8,q:LAACH_01
+62,0,Lipsheim Centre,92,9660,9,q:ILMAI_01
+62,0,Lipsheim Centre,92,9660,10,q:COILL_01
+62,0,Lipsheim Centre,92,9660,11,q:ILGRA_01
+62,0,Lipsheim Centre,92,9660,12,q:DIGUE_01
+62,0,Lipsheim Centre,92,9660,13,q:POPEA_01
+62,0,Lipsheim Centre,92,9660,14,q:ELISA_01
+62,0,Lipsheim Centre,92,9660,15,q:COLIL_02
+62,0,Lipsheim Centre,92,9660,16,q:RUETA_03
+62,0,Lipsheim Centre,92,9660,17,q:DELAT_01
+62,0,Lipsheim Centre,92,9660,18,q:FEMAI_03
+62,0,Lipsheim Centre,92,9660,19,q:LIGAR_06
+62,0,Lipsheim Centre,92,9660,20,q:LIEST_01
+62,0,Lipsheim Centre,92,9660,21,q:LICEN_01
+62,1,Geispolsheim Gare,96,9615,1,q:LICEN_01
+62,1,Geispolsheim Gare,96,9615,2,q:LIEST_01
+62,1,Geispolsheim Gare,96,9615,3,q:LIGAR_06
+62,1,Geispolsheim Gare,96,9615,4,q:FEMAI_03
+62,1,Geispolsheim Gare,96,9615,5,q:DELAT_01
+62,1,Geispolsheim Gare,96,9615,6,q:RUETA_03
+62,1,Geispolsheim Gare,96,9615,7,q:COLIL_02
+62,1,Geispolsheim Gare,96,9615,8,q:ELISA_02
+62,1,Geispolsheim Gare,96,9615,9,q:POPEA_01
+62,1,Geispolsheim Gare,96,9615,10,q:DIGUE_01
+62,1,Geispolsheim Gare,96,9615,11,q:ILGRA_01
+62,1,Geispolsheim Gare,96,9615,12,q:COILL_01
+62,1,Geispolsheim Gare,96,9615,13,q:ILMAI_01
+62,1,Geispolsheim Gare,96,9615,14,q:LAACH_01
+62,1,Geispolsheim Gare,96,9615,15,q:LAVIG_01
+62,1,Geispolsheim Gare,96,9615,16,q:GRGAR_03
+62,1,Geispolsheim Gare,96,9615,17,q:RUFOR_03
+62,1,Geispolsheim Gare,96,9615,18,q:FOLEF_01
+62,1,Geispolsheim Gare,96,9615,19,q:GECEN_03
+62,1,Geispolsheim Gare,96,9615,20,q:URBAN_01
+62,1,Geispolsheim Gare,96,9615,21,q:GEGAR_07
+63,0,Lipsheim Gare,73,9163,1,q:CAILL_03
+63,0,Lipsheim Gare,73,9163,2,q:POAPI_01
+63,0,Lipsheim Gare,73,9163,3,q:TOSTI_01
+63,0,Lipsheim Gare,73,9163,4,q:ILPAI_01
+63,0,Lipsheim Gare,73,9163,5,q:WALDH_01
+63,0,Lipsheim Gare,73,9163,6,q:SCHEI_01
+63,0,Lipsheim Gare,73,9163,7,q:FUMAR_01
+63,0,Lipsheim Gare,73,9163,8,q:HETZL_01
+63,0,Lipsheim Gare,73,9163,9,q:PULVE_01
+63,0,Lipsheim Gare,73,9163,10,q:GRUND_01
+63,0,Lipsheim Gare,73,9163,11,q:DNIED_01
+63,0,Lipsheim Gare,73,9163,12,q:HIESE_01
+63,0,Lipsheim Gare,73,9163,13,q:DEGAU_01
+63,0,Lipsheim Gare,73,9163,14,q:OHEGL_01
+63,0,Lipsheim Gare,73,9163,15,q:CRCHA_01
+63,0,Lipsheim Gare,73,9163,16,q:ALSCH_01
+63,0,Lipsheim Gare,73,9163,17,q:CESPO_01
+63,0,Lipsheim Gare,73,9163,18,q:FEMAI_03
+63,0,Lipsheim Gare,73,9163,19,q:LIGAR_06
+63,1,Campus Illkirch,80,9163,1,q:LIGAR_06
+63,1,Campus Illkirch,80,9163,2,q:FEMAI_03
+63,1,Campus Illkirch,80,9163,3,q:CESPO_01
+63,1,Campus Illkirch,80,9163,4,q:ALSCH_01
+63,1,Campus Illkirch,80,9163,5,q:CRCHA_01
+63,1,Campus Illkirch,80,9163,6,q:OHEGL_01
+63,1,Campus Illkirch,80,9163,7,q:DEGAU_01
+63,1,Campus Illkirch,80,9163,8,q:HIESE_01
+63,1,Campus Illkirch,80,9163,9,q:DNIED_01
+63,1,Campus Illkirch,80,9163,10,q:GRUND_01
+63,1,Campus Illkirch,80,9163,11,q:PULVE_01
+63,1,Campus Illkirch,80,9163,12,q:HETZL_01
+63,1,Campus Illkirch,80,9163,13,q:FUMAR_01
+63,1,Campus Illkirch,80,9163,14,q:SCHEI_01
+63,1,Campus Illkirch,80,9163,15,q:WALDH_01
+63,1,Campus Illkirch,80,9163,16,q:ILPAI_01
+63,1,Campus Illkirch,80,9163,17,q:TOSTI_01
+63,1,Campus Illkirch,80,9163,18,q:POAPI_01
+63,1,Campus Illkirch,80,9163,19,q:CAILL_03
+64,0,Campus d'Illkirch,82,9855,1,q:ALOUT_01
+64,0,Campus d'Illkirch,82,9855,2,q:COGAL_01
+64,0,Campus d'Illkirch,82,9855,3,q:KASTL_01
+64,0,Campus d'Illkirch,82,9855,4,q:FORLE_01
+64,0,Campus d'Illkirch,82,9855,5,q:IMPRI_01
+64,0,Campus d'Illkirch,82,9855,6,q:COMME_01
+64,0,Campus d'Illkirch,82,9855,7,q:GRGAR_03
+64,0,Campus d'Illkirch,82,9855,8,q:RUFOR_03
+64,0,Campus d'Illkirch,82,9855,9,q:FOLEF_01
+64,0,Campus d'Illkirch,82,9855,10,q:GECEN_03
+64,0,Campus d'Illkirch,82,9855,11,q:DEPAP_01
+64,0,Campus d'Illkirch,82,9855,12,q:LOAMP_01
+64,0,Campus d'Illkirch,82,9855,13,q:COCHA_01
+64,0,Campus d'Illkirch,82,9855,14,q:RUCHR_01
+64,0,Campus d'Illkirch,82,9855,15,q:FOUHR_01
+64,0,Campus d'Illkirch,82,9855,16,q:LECOR_01
+64,0,Campus d'Illkirch,82,9855,17,q:CAILL_03
+64,1,Lingolsheim Alouettes,82,9856,1,q:CAILL_03
+64,1,Lingolsheim Alouettes,82,9856,2,q:LECOR_01
+64,1,Lingolsheim Alouettes,82,9856,3,q:FOUHR_01
+64,1,Lingolsheim Alouettes,82,9856,4,q:RUCHR_01
+64,1,Lingolsheim Alouettes,82,9856,5,q:COCHA_01
+64,1,Lingolsheim Alouettes,82,9856,6,q:LOAMP_01
+64,1,Lingolsheim Alouettes,82,9856,7,q:DEPAP_01
+64,1,Lingolsheim Alouettes,82,9856,8,q:GECEN_03
+64,1,Lingolsheim Alouettes,82,9856,9,q:FOLEF_01
+64,1,Lingolsheim Alouettes,82,9856,10,q:RUFOR_03
+64,1,Lingolsheim Alouettes,82,9856,11,q:GRGAR_03
+64,1,Lingolsheim Alouettes,82,9856,12,q:COMME_01
+64,1,Lingolsheim Alouettes,82,9856,13,q:IMPRI_01
+64,1,Lingolsheim Alouettes,82,9856,14,q:FORLE_01
+64,1,Lingolsheim Alouettes,82,9856,15,q:GAREN_01
+64,1,Lingolsheim Alouettes,82,9856,16,q:KASTL_01
+64,1,Lingolsheim Alouettes,82,9856,17,q:COGAL_01
+64,1,Lingolsheim Alouettes,82,9856,18,q:ALOUT_01
+67,0,Plobsheim Est,71,11811,1,q:BAGGE_01
+67,0,Plobsheim Est,71,11811,2,q:COLON_01
+67,0,Plobsheim Est,71,11811,3,q:CETRA_01
+67,0,Plobsheim Est,71,11811,4,q:ALSAC_03
+67,0,Plobsheim Est,71,11811,5,q:NIEDE_01
+67,0,Plobsheim Est,71,11811,6,q:PAKLI_01
+67,0,Plobsheim Est,71,11811,7,q:ILMAI_01
+67,0,Plobsheim Est,71,11811,8,q:COILL_01
+67,0,Plobsheim Est,71,11811,9,q:ILGRA_01
+67,0,Plobsheim Est,71,11811,10,q:DIGUE_01
+67,0,Plobsheim Est,71,11811,11,q:FAPAI_01
+67,0,Plobsheim Est,71,11811,12,q:ACACI_01
+67,0,Plobsheim Est,71,11811,13,q:COCHA_01
+67,0,Plobsheim Est,71,11811,14,q:GRZOI_01
+67,0,Plobsheim Est,71,11811,15,q:BALLA_01
+67,0,Plobsheim Est,71,11811,16,q:CRAMM_01
+67,0,Plobsheim Est,71,11811,17,q:ERMIT_01
+67,0,Plobsheim Est,71,11811,18,q:ABBAT_01
+67,0,Plobsheim Est,71,11811,19,q:SCHAA_01
+67,0,Plobsheim Est,71,11811,20,q:ESMAI_01
+67,0,Plobsheim Est,71,11811,21,q:RATHS_01
+67,0,Plobsheim Est,71,11811,22,q:STOSK_01
+67,0,Plobsheim Est,71,11811,23,q:WICHA_01
+67,0,Plobsheim Est,71,11811,24,q:LOEBB_01
+67,0,Plobsheim Est,71,11811,25,q:PLOCA_01
+67,0,Plobsheim Est,71,11811,26,q:PLOEG_01
+67,0,Plobsheim Est,71,11811,27,q:PLOMA_01
+67,0,Plobsheim Est,71,11811,28,q:STPAU_01
+67,0,Plobsheim Est,71,11811,29,q:RHINN_01
+67,0,Plobsheim Est,71,11811,30,q:PLOST_01
+67,1,Baggersee,70,11895,1,q:PLOST_01
+67,1,Baggersee,70,11895,2,q:PERDR_03
+67,1,Baggersee,70,11895,3,q:ESPER_01
+67,1,Baggersee,70,11895,4,q:RHINN_01
+67,1,Baggersee,70,11895,5,q:STPAU_01
+67,1,Baggersee,70,11895,6,q:PLOMA_01
+67,1,Baggersee,70,11895,7,q:PLOEG_01
+67,1,Baggersee,70,11895,8,q:PLOCA_01
+67,1,Baggersee,70,11895,9,q:LOEBB_01
+67,1,Baggersee,70,11895,10,q:WICHA_01
+67,1,Baggersee,70,11895,11,q:STOSK_01
+67,1,Baggersee,70,11895,12,q:RATHS_01
+67,1,Baggersee,70,11895,13,q:ESMAI_01
+67,1,Baggersee,70,11895,14,q:SCHAA_01
+67,1,Baggersee,70,11895,15,q:ABBAT_01
+67,1,Baggersee,70,11895,16,q:ERMIT_01
+67,1,Baggersee,70,11895,17,q:CRAMM_01
+67,1,Baggersee,70,11895,18,q:BALLA_01
+67,1,Baggersee,70,11895,19,q:GRZOI_01
+67,1,Baggersee,70,11895,20,q:COCHA_01
+67,1,Baggersee,70,11895,21,q:ACACI_01
+67,1,Baggersee,70,11895,22,q:FAPAI_01
+67,1,Baggersee,70,11895,23,q:ILGRA_01
+67,1,Baggersee,70,11895,24,q:COILL_01
+67,1,Baggersee,70,11895,25,q:ILMAI_01
+67,1,Baggersee,70,11895,26,q:PAKLI_01
+67,1,Baggersee,70,11895,27,q:NIEDE_01
+67,1,Baggersee,70,11895,28,q:ALSAC_03
+67,1,Baggersee,70,11895,29,q:CETRA_01
+67,1,Baggersee,70,11895,30,q:COLON_01
+67,1,Baggersee,70,11895,31,q:BAGGE_01
+70,0,Robertsau Renaissance,86,14085,1,q:WOLSD_01
+70,0,Robertsau Renaissance,86,14085,2,q:MOULI_01
+70,0,Robertsau Renaissance,86,14085,3,q:WOLMA_01
+70,0,Robertsau Renaissance,86,14085,4,q:BOROU_01
+70,0,Robertsau Renaissance,86,14085,5,q:JARDI_01
+70,0,Robertsau Renaissance,86,14085,6,q:RTWOL_01
+70,0,Robertsau Renaissance,86,14085,7,q:JAVIG_01
+70,0,Robertsau Renaissance,86,14085,8,q:ECCEN_01
+70,0,Robertsau Renaissance,86,14085,9,q:JAROS_01
+70,0,Robertsau Renaissance,86,14085,10,q:OCTRO_03
+70,0,Robertsau Renaissance,86,14085,11,q:POTRO_01
+70,0,Robertsau Renaissance,86,14085,12,q:ECKEL_01
+70,0,Robertsau Renaissance,86,14085,13,q:JEMON_01
+70,0,Robertsau Renaissance,86,14085,14,q:BUGAT_01
+70,0,Robertsau Renaissance,86,14085,15,q:EDROS_01
+70,0,Robertsau Renaissance,86,14085,16,q:JACQU_01
+70,0,Robertsau Renaissance,86,14085,17,q:KARIN_03
+70,0,Robertsau Renaissance,86,14085,18,q:PASPO_01
+70,0,Robertsau Renaissance,86,14085,19,q:BANLI_01
+70,0,Robertsau Renaissance,86,14085,20,q:MAPAG_01
+70,0,Robertsau Renaissance,86,14085,21,q:ALEUR_01
+70,0,Robertsau Renaissance,86,14085,22,q:IUTPA_02
+70,0,Robertsau Renaissance,86,14085,23,q:LONDR_01
+70,0,Robertsau Renaissance,86,14085,24,q:VIENN_01
+70,0,Robertsau Renaissance,86,14085,25,q:CHMET_03
+70,0,Robertsau Renaissance,86,14085,26,q:GEBUR_01
+70,0,Robertsau Renaissance,86,14085,27,q:MASEG_01
+70,0,Robertsau Renaissance,86,14085,28,q:PRUNE_01
+70,0,Robertsau Renaissance,86,14085,29,q:FRLUM_01
+70,0,Robertsau Renaissance,86,14085,30,q:BIGAR_01
+70,0,Robertsau Renaissance,86,14085,31,q:VOLTA_01
+70,0,Robertsau Renaissance,86,14085,32,q:CHBLA_01
+70,0,Robertsau Renaissance,86,14085,33,q:MALTE_01
+70,0,Robertsau Renaissance,86,14085,34,q:MARGU_01
+70,0,Robertsau Renaissance,86,14085,35,q:MASCH_01
+70,0,Robertsau Renaissance,86,14085,36,q:POPHA_01
+70,0,Robertsau Renaissance,86,14085,37,q:CIILL_01
+70,0,Robertsau Renaissance,86,14085,38,q:HECEF_01
+70,0,Robertsau Renaissance,86,14085,39,q:PAPET_01
+70,0,Robertsau Renaissance,86,14085,40,q:JEHER_01
+70,0,Robertsau Renaissance,86,14085,41,q:ROESC_01
+70,0,Robertsau Renaissance,86,14085,42,q:COEHO_01
+70,0,Robertsau Renaissance,86,14085,43,q:GELEJ_01
+70,0,Robertsau Renaissance,86,14085,44,q:ROREN_02
+70,1,Wolfisheim Stade,83,14082,1,q:ROREN_02
+70,1,Wolfisheim Stade,83,14082,2,q:GELEJ_01
+70,1,Wolfisheim Stade,83,14082,3,q:COEHO_01
+70,1,Wolfisheim Stade,83,14082,4,q:ROESC_01
+70,1,Wolfisheim Stade,83,14082,5,q:JEHER_01
+70,1,Wolfisheim Stade,83,14082,6,q:PAPET_01
+70,1,Wolfisheim Stade,83,14082,7,q:HECEF_01
+70,1,Wolfisheim Stade,83,14082,8,q:CIILL_01
+70,1,Wolfisheim Stade,83,14082,9,q:POPHA_01
+70,1,Wolfisheim Stade,83,14082,10,q:MASCH_01
+70,1,Wolfisheim Stade,83,14082,11,q:MARGU_01
+70,1,Wolfisheim Stade,83,14082,12,q:MALTE_01
+70,1,Wolfisheim Stade,83,14082,13,q:CHBLA_01
+70,1,Wolfisheim Stade,83,14082,14,q:VOLTA_01
+70,1,Wolfisheim Stade,83,14082,15,q:BIGAR_01
+70,1,Wolfisheim Stade,83,14082,16,q:FRLUM_01
+70,1,Wolfisheim Stade,83,14082,17,q:PRUNE_01
+70,1,Wolfisheim Stade,83,14082,18,q:MASEG_01
+70,1,Wolfisheim Stade,83,14082,19,q:GEBUR_01
+70,1,Wolfisheim Stade,83,14082,20,q:CHMET_03
+70,1,Wolfisheim Stade,83,14082,21,q:VIENN_01
+70,1,Wolfisheim Stade,83,14082,22,q:LONDR_01
+70,1,Wolfisheim Stade,83,14082,23,q:IUTPA_01
+70,1,Wolfisheim Stade,83,14082,24,q:ALEUR_01
+70,1,Wolfisheim Stade,83,14082,25,q:MAPAG_01
+70,1,Wolfisheim Stade,83,14082,26,q:BANLI_01
+70,1,Wolfisheim Stade,83,14082,27,q:PASPO_01
+70,1,Wolfisheim Stade,83,14082,28,q:KARIN_03
+70,1,Wolfisheim Stade,83,14082,29,q:JACQU_01
+70,1,Wolfisheim Stade,83,14082,30,q:EDROS_01
+70,1,Wolfisheim Stade,83,14082,31,q:BUGAT_01
+70,1,Wolfisheim Stade,83,14082,32,q:JEMON_01
+70,1,Wolfisheim Stade,83,14082,33,q:ECKEL_01
+70,1,Wolfisheim Stade,83,14082,34,q:POTRO_01
+70,1,Wolfisheim Stade,83,14082,35,q:OCTRO_03
+70,1,Wolfisheim Stade,83,14082,36,q:JAROS_01
+70,1,Wolfisheim Stade,83,14082,37,q:ECCEN_01
+70,1,Wolfisheim Stade,83,14082,38,q:JAVIG_01
+70,1,Wolfisheim Stade,83,14082,39,q:RTWOL_01
+70,1,Wolfisheim Stade,83,14082,40,q:JARDI_01
+70,1,Wolfisheim Stade,83,14082,41,q:BOROU_01
+70,1,Wolfisheim Stade,83,14082,42,q:WOLMA_01
+70,1,Wolfisheim Stade,83,14082,43,q:MOULI_01
+70,1,Wolfisheim Stade,83,14082,44,q:WOLSD_01
+71,0,Eckwersheim Hippodrome,100,12754,1,q:LHMV_01
+71,0,Eckwersheim Hippodrome,100,12754,2,q:WISSE_01
+71,0,Eckwersheim Hippodrome,100,12754,3,q:BOENS_01
+71,0,Eckwersheim Hippodrome,100,12754,4,q:ZOCOM_01
+71,0,Eckwersheim Hippodrome,100,12754,5,q:ARANS_01
+71,0,Eckwersheim Hippodrome,100,12754,6,q:VEPER_01
+71,0,Eckwersheim Hippodrome,100,12754,7,q:POSNC_01
+71,0,Eckwersheim Hippodrome,100,12754,8,q:VEGAR_01
+71,0,Eckwersheim Hippodrome,100,12754,9,q:VEMAI_01
+71,0,Eckwersheim Hippodrome,100,12754,10,q:VETIL_01
+71,0,Eckwersheim Hippodrome,100,12754,11,q:TEMPL_01
+71,0,Eckwersheim Hippodrome,100,12754,12,q:HOHLL_01
+71,0,Eckwersheim Hippodrome,100,12754,13,q:CHEAU_01
+71,0,Eckwersheim Hippodrome,100,12754,14,q:CANAL_01
+71,0,Eckwersheim Hippodrome,100,12754,15,q:ECMAI_01
+71,0,Eckwersheim Hippodrome,100,12754,16,q:ECCIM_01
+71,0,Eckwersheim Hippodrome,100,12754,17,q:ECHIP_01
+71,1,Les Halles,85,13229,1,q:ECHIP_01
+71,1,Les Halles,85,13229,2,q:ECCIM_01
+71,1,Les Halles,85,13229,3,q:ECMAI_01
+71,1,Les Halles,85,13229,4,q:CANAL_01
+71,1,Les Halles,85,13229,5,q:CHEAU_01
+71,1,Les Halles,85,13229,6,q:HOHLL_01
+71,1,Les Halles,85,13229,7,q:TEMPL_01
+71,1,Les Halles,85,13229,8,q:VETIL_01
+71,1,Les Halles,85,13229,9,q:VEMAI_01
+71,1,Les Halles,85,13229,10,q:VEGAR_01
+71,1,Les Halles,85,13229,11,q:POSNC_01
+71,1,Les Halles,85,13229,12,q:VEPER_01
+71,1,Les Halles,85,13229,13,q:ARANS_01
+71,1,Les Halles,85,13229,14,q:ZOCOM_01
+71,1,Les Halles,85,13229,15,q:BOENS_01
+71,1,Les Halles,85,13229,16,q:PLPIE_01
+71,1,Les Halles,85,13229,17,q:LHPPA_11
+71,1,Les Halles,85,13229,18,q:LHMV_01
+72,0,La Wantzenau ZA,100,15006,1,q:REPUB_01
+72,0,La Wantzenau ZA,100,15006,2,q:LIBER_01
+72,0,La Wantzenau ZA,100,15006,3,q:BRUNI_01
+72,0,La Wantzenau ZA,100,15006,4,q:CLORA_01
+72,0,La Wantzenau ZA,100,15006,5,q:DORDO_01
+72,0,La Wantzenau ZA,100,15006,6,q:ORANG_01
+72,0,La Wantzenau ZA,100,15006,7,q:COEUR_01
+72,0,La Wantzenau ZA,100,15006,8,q:DRHOM_03
+72,0,La Wantzenau ZA,100,15006,9,q:BOECK_01
+72,0,La Wantzenau ZA,100,15006,10,q:SCHOT_01
+72,0,La Wantzenau ZA,100,15006,11,q:ROEGL_01
+72,0,La Wantzenau ZA,100,15006,12,q:BAILL_01
+72,0,La Wantzenau ZA,100,15006,13,q:CINOR_01
+72,0,La Wantzenau ZA,100,15006,14,q:PAPET_01
+72,0,La Wantzenau ZA,100,15006,15,q:CLSTA_01
+72,0,La Wantzenau ZA,100,15006,16,q:ROSTA_01
+72,0,La Wantzenau ZA,100,15006,17,q:BELZW_01
+72,0,La Wantzenau ZA,100,15006,18,q:BUSSI_01
+72,0,La Wantzenau ZA,100,15006,19,q:FUAMB_01
+72,0,La Wantzenau ZA,100,15006,20,q:UNJAE_01
+72,0,La Wantzenau ZA,100,15006,21,q:HONAU_01
+72,0,La Wantzenau ZA,100,15006,22,q:RUCHA_01
+72,0,La Wantzenau ZA,100,15006,23,q:ROCHE_01
+72,0,La Wantzenau ZA,100,15006,24,q:STYRI_01
+72,0,La Wantzenau ZA,100,15006,25,q:FAALE_01
+72,0,La Wantzenau ZA,100,15006,26,q:GELEC_01
+72,0,La Wantzenau ZA,100,15006,27,q:PATRO_01
+72,0,La Wantzenau ZA,100,15006,28,q:LWECO_01
+72,0,La Wantzenau ZA,100,15006,29,q:LWATI_01
+72,0,La Wantzenau ZA,100,15006,30,q:LWAEG_01
+72,0,La Wantzenau ZA,100,15006,31,q:LWGAR_03
+72,0,La Wantzenau ZA,100,15006,32,q:LWAGO_01
+72,0,La Wantzenau ZA,100,15006,33,q:GUTEN_02
+72,0,La Wantzenau ZA,100,15006,34,q:LWAZA_01
+72,1,République,92,14994,1,q:LWAZA_01
+72,1,République,92,14994,2,q:GUTEN_02
+72,1,République,92,14994,3,q:LWAGO_01
+72,1,République,92,14994,4,q:LWGAR_03
+72,1,République,92,14994,5,q:LWAEG_01
+72,1,République,92,14994,6,q:LWATI_01
+72,1,République,92,14994,7,q:LWECO_01
+72,1,République,92,14994,8,q:LWAMA_01
+72,1,République,92,14994,9,q:GELEC_01
+72,1,République,92,14994,10,q:FAALE_01
+72,1,République,92,14994,11,q:STYRI_01
+72,1,République,92,14994,12,q:ROCHE_01
+72,1,République,92,14994,13,q:RUCHA_01
+72,1,République,92,14994,14,q:HONAU_01
+72,1,République,92,14994,15,q:UNJAE_01
+72,1,République,92,14994,16,q:FUAMB_01
+72,1,République,92,14994,17,q:BUSSI_01
+72,1,République,92,14994,18,q:BELZW_01
+72,1,République,92,14994,19,q:ROSTA_01
+72,1,République,92,14994,20,q:CLSTA_01
+72,1,République,92,14994,21,q:PAPET_01
+72,1,République,92,14994,22,q:CINOR_01
+72,1,République,92,14994,23,q:BAILL_01
+72,1,République,92,14994,24,q:ROEGL_01
+72,1,République,92,14994,25,q:SCHOT_01
+72,1,République,92,14994,26,q:BOECK_01
+72,1,République,92,14994,27,q:DRHOM_03
+72,1,République,92,14994,28,q:COEUR_01
+72,1,République,92,14994,29,q:ORANG_01
+72,1,République,92,14994,30,q:DORDO_01
+72,1,République,92,14994,31,q:CLORA_01
+72,1,République,92,14994,32,q:BRUNI_01
+72,1,République,92,14994,33,q:LIBER_01
+72,1,République,92,14994,34,q:REPUB_01
+73,0,Lampertheim Alisiers,100,9832,1,q:LHMV_01
+73,0,Lampertheim Alisiers,100,9832,2,q:WISSE_01
+73,0,Lampertheim Alisiers,100,9832,3,q:ANEMO_01
+73,0,Lampertheim Alisiers,100,9832,4,q:MUMAI_01
+73,0,Lampertheim Alisiers,100,9832,5,q:SAULE_01
+73,0,Lampertheim Alisiers,100,9832,6,q:PETIT_01
+73,0,Lampertheim Alisiers,100,9832,7,q:COLLE_07
+73,0,Lampertheim Alisiers,100,9832,8,q:RUMUN_01
+73,0,Lampertheim Alisiers,100,9832,9,q:LAMRI_01
+73,0,Lampertheim Alisiers,100,9832,10,q:LORRA_01
+73,0,Lampertheim Alisiers,100,9832,11,q:LAALI_03
+73,1,Les Halles,85,10313,1,q:LAALI_03
+73,1,Les Halles,85,10313,2,q:LORRA_01
+73,1,Les Halles,85,10313,3,q:LAMRI_01
+73,1,Les Halles,85,10313,4,q:RUMUN_01
+73,1,Les Halles,85,10313,5,q:COLLE_07
+73,1,Les Halles,85,10313,6,q:PETIT_01
+73,1,Les Halles,85,10313,7,q:SAULE_01
+73,1,Les Halles,85,10313,8,q:MUMAI_01
+73,1,Les Halles,85,10313,9,q:ANEMO_01
+73,1,Les Halles,85,10313,10,q:PLPIE_01
+73,1,Les Halles,85,10313,11,q:LHPPA_11
+73,1,Les Halles,85,10313,12,q:LHMV_01
+74,0,Ecoparc Rhénan,41,5964,1,q:HOEGA_02
+74,0,Ecoparc Rhénan,41,5964,2,q:EMAIL_01
+74,0,Ecoparc Rhénan,41,5964,3,q:FOCHH_01
+74,0,Ecoparc Rhénan,41,5964,4,q:MOZAR_01
+74,0,Ecoparc Rhénan,41,5964,5,q:RADOR_01
+74,0,Ecoparc Rhénan,41,5964,6,q:ALOUE_01
+74,0,Ecoparc Rhénan,41,5964,7,q:HIRON_01
+74,0,Ecoparc Rhénan,41,5964,8,q:HAYYY_01
+74,0,Ecoparc Rhénan,41,5964,9,q:REVER_01
+74,0,Ecoparc Rhénan,41,5964,10,q:REPAR_01
+74,0,Ecoparc Rhénan,41,5964,11,q:BESIL_01
+74,0,Ecoparc Rhénan,41,5964,12,q:FRLAR_01
+74,0,Ecoparc Rhénan,41,5964,13,q:ECRHE_01
+74,1,Hoenheim Gare,41,5964,1,q:ECRHE_01
+74,1,Hoenheim Gare,41,5964,2,q:FRLAR_01
+74,1,Hoenheim Gare,41,5964,3,q:BESIL_01
+74,1,Hoenheim Gare,41,5964,4,q:REPAR_01
+74,1,Hoenheim Gare,41,5964,5,q:REVER_01
+74,1,Hoenheim Gare,41,5964,6,q:HAYYY_01
+74,1,Hoenheim Gare,41,5964,7,q:HIRON_01
+74,1,Hoenheim Gare,41,5964,8,q:ALOUE_01
+74,1,Hoenheim Gare,41,5964,9,q:RADOR_01
+74,1,Hoenheim Gare,41,5964,10,q:MOZAR_01
+74,1,Hoenheim Gare,41,5964,11,q:FOCHH_01
+74,1,Hoenheim Gare,41,5964,12,q:EMAIL_01
+74,1,Hoenheim Gare,41,5964,13,q:HOEGA_02
+75,0,Eckwersheim Hippodrome,39,15872,1,q:LHMV_01
+75,0,Eckwersheim Hippodrome,39,15872,2,q:WISSE_01
+75,0,Eckwersheim Hippodrome,39,15872,3,q:ESEUE_03
+75,0,Eckwersheim Hippodrome,39,15872,4,q:NORDD_01
+75,0,Eckwersheim Hippodrome,39,15872,5,q:RUHOE_01
+75,0,Eckwersheim Hippodrome,39,15872,6,q:NIMAI_01
+75,0,Eckwersheim Hippodrome,39,15872,7,q:NICEN_01
+75,0,Eckwersheim Hippodrome,39,15872,8,q:SPESB_01
+75,0,Eckwersheim Hippodrome,39,15872,9,q:MUPAR_01
+75,0,Eckwersheim Hippodrome,39,15872,10,q:BERLI_05
+75,0,Eckwersheim Hippodrome,39,15872,11,q:PETIT_01
+75,0,Eckwersheim Hippodrome,39,15872,12,q:COLLE_07
+75,0,Eckwersheim Hippodrome,39,15872,13,q:RUMUN_01
+75,0,Eckwersheim Hippodrome,39,15872,14,q:LAEGL_01
+75,0,Eckwersheim Hippodrome,39,15872,15,q:ZOCOM_01
+75,0,Eckwersheim Hippodrome,39,15872,16,q:ARANS_01
+75,0,Eckwersheim Hippodrome,39,15872,17,q:VEPER_01
+75,0,Eckwersheim Hippodrome,39,15872,18,q:POSNC_01
+75,0,Eckwersheim Hippodrome,39,15872,19,q:VEGAR_01
+75,0,Eckwersheim Hippodrome,39,15872,20,q:VEMAI_01
+75,0,Eckwersheim Hippodrome,39,15872,21,q:VETIL_01
+75,0,Eckwersheim Hippodrome,39,15872,22,q:TEMPL_01
+75,0,Eckwersheim Hippodrome,39,15872,23,q:HOHLL_01
+75,0,Eckwersheim Hippodrome,39,15872,24,q:CHEAU_01
+75,0,Eckwersheim Hippodrome,39,15872,25,q:CANAL_01
+75,0,Eckwersheim Hippodrome,39,15872,26,q:ECMAI_01
+75,0,Eckwersheim Hippodrome,39,15872,27,q:ECCIM_01
+75,0,Eckwersheim Hippodrome,39,15872,28,q:ECHIP_01
+75,1,Les Halles,34,13544,1,q:VEMAI_01
+75,1,Les Halles,34,13544,2,q:VEGAR_01
+75,1,Les Halles,34,13544,3,q:POSNC_01
+75,1,Les Halles,34,13544,4,q:VEPER_01
+75,1,Les Halles,34,13544,5,q:ARANS_01
+75,1,Les Halles,34,13544,6,q:ZOCOM_01
+75,1,Les Halles,34,13544,7,q:LAEGL_01
+75,1,Les Halles,34,13544,8,q:RUMUN_01
+75,1,Les Halles,34,13544,9,q:COLLE_07
+75,1,Les Halles,34,13544,10,q:PETIT_01
+75,1,Les Halles,34,13544,11,q:BERLI_05
+75,1,Les Halles,34,13544,12,q:MUPAR_01
+75,1,Les Halles,34,13544,13,q:SPESB_01
+75,1,Les Halles,34,13544,14,q:NICEN_01
+75,1,Les Halles,34,13544,15,q:NIMAI_01
+75,1,Les Halles,34,13544,16,q:RUHOE_01
+75,1,Les Halles,34,13544,17,q:NORDD_01
+75,1,Les Halles,34,13544,18,q:ESEUE_03
+75,1,Les Halles,34,13544,19,q:PLPIE_01
+75,1,Les Halles,34,13544,20,q:LHPPA_11
+75,1,Les Halles,34,13544,21,q:LHMV_01
+76,0,Reichstett Rue de Paris,85,9989,1,q:LHPPA_11
+76,0,Reichstett Rue de Paris,85,9989,2,q:WILSO_02
+76,0,Reichstett Rue de Paris,85,9989,3,q:WISSE_01
+76,0,Reichstett Rue de Paris,85,9989,4,q:GEBUR_01
+76,0,Reichstett Rue de Paris,85,9989,5,q:MASEG_01
+76,0,Reichstett Rue de Paris,85,9989,6,q:LERCH_01
+76,0,Reichstett Rue de Paris,85,9989,7,q:VIHUG_01
+76,0,Reichstett Rue de Paris,85,9989,8,q:LASOU_01
+76,0,Reichstett Rue de Paris,85,9989,9,q:GAERT_01
+76,0,Reichstett Rue de Paris,85,9989,10,q:FODES_01
+76,0,Reichstett Rue de Paris,85,9989,11,q:BOUVR_01
+76,0,Reichstett Rue de Paris,85,9989,12,q:SOCEN_01
+76,0,Reichstett Rue de Paris,85,9989,13,q:SOECO_01
+76,0,Reichstett Rue de Paris,85,9989,14,q:DAUPH_01
+76,0,Reichstett Rue de Paris,85,9989,15,q:SOCAN_02
+76,0,Reichstett Rue de Paris,85,9989,16,q:ALOUE_01
+76,0,Reichstett Rue de Paris,85,9989,17,q:HIRON_01
+76,0,Reichstett Rue de Paris,85,9989,18,q:HAYYY_01
+76,0,Reichstett Rue de Paris,85,9989,19,q:REVER_01
+76,0,Reichstett Rue de Paris,85,9989,20,q:REPAR_01
+76,1,Les Halles,85,10128,1,q:REPAR_01
+76,1,Les Halles,85,10128,2,q:REVER_01
+76,1,Les Halles,85,10128,3,q:HAYYY_01
+76,1,Les Halles,85,10128,4,q:HIRON_01
+76,1,Les Halles,85,10128,5,q:ALOUE_01
+76,1,Les Halles,85,10128,6,q:SOCAN_02
+76,1,Les Halles,85,10128,7,q:DAUPH_01
+76,1,Les Halles,85,10128,8,q:SOECO_01
+76,1,Les Halles,85,10128,9,q:SOCEN_01
+76,1,Les Halles,85,10128,10,q:BOUVR_01
+76,1,Les Halles,85,10128,11,q:FODES_01
+76,1,Les Halles,85,10128,12,q:GAERT_01
+76,1,Les Halles,85,10128,13,q:LASOU_01
+76,1,Les Halles,85,10128,14,q:VIHUG_01
+76,1,Les Halles,85,10128,15,q:LERCH_01
+76,1,Les Halles,85,10128,16,q:MASEG_01
+76,1,Les Halles,85,10128,17,q:GEBUR_01
+76,1,Les Halles,85,10128,18,q:WISSE_01
+76,1,Les Halles,85,10128,19,q:WILSO_02
+76,1,Les Halles,85,10128,20,q:FASAV_01
+76,1,Les Halles,85,10128,21,q:LHPPA_11
+C1,0,Robertsau Lamproie,66,12414,1,q:ALOUT_01
+C1,0,Robertsau Lamproie,66,12414,2,q:COGAL_01
+C1,0,Robertsau Lamproie,66,12414,3,q:KASTL_01
+C1,0,Robertsau Lamproie,66,12414,4,q:CIMET_01
+C1,0,Robertsau Lamproie,66,12414,5,q:RUJUI_01
+C1,0,Robertsau Lamproie,66,12414,6,q:LNMAI_01
+C1,0,Robertsau Lamproie,66,12414,7,q:LNCEN_01
+C1,0,Robertsau Lamproie,66,12414,8,q:CIRUS_01
+C1,0,Robertsau Lamproie,66,12414,9,q:PRESS_01
+C1,0,Robertsau Lamproie,66,12414,10,q:TANNE_03
+C1,0,Robertsau Lamproie,66,12414,11,q:MOLKE_01
+C1,0,Robertsau Lamproie,66,12414,12,q:PLOSW_01
+C1,0,Robertsau Lamproie,66,12414,13,q:GLIES_01
+C1,0,Robertsau Lamproie,66,12414,14,q:BRUCH_01
+C1,0,Robertsau Lamproie,66,12414,15,q:NICIG_01
+C1,0,Robertsau Lamproie,66,12414,16,q:CAMPI_01
+C1,0,Robertsau Lamproie,66,12414,17,q:MOVER_02
+C1,0,Robertsau Lamproie,66,12414,18,q:LASA_02
+C1,0,Robertsau Lamproie,66,12414,19,q:LYPAS_01
+C1,0,Robertsau Lamproie,66,12414,20,q:HOCIV_01
+C1,0,Robertsau Lamproie,66,12414,21,q:HOPOL_01
+C1,0,Robertsau Lamproie,66,12414,22,q:ETBOU_03
+C1,0,Robertsau Lamproie,66,12414,23,q:SESOC_03
+C1,0,Robertsau Lamproie,66,12414,24,q:CIADM_01
+C1,0,Robertsau Lamproie,66,12414,25,q:PALER_01
+C1,0,Robertsau Lamproie,66,12414,26,q:ROMEE_01
+C1,0,Robertsau Lamproie,66,12414,27,q:ESPLA_01
+C1,0,Robertsau Lamproie,66,12414,28,q:OBSER_05
+C1,0,Robertsau Lamproie,66,12414,29,q:MARNE_01
+C1,0,Robertsau Lamproie,66,12414,30,q:BRUXE_01
+C1,0,Robertsau Lamproie,66,12414,31,q:YPRES_01
+C1,0,Robertsau Lamproie,66,12414,32,q:COQUI_01
+C1,0,Robertsau Lamproie,66,12414,33,q:QUQUI_01
+C1,0,Robertsau Lamproie,66,12414,34,q:CAHAU_01
+C1,0,Robertsau Lamproie,66,12414,35,q:BREME_01
+C1,0,Robertsau Lamproie,66,12414,36,q:LAMPR_01
+C1,1,Lingolsheim Alouettes,66,12470,1,q:LAMPR_01
+C1,1,Lingolsheim Alouettes,66,12470,2,q:BREME_01
+C1,1,Lingolsheim Alouettes,66,12470,3,q:CAHAU_01
+C1,1,Lingolsheim Alouettes,66,12470,4,q:QUQUI_01
+C1,1,Lingolsheim Alouettes,66,12470,5,q:COQUI_01
+C1,1,Lingolsheim Alouettes,66,12470,6,q:YPRES_01
+C1,1,Lingolsheim Alouettes,66,12470,7,q:BRUXE_01
+C1,1,Lingolsheim Alouettes,66,12470,8,q:MARNE_01
+C1,1,Lingolsheim Alouettes,66,12470,9,q:OBSER_05
+C1,1,Lingolsheim Alouettes,66,12470,10,q:ESPLA_01
+C1,1,Lingolsheim Alouettes,66,12470,11,q:ROMEE_01
+C1,1,Lingolsheim Alouettes,66,12470,12,q:PALER_01
+C1,1,Lingolsheim Alouettes,66,12470,13,q:CIADM_01
+C1,1,Lingolsheim Alouettes,66,12470,14,q:SESOC_03
+C1,1,Lingolsheim Alouettes,66,12470,15,q:ETBOU_03
+C1,1,Lingolsheim Alouettes,66,12470,16,q:HOPOL_01
+C1,1,Lingolsheim Alouettes,66,12470,17,q:HOCIV_01
+C1,1,Lingolsheim Alouettes,66,12470,18,q:LYPAS_01
+C1,1,Lingolsheim Alouettes,66,12470,19,q:LAITE_01
+C1,1,Lingolsheim Alouettes,66,12470,20,q:MOVER_02
+C1,1,Lingolsheim Alouettes,66,12470,21,q:CAMPI_01
+C1,1,Lingolsheim Alouettes,66,12470,22,q:NICIG_01
+C1,1,Lingolsheim Alouettes,66,12470,23,q:BRUCH_01
+C1,1,Lingolsheim Alouettes,66,12470,24,q:GLIES_01
+C1,1,Lingolsheim Alouettes,66,12470,25,q:PLOSW_01
+C1,1,Lingolsheim Alouettes,66,12470,26,q:MOLKE_01
+C1,1,Lingolsheim Alouettes,66,12470,27,q:TANNE_03
+C1,1,Lingolsheim Alouettes,66,12470,28,q:PRESS_01
+C1,1,Lingolsheim Alouettes,66,12470,29,q:CIRUS_01
+C1,1,Lingolsheim Alouettes,66,12470,30,q:LNCEN_01
+C1,1,Lingolsheim Alouettes,66,12470,31,q:LNMAI_01
+C1,1,Lingolsheim Alouettes,66,12470,32,q:RUJUI_01
+C1,1,Lingolsheim Alouettes,66,12470,33,q:CIMET_01
+C1,1,Lingolsheim Alouettes,66,12470,34,q:KASTL_01
+C1,1,Lingolsheim Alouettes,66,12470,35,q:COGAL_01
+C1,1,Lingolsheim Alouettes,66,12470,36,q:ALOUT_01
+C3,0,Hoenheim Gare,100,5062,1,q:LHPPA_11
+C3,0,Hoenheim Gare,100,5062,2,q:FAPIE_02
+C3,0,Hoenheim Gare,100,5062,3,q:PLPIE_01
+C3,0,Hoenheim Gare,100,5062,4,q:STHEL_01
+C3,0,Hoenheim Gare,100,5062,5,q:BARRR_01
+C3,0,Hoenheim Gare,100,5062,6,q:SCHMA_01
+C3,0,Hoenheim Gare,100,5062,7,q:MAROU_01
+C3,0,Hoenheim Gare,100,5062,8,q:RUGAR_01
+C3,0,Hoenheim Gare,100,5062,9,q:CHBLA_01
+C3,0,Hoenheim Gare,100,5062,10,q:PAWOD_01
+C3,0,Hoenheim Gare,100,5062,11,q:HOMAI_01
+C3,0,Hoenheim Gare,100,5062,12,q:FONTA_03
+C3,0,Hoenheim Gare,100,5062,13,q:EMAIL_01
+C3,0,Hoenheim Gare,100,5062,14,q:HOEGA_02
+C3,1,Les Halles Pont de Paris,100,5027,1,q:HOEGA_02
+C3,1,Les Halles Pont de Paris,100,5027,2,q:EMAIL_01
+C3,1,Les Halles Pont de Paris,100,5027,3,q:FONTA_03
+C3,1,Les Halles Pont de Paris,100,5027,4,q:HOMAI_01
+C3,1,Les Halles Pont de Paris,100,5027,5,q:PAWOD_01
+C3,1,Les Halles Pont de Paris,100,5027,6,q:CHBLA_01
+C3,1,Les Halles Pont de Paris,100,5027,7,q:RUGAR_01
+C3,1,Les Halles Pont de Paris,100,5027,8,q:MAROU_01
+C3,1,Les Halles Pont de Paris,100,5027,9,q:SCHMA_01
+C3,1,Les Halles Pont de Paris,100,5027,10,q:BARRR_01
+C3,1,Les Halles Pont de Paris,100,5027,11,q:STHEL_01
+C3,1,Les Halles Pont de Paris,100,5027,12,q:TRAVA_01
+C3,1,Les Halles Pont de Paris,100,5027,13,q:SQHAL_01
+C3,1,Les Halles Pont de Paris,100,5027,14,q:LHPPA_11
+C4,0,Schiltigheim Campus,100,12557,1,q:FOUHR_01
+C4,0,Schiltigheim Campus,100,12557,2,q:ORMES_01
+C4,0,Schiltigheim Campus,100,12557,3,q:ROSEA_01
+C4,0,Schiltigheim Campus,100,12557,4,q:VIGNS_01
+C4,0,Schiltigheim Campus,100,12557,5,q:CHATE_01
+C4,0,Schiltigheim Campus,100,12557,6,q:PAMAL_01
+C4,0,Schiltigheim Campus,100,12557,7,q:ROHME_03
+C4,0,Schiltigheim Campus,100,12557,8,q:ILMAI_01
+C4,0,Schiltigheim Campus,100,12557,9,q:23NOV_01
+C4,0,Schiltigheim Campus,100,12557,10,q:PIGEO_01
+C4,0,Schiltigheim Campus,100,12557,11,q:BALEE_01
+C4,0,Schiltigheim Campus,100,12557,12,q:OSBEL_01
+C4,0,Schiltigheim Campus,100,12557,13,q:OSMAI_01
+C4,0,Schiltigheim Campus,100,12557,14,q:VERMA_05
+C4,0,Schiltigheim Campus,100,12557,15,q:OSHVI_01
+C4,0,Schiltigheim Campus,100,12557,16,q:WIHRE_01
+C4,0,Schiltigheim Campus,100,12557,17,q:MURHO_01
+C4,0,Schiltigheim Campus,100,12557,18,q:ELMER_01
+C4,0,Schiltigheim Campus,100,12557,19,q:PLOSW_01
+C4,0,Schiltigheim Campus,100,12557,20,q:GLIES_01
+C4,0,Schiltigheim Campus,100,12557,21,q:BRUCH_01
+C4,0,Schiltigheim Campus,100,12557,22,q:CREPS_01
+C4,0,Schiltigheim Campus,100,12557,23,q:SCHNK_01
+C4,0,Schiltigheim Campus,100,12557,24,q:COMTE_01
+C4,0,Schiltigheim Campus,100,12557,25,q:GEROL_01
+C4,0,Schiltigheim Campus,100,12557,26,q:HERRA_01
+C4,0,Schiltigheim Campus,100,12557,27,q:DUALS_01
+C4,0,Schiltigheim Campus,100,12557,28,q:MAZEL_05
+C4,0,Schiltigheim Campus,100,12557,29,q:STUTZ_03
+C4,0,Schiltigheim Campus,100,12557,30,q:BERST_01
+C4,0,Schiltigheim Campus,100,12557,31,q:CHMAN_01
+C4,0,Schiltigheim Campus,100,12557,32,q:ALEUR_01
+C4,0,Schiltigheim Campus,100,12557,33,q:IUTPA_02
+C4,0,Schiltigheim Campus,100,12557,34,q:ATHEN_01
+C4,0,Schiltigheim Campus,100,12557,35,q:MADRI_01
+C4,0,Schiltigheim Campus,100,12557,36,q:SCCAM_01
+C4,1,Illkirch Fort Uhrich,100,12549,1,q:SCCAM_01
+C4,1,Illkirch Fort Uhrich,100,12549,2,q:MADRI_01
+C4,1,Illkirch Fort Uhrich,100,12549,3,q:ATHEN_01
+C4,1,Illkirch Fort Uhrich,100,12549,4,q:IUTPA_01
+C4,1,Illkirch Fort Uhrich,100,12549,5,q:ALEUR_01
+C4,1,Illkirch Fort Uhrich,100,12549,6,q:CHMAN_01
+C4,1,Illkirch Fort Uhrich,100,12549,7,q:BERST_01
+C4,1,Illkirch Fort Uhrich,100,12549,8,q:STUTZ_03
+C4,1,Illkirch Fort Uhrich,100,12549,9,q:MAZEL_05
+C4,1,Illkirch Fort Uhrich,100,12549,10,q:DUALS_01
+C4,1,Illkirch Fort Uhrich,100,12549,11,q:HERRA_01
+C4,1,Illkirch Fort Uhrich,100,12549,12,q:GEROL_01
+C4,1,Illkirch Fort Uhrich,100,12549,13,q:COMTE_01
+C4,1,Illkirch Fort Uhrich,100,12549,14,q:SCHNK_01
+C4,1,Illkirch Fort Uhrich,100,12549,15,q:CREPS_01
+C4,1,Illkirch Fort Uhrich,100,12549,16,q:BRUCH_01
+C4,1,Illkirch Fort Uhrich,100,12549,17,q:GLIES_01
+C4,1,Illkirch Fort Uhrich,100,12549,18,q:PLOSW_01
+C4,1,Illkirch Fort Uhrich,100,12549,19,q:ELMER_01
+C4,1,Illkirch Fort Uhrich,100,12549,20,q:MURHO_01
+C4,1,Illkirch Fort Uhrich,100,12549,21,q:WIHRE_01
+C4,1,Illkirch Fort Uhrich,100,12549,22,q:OSHVI_01
+C4,1,Illkirch Fort Uhrich,100,12549,23,q:VERMA_05
+C4,1,Illkirch Fort Uhrich,100,12549,24,q:OSMAI_01
+C4,1,Illkirch Fort Uhrich,100,12549,25,q:OSBEL_01
+C4,1,Illkirch Fort Uhrich,100,12549,26,q:BALEE_01
+C4,1,Illkirch Fort Uhrich,100,12549,27,q:PIGEO_01
+C4,1,Illkirch Fort Uhrich,100,12549,28,q:23NOV_01
+C4,1,Illkirch Fort Uhrich,100,12549,29,q:ILMAI_01
+C4,1,Illkirch Fort Uhrich,100,12549,30,q:ROHME_03
+C4,1,Illkirch Fort Uhrich,100,12549,31,q:PAMAL_01
+C4,1,Illkirch Fort Uhrich,100,12549,32,q:CHATE_01
+C4,1,Illkirch Fort Uhrich,100,12549,33,q:VIGNS_01
+C4,1,Illkirch Fort Uhrich,100,12549,34,q:ROSEA_01
+C4,1,Illkirch Fort Uhrich,100,12549,35,q:ORMES_01
+C4,1,Illkirch Fort Uhrich,100,12549,36,q:FOUHR_01
+C5,0,Schiltigheim Le Marais,100,8594,1,q:KOESU_01
+C5,0,Schiltigheim Le Marais,100,8594,2,q:CEJUL_01
+C5,0,Schiltigheim Le Marais,100,8594,3,q:HOHBE_01
+C5,0,Schiltigheim Le Marais,100,8594,4,q:FORGE_03
+C5,0,Schiltigheim Le Marais,100,8594,5,q:JANET_01
+C5,0,Schiltigheim Le Marais,100,8594,6,q:DANTE_01
+C5,0,Schiltigheim Le Marais,100,8594,7,q:SHAKE_01
+C5,0,Schiltigheim Le Marais,100,8594,8,q:STANT_01
+C5,0,Schiltigheim Le Marais,100,8594,9,q:BERST_01
+C5,0,Schiltigheim Le Marais,100,8594,10,q:CHMAN_01
+C5,0,Schiltigheim Le Marais,100,8594,11,q:HALDE_01
+C5,0,Schiltigheim Le Marais,100,8594,12,q:CRARA_03
+C5,0,Schiltigheim Le Marais,100,8594,13,q:COPEN_01
+C5,0,Schiltigheim Le Marais,100,8594,14,q:STJUN_01
+C5,0,Schiltigheim Le Marais,100,8594,15,q:PAIXX_01
+C5,0,Schiltigheim Le Marais,100,8594,16,q:COLEC_01
+C5,0,Schiltigheim Le Marais,100,8594,17,q:ECRIV_01
+C5,0,Schiltigheim Le Marais,100,8594,18,q:LAMAR_01
+C5,0,Schiltigheim Le Marais,100,8594,19,q:LAUTE_01
+C5,0,Schiltigheim Le Marais,100,8594,20,q:FRIKA_01
+C5,0,Schiltigheim Le Marais,100,8594,21,q:MAROU_01
+C5,0,Schiltigheim Le Marais,100,8594,22,q:BITCH_03
+C5,0,Schiltigheim Le Marais,100,8594,23,q:ZORNN_01
+C5,0,Schiltigheim Le Marais,100,8594,24,q:LEMAR_01
+C5,0,Schiltigheim Le Marais,100,8594,25,q:SCHLE_01
+C5,1,Koenigshoffen Sud,100,8610,1,q:SCHLE_01
+C5,1,Koenigshoffen Sud,100,8610,2,q:LEMAR_01
+C5,1,Koenigshoffen Sud,100,8610,3,q:ZORNN_01
+C5,1,Koenigshoffen Sud,100,8610,4,q:BITCH_03
+C5,1,Koenigshoffen Sud,100,8610,5,q:MAROU_01
+C5,1,Koenigshoffen Sud,100,8610,6,q:FRIKA_01
+C5,1,Koenigshoffen Sud,100,8610,7,q:LAUTE_01
+C5,1,Koenigshoffen Sud,100,8610,8,q:LAMAR_01
+C5,1,Koenigshoffen Sud,100,8610,9,q:ECRIV_01
+C5,1,Koenigshoffen Sud,100,8610,10,q:COLEC_01
+C5,1,Koenigshoffen Sud,100,8610,11,q:PAIXX_01
+C5,1,Koenigshoffen Sud,100,8610,12,q:STJUN_01
+C5,1,Koenigshoffen Sud,100,8610,13,q:COPEN_01
+C5,1,Koenigshoffen Sud,100,8610,14,q:CRARA_03
+C5,1,Koenigshoffen Sud,100,8610,15,q:HALDE_01
+C5,1,Koenigshoffen Sud,100,8610,16,q:CHMAN_01
+C5,1,Koenigshoffen Sud,100,8610,17,q:BERST_01
+C5,1,Koenigshoffen Sud,100,8610,18,q:STANT_01
+C5,1,Koenigshoffen Sud,100,8610,19,q:SHAKE_01
+C5,1,Koenigshoffen Sud,100,8610,20,q:DANTE_01
+C5,1,Koenigshoffen Sud,100,8610,21,q:JANET_01
+C5,1,Koenigshoffen Sud,100,8610,22,q:FORGE_03
+C5,1,Koenigshoffen Sud,100,8610,23,q:HOHBE_01
+C5,1,Koenigshoffen Sud,100,8610,24,q:CEJUL_01
+C5,1,Koenigshoffen Sud,100,8610,25,q:MENTE_02
+C5,1,Koenigshoffen Sud,100,8610,26,q:KOESU_01
+C6,0,Les Halles Pont de Paris,100,5809,1,q:POPHA_01
+C6,0,Les Halles Pont de Paris,100,5809,2,q:CIILL_01
+C6,0,Les Halles Pont de Paris,100,5809,3,q:HECEF_01
+C6,0,Les Halles Pont de Paris,100,5809,4,q:PAPET_01
+C6,0,Les Halles Pont de Paris,100,5809,5,q:CINOR_01
+C6,0,Les Halles Pont de Paris,100,5809,6,q:BAILL_01
+C6,0,Les Halles Pont de Paris,100,5809,7,q:ROEGL_01
+C6,0,Les Halles Pont de Paris,100,5809,8,q:SCHOT_01
+C6,0,Les Halles Pont de Paris,100,5809,9,q:BOECK_01
+C6,0,Les Halles Pont de Paris,100,5809,10,q:DRHOM_03
+C6,0,Les Halles Pont de Paris,100,5809,11,q:COEUR_01
+C6,0,Les Halles Pont de Paris,100,5809,12,q:ORANG_01
+C6,0,Les Halles Pont de Paris,100,5809,13,q:DORDO_01
+C6,0,Les Halles Pont de Paris,100,5809,14,q:CLORA_01
+C6,0,Les Halles Pont de Paris,100,5809,15,q:BRUNI_01
+C6,0,Les Halles Pont de Paris,100,5809,16,q:LIBER_01
+C6,0,Les Halles Pont de Paris,100,5809,17,q:REPUB_01
+C6,0,Les Halles Pont de Paris,100,5809,18,q:TRFON_02
+C6,0,Les Halles Pont de Paris,100,5809,19,q:LHPPA_11
+C6,1,Pont Phario,100,5809,1,q:LHPPA_11
+C6,1,Pont Phario,100,5809,2,q:TRFON_02
+C6,1,Pont Phario,100,5809,3,q:REPUB_01
+C6,1,Pont Phario,100,5809,4,q:LIBER_01
+C6,1,Pont Phario,100,5809,5,q:BRUNI_01
+C6,1,Pont Phario,100,5809,6,q:CLORA_01
+C6,1,Pont Phario,100,5809,7,q:DORDO_01
+C6,1,Pont Phario,100,5809,8,q:ORANG_01
+C6,1,Pont Phario,100,5809,9,q:COEUR_01
+C6,1,Pont Phario,100,5809,10,q:DRHOM_03
+C6,1,Pont Phario,100,5809,11,q:BOECK_01
+C6,1,Pont Phario,100,5809,12,q:SCHOT_01
+C6,1,Pont Phario,100,5809,13,q:ROEGL_01
+C6,1,Pont Phario,100,5809,14,q:BAILL_01
+C6,1,Pont Phario,100,5809,15,q:CINOR_01
+C6,1,Pont Phario,100,5809,16,q:PAPET_01
+C6,1,Pont Phario,100,5809,17,q:HECEF_01
+C6,1,Pont Phario,100,5809,18,q:CIILL_01
+C6,1,Pont Phario,100,5809,19,q:POPHA_01
+C7,0,Baggersee,40,8288,1,q:POAUT_01
+C7,0,Baggersee,40,8288,2,q:ROYAN_01
+C7,0,Baggersee,40,8288,3,q:ROCHF_01
+C7,0,Baggersee,40,8288,4,q:EUROF_06
+C7,0,Baggersee,40,8288,5,q:STNAZ_01
+C7,0,Baggersee,40,8288,6,q:CHERB_01
+C7,0,Baggersee,40,8288,7,q:LAROC_01
+C7,0,Baggersee,40,8288,8,q:BOULO_01
+C7,0,Baggersee,40,8288,9,q:LORIE_01
+C7,0,Baggersee,40,8288,10,q:COREU_02
+C7,0,Baggersee,40,8288,11,q:NELAU_01
+C7,0,Baggersee,40,8288,12,q:KLEBS_01
+C7,0,Baggersee,40,8288,13,q:INGOL_01
+C7,0,Baggersee,40,8288,14,q:KIEFE_01
+C7,0,Baggersee,40,8288,15,q:ROREU_01
+C7,0,Baggersee,40,8288,16,q:ABEPE_01
+C7,0,Baggersee,40,8288,17,q:PROVE_05
+C7,0,Baggersee,40,8288,18,q:CIMEI_03
+C7,0,Baggersee,40,8288,19,q:SCHUL_03
+C7,0,Baggersee,40,8288,20,q:ILDFR_03
+C7,0,Baggersee,40,8288,21,q:BOURG_01
+C7,0,Baggersee,40,8288,22,q:HOHWA_01
+C7,0,Baggersee,40,8288,23,q:BAGGE_01
+C7,1,Port Autonome Sud,40,8288,1,q:BAGGE_01
+C7,1,Port Autonome Sud,40,8288,2,q:HOHWA_01
+C7,1,Port Autonome Sud,40,8288,3,q:BOURG_01
+C7,1,Port Autonome Sud,40,8288,4,q:ILDFR_03
+C7,1,Port Autonome Sud,40,8288,5,q:SCHUL_03
+C7,1,Port Autonome Sud,40,8288,6,q:CIMEI_03
+C7,1,Port Autonome Sud,40,8288,7,q:PROVE_05
+C7,1,Port Autonome Sud,40,8288,8,q:ABEPE_01
+C7,1,Port Autonome Sud,40,8288,9,q:ROREU_01
+C7,1,Port Autonome Sud,40,8288,10,q:KIEFE_01
+C7,1,Port Autonome Sud,40,8288,11,q:INGOL_01
+C7,1,Port Autonome Sud,40,8288,12,q:KLEBS_01
+C7,1,Port Autonome Sud,40,8288,13,q:NELAU_01
+C7,1,Port Autonome Sud,40,8288,14,q:COREU_02
+C7,1,Port Autonome Sud,40,8288,15,q:LORIE_01
+C7,1,Port Autonome Sud,40,8288,16,q:BOULO_01
+C7,1,Port Autonome Sud,40,8288,17,q:LAROC_01
+C7,1,Port Autonome Sud,40,8288,18,q:CHERB_01
+C7,1,Port Autonome Sud,40,8288,19,q:STNAZ_01
+C7,1,Port Autonome Sud,40,8288,20,q:EUROF_06
+C7,1,Port Autonome Sud,40,8288,21,q:ROCHF_01
+C7,1,Port Autonome Sud,40,8288,22,q:ROYAN_01
+C7,1,Port Autonome Sud,40,8288,23,q:POAUT_01
+C8,0,Neuhof Stockfeld,93,6208,1,q:POSAN_01
+C8,0,Neuhof Stockfeld,93,6208,2,q:PTHOP_01
+C8,0,Neuhof Stockfeld,93,6208,3,q:ETBOU_03
+C8,0,Neuhof Stockfeld,93,6208,4,q:ETPOL_01
+C8,0,Neuhof Stockfeld,93,6208,5,q:MULHO_01
+C8,0,Neuhof Stockfeld,93,6208,6,q:NEDMA_01
+C8,0,Neuhof Stockfeld,93,6208,7,q:LAZAR_01
+C8,0,Neuhof Stockfeld,93,6208,8,q:GRAVI_01
+C8,0,Neuhof Stockfeld,93,6208,9,q:POLYG_01
+C8,0,Neuhof Stockfeld,93,6208,10,q:KIBIT_01
+C8,0,Neuhof Stockfeld,93,6208,11,q:STCHR_01
+C8,0,Neuhof Stockfeld,93,6208,12,q:CLAIR_01
+C8,0,Neuhof Stockfeld,93,6208,13,q:ROREU_01
+C8,0,Neuhof Stockfeld,93,6208,14,q:RIEHL_01
+C8,0,Neuhof Stockfeld,93,6208,15,q:DALIS_01
+C8,0,Neuhof Stockfeld,93,6208,16,q:NEHEG_01
+C8,0,Neuhof Stockfeld,93,6208,17,q:WELSC_01
+C8,0,Neuhof Stockfeld,93,6208,18,q:COLOM_01
+C8,0,Neuhof Stockfeld,93,6208,19,q:NESTO_01
+C8,1,Pont Saint-Nicolas,97,6335,1,q:NESTO_01
+C8,1,Pont Saint-Nicolas,97,6335,2,q:COBOI_01
+C8,1,Pont Saint-Nicolas,97,6335,3,q:GOLDS_01
+C8,1,Pont Saint-Nicolas,97,6335,4,q:NEHEG_01
+C8,1,Pont Saint-Nicolas,97,6335,5,q:DALIS_01
+C8,1,Pont Saint-Nicolas,97,6335,6,q:RIEHL_01
+C8,1,Pont Saint-Nicolas,97,6335,7,q:ROREU_01
+C8,1,Pont Saint-Nicolas,97,6335,8,q:CLAIR_01
+C8,1,Pont Saint-Nicolas,97,6335,9,q:STCHR_01
+C8,1,Pont Saint-Nicolas,97,6335,10,q:KIBIT_01
+C8,1,Pont Saint-Nicolas,97,6335,11,q:POLYG_01
+C8,1,Pont Saint-Nicolas,97,6335,12,q:GRAVI_01
+C8,1,Pont Saint-Nicolas,97,6335,13,q:LAZAR_01
+C8,1,Pont Saint-Nicolas,97,6335,14,q:NEDMA_01
+C8,1,Pont Saint-Nicolas,97,6335,15,q:MULHO_01
+C8,1,Pont Saint-Nicolas,97,6335,16,q:ETPOL_01
+C8,1,Pont Saint-Nicolas,97,6335,17,q:ETBOU_03
+C8,1,Pont Saint-Nicolas,97,6335,18,q:PTHOP_01
+C8,1,Pont Saint-Nicolas,97,6335,19,q:POSAN_01
+C9,0,Hoenheim Gare,54,9047,1,q:LHPPA_11
+C9,0,Hoenheim Gare,54,9047,2,q:WILSO_02
+C9,0,Hoenheim Gare,54,9047,3,q:WISSE_01
+C9,0,Hoenheim Gare,54,9047,4,q:STHEL_01
+C9,0,Hoenheim Gare,54,9047,5,q:EMBRA_01
+C9,0,Hoenheim Gare,54,9047,6,q:MOSER_01
+C9,0,Hoenheim Gare,54,9047,7,q:TREPI_01
+C9,0,Hoenheim Gare,54,9047,8,q:ECRIV_01
+C9,0,Hoenheim Gare,54,9047,9,q:POINC_01
+C9,0,Hoenheim Gare,54,9047,10,q:MASEG_01
+C9,0,Hoenheim Gare,54,9047,11,q:LERCH_01
+C9,0,Hoenheim Gare,54,9047,12,q:VIHUG_01
+C9,0,Hoenheim Gare,54,9047,13,q:LASOU_01
+C9,0,Hoenheim Gare,54,9047,14,q:GAERT_01
+C9,0,Hoenheim Gare,54,9047,15,q:FODES_01
+C9,0,Hoenheim Gare,54,9047,16,q:BOUVR_01
+C9,0,Hoenheim Gare,54,9047,17,q:SOCEN_01
+C9,0,Hoenheim Gare,54,9047,18,q:SOECO_01
+C9,0,Hoenheim Gare,54,9047,19,q:DAUPH_01
+C9,0,Hoenheim Gare,54,9047,20,q:SOCAN_02
+C9,0,Hoenheim Gare,54,9047,21,q:RADOR_01
+C9,0,Hoenheim Gare,54,9047,22,q:MOZAR_01
+C9,0,Hoenheim Gare,54,9047,23,q:FOCHH_01
+C9,0,Hoenheim Gare,54,9047,24,q:EMAIL_01
+C9,0,Hoenheim Gare,54,9047,25,q:HOEGA_02
+C9,1,Les Halles Pont de Paris,55,9186,1,q:HOEGA_02
+C9,1,Les Halles Pont de Paris,55,9186,2,q:EMAIL_01
+C9,1,Les Halles Pont de Paris,55,9186,3,q:FOCHH_01
+C9,1,Les Halles Pont de Paris,55,9186,4,q:MOZAR_01
+C9,1,Les Halles Pont de Paris,55,9186,5,q:RADOR_01
+C9,1,Les Halles Pont de Paris,55,9186,6,q:SOCAN_02
+C9,1,Les Halles Pont de Paris,55,9186,7,q:DAUPH_01
+C9,1,Les Halles Pont de Paris,55,9186,8,q:SOECO_01
+C9,1,Les Halles Pont de Paris,55,9186,9,q:SOCEN_01
+C9,1,Les Halles Pont de Paris,55,9186,10,q:BOUVR_01
+C9,1,Les Halles Pont de Paris,55,9186,11,q:FODES_01
+C9,1,Les Halles Pont de Paris,55,9186,12,q:GAERT_01
+C9,1,Les Halles Pont de Paris,55,9186,13,q:LASOU_01
+C9,1,Les Halles Pont de Paris,55,9186,14,q:VIHUG_01
+C9,1,Les Halles Pont de Paris,55,9186,15,q:LERCH_01
+C9,1,Les Halles Pont de Paris,55,9186,16,q:MASEG_01
+C9,1,Les Halles Pont de Paris,55,9186,17,q:POINC_01
+C9,1,Les Halles Pont de Paris,55,9186,18,q:ECRIV_01
+C9,1,Les Halles Pont de Paris,55,9186,19,q:TREPI_01
+C9,1,Les Halles Pont de Paris,55,9186,20,q:MOSER_01
+C9,1,Les Halles Pont de Paris,55,9186,21,q:EMBRA_01
+C9,1,Les Halles Pont de Paris,55,9186,22,q:STHEL_01
+C9,1,Les Halles Pont de Paris,55,9186,23,q:WISSE_01
+C9,1,Les Halles Pont de Paris,55,9186,24,q:WILSO_02
+C9,1,Les Halles Pont de Paris,55,9186,25,q:FASAV_01
+C9,1,Les Halles Pont de Paris,55,9186,26,q:LHPPA_11
+G,0,Espace Européen de l'Entreprise,83,10017,1,q:ROTTE_01
+G,0,Espace Européen de l'Entreprise,83,10017,2,q:STVAU_01
+G,0,Espace Européen de l'Entreprise,83,10017,3,q:PACIT_01
+G,0,Espace Européen de l'Entreprise,83,10017,4,q:DANUB_01
+G,0,Espace Européen de l'Entreprise,83,10017,5,q:WICHU_01
+G,0,Espace Européen de l'Entreprise,83,10017,6,q:PRMAL_01
+G,0,Espace Européen de l'Entreprise,83,10017,7,q:ETBOU_03
+G,0,Espace Européen de l'Entreprise,83,10017,8,q:HOPOL_01
+G,0,Espace Européen de l'Entreprise,83,10017,9,q:HOCIV_01
+G,0,Espace Européen de l'Entreprise,83,10017,10,q:LYPAS_01
+G,0,Espace Européen de l'Entreprise,83,10017,11,q:LAITE_01
+G,0,Espace Européen de l'Entreprise,83,10017,12,q:PTBLA_01
+G,0,Espace Européen de l'Entreprise,83,10017,13,q:GACEN_01
+G,0,Espace Européen de l'Entreprise,83,10017,14,q:WILSO_02
+G,0,Espace Européen de l'Entreprise,83,10017,15,q:GAMAR_01
+G,0,Espace Européen de l'Entreprise,83,10017,16,q:HOCHF_01
+G,0,Espace Européen de l'Entreprise,83,10017,17,q:RIETH_03
+G,0,Espace Européen de l'Entreprise,83,10017,18,q:LAVOI_01
+G,0,Espace Européen de l'Entreprise,83,10017,19,q:CRARA_03
+G,0,Espace Européen de l'Entreprise,83,10017,20,q:COPEN_01
+G,0,Espace Européen de l'Entreprise,83,10017,21,q:LONDR_01
+G,0,Espace Européen de l'Entreprise,83,10017,22,q:VIENN_01
+G,0,Espace Européen de l'Entreprise,83,10017,23,q:CHMET_03
+G,0,Espace Européen de l'Entreprise,83,10017,24,q:ESEUE_03
+G,1,Rotterdam,87,10017,1,q:ESEUE_03
+G,1,Rotterdam,87,10017,2,q:CHMET_03
+G,1,Rotterdam,87,10017,3,q:VIENN_01
+G,1,Rotterdam,87,10017,4,q:LONDR_01
+G,1,Rotterdam,87,10017,5,q:COPEN_01
+G,1,Rotterdam,87,10017,6,q:CRARA_03
+G,1,Rotterdam,87,10017,7,q:LAVOI_01
+G,1,Rotterdam,87,10017,8,q:RIETH_03
+G,1,Rotterdam,87,10017,9,q:HOCHF_01
+G,1,Rotterdam,87,10017,10,q:GAMAR_01
+G,1,Rotterdam,87,10017,11,q:WILSO_02
+G,1,Rotterdam,87,10017,12,q:GACEN_01
+G,1,Rotterdam,87,10017,13,q:PTBLA_01
+G,1,Rotterdam,87,10017,14,q:LAITE_01
+G,1,Rotterdam,87,10017,15,q:LYPAS_01
+G,1,Rotterdam,87,10017,16,q:HOCIV_01
+G,1,Rotterdam,87,10017,17,q:HOPOL_01
+G,1,Rotterdam,87,10017,18,q:ETBOU_03
+G,1,Rotterdam,87,10017,19,q:PRMAL_01
+G,1,Rotterdam,87,10017,20,q:WICHU_01
+G,1,Rotterdam,87,10017,21,q:DANUB_01
+G,1,Rotterdam,87,10017,22,q:PACIT_01
+G,1,Rotterdam,87,10017,23,q:STVAU_01
+G,1,Rotterdam,87,10017,24,q:ROTTE_01
+H,0,Parlement Européen,100,2946,1,q:GACEN_24
+H,0,Parlement Européen,100,2946,2,q:WILSO_02
+H,0,Parlement Européen,100,2946,3,q:TRAVA_01
+H,0,Parlement Européen,100,2946,4,q:PLPIE_01
+H,0,Parlement Européen,100,2946,5,q:PHALS_01
+H,0,Parlement Européen,100,2946,6,q:CLEME_01
+H,0,Parlement Européen,100,2946,7,q:LYKLE_01
+H,0,Parlement Européen,100,2946,8,q:PACNG_01
+H,0,Parlement Européen,100,2946,9,q:WACKE_01
+H,0,Parlement Européen,100,2946,10,q:PARLE_01
+H,1,Gare Centrale,100,3005,1,q:PARLE_01
+H,1,Gare Centrale,100,3005,2,q:WACKE_01
+H,1,Gare Centrale,100,3005,3,q:PACNG_01
+H,1,Gare Centrale,100,3005,4,q:LYKLE_01
+H,1,Gare Centrale,100,3005,5,q:CLEME_01
+H,1,Gare Centrale,100,3005,6,q:PHALS_01
+H,1,Gare Centrale,100,3005,7,q:PLPIE_01
+H,1,Gare Centrale,100,3005,8,q:TRAVA_01
+H,1,Gare Centrale,100,3005,9,q:WILSO_02
+H,1,Gare Centrale,100,3005,10,q:GACEN_01
+N1,0,Pont Phario,100,6748,1,q:POSAN_01
+N1,0,Pont Phario,100,6748,2,q:PTHOP_01
+N1,0,Pont Phario,100,6748,3,q:AULIZ_01
+N1,0,Pont Phario,100,6748,4,q:ZURIC_01
+N1,0,Pont Phario,100,6748,5,q:STGUI_01
+N1,0,Pont Phario,100,6748,6,q:UNIVE_01
+N1,0,Pont Phario,100,6748,7,q:OBSER_05
+N1,0,Pont Phario,100,6748,8,q:MARNE_01
+N1,0,Pont Phario,100,6748,9,q:STMAU_01
+N1,0,Pont Phario,100,6748,10,q:TAULE_01
+N1,0,Pont Phario,100,6748,11,q:ORANG_01
+N1,0,Pont Phario,100,6748,12,q:COEUR_01
+N1,0,Pont Phario,100,6748,13,q:DRHOM_03
+N1,0,Pont Phario,100,6748,14,q:BOECK_01
+N1,0,Pont Phario,100,6748,15,q:CIUNI_01
+N1,0,Pont Phario,100,6748,16,q:FOLOU_01
+N1,0,Pont Phario,100,6748,17,q:CINOR_01
+N1,0,Pont Phario,100,6748,18,q:PAPET_01
+N1,0,Pont Phario,100,6748,19,q:HECEF_01
+N1,0,Pont Phario,100,6748,20,q:CIILL_01
+N1,0,Pont Phario,100,6748,21,q:POPHA_01
+N1,1,Pont St-Nicolas,100,6748,1,q:POPHA_01
+N1,1,Pont St-Nicolas,100,6748,2,q:CIILL_01
+N1,1,Pont St-Nicolas,100,6748,3,q:HECEF_01
+N1,1,Pont St-Nicolas,100,6748,4,q:PAPET_01
+N1,1,Pont St-Nicolas,100,6748,5,q:CINOR_01
+N1,1,Pont St-Nicolas,100,6748,6,q:FOLOU_01
+N1,1,Pont St-Nicolas,100,6748,7,q:CIUNI_01
+N1,1,Pont St-Nicolas,100,6748,8,q:BOECK_01
+N1,1,Pont St-Nicolas,100,6748,9,q:DRHOM_03
+N1,1,Pont St-Nicolas,100,6748,10,q:COEUR_01
+N1,1,Pont St-Nicolas,100,6748,11,q:ORANG_01
+N1,1,Pont St-Nicolas,100,6748,12,q:TAULE_01
+N1,1,Pont St-Nicolas,100,6748,13,q:STMAU_01
+N1,1,Pont St-Nicolas,100,6748,14,q:MARNE_01
+N1,1,Pont St-Nicolas,100,6748,15,q:OBSER_05
+N1,1,Pont St-Nicolas,100,6748,16,q:UNIVE_01
+N1,1,Pont St-Nicolas,100,6748,17,q:STGUI_01
+N1,1,Pont St-Nicolas,100,6748,18,q:ZURIC_01
+N1,1,Pont St-Nicolas,100,6748,19,q:AULIZ_01
+N1,1,Pont St-Nicolas,100,6748,20,q:PTHOP_01
+N1,1,Pont St-Nicolas,100,6748,21,q:POSAN_01
+N2,0,Campus d'Illkirch,100,13762,1,q:HOEGA_02
+N2,0,Campus d'Illkirch,100,13762,2,q:EMAIL_01
+N2,0,Campus d'Illkirch,100,13762,3,q:FONTA_03
+N2,0,Campus d'Illkirch,100,13762,4,q:HOMAI_01
+N2,0,Campus d'Illkirch,100,13762,5,q:PAWOD_01
+N2,0,Campus d'Illkirch,100,13762,6,q:CHBLA_01
+N2,0,Campus d'Illkirch,100,13762,7,q:RUGAR_01
+N2,0,Campus d'Illkirch,100,13762,8,q:MAROU_01
+N2,0,Campus d'Illkirch,100,13762,9,q:SCHMA_01
+N2,0,Campus d'Illkirch,100,13762,10,q:BARRR_01
+N2,0,Campus d'Illkirch,100,13762,11,q:STHEL_01
+N2,0,Campus d'Illkirch,100,13762,12,q:PLPIE_01
+N2,0,Campus d'Illkirch,100,13762,13,q:TRAVA_01
+N2,0,Campus d'Illkirch,100,13762,14,q:WILSO_02
+N2,0,Campus d'Illkirch,100,13762,15,q:GACEN_01
+N2,0,Campus d'Illkirch,100,13762,16,q:OBLYO_01
+N2,0,Campus d'Illkirch,100,13762,17,q:MAARM_01
+N2,0,Campus d'Illkirch,100,13762,18,q:HOAPF_01
+N2,0,Campus d'Illkirch,100,13762,19,q:STTHO_01
+N2,0,Campus d'Illkirch,100,13762,20,q:POSAN_01
+N2,0,Campus d'Illkirch,100,13762,21,q:PTHOP_01
+N2,0,Campus d'Illkirch,100,13762,22,q:ETBOU_03
+N2,0,Campus d'Illkirch,100,13762,23,q:ETPOL_01
+N2,0,Campus d'Illkirch,100,13762,24,q:MULHO_01
+N2,0,Campus d'Illkirch,100,13762,25,q:NEDMA_01
+N2,0,Campus d'Illkirch,100,13762,26,q:KRIMM_07
+N2,0,Campus d'Illkirch,100,13762,27,q:LYCOU_01
+N2,0,Campus d'Illkirch,100,13762,28,q:EMMAT_03
+N2,0,Campus d'Illkirch,100,13762,29,q:HOHWA_01
+N2,0,Campus d'Illkirch,100,13762,30,q:BAGGE_01
+N2,0,Campus d'Illkirch,100,13762,31,q:COLON_01
+N2,0,Campus d'Illkirch,100,13762,32,q:LECLE_03
+N2,0,Campus d'Illkirch,100,13762,33,q:CAILL_03
+N2,1,Hoenheim Gare,100,13762,1,q:CAILL_03
+N2,1,Hoenheim Gare,100,13762,2,q:LECLE_03
+N2,1,Hoenheim Gare,100,13762,3,q:COLON_01
+N2,1,Hoenheim Gare,100,13762,4,q:BAGGE_01
+N2,1,Hoenheim Gare,100,13762,5,q:HOHWA_01
+N2,1,Hoenheim Gare,100,13762,6,q:EMMAT_03
+N2,1,Hoenheim Gare,100,13762,7,q:LYCOU_01
+N2,1,Hoenheim Gare,100,13762,8,q:KRIMM_07
+N2,1,Hoenheim Gare,100,13762,9,q:NEDMA_01
+N2,1,Hoenheim Gare,100,13762,10,q:MULHO_01
+N2,1,Hoenheim Gare,100,13762,11,q:ETPOL_01
+N2,1,Hoenheim Gare,100,13762,12,q:ETBOU_03
+N2,1,Hoenheim Gare,100,13762,13,q:PTHOP_01
+N2,1,Hoenheim Gare,100,13762,14,q:POSAN_01
+N2,1,Hoenheim Gare,100,13762,15,q:STTHO_01
+N2,1,Hoenheim Gare,100,13762,16,q:HOAPF_01
+N2,1,Hoenheim Gare,100,13762,17,q:MAARM_01
+N2,1,Hoenheim Gare,100,13762,18,q:OBLYO_01
+N2,1,Hoenheim Gare,100,13762,19,q:GACEN_01
+N2,1,Hoenheim Gare,100,13762,20,q:WILSO_02
+N2,1,Hoenheim Gare,100,13762,21,q:TRAVA_01
+N2,1,Hoenheim Gare,100,13762,22,q:PLPIE_01
+N2,1,Hoenheim Gare,100,13762,23,q:STHEL_01
+N2,1,Hoenheim Gare,100,13762,24,q:BARRR_01
+N2,1,Hoenheim Gare,100,13762,25,q:SCHMA_01
+N2,1,Hoenheim Gare,100,13762,26,q:MAROU_01
+N2,1,Hoenheim Gare,100,13762,27,q:RUGAR_01
+N2,1,Hoenheim Gare,100,13762,28,q:CHBLA_01
+N2,1,Hoenheim Gare,100,13762,29,q:PAWOD_01
+N2,1,Hoenheim Gare,100,13762,30,q:HOMAI_01
+N2,1,Hoenheim Gare,100,13762,31,q:FONTA_03
+N2,1,Hoenheim Gare,100,13762,32,q:EMAIL_01
+N2,1,Hoenheim Gare,100,13762,33,q:HOEGA_02
+N3,0,Kehl Bahnhof,100,14150,1,q:MAZEL_05
+N3,0,Kehl Bahnhof,100,14150,2,q:BRASS_01
+N3,0,Kehl Bahnhof,100,14150,3,q:ETDOR_01
+N3,0,Kehl Bahnhof,100,14150,4,q:SHAKE_01
+N3,0,Kehl Bahnhof,100,14150,5,q:DANTE_01
+N3,0,Kehl Bahnhof,100,14150,6,q:PAELU_02
+N3,0,Kehl Bahnhof,100,14150,7,q:MARUD_01
+N3,0,Kehl Bahnhof,100,14150,8,q:LYMAR_01
+N3,0,Kehl Bahnhof,100,14150,9,q:POTER_01
+N3,0,Kehl Bahnhof,100,14150,10,q:POTRO_01
+N3,0,Kehl Bahnhof,100,14150,11,q:OCTRO_03
+N3,0,Kehl Bahnhof,100,14150,12,q:GRUBE_03
+N3,0,Kehl Bahnhof,100,14150,13,q:SCHNK_01
+N3,0,Kehl Bahnhof,100,14150,14,q:CREPS_01
+N3,0,Kehl Bahnhof,100,14150,15,q:NICIG_01
+N3,0,Kehl Bahnhof,100,14150,16,q:CAMPI_01
+N3,0,Kehl Bahnhof,100,14150,17,q:MOVER_02
+N3,0,Kehl Bahnhof,100,14150,18,q:LASA_02
+N3,0,Kehl Bahnhof,100,14150,19,q:MAARM_01
+N3,0,Kehl Bahnhof,100,14150,20,q:HOAPF_01
+N3,0,Kehl Bahnhof,100,14150,21,q:STTHO_01
+N3,0,Kehl Bahnhof,100,14150,22,q:POSAN_01
+N3,0,Kehl Bahnhof,100,14150,23,q:PTHOP_01
+N3,0,Kehl Bahnhof,100,14150,24,q:SESOC_03
+N3,0,Kehl Bahnhof,100,14150,25,q:CIADM_01
+N3,0,Kehl Bahnhof,100,14150,26,q:PALER_01
+N3,0,Kehl Bahnhof,100,14150,27,q:ROMEE_01
+N3,0,Kehl Bahnhof,100,14150,28,q:WICHU_01
+N3,0,Kehl Bahnhof,100,14150,29,q:LANDB_01
+N3,0,Kehl Bahnhof,100,14150,30,q:JAURE_01
+N3,0,Kehl Bahnhof,100,14150,31,q:ARBRI_03
+N3,0,Kehl Bahnhof,100,14150,32,q:CITAD_01
+N3,0,Kehl Bahnhof,100,14150,33,q:STARC_03
+N3,0,Kehl Bahnhof,100,14150,34,q:PRRHI_03
+N3,0,Kehl Bahnhof,100,14150,35,q:KEBAH_03
+N3,1,Matthieu Zell,100,14370,1,q:KEBAH_03
+N3,1,Matthieu Zell,100,14370,2,q:PRRHI_03
+N3,1,Matthieu Zell,100,14370,3,q:STARC_03
+N3,1,Matthieu Zell,100,14370,4,q:CITAD_01
+N3,1,Matthieu Zell,100,14370,5,q:ARBRI_03
+N3,1,Matthieu Zell,100,14370,6,q:JAURE_01
+N3,1,Matthieu Zell,100,14370,7,q:LANDB_01
+N3,1,Matthieu Zell,100,14370,8,q:WICHU_01
+N3,1,Matthieu Zell,100,14370,9,q:ROMEE_01
+N3,1,Matthieu Zell,100,14370,10,q:PALER_01
+N3,1,Matthieu Zell,100,14370,11,q:CIADM_01
+N3,1,Matthieu Zell,100,14370,12,q:SESOC_03
+N3,1,Matthieu Zell,100,14370,13,q:PTHOP_01
+N3,1,Matthieu Zell,100,14370,14,q:POSAN_01
+N3,1,Matthieu Zell,100,14370,15,q:STTHO_01
+N3,1,Matthieu Zell,100,14370,16,q:HOAPF_01
+N3,1,Matthieu Zell,100,14370,17,q:MAARM_01
+N3,1,Matthieu Zell,100,14370,18,q:LAITE_01
+N3,1,Matthieu Zell,100,14370,19,q:MOVER_02
+N3,1,Matthieu Zell,100,14370,20,q:CAMPI_01
+N3,1,Matthieu Zell,100,14370,21,q:NICIG_01
+N3,1,Matthieu Zell,100,14370,22,q:CREPS_01
+N3,1,Matthieu Zell,100,14370,23,q:SCHNK_01
+N3,1,Matthieu Zell,100,14370,24,q:COMTE_01
+N3,1,Matthieu Zell,100,14370,25,q:GRUBE_03
+N3,1,Matthieu Zell,100,14370,26,q:OCTRO_03
+N3,1,Matthieu Zell,100,14370,27,q:POTRO_01
+N3,1,Matthieu Zell,100,14370,28,q:LYMAR_01
+N3,1,Matthieu Zell,100,14370,29,q:MARUD_01
+N3,1,Matthieu Zell,100,14370,30,q:DANTE_01
+N3,1,Matthieu Zell,100,14370,31,q:SHAKE_01
+N3,1,Matthieu Zell,100,14370,32,q:STANT_01
+N3,1,Matthieu Zell,100,14370,33,q:STUTZ_03
+N3,1,Matthieu Zell,100,14370,34,q:MAZEL_05
