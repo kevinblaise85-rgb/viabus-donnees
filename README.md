@@ -26,5 +26,6 @@ Chaque dossier porte la licence de sa source (détails dans son `LISEZMOI.md`) :
 - **Licence Ouverte / Open Licence (Etalab)** — https://www.etalab.gouv.fr/licence-ouverte-open-licence/
 - **ODbL 1.0 (Open Database License)** — https://opendatacommons.org/licenses/odbl/1-0/ (Rennes, Toulouse, Montpellier, Grenoble)
 - **Licence Mobilités** (Île-de-France Mobilités) — Paris
+- **Fond de carte** (`fond_de_carte.geojson` de chaque ville : cours d'eau, plans d'eau, parcs, monuments) : tiré d'**OpenStreetMap**, © contributeurs OpenStreetMap, **ODbL 1.0** — https://www.openstreetmap.org/copyright — et proposé sous la même licence
 
 Les fichiers sont regénérés à chaque mise à jour des horaires officiels.
